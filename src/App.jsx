@@ -8,9 +8,9 @@ import Dashboard from "./components/Dashboard.jsx";
 import FilterPanel from "./components/FilterPanel.jsx";
 
 const TABS = [
-  { key: "learn", label: "Lernen" },
-  { key: "test", label: "Testen" },
-  { key: "dashboard", label: "Fortschritt" },
+  { key: "learn", label: "Lernen", icon: "📖" },
+  { key: "test", label: "Testen", icon: "🔀" },
+  { key: "dashboard", label: "Fortschritt", icon: "📊" },
 ];
 
 export default function App() {
@@ -78,6 +78,7 @@ export default function App() {
       <nav className="app-tabs">
         {TABS.map((t) => (
           <button key={t.key} className={tab === t.key ? "tab active" : "tab"} onClick={() => setTab(t.key)}>
+            <span className="tab-icon">{t.icon}</span>
             {t.label}
           </button>
         ))}
