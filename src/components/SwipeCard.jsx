@@ -1,19 +1,67 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef } from "react";
 import WordCard from "./WordCard.jsx";
 
 const COMMIT_THRESHOLD = 110; // px
 const TAP_THRESHOLD = 8; // px of movement below which a release counts as a tap
 
+// Drag tracking deliberately avoids putting per-pointermove deltas into
+// React state -- on a card stack, that would re-render the whole
+// component (and its WordCard subtree, with its conjugation-table
+// computation) on every mouse-move event, which is the classic source of
+// janky/battery-draining drag interactions. Instead we mutate the DOM
+// directly (transform + label opacity) via refs, batched through
+// requestAnimationFrame so at most one paint-affecting update happens per
+// frame regardless of how many pointermove events fire. React state is
+// only touched for discrete transitions: committing a decision (flyOff)
+// and snapping back after a released short drag.
 export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
-  const [drag, setDrag] = useState({ dx: 0, dy: 0, active: false });
-  const [flyOff, setFlyOff] = useState(null); // 'right' | 'left' | null
+  const cardRef = useRef(null);
+  const leftLabelRef = useRef(null);
+  const rightLabelRef = useRef(null);
+  const dragRef = useRef({ dx: 0, dy: 0 });
   const startRef = useRef(null);
   const movedRef = useRef(false);
+  const rafRef = useRef(null);
+
+  function paint() {
+    rafRef.current = null;
+    const { dx, dy } = dragRef.current;
+    const rotation = Math.max(-18, Math.min(18, dx / 12));
+    if (cardRef.current) {
+      cardRef.current.style.transform = `translateX(${dx}px) translateY(${dy * 0.2}px) rotate(${rotation}deg)`;
+      const tint =
+        Math.abs(dx) < 10
+          ? "none"
+          : dx > 0
+          ? `inset 0 0 0 999px rgba(21,128,61, ${Math.min(0.35, dx / 400)})`
+          : `inset 0 0 0 999px rgba(190,18,60, ${Math.min(0.35, -dx / 400)})`;
+      cardRef.current.style.boxShadow = tint === "none" ? "" : tint;
+    }
+    if (leftLabelRef.current) {
+      leftLabelRef.current.style.opacity = dx < -20 ? Math.min(1, -dx / COMMIT_THRESHOLD) : 0;
+    }
+    if (rightLabelRef.current) {
+      rightLabelRef.current.style.opacity = dx > 20 ? Math.min(1, dx / COMMIT_THRESHOLD) : 0;
+    }
+  }
+
+  function schedulePaint() {
+    if (rafRef.current == null) rafRef.current = requestAnimationFrame(paint);
+  }
+
+  useEffect(() => () => {
+    if (rafRef.current != null) cancelAnimationFrame(rafRef.current);
+  }, []);
+
+  function setTransition(on) {
+    if (cardRef.current) cardRef.current.style.transition = on ? "transform 220ms ease" : "none";
+  }
 
   function onPointerDown(e) {
     startRef.current = { x: e.clientX, y: e.clientY };
     movedRef.current = false;
-    setDrag({ dx: 0, dy: 0, active: true });
+    dragRef.current = { dx: 0, dy: 0 };
+    setTransition(false);
     e.currentTarget.setPointerCapture?.(e.pointerId);
   }
 
@@ -22,69 +70,57 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
     const dx = e.clientX - startRef.current.x;
     const dy = e.clientY - startRef.current.y;
     if (Math.abs(dx) > TAP_THRESHOLD || Math.abs(dy) > TAP_THRESHOLD) movedRef.current = true;
-    setDrag({ dx, dy, active: true });
+    dragRef.current = { dx, dy };
+    schedulePaint();
+  }
+
+  function resetPosition() {
+    setTransition(true);
+    dragRef.current = { dx: 0, dy: 0 };
+    paint();
   }
 
   function onPointerUp() {
     if (!startRef.current) return;
-    const { dx } = drag;
+    const { dx } = dragRef.current;
     startRef.current = null;
 
     if (!movedRef.current) {
-      // treat as a tap: flip the card
-      setDrag({ dx: 0, dy: 0, active: false });
+      resetPosition();
       onFlip();
       return;
     }
 
     if (Math.abs(dx) >= COMMIT_THRESHOLD) {
-      const direction = dx > 0 ? "right" : "left";
-      setFlyOff(direction);
-      setTimeout(() => {
-        onDecide(direction === "right");
-        setFlyOff(null);
-        setDrag({ dx: 0, dy: 0, active: false });
-      }, 220);
+      commit(dx > 0 ? "right" : "left");
     } else {
-      setDrag({ dx: 0, dy: 0, active: false }); // snap back
+      resetPosition();
     }
   }
 
-  function decideByButton(known) {
-    setFlyOff(known ? "right" : "left");
+  function commit(direction) {
+    setTransition(true);
+    dragRef.current = { dx: direction === "right" ? 600 : -600, dy: 0 };
+    paint();
     setTimeout(() => {
-      onDecide(known);
-      setFlyOff(null);
-      setDrag({ dx: 0, dy: 0, active: false });
+      onDecide(direction === "right");
+      dragRef.current = { dx: 0, dy: 0 };
+      setTransition(false);
+      paint();
     }, 220);
   }
 
-  const dx = flyOff ? (flyOff === "right" ? 600 : -600) : drag.dx;
-  const rotation = Math.max(-18, Math.min(18, dx / 12));
-  const tint =
-    Math.abs(dx) < 10
-      ? "none"
-      : dx > 0
-      ? `rgba(21,128,61, ${Math.min(0.35, dx / 400)})`
-      : `rgba(190,18,60, ${Math.min(0.35, -dx / 400)})`;
-
-  const style = {
-    transform: `translateX(${dx}px) translateY(${flyOff ? 0 : drag.dy * 0.2}px) rotate(${rotation}deg)`,
-    transition: drag.active ? "none" : "transform 220ms ease",
-    boxShadow: tint !== "none" ? `inset 0 0 0 999px ${tint}` : undefined,
-  };
-
   return (
     <div className="swipe-stage">
-      <div className="swipe-label left" style={{ opacity: dx < -20 ? Math.min(1, -dx / COMMIT_THRESHOLD) : 0 }}>
+      <div ref={leftLabelRef} className="swipe-label left" style={{ opacity: 0 }}>
         ✗ Nicht sicher
       </div>
-      <div className="swipe-label right" style={{ opacity: dx > 20 ? Math.min(1, dx / COMMIT_THRESHOLD) : 0 }}>
+      <div ref={rightLabelRef} className="swipe-label right" style={{ opacity: 0 }}>
         ✓ Weiß ich
       </div>
       <div
+        ref={cardRef}
         className="swipe-card-wrap"
-        style={style}
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}
         onPointerUp={onPointerUp}
@@ -93,10 +129,10 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
         <WordCard entry={entry} flipped={flipped} onFlip={() => {}} />
       </div>
       <div className="test-buttons">
-        <button className="btn-wrong" onClick={() => decideByButton(false)} aria-label="Weiß ich nicht">
+        <button className="btn-wrong" onClick={() => commit("left")} aria-label="Weiß ich nicht">
           ✗ Weiß ich nicht
         </button>
-        <button className="btn-right" onClick={() => decideByButton(true)} aria-label="Weiß ich">
+        <button className="btn-right" onClick={() => commit("right")} aria-label="Weiß ich">
           ✓ Weiß ich
         </button>
       </div>

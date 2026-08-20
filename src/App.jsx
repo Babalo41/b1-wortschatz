@@ -20,6 +20,7 @@ export default function App() {
   const [progressByCard, setProgressByCard] = useState(new Map());
   const [dueIds, setDueIds] = useState(new Set());
   const [refreshKey, setRefreshKey] = useState(0);
+  const [progressLoaded, setProgressLoaded] = useState(false);
 
   async function reloadProgress() {
     const all = await getAllProgress();
@@ -28,6 +29,7 @@ export default function App() {
     const due = await getDueCardIds(allIds);
     setDueIds(new Set(due));
     setRefreshKey((k) => k + 1);
+    setProgressLoaded(true);
   }
 
   useEffect(() => {
@@ -60,11 +62,17 @@ export default function App() {
       <FilterPanel filters={filters} setFilters={setFilters} open={filtersOpen} onClose={() => setFiltersOpen(false)} />
 
       <main className="app-main">
-        {tab === "learn" && <LearnMode words={filteredWords} />}
-        {tab === "test" && (
-          <TestMode dueWords={dueWords} allFilteredWords={filteredWords} onProgressChanged={reloadProgress} />
+        {!progressLoaded ? (
+          <div className="empty-state">Lade Fortschritt…</div>
+        ) : (
+          <>
+            {tab === "learn" && <LearnMode words={filteredWords} />}
+            {tab === "test" && (
+              <TestMode dueWords={dueWords} allFilteredWords={filteredWords} onProgressChanged={reloadProgress} />
+            )}
+            {tab === "dashboard" && <Dashboard refreshKey={refreshKey} onReset={reloadProgress} />}
+          </>
         )}
-        {tab === "dashboard" && <Dashboard refreshKey={refreshKey} onReset={reloadProgress} />}
       </main>
 
       <nav className="app-tabs">

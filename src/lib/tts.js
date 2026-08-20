@@ -7,6 +7,12 @@
 let cachedVoices = [];
 let deVoice = null;
 
+// Tracks the in-flight utterance so it (and its event listeners) can be
+// torn down explicitly -- e.g. a card gets swiped away or the component
+// unmounts mid-utterance -- rather than left to linger as a queued/playing
+// utterance holding references to detached listeners.
+let currentUtterance = null;
+
 function refreshVoices() {
   if (!("speechSynthesis" in window)) return;
   cachedVoices = window.speechSynthesis.getVoices();
@@ -26,20 +32,37 @@ export function hasGermanVoice() {
   return !!deVoice;
 }
 
+function clearCurrentUtterance() {
+  if (!currentUtterance) return;
+  currentUtterance.onend = null;
+  currentUtterance.onerror = null;
+  currentUtterance = null;
+}
+
+export function stopSpeaking() {
+  if (!("speechSynthesis" in window)) return;
+  window.speechSynthesis.cancel();
+  clearCurrentUtterance();
+}
+
 export function speak(text) {
   if (!("speechSynthesis" in window) || !text) return false;
   // Voices might still be empty on the very first call; try a refresh so
   // we don't miss a voice that's actually available already.
   if (!cachedVoices.length) refreshVoices();
-  window.speechSynthesis.cancel(); // avoid queueing overlapping utterances
+  stopSpeaking(); // avoid queueing overlapping utterances, clears any prior listener
   const utter = new SpeechSynthesisUtterance(text);
   utter.lang = "de-DE";
   if (deVoice) utter.voice = deVoice;
   utter.rate = 0.92;
+  utter.onend = clearCurrentUtterance;
+  utter.onerror = clearCurrentUtterance;
+  currentUtterance = utter;
   try {
     window.speechSynthesis.speak(utter);
     return true;
   } catch {
+    clearCurrentUtterance();
     return false;
   }
 }

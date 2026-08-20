@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { cardColor } from "../lib/words.js";
 import { conjugateVerb, declineNoun } from "../lib/german.js";
-import { speak } from "../lib/tts.js";
+import { speak, stopSpeaking } from "../lib/tts.js";
 
 const CASE_LABELS = { nominativ: "Nominativ", akkusativ: "Akkusativ", dativ: "Dativ", genitiv: "Genitiv" };
 const TENSE_LABELS = {
@@ -30,6 +30,13 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
   function toggle(name) {
     setOpenSections((s) => ({ ...s, [name]: !s[name] }));
   }
+
+  // Stop any in-flight utterance when this card is swapped for another
+  // (Learn mode "next", Test mode swipe) or unmounted -- otherwise a
+  // pronunciation queued for a word you just left keeps playing/lingering.
+  useEffect(() => {
+    return () => stopSpeaking();
+  }, [entry.id]);
 
   return (
     <div
