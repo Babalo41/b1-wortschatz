@@ -34,6 +34,7 @@ export default function Dashboard({ refreshKey, onReset }) {
         <Stat label="Noch nicht begonnen" value={stats.notStarted} />
         <Stat label="Genauigkeit" value={stats.accuracy != null ? `${stats.accuracy}%` : "–"} />
         <Stat label="🔥 Streak" value={`${streak} Tag${streak === 1 ? "" : "e"}`} />
+        <Stat label="⚠ Zu schwer markiert" value={stats.flagged} />
       </div>
 
       <h3>Leitner-Boxen</h3>

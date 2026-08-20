@@ -290,6 +290,12 @@ table td:first-child {
   background: rgba(21, 128, 61, 0.85);
 }
 
+.swipe-label.up {
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(180, 83, 9, 0.9);
+}
+
 .test-buttons {
   display: flex;
   gap: 10px;
@@ -298,16 +304,20 @@ table td:first-child {
 
 .test-buttons button {
   flex: 1;
-  padding: 16px;
+  padding: 14px 8px;
   border-radius: 12px;
   border: none;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: white;
 }
 
 .btn-wrong {
   background: #be123c;
+}
+
+.btn-hard {
+  background: #b45309;
 }
 
 .btn-right {

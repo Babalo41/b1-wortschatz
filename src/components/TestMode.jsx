@@ -33,22 +33,25 @@ export default function TestMode({ dueWords, allFilteredWords, onProgressChanged
     setSummary(null);
   }
 
-  async function decide(known) {
+  // outcome: "correct" | "wrong" | "hard" (see leitner.js for what each does)
+  async function decide(outcome) {
     const entry = session.queue[session.index];
-    const updated = await recordAnswer(entry.id, known);
+    const updated = await recordAnswer(entry.id, outcome);
     onProgressChanged?.();
-    const results = [...session.results, { entry, known, box: updated.box }];
+    const results = [...session.results, { entry, outcome, box: updated.box }];
     const nextIndex = session.index + 1;
     setFlipped(false);
 
     if (nextIndex >= session.queue.length) {
       const streak = await recordSessionCompleted();
-      const correct = results.filter((r) => r.known).length;
+      const correct = results.filter((r) => r.outcome === "correct").length;
+      const hard = results.filter((r) => r.outcome === "hard").length;
       setSummary({
         total: results.length,
         correct,
+        hard,
         streak,
-        toReview: results.filter((r) => !r.known).map((r) => r.entry),
+        toReview: results.filter((r) => r.outcome !== "correct").map((r) => r.entry),
       });
       setSession(null);
     } else {
@@ -65,6 +68,9 @@ export default function TestMode({ dueWords, allFilteredWords, onProgressChanged
           {Math.round((summary.correct / summary.total) * 100)}%)
         </p>
         <p>🔥 Streak: {summary.streak} Tag{summary.streak === 1 ? "" : "e"}</p>
+        {summary.hard > 0 && (
+          <p>⚠ {summary.hard} als "zu schwer" markiert (Filter: Fortschritt-Wörter)</p>
+        )}
         {summary.toReview.length > 0 && (
           <div className="review-list">
             <h3>Zum Wiederholen:</h3>

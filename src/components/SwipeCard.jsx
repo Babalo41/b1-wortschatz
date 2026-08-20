@@ -22,10 +22,17 @@ const TAP_THRESHOLD = 8; // px of movement below which a release counts as a tap
 // the long-established reliable pattern for custom drag gestures on iOS.
 // Mouse events cover the desktop/testing path per the original pointer-
 // events-not-touch-only requirement.
+//
+// Three outcomes: swipe right = "correct" (I know this), swipe left =
+// "wrong" (I don't know this), swipe up = "hard" (I know roughly what it
+// is but it needs a different memorization approach -- flagged
+// separately, see leitner.js). Whichever axis moved further decides which
+// gesture is being made.
 export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
   const cardRef = useRef(null);
   const leftLabelRef = useRef(null);
   const rightLabelRef = useRef(null);
+  const upLabelRef = useRef(null);
   const dragRef = useRef({ dx: 0, dy: 0 });
   const startRef = useRef(null);
   const movedRef = useRef(false);
@@ -35,22 +42,38 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
   function paint() {
     rafRef.current = null;
     const { dx, dy } = dragRef.current;
-    const rotation = Math.max(-18, Math.min(18, dx / 12));
+    const vertical = Math.abs(dy) > Math.abs(dx);
+
     if (cardRef.current) {
-      cardRef.current.style.transform = `translateX(${dx}px) translateY(${dy * 0.2}px) rotate(${rotation}deg)`;
-      const tint =
-        Math.abs(dx) < 10
-          ? "none"
-          : dx > 0
-          ? `inset 0 0 0 999px rgba(21,128,61, ${Math.min(0.35, dx / 400)})`
-          : `inset 0 0 0 999px rgba(190,18,60, ${Math.min(0.35, -dx / 400)})`;
+      let transform;
+      let tint = "none";
+      if (vertical && dy < 0) {
+        transform = `translateY(${dy}px)`;
+        tint = `inset 0 0 0 999px rgba(180,83,9, ${Math.min(0.35, -dy / 400)})`;
+      } else {
+        const rotation = Math.max(-18, Math.min(18, dx / 12));
+        transform = `translateX(${dx}px) translateY(${dy * 0.2}px) rotate(${rotation}deg)`;
+        if (Math.abs(dx) >= 10) {
+          tint =
+            dx > 0
+              ? `inset 0 0 0 999px rgba(21,128,61, ${Math.min(0.35, dx / 400)})`
+              : `inset 0 0 0 999px rgba(190,18,60, ${Math.min(0.35, -dx / 400)})`;
+        }
+      }
+      cardRef.current.style.transform = transform;
       cardRef.current.style.boxShadow = tint === "none" ? "" : tint;
     }
     if (leftLabelRef.current) {
-      leftLabelRef.current.style.opacity = dx < -20 ? Math.min(1, -dx / COMMIT_THRESHOLD) : 0;
+      const show = !vertical && dx < -20;
+      leftLabelRef.current.style.opacity = show ? Math.min(1, -dx / COMMIT_THRESHOLD) : 0;
     }
     if (rightLabelRef.current) {
-      rightLabelRef.current.style.opacity = dx > 20 ? Math.min(1, dx / COMMIT_THRESHOLD) : 0;
+      const show = !vertical && dx > 20;
+      rightLabelRef.current.style.opacity = show ? Math.min(1, dx / COMMIT_THRESHOLD) : 0;
+    }
+    if (upLabelRef.current) {
+      const show = vertical && dy < -20;
+      upLabelRef.current.style.opacity = show ? Math.min(1, -dy / COMMIT_THRESHOLD) : 0;
     }
   }
 
@@ -86,7 +109,7 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
 
   function end() {
     if (!startRef.current) return;
-    const { dx } = dragRef.current;
+    const { dx, dy } = dragRef.current;
     startRef.current = null;
 
     if (!movedRef.current) {
@@ -95,19 +118,25 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
       return;
     }
 
-    if (Math.abs(dx) >= COMMIT_THRESHOLD) {
+    const vertical = Math.abs(dy) > Math.abs(dx);
+    if (vertical && -dy >= COMMIT_THRESHOLD) {
+      commit("up");
+    } else if (!vertical && Math.abs(dx) >= COMMIT_THRESHOLD) {
       commit(dx > 0 ? "right" : "left");
     } else {
       resetPosition();
     }
   }
 
+  const OUTCOME_BY_DIRECTION = { right: "correct", left: "wrong", up: "hard" };
+
   function commit(direction) {
     setTransition(true);
-    dragRef.current = { dx: direction === "right" ? 600 : -600, dy: 0 };
+    dragRef.current =
+      direction === "up" ? { dx: 0, dy: -900 } : { dx: direction === "right" ? 600 : -600, dy: 0 };
     paint();
     setTimeout(() => {
-      onDecide(direction === "right");
+      onDecide(OUTCOME_BY_DIRECTION[direction]);
       dragRef.current = { dx: 0, dy: 0 };
       setTransition(false);
       paint();
@@ -179,8 +208,11 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
 
   return (
     <div className="swipe-stage">
+      <div ref={upLabelRef} className="swipe-label up" style={{ opacity: 0 }}>
+        ⚠ Zu schwer
+      </div>
       <div ref={leftLabelRef} className="swipe-label left" style={{ opacity: 0 }}>
-        ✗ Nicht sicher
+        ✗ Weiß ich nicht
       </div>
       <div ref={rightLabelRef} className="swipe-label right" style={{ opacity: 0 }}>
         ✓ Weiß ich
@@ -191,6 +223,9 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
       <div className="test-buttons">
         <button className="btn-wrong" onClick={() => commit("left")} aria-label="Weiß ich nicht">
           ✗ Weiß ich nicht
+        </button>
+        <button className="btn-hard" onClick={() => commit("up")} aria-label="Zu schwer, brauche eine andere Methode">
+          ⚠ Zu schwer
         </button>
         <button className="btn-right" onClick={() => commit("right")} aria-label="Weiß ich">
           ✓ Weiß ich

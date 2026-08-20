@@ -1,5 +1,6 @@
 import React from "react";
 import { LETTERS } from "../lib/words.js";
+import { DEFAULT_FILTERS } from "../lib/filters.js";
 
 const POS_OPTIONS = [
   { value: "noun", label: "Nomen" },
@@ -73,6 +74,17 @@ export default function FilterPanel({ filters, setFilters, open, onClose }) {
       </div>
 
       <div className="filter-row">
+        <label className="filter-checkbox">
+          <input
+            type="checkbox"
+            checked={filters.onlyFlagged}
+            onChange={(e) => setFilters((f) => ({ ...f, onlyFlagged: e.target.checked }))}
+          />
+          ⚠️ Nur markierte (besonders schwere) Wörter
+        </label>
+      </div>
+
+      <div className="filter-row">
         <div className="filter-label">Seitenbereich</div>
         <div className="page-range">
           <input
@@ -92,7 +104,7 @@ export default function FilterPanel({ filters, setFilters, open, onClose }) {
 
       <button
         className="chip"
-        onClick={() => setFilters({ letters: [], posList: [], boxes: [], onlyWrong: false, pageMin: null, pageMax: null })}
+        onClick={() => setFilters(DEFAULT_FILTERS)}
       >
         Filter zurücksetzen
       </button>

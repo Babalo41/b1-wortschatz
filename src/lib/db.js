@@ -56,10 +56,11 @@ export async function getAllProgress() {
   return db.getAll(STORE);
 }
 
-export async function recordAnswer(cardId, correct) {
+/** outcome: "correct" | "wrong" | "hard" (see leitner.js for what "hard" does) */
+export async function recordAnswer(cardId, outcome) {
   const db = await getDB();
   const existing = (await db.get(STORE, cardId)) || freshProgress(cardId, today());
-  const updated = nextProgress(existing, correct, today());
+  const updated = nextProgress(existing, outcome, today());
   await db.put(STORE, updated);
   return updated;
 }
@@ -114,8 +115,9 @@ export async function getStats(allCardIds) {
   const byBox = [0, 0, 0, 0, 0, 0];
   for (const p of all) byBox[p.box]++;
   const notStarted = allCardIds.length - all.length;
+  const flagged = all.filter((p) => p.flagged).length;
 
-  return { learned, dueToday, accuracy, byBox, notStarted, totalCards: allCardIds.length, studied: all.length };
+  return { learned, dueToday, accuracy, byBox, notStarted, flagged, totalCards: allCardIds.length, studied: all.length };
 }
 
 /**

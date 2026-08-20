@@ -3,6 +3,7 @@ export const DEFAULT_FILTERS = {
   posList: [], // empty = all
   boxes: [], // empty = all
   onlyWrong: false,
+  onlyFlagged: false, // "too hard" (swipe-up) words
   pageMin: null,
   pageMax: null,
 };
@@ -22,6 +23,7 @@ export function applyFilters(words, filters, progressByCard) {
       if (!filters.boxes.includes(box)) return false;
     }
     if (filters.onlyWrong && (!p || p.lastResult !== "wrong")) return false;
+    if (filters.onlyFlagged && (!p || !p.flagged)) return false;
     return true;
   });
 }
