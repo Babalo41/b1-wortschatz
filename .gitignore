@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dev-dist/
+*.log
+.DS_Store
+
+# Copyrighted Goethe-Institut source PDF -- kept locally for re-running
+# extraction, but not published to a public repo. The derived word list
+# (data/words.json, src/data/words.json) is committed since the app needs
+# it, but the original scanned document isn't redistributed.
+Goethe-Zertifikat_B1_Wortliste.pdf
