@@ -54,7 +54,7 @@ export function speak(text) {
   const utter = new SpeechSynthesisUtterance(text);
   utter.lang = "de-DE";
   if (deVoice) utter.voice = deVoice;
-  utter.rate = 0.92;
+  utter.rate = 0.72;
   utter.onend = clearCurrentUtterance;
   utter.onerror = clearCurrentUtterance;
   currentUtterance = utter;
