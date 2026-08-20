@@ -258,6 +258,15 @@ table td:first-child {
 
 .swipe-card-wrap {
   will-change: transform;
+  touch-action: none; /* must be set on the element with the pointer
+    listeners itself -- WordCard's own .word-card sets touch-action:pan-y
+    for its Learn-mode use, which would otherwise win here on the actual
+    touched element and let iOS Safari claim vertical drags for native
+    scrolling instead of handing them to the swipe gesture. */
+}
+
+.swipe-card-wrap .word-card {
+  touch-action: none;
 }
 
 .swipe-label {
