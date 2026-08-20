@@ -53,7 +53,7 @@ export default function App() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <div className="app-title">B1 Wortschatz</div>
+        <div className="app-title">B1 Wortschatz 🍒</div>
         <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
           Filter{activeFilterCount ? ` (${activeFilterCount})` : ""}
         </button>
