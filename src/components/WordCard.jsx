@@ -41,7 +41,12 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
   return (
     <div
       className="word-card"
-      style={{ background: color.gradient, color: color.fg, "--card-glow": color.glow }}
+      style={{
+        background: color.gradient,
+        color: color.fg,
+        "--card-glow": color.glow,
+        "--card-border": color.border,
+      }}
       onClick={onFlip}
     >
       <div className="word-card-front">

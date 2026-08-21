@@ -151,8 +151,27 @@ button {
   -webkit-user-select: none;
   user-select: none;
   touch-action: pan-y;
-  box-shadow: 0 20px 45px -12px var(--card-glow, rgba(0, 0, 0, 0.5)), inset 0 1px 0 rgba(255, 255, 255, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  overflow: hidden;
+  /* Frosted glass: translucent color gradient (set inline per gender/pos)
+     over backdrop-filter blur, so the app's glowing background bleeds
+     through with color, plus a bright top highlight and a tinted border
+     for the glass-edge look. -webkit-backdrop-filter is required for
+     Safari/iOS to actually apply the blur. */
+  backdrop-filter: blur(22px) saturate(160%);
+  -webkit-backdrop-filter: blur(22px) saturate(160%);
+  box-shadow:
+    0 20px 45px -12px var(--card-glow, rgba(0, 0, 0, 0.5)),
+    inset 0 1px 0 rgba(255, 255, 255, 0.4),
+    inset 0 0 40px rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--card-border, rgba(255, 255, 255, 0.25));
+}
+
+.word-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 45%);
+  pointer-events: none;
 }
 
 .word-card-front {
@@ -362,15 +381,6 @@ table td:first-child {
   transform: translateX(-50%);
   background: linear-gradient(135deg, var(--hard-1), var(--hard-2));
   color: #2a1400;
-}
-
-.debug-readout {
-  text-align: center;
-  font-size: 0.7rem;
-  color: var(--muted);
-  margin-top: 8px;
-  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  opacity: 0.8;
 }
 
 .test-buttons {

@@ -28,19 +28,11 @@ const TAP_THRESHOLD = 8; // px of movement below which a release counts as a tap
 // is but it needs a different memorization approach -- flagged
 // separately, see leitner.js). Whichever axis moved further decides which
 // gesture is being made.
-// TEMPORARY diagnostic aid: a live readout of raw touch-event counts and
-// deltas, so a real-device swipe issue can be reported as exact numbers
-// instead of "it doesn't work". Remove once swipe is confirmed reliable
-// across devices.
-const SWIPE_DEBUG = true;
-
 export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
   const cardRef = useRef(null);
   const leftLabelRef = useRef(null);
   const rightLabelRef = useRef(null);
   const upLabelRef = useRef(null);
-  const debugRef = useRef(null);
-  const debugCounts = useRef({ start: 0, move: 0, end: 0 });
   const dragRef = useRef({ dx: 0, dy: 0 });
   const startRef = useRef(null);
   const movedRef = useRef(false);
@@ -82,10 +74,6 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
     if (upLabelRef.current) {
       const show = vertical && dy < -20;
       upLabelRef.current.style.opacity = show ? Math.min(1, -dy / COMMIT_THRESHOLD) : 0;
-    }
-    if (debugRef.current) {
-      const c = debugCounts.current;
-      debugRef.current.textContent = `start:${c.start} move:${c.move} end:${c.end} dx:${Math.round(dx)} dy:${Math.round(dy)} moved:${movedRef.current}`;
     }
   }
 
@@ -162,22 +150,18 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
     if (!el) return;
 
     function onTouchStart(e) {
-      debugCounts.current = { start: debugCounts.current.start + 1, move: 0, end: debugCounts.current.end };
       if (e.touches.length !== 1) return;
       const t = e.touches[0];
       start(t.clientX, t.clientY);
     }
     function onTouchMove(e) {
-      debugCounts.current.move += 1;
       if (!startRef.current || e.touches.length !== 1) return;
       e.preventDefault();
       const t = e.touches[0];
       move(t.clientX, t.clientY);
     }
     function onTouchEnd() {
-      debugCounts.current.end += 1;
       end();
-      schedulePaint();
     }
 
     el.addEventListener("touchstart", onTouchStart, { passive: true });
@@ -247,11 +231,6 @@ export default function SwipeCard({ entry, flipped, onFlip, onDecide }) {
           ✓ Weiß ich
         </button>
       </div>
-      {SWIPE_DEBUG && (
-        <div ref={debugRef} className="debug-readout">
-          start:0 move:0 end:0 dx:0 dy:0 moved:false
-        </div>
-      )}
     </div>
   );
 }
