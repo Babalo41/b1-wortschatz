@@ -6,6 +6,7 @@ import LearnMode from "./components/LearnMode.jsx";
 import TestMode from "./components/TestMode.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import FilterPanel from "./components/FilterPanel.jsx";
+import AnimalCritters from "./components/AnimalCritters.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
@@ -52,6 +53,7 @@ export default function App() {
 
   return (
     <div className="app-shell">
+      <AnimalCritters />
       <header className="app-header">
         <div className="app-title">B1 Wortschatz</div>
         <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
@@ -66,11 +68,20 @@ export default function App() {
           <div className="empty-state">Lade Fortschritt…</div>
         ) : (
           <>
-            {tab === "learn" && <LearnMode words={filteredWords} />}
-            {tab === "test" && (
+            {/* All three modes stay mounted and are only hidden via CSS,
+                not conditionally rendered -- unmounting TestMode on tab
+                switch would wipe its in-progress session state, forcing
+                the user back to "pick how many cards" every time they
+                glance at another tab mid-session. */}
+            <div style={{ display: tab === "learn" ? "block" : "none" }}>
+              <LearnMode words={filteredWords} />
+            </div>
+            <div style={{ display: tab === "test" ? "block" : "none" }}>
               <TestMode dueWords={dueWords} allFilteredWords={filteredWords} onProgressChanged={reloadProgress} />
-            )}
-            {tab === "dashboard" && <Dashboard refreshKey={refreshKey} onReset={reloadProgress} />}
+            </div>
+            <div style={{ display: tab === "dashboard" ? "block" : "none" }}>
+              <Dashboard refreshKey={refreshKey} onReset={reloadProgress} />
+            </div>
           </>
         )}
       </main>

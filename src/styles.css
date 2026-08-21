@@ -662,3 +662,77 @@ table td:first-child {
 h2, h3 {
   letter-spacing: -0.01em;
 }
+
+/* ---------------- Animal critters (easter egg) ---------------- */
+
+.critter-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 5;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.critter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 2rem;
+  filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.45));
+  animation: critter-journey 6.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+}
+
+.critter-emoji {
+  display: inline-block;
+  animation: critter-flutter 0.28s ease-in-out infinite;
+}
+
+/* Falls in fast from above, decelerating as it nears the ground (the
+   bunched keyframe stops around 55-70% do the "slowing down" work),
+   a little squish-bounce on landing, a short slide, then shrinks away
+   near the corner as if slipping through a doorway. */
+@keyframes critter-journey {
+  0% {
+    transform: translate(var(--sx), -12vh) scale(0.85);
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  52% {
+    transform: translate(var(--sx), 76vh) scale(1);
+    opacity: 1;
+  }
+  66% {
+    transform: translate(var(--sx), 85vh) scale(1.08, 0.82);
+  }
+  74% {
+    transform: translate(var(--sx), 82vh) scale(0.98, 1.03);
+  }
+  80% {
+    transform: translate(var(--sx), 83vh) scale(1);
+  }
+  93% {
+    transform: translate(var(--ex), 83vh) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--ex), 83vh) scale(0.4);
+    opacity: 0;
+  }
+}
+
+@keyframes critter-flutter {
+  0%, 100% {
+    transform: rotate(-10deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .critter-layer {
+    display: none;
+  }
+}
