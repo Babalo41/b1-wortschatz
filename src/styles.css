@@ -152,13 +152,12 @@ button {
   user-select: none;
   touch-action: pan-y;
   overflow: hidden;
-  /* Frosted glass: translucent color gradient (set inline per gender/pos)
-     over backdrop-filter blur, so the app's glowing background bleeds
-     through with color, plus a bright top highlight and a tinted border
-     for the glass-edge look. -webkit-backdrop-filter is required for
-     Safari/iOS to actually apply the blur. */
-  backdrop-filter: blur(22px) saturate(160%);
-  -webkit-backdrop-filter: blur(22px) saturate(160%);
+  /* Solid vibrant gradient, not backdrop-filter: blur() -- this element
+     translates every frame during a swipe drag, and re-sampling
+     everything behind it through a blur on each frame is one of the
+     more GPU/battery-expensive things you can ask a phone to do. A
+     static glass panel (nav bar, filter sheet) costs one blur pass and
+     is done; an animated one pays that cost continuously. */
   box-shadow:
     0 20px 45px -12px var(--card-glow, rgba(0, 0, 0, 0.5)),
     inset 0 1px 0 rgba(255, 255, 255, 0.4),
