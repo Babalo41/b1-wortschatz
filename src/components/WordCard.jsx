@@ -51,6 +51,7 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
     >
       <div className="word-card-front">
         <div className="word-head">{headline(entry)}</div>
+        {entry.meaning && <div className="word-meaning">{entry.meaning}</div>}
         {entry.plural && <div className="word-sub">Plural: {entry.plural}</div>}
         <button
           className="speak-btn"
@@ -73,10 +74,13 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
             <Section title="Beispiel" open={openSections.examples ?? true} onToggle={() => toggle("examples")}>
               {entry.examples.map((ex, i) => (
                 <div key={i} className="example-line">
-                  <span>{ex}</span>
-                  <button className="speak-btn-inline" onClick={() => speak(ex)} aria-label="Beispiel anhören">
-                    🔊
-                  </button>
+                  <div className="example-de">
+                    <span>{ex}</span>
+                    <button className="speak-btn-inline" onClick={() => speak(ex)} aria-label="Beispiel anhören">
+                      🔊
+                    </button>
+                  </div>
+                  {entry.examplesEn?.[i] && <div className="example-en">{entry.examplesEn[i]}</div>}
                 </div>
               ))}
             </Section>

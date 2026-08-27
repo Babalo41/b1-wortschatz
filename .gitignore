@@ -9,3 +9,7 @@ dev-dist/
 # (data/words.json, src/data/words.json) is committed since the app needs
 # it, but the original scanned document isn't redistributed.
 Goethe-Zertifikat_B1_Wortliste.pdf
+
+# Scratch files from the translation enrichment script
+scripts/.translation-cache.json
+*.bak

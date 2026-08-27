@@ -6,7 +6,6 @@ import LearnMode from "./components/LearnMode.jsx";
 import TestMode from "./components/TestMode.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import FilterPanel from "./components/FilterPanel.jsx";
-import AnimalCritters from "./components/AnimalCritters.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
@@ -53,9 +52,8 @@ export default function App() {
 
   return (
     <div className="app-shell">
-      <AnimalCritters />
       <header className="app-header">
-        <div className="app-title">B1 Wortschatz</div>
+        <div className="app-title">B1 Wortschatz 🍒</div>
         <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
           Filter{activeFilterCount ? ` (${activeFilterCount})` : ""}
         </button>
