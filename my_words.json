@@ -1,0 +1,3524 @@
+[
+ {
+  "head": "ab",
+  "pos": "other",
+  "en": "from / starting at; away/off (prefix)",
+  "expl": "As a standalone word it marks a starting point in place, time, or price. As a prefix ab- means 'away/off' — the key pattern that unlocks most of the words that follow.",
+  "ex_de": "Die Fahrt kostet ab Hamburg 200 Euro.",
+  "ex_en": "The trip costs €200 from Hamburg onward.",
+  "fixed_phrases": [
+   "ab und zu = now and then"
+  ]
+ },
+ {
+  "head": "abbiegen",
+  "pos": "verb",
+  "gender": null,
+  "plural": null,
+  "verb": {
+   "p3": "biegt ab",
+   "praet": "bog ab",
+   "part": "abgebogen",
+   "aux": "ist"
+  },
+  "en": "to turn (off a road)",
+  "expl": "ab (off) + biegen (to bend) → bend away from the straight line. Movement verb → takes sein.",
+  "ex_de": "An der nächsten Kreuzung müssen Sie links abbiegen.",
+  "ex_en": "At the next junction you have to turn left."
+ },
+ {
+  "head": "Abbildung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Abbildungen",
+  "en": "illustration, figure, diagram",
+  "expl": "Contains Bild (picture). The -ung ending is almost always feminine → die.",
+  "ex_de": "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",
+  "ex_en": "The figure shows how to switch the device on."
+ },
+ {
+  "head": "Abenteuer",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Abenteuer",
+  "en": "adventure",
+  "expl": "Cognate — shares a Latin root with English 'adventure'. Neuter, and the plural doesn't change.",
+  "ex_de": "Unser Urlaub war ein tolles Abenteuer.",
+  "ex_en": "Our holiday was a great adventure."
+ },
+ {
+  "head": "aber",
+  "pos": "other",
+  "en": "but; (emphasis particle) really / wow",
+  "expl": "Two jobs: job 1 = 'but' (contrast). Job 2 = flavour particle adding surprise or emphasis, hard to translate literally.",
+  "ex_de": "Du spielst aber gut Klavier!",
+  "ex_en": "Wow, you really play the piano well!"
+ },
+ {
+  "head": "abfahren",
+  "pos": "verb",
+  "verb": {
+   "p3": "fährt ab",
+   "praet": "fuhr ab",
+   "part": "abgefahren",
+   "aux": "sein"
+  },
+  "en": "to depart, leave",
+  "expl": "ab (away) + fahren (to go/drive) → drive away. Motion → sein. Stem change: er fährt ab.",
+  "ex_de": "Unser Zug ist pünktlich abgefahren.",
+  "ex_en": "Our train left on time."
+ },
+ {
+  "head": "Abfahrt",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Abfahrten",
+  "en": "departure",
+  "expl": "The noun of abfahren — literally the word on station boards. Feminine.",
+  "ex_de": "Es bleiben uns noch zwanzig Minuten bis zur Abfahrt.",
+  "ex_en": "We still have twenty minutes until departure."
+ },
+ {
+  "head": "Abfall",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Abfälle",
+  "en": "waste, rubbish",
+  "expl": "From abfallen (to fall off) — peelings falling off the counter. Plural umlauts: die Abfälle.",
+  "ex_de": "Werfen Sie den Bioabfall bitte nicht zum normalen Müll.",
+  "ex_en": "Please don't put organic waste in with normal rubbish."
+ },
+ {
+  "head": "Abfalleimer",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Abfalleimer",
+  "en": "waste bin",
+  "expl": "Compound: Abfall (waste) + Eimer (bucket). Gender follows the last part → der Eimer → der.",
+  "ex_de": "Wirf das bitte in den Abfalleimer!",
+  "ex_en": "Please throw that in the bin!"
+ },
+ {
+  "head": "abgeben",
+  "pos": "verb",
+  "verb": {
+   "p3": "gibt ab",
+   "praet": "gab ab",
+   "part": "abgegeben",
+   "aux": "haben"
+  },
+  "en": "to hand in, drop off",
+  "expl": "ab + geben (to give) → give it away to someone. Stem change: er gibt ab.",
+  "ex_de": "Ich soll dieses Päckchen bei Herrn Müller abgeben.",
+  "ex_en": "I'm supposed to drop this parcel off at Mr Müller's."
+ },
+ {
+  "head": "abhängen",
+  "pos": "verb",
+  "verb": {
+   "p3": "hängt ab",
+   "praet": "hing ab",
+   "part": "abgehangen",
+   "aux": "haben"
+  },
+  "en": "to depend (on)",
+  "expl": "ab + hängen (to hang) → your plans hang off something else. Used with von. Strong: hing / abgehangen.",
+  "ex_de": "Das hängt vom Wetter ab.",
+  "ex_en": "That depends on the weather."
+ },
+ {
+  "head": "abhängig",
+  "pos": "adj",
+  "en": "dependent",
+  "expl": "The adjective sibling of abhängen. Pairs with von: abhängig von …",
+  "ex_de": "Gregor ist finanziell von seinen Eltern abhängig.",
+  "ex_en": "Gregor is financially dependent on his parents.",
+  "compar": "abhängiger",
+  "superl": "am abhängigsten"
+ },
+ {
+  "head": "abheben",
+  "pos": "verb",
+  "verb": {
+   "p3": "hebt ab",
+   "praet": "hob ab",
+   "part": "abgehoben",
+   "aux": "haben"
+  },
+  "en": "to withdraw (money); to take off (plane)",
+  "expl": "ab + heben (to lift): lift money out of the account, or a plane lifts off the ground.",
+  "ex_de": "Für die Reise habe ich 500 Euro von meinem Konto abgehoben.",
+  "ex_en": "I withdrew €500 from my account for the trip."
+ },
+ {
+  "head": "abholen",
+  "pos": "verb",
+  "verb": {
+   "p3": "holt ab",
+   "praet": "holte ab",
+   "part": "abgeholt",
+   "aux": "haben"
+  },
+  "en": "to pick up, collect",
+  "expl": "ab + holen (to fetch) → fetch someone/something away with you. Fully regular.",
+  "ex_de": "Meine Freundin hat mich vom Bahnhof abgeholt.",
+  "ex_en": "My girlfriend picked me up from the station."
+ },
+ {
+  "head": "abschreiben",
+  "pos": "verb",
+  "verb": {
+   "p3": "schreibt ab",
+   "praet": "schrieb ab",
+   "part": "abgeschrieben",
+   "aux": "haben"
+  },
+  "en": "to copy (someone's work)",
+  "expl": "ab + schreiben (to write) → write it off someone else's page.",
+  "ex_de": "Er hat die Hausaufgaben von mir abgeschrieben.",
+  "ex_en": "He copied the homework off me."
+ },
+ {
+  "head": "Abitur",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "school-leaving exam (A-levels equivalent)",
+  "expl": "The German university-entrance qualification. Germany-specific term — Austria/Switzerland say Matura. Neuter.",
+  "ex_de": "Meine Tochter hat gerade Abitur gemacht.",
+  "ex_en": "My daughter has just finished her Abitur."
+ },
+ {
+  "head": "ablehnen",
+  "pos": "verb",
+  "verb": {
+   "p3": "lehnt ab",
+   "praet": "lehnte ab",
+   "part": "abgelehnt",
+   "aux": "haben"
+  },
+  "en": "to reject, decline",
+  "expl": "ab + lehnen (to lean) → lean away from an offer. Opposite of annehmen (to accept).",
+  "ex_de": "Er hat mein Angebot, ihm zu helfen, abgelehnt.",
+  "ex_en": "He turned down my offer to help him."
+ },
+ {
+  "head": "abmachen",
+  "pos": "verb",
+  "verb": {
+   "p3": "macht ab",
+   "praet": "machte ab",
+   "part": "abgemacht",
+   "aux": "haben"
+  },
+  "en": "to arrange, agree on",
+  "expl": "ab + machen (to make/do). The noun die Abmachung = the agreement.",
+  "ex_de": "Wir hatten doch abgemacht, dass du die Getränke besorgst.",
+  "ex_en": "We had agreed that you'd get the drinks."
+ },
+ {
+  "head": "abnehmen",
+  "pos": "verb",
+  "verb": {
+   "p3": "nimmt ab",
+   "praet": "nahm ab",
+   "part": "abgenommen",
+   "aux": "haben"
+  },
+  "en": "to lose weight; to take off/remove",
+  "expl": "ab + nehmen (to take) → take off/away. Opposite: zunehmen (to gain weight). Stem change: er nimmt ab.",
+  "ex_de": "Ich habe zehn Kilo abgenommen.",
+  "ex_en": "I've lost ten kilos."
+ },
+ {
+  "head": "absagen",
+  "pos": "verb",
+  "verb": {
+   "p3": "sagt ab",
+   "praet": "sagte ab",
+   "part": "abgesagt",
+   "aux": "haben"
+  },
+  "en": "to cancel, call off",
+  "expl": "ab + sagen (to say) → say it off. Opposite: zusagen (to accept an invitation).",
+  "ex_de": "Ich muss unser Treffen leider absagen, weil ich krank geworden bin.",
+  "ex_en": "I have to cancel our meeting because I've fallen ill."
+ },
+ {
+  "head": "Abschluss",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Abschlüsse",
+  "en": "conclusion; qualification/degree",
+  "expl": "From abschließen (to finish/lock). Two senses: finishing something, and a diploma/degree.",
+  "ex_de": "Ein guter Schulabschluss ist sehr wichtig.",
+  "ex_en": "A good school-leaving qualification is very important."
+ },
+ {
+  "head": "Abschnitt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Abschnitte",
+  "en": "section, paragraph",
+  "expl": "From abschneiden (to cut off) → a cut-off piece of text or a stretch of time/road.",
+  "ex_de": "Lesen Sie bitte den zweiten Abschnitt.",
+  "ex_en": "Please read the second section."
+ },
+ {
+  "head": "Absender",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Absender",
+  "en": "sender",
+  "expl": "From senden (to send) — the one it's sent away from. Feminine form: die Absenderin.",
+  "ex_de": "Schicken Sie das Paket an den Absender zurück.",
+  "ex_en": "Send the package back to the sender."
+ },
+ {
+  "head": "Absicht",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Absichten",
+  "en": "intention",
+  "expl": "Key phrase: mit Absicht = on purpose / deliberately. Feminine.",
+  "ex_de": "Meine Tochter hat das nicht mit Absicht gemacht.",
+  "ex_en": "My daughter didn't do that on purpose.",
+  "harder_de": "Hast du die Absicht zu studieren?",
+  "harder_en": "Do you intend to study (at university)?"
+ },
+ {
+  "head": "absolut",
+  "pos": "adj",
+  "en": "absolute(ly)",
+  "expl": "Works as adjective and intensifying adverb. Cognate — no comparison forms.",
+  "ex_de": "Was Sie da sagen, ist absolut falsch.",
+  "ex_en": "What you're saying is absolutely wrong."
+ },
+ {
+  "head": "abstimmen",
+  "pos": "verb",
+  "verb": {
+   "p3": "stimmt ab",
+   "praet": "stimmte ab",
+   "part": "abgestimmt",
+   "aux": "haben"
+  },
+  "en": "to vote (on)",
+  "expl": "stimmen = to vote/tune. Used with über + accusative.",
+  "ex_de": "Lasst uns über diesen Punkt abstimmen.",
+  "ex_en": "Let's vote on this point."
+ },
+ {
+  "head": "Abteilung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Abteilungen",
+  "en": "department",
+  "expl": "A part (Teil) of a company or shop. The -ung ending → feminine.",
+  "ex_de": "Meine Freundin arbeitet in der Abteilung von Frau Kaufmann.",
+  "ex_en": "My friend works in Ms Kaufmann's department."
+ },
+ {
+  "head": "Abwart",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Abwarte",
+  "en": "caretaker/janitor (Swiss German)",
+  "expl": "Swiss word — Germany/Austria say Hausmeister. Worth recognising. Feminine: die Abwartin.",
+  "ex_de": "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",
+  "ex_en": "The caretaker helped me carry the wardrobe into the apartment."
+ },
+ {
+  "head": "abwärts",
+  "pos": "other",
+  "en": "downward",
+  "expl": "ab (down/away) + -wärts (-ward). Opposite: aufwärts.",
+  "ex_de": "Von dort führt der Weg abwärts ins Tal.",
+  "ex_en": "From there the path leads down into the valley."
+ },
+ {
+  "head": "abwaschen",
+  "pos": "verb",
+  "verb": {
+   "p3": "wäscht ab",
+   "praet": "wusch ab",
+   "part": "abgewaschen",
+   "aux": "haben"
+  },
+  "en": "to wash up (dishes)",
+  "expl": "ab + waschen (to wash) → wash the food off the plates. Stem change: er wäscht ab.",
+  "ex_de": "Ich muss noch das Geschirr abwaschen.",
+  "ex_en": "I still have to wash the dishes."
+ },
+ {
+  "head": "abwesend",
+  "pos": "adj",
+  "en": "absent",
+  "expl": "Opposite: anwesend (present). The noun is die Abwesenheit.",
+  "ex_de": "Herr Huber ist bis zum 25. April abwesend.",
+  "ex_en": "Mr Huber is absent until 25 April."
+ },
+ {
+  "head": "achten",
+  "pos": "verb",
+  "verb": {
+   "p3": "achtet",
+   "praet": "achtete",
+   "part": "geachtet",
+   "aux": "haben"
+  },
+  "en": "to pay attention (to); to respect",
+  "expl": "With auf: achten auf = watch out for / pay attention to. Related: die Achtung (attention/respect).",
+  "ex_de": "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.",
+  "ex_en": "Please make sure you lock up when you leave."
+ },
+ {
+  "head": "Achtung",
+  "pos": "other",
+  "en": "Attention! / Watch out!",
+  "expl": "The noun of achten, used as an exclamation — very common on signs and announcements.",
+  "ex_de": "Achtung, hier endet die Straße!",
+  "ex_en": "Caution, the road ends here!"
+ },
+ {
+  "head": "Adresse",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Adressen",
+  "en": "address",
+  "expl": "Cognate. Nouns ending in -e are usually feminine → die.",
+  "ex_de": "Hast du schon meine neue Adresse?",
+  "ex_en": "Do you have my new address yet?"
+ },
+ {
+  "head": "ähnlich",
+  "pos": "adj",
+  "en": "similar",
+  "expl": "Used with dative: jemandem ähnlich sein = to resemble someone. Noun: die Ähnlichkeit.",
+  "ex_de": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
+  "ex_en": "Emilia is in a very similar situation to me.",
+  "harder_de": "Oleg sieht seinem Bruder sehr ähnlich.",
+  "harder_en": "Oleg looks a lot like his brother.",
+  "compar": "ähnlicher",
+  "superl": "am ähnlichsten"
+ },
+ {
+  "head": "Ahnung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": null,
+  "en": "idea, clue",
+  "expl": "Lives in the phrase keine Ahnung = 'no idea'. From ahnen (to sense/suspect). Feminine.",
+  "ex_de": "Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
+  "ex_en": "I had no idea it was your birthday today."
+ },
+ {
+  "head": "Aktion",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aktionen",
+  "en": "campaign, action, promotion",
+  "expl": "Cognate.",
+  "ex_de": "Die Stadt sollte eine Aktion für Familien planen.",
+  "ex_en": "The city should plan a campaign for families."
+ },
+ {
+  "head": "aktiv",
+  "pos": "adj",
+  "en": "active",
+  "expl": "Cognate. Opposite: passiv. Noun: die Aktivität.",
+  "ex_de": "Ich bin sehr aktiv und mache viel Sport.",
+  "ex_en": "I'm very active and do a lot of sport."
+ },
+ {
+  "head": "Aktivität",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aktivitäten",
+  "en": "activity",
+  "expl": "Noun form of aktiv.",
+  "ex_de": "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten.",
+  "ex_en": "During the holidays the city offers children various leisure activities."
+ },
+ {
+  "head": "aktuell",
+  "pos": "adj",
+  "en": "current, topical, up-to-date",
+  "expl": "FALSE FRIEND: aktuell does NOT mean 'actual'. For 'actually' use eigentlich.",
+  "ex_de": "Umweltschutz ist ein aktuelles Thema.",
+  "ex_en": "Environmental protection is a topical issue.",
+  "compar": "aktueller",
+  "superl": "am aktuellsten"
+ },
+ {
+  "head": "akzeptieren",
+  "pos": "verb",
+  "verb": {
+   "p3": "akzeptiert",
+   "praet": "akzeptierte",
+   "part": "akzeptiert",
+   "aux": "haben"
+  },
+  "en": "to accept",
+  "expl": "-ieren verb — NO ge- in the participle: akzeptiert, not *geakzeptiert.",
+  "ex_de": "Ich kann diese Bedingungen nicht akzeptieren.",
+  "ex_en": "I can't accept these conditions."
+ },
+ {
+  "head": "Alarm",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Alarme",
+  "en": "alarm",
+  "expl": "Cognate.",
+  "ex_de": "Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen.",
+  "ex_en": "In case of a fire alarm you must not use the lifts."
+ },
+ {
+  "head": "Alkohol",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "alcohol",
+  "expl": "Cognate but note the stress: al-ko-HOL. Masculine, mass noun (no plural).",
+  "ex_de": "Nein, danke! Ich trinke keinen Alkohol.",
+  "ex_en": "No thanks! I don't drink alcohol."
+ },
+ {
+  "head": "all-",
+  "pos": "other",
+  "en": "all, every (stem taking endings)",
+  "expl": "Takes adjective endings: alle, alles, aller-. Fixed phrase: Alles Gute! = All the best!",
+  "ex_de": "Sind alle Kinder da?",
+  "ex_en": "Are all the children here?"
+ },
+ {
+  "head": "allein",
+  "pos": "other",
+  "en": "alone; just/only (for emphasis)",
+  "expl": "Two uses: alone (physical) and 'just/only' as an emphasising word.",
+  "ex_de": "Ich gehe nicht gern allein spazieren.",
+  "ex_en": "I don't like going for walks alone.",
+  "harder_de": "Allein das Essen hat schon über 50 Euro gekostet.",
+  "harder_en": "The food alone already cost over €50."
+ },
+ {
+  "head": "aller-",
+  "pos": "other",
+  "en": "booster prefix for superlatives (the very best, most beautiful of all)",
+  "expl": "allerbeste = the very best; allerschönste = most beautiful of all.",
+  "ex_de": "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst.",
+  "ex_en": "The very best thing is to go to bed and sleep for a long time."
+ },
+ {
+  "head": "allerdings",
+  "pos": "other",
+  "en": "however, though, mind you",
+  "expl": "A softer contrast word than aber.",
+  "ex_de": "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.",
+  "ex_en": "We can meet tomorrow, though I only have time from midday."
+ },
+ {
+  "head": "allgemein",
+  "pos": "adj",
+  "en": "general",
+  "expl": "Phrase: im Allgemeinen = generally, in general.",
+  "ex_de": "Wir haben nur über allgemeine Probleme gesprochen.",
+  "ex_en": "We only talked about general problems.",
+  "harder_de": "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.",
+  "harder_en": "Generally speaking, I'm very satisfied with my work."
+ },
+ {
+  "head": "alltäglich",
+  "pos": "adj",
+  "en": "everyday, ordinary",
+  "expl": "From Alltag (everyday life) + -lich.",
+  "ex_de": "Das alltägliche Leben ist manchmal langweilig.",
+  "ex_en": "Everyday life is sometimes boring.",
+  "harder_de": "Für die meisten Deutschen ist es alltäglich, mit dem Fahrrad zur Arbeit zu fahren.",
+  "harder_en": "For most Germans it's an everyday thing to cycle to work."
+ },
+ {
+  "head": "Alphabet",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Alphabete",
+  "en": "alphabet",
+  "ex_de": "Wie viele Buchstaben hat das Alphabet in Ihrer Sprache?",
+  "ex_en": "How many letters does the alphabet have in your language?",
+  "harder_de": "Das deutsche Alphabet hat vier Buchstaben mehr als das englische, wenn man ä, ö, ü und ß mitzählt.",
+  "harder_en": "The German alphabet has four more letters than English, if you count ä, ö, ü and ß."
+ },
+ {
+  "head": "als",
+  "pos": "other",
+  "en": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "ex_de": "Meine Schwester ist älter als ich.",
+  "ex_en": "My sister is older than me.",
+  "harder_de": "Als mein Mann kam, war die Party schon zu Ende.",
+  "harder_en": "When my husband arrived, the party was already over."
+ },
+ {
+  "head": "als ob",
+  "pos": "other",
+  "en": "as if",
+  "expl": "Triggers Konjunktiv II (subjunctive): als ob + hätte/wäre + past participle.",
+  "ex_de": "Er tut so, als ob wir nie darüber gesprochen hätten.",
+  "ex_en": "He acts as if we'd never talked about it.",
+  "harder_de": "Sie sah aus, als ob sie die ganze Nacht nicht geschlafen hätte.",
+  "harder_en": "She looked as if she hadn't slept all night."
+ },
+ {
+  "head": "also",
+  "pos": "other",
+  "en": "so, therefore; well then",
+  "expl": "Two uses: logical connector ('so/therefore') and opener/filler ('well then...').",
+  "ex_de": "Irina hat Urlaub. Sie kann uns also helfen.",
+  "ex_en": "Irina is on holiday. So she can help us."
+ },
+ {
+  "head": "alt",
+  "pos": "adj",
+  "en": "old",
+  "expl": "Je älter ich werde, desto mehr... = The older I get, the more...",
+  "ex_de": "Maria ist eine alte Freundin von mir.",
+  "ex_en": "Maria is an old friend of mine.",
+  "harder_de": "Je älter ich werde, desto mehr schätze ich meine Ruhe.",
+  "harder_en": "The older I get, the more I appreciate my peace and quiet.",
+  "compar": "älter",
+  "superl": "am ältesten"
+ },
+ {
+  "head": "Alter",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "age",
+  "expl": "No plural as a mass noun. Fixed phrase: im Alter von = at the age of.",
+  "ex_de": "Wir sind etwa im gleichen Alter.",
+  "ex_en": "We're roughly the same age."
+ },
+ {
+  "head": "Altenheim",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Altenheime",
+  "en": "old people's home (synonym: Altersheim)",
+  "ex_de": "Die Großeltern unserer Nachbarn sind im Altenheim.",
+  "ex_en": "Our neighbours' grandparents are in the care home."
+ },
+ {
+  "head": "alternativ",
+  "pos": "adj",
+  "en": "alternative (adjective/adverb)",
+  "ex_de": "Wir brauchen alternative Energien.",
+  "ex_en": "We need alternative energy sources.",
+  "harder_de": "Alternativ könnten wir auch mit dem Zug fahren.",
+  "harder_en": "Alternatively, we could go by train."
+ },
+ {
+  "head": "Alternative",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Alternativen",
+  "en": "alternative (noun)",
+  "ex_de": "Auf dieser Strecke ist der Zug eine gute Alternative zum Flugzeug.",
+  "ex_en": "On this route, the train is a good alternative to the plane."
+ },
+ {
+  "head": "Ampel",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ampeln",
+  "en": "traffic light",
+  "expl": "A high-frequency city word with no English cognate — worth drilling. Feminine.",
+  "ex_de": "Dort an der Ampel kannst du über die Straße gehen.",
+  "ex_en": "You can cross the street there at the traffic light.",
+  "harder_de": "An dieser Kreuzung schaltet die Ampel viel zu schnell auf Rot.",
+  "harder_en": "At this junction, the light switches to red far too quickly."
+ },
+ {
+  "head": "Amt",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Ämter",
+  "en": "(government) office, authority",
+  "expl": "Arbeitsamt = employment office. Key word for German bureaucracy.",
+  "ex_de": "Das Arbeitsamt befindet sich neben dem Busbahnhof.",
+  "ex_en": "The employment office is next to the bus station.",
+  "harder_de": "Für die Anmeldung müssen Sie persönlich beim Amt vorbeikommen.",
+  "harder_en": "For the registration you have to go to the office in person."
+ },
+ {
+  "head": "sich amüsieren",
+  "pos": "verb",
+  "verb": {
+   "p3": "amüsiert sich",
+   "praet": "amüsierte sich",
+   "part": "amüsiert",
+   "aux": "haben"
+  },
+  "en": "to have fun, enjoy oneself",
+  "expl": "Reflexive -ieren verb. No ge- in participle.",
+  "ex_de": "Bei dem Fest haben wir uns sehr gut amüsiert.",
+  "ex_en": "We had a great time at the party.",
+  "harder_de": "Die Kinder amüsieren sich prächtig, während die Eltern sich um alles kümmern müssen.",
+  "harder_en": "The kids are having a wonderful time, while the parents have to take care of everything."
+ },
+ {
+  "head": "an",
+  "pos": "other",
+  "en": "at, on; also 'switched on'",
+  "expl": "Preposition with many roles. As an adverb: das Licht ist an = the light is on.",
+  "ex_de": "Ich warte am Bahnhof auf dich.",
+  "ex_en": "I'll wait for you at the station.",
+  "harder_de": "An solchen Tagen frage ich mich, ob sich der ganze Stress überhaupt lohnt.",
+  "harder_en": "On days like this, I ask myself whether all the stress is even worth it."
+ },
+ {
+  "head": "analysieren",
+  "pos": "verb",
+  "verb": {
+   "p3": "analysiert",
+   "praet": "analysierte",
+   "part": "analysiert",
+   "aux": "haben"
+  },
+  "en": "to analyze",
+  "expl": "-ieren verb, no ge- in participle.",
+  "ex_de": "Die Politiker analysieren die Situation auf dem Arbeitsmarkt.",
+  "ex_en": "The politicians are analyzing the job-market situation.",
+  "harder_de": "Bevor wir eine Entscheidung treffen, sollten wir die Zahlen genauer analysieren.",
+  "harder_en": "Before we decide, we should analyze the numbers more closely."
+ },
+ {
+  "head": "anbieten",
+  "pos": "verb",
+  "verb": {
+   "p3": "bietet an",
+   "praet": "bot an",
+   "part": "angeboten",
+   "aux": "haben"
+  },
+  "en": "to offer",
+  "expl": "Separable prefix an- jumps to the end of the sentence.",
+  "ex_de": "Darf ich Ihnen etwas zu trinken anbieten?",
+  "ex_en": "May I offer you something to drink?",
+  "harder_de": "Die Firma bietet ihren Mitarbeitern seit Kurzem auch Homeoffice an.",
+  "harder_en": "The company has recently started offering employees remote work too."
+ },
+ {
+  "head": "Anbieter",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anbieter",
+  "en": "provider, supplier",
+  "ex_de": "Ist das ein privater Telefonanbieter?",
+  "ex_en": "Is that a private phone provider?",
+  "harder_de": "Bevor Sie den Vertrag unterschreiben, sollten Sie die Preise verschiedener Anbieter vergleichen.",
+  "harder_en": "Before signing the contract, you should compare prices from different providers."
+ },
+ {
+  "head": "Angebot",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Angebote",
+  "en": "offer, deal",
+  "ex_de": "Der Käse ist heute im Angebot.",
+  "ex_en": "The cheese is on special offer today.",
+  "harder_de": "Das Angebot klingt zu gut, um wahr zu sein — da wäre ich vorsichtig.",
+  "harder_en": "The offer sounds too good to be true — I'd be careful there."
+ },
+ {
+  "head": "ander-",
+  "pos": "other",
+  "en": "other, different (stem taking adjective endings)",
+  "expl": "Fixed phrase: unter anderem = among other things.",
+  "ex_de": "Ich hätte gern ein anderes Auto.",
+  "ex_en": "I'd like a different car.",
+  "harder_de": "Natascha hat unter anderem Chinesisch und Spanisch gelernt.",
+  "harder_en": "Among other things, Natascha has learned Chinese and Spanish."
+ },
+ {
+  "head": "andererseits",
+  "pos": "other",
+  "en": "on the other hand",
+  "expl": "Pairs with einerseits (on one hand).",
+  "ex_de": "Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen.",
+  "ex_en": "Tarek does want to study, but on the other hand he also wants to earn money right away.",
+  "harder_de": "Einerseits will ich mehr Zeit mit der Familie verbringen, andererseits reizt mich die neue Stelle im Ausland sehr.",
+  "harder_en": "On one hand I want more family time, on the other the new job abroad really appeals to me."
+ },
+ {
+  "head": "ändern",
+  "pos": "verb",
+  "verb": {
+   "p3": "ändert",
+   "praet": "änderte",
+   "part": "geändert",
+   "aux": "haben"
+  },
+  "en": "to change (something)",
+  "ex_de": "Ich habe meine Meinung inzwischen geändert.",
+  "ex_en": "I've changed my mind in the meantime.",
+  "harder_de": "Die Firma hat ihre Rückgabebedingungen letztes Jahr stillschweigend geändert.",
+  "harder_en": "The company quietly changed its return policy last year."
+ },
+ {
+  "head": "Änderung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Änderungen",
+  "en": "change, modification",
+  "ex_de": "Es gibt eine Programmänderung.",
+  "ex_en": "There's a change to the schedule.",
+  "harder_de": "Kleine Änderungen im Vertrag können später große Auswirkungen haben.",
+  "harder_en": "Small changes in a contract can have big consequences later."
+ },
+ {
+  "head": "anders",
+  "pos": "other",
+  "en": "differently (adverb)",
+  "expl": "Adverb — different from ander- (adjective). Compare: ein anderes Auto (adj) vs. ich würde das anders machen (adv).",
+  "ex_de": "Ich würde das anders machen.",
+  "ex_en": "I would do that differently.",
+  "harder_de": "Wenn ich das gewusst hätte, hätte ich vieles anders gemacht.",
+  "harder_en": "If I'd known that, I would have done a lot of things differently."
+ },
+ {
+  "head": "anerkennen",
+  "pos": "verb",
+  "verb": {
+   "p3": "erkennt an",
+   "praet": "erkannte an",
+   "part": "anerkannt",
+   "aux": "haben"
+  },
+  "en": "to recognize, acknowledge formally",
+  "expl": "Participle is anerkannt, no extra ge- (erkennen already starts with inseparable er-).",
+  "ex_de": "Meine Ausbildung wird hier nicht anerkannt.",
+  "ex_en": "My qualification isn't recognized here.",
+  "harder_de": "Viele Länder erkennen ausländische Abschlüsse erst nach einer Prüfung an.",
+  "harder_en": "Many countries only recognize foreign qualifications after an assessment."
+ },
+ {
+  "head": "anfangen",
+  "pos": "verb",
+  "verb": {
+   "p3": "fängt an",
+   "praet": "fing an",
+   "part": "angefangen",
+   "aux": "haben"
+  },
+  "en": "to begin, start",
+  "ex_de": "Wann fängst du mit der Arbeit an?",
+  "ex_en": "When are you starting work?",
+  "harder_de": "Sobald du fertig bist, fangen wir mit der Besprechung an.",
+  "harder_en": "As soon as you're ready, we'll start the meeting."
+ },
+ {
+  "head": "Anfang",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anfänge",
+  "en": "beginning, start",
+  "expl": "Fixed phrases: von Anfang an = from the start; Anfang Juli = early July; Anfang fünfzig = in one's early fifties.",
+  "ex_de": "Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.",
+  "ex_en": "My mother was against it from the start, me moving to Berlin.",
+  "harder_de": "Der Anfang war schwer, aber inzwischen habe ich mich gut eingelebt.",
+  "harder_en": "The start was hard, but by now I've settled in well."
+ },
+ {
+  "head": "anfangs",
+  "pos": "other",
+  "en": "at first, initially",
+  "expl": "Adverb — pairs naturally with mittlerweile (by now).",
+  "ex_de": "Anfangs ging alles gut.",
+  "ex_en": "At first everything went well.",
+  "harder_de": "Anfangs war ich skeptisch, aber mittlerweile bin ich überzeugt.",
+  "harder_en": "At first I was skeptical, but by now I'm convinced."
+ },
+ {
+  "head": "angeben",
+  "pos": "verb",
+  "verb": {
+   "p3": "gibt an",
+   "praet": "gab an",
+   "part": "angegeben",
+   "aux": "haben"
+  },
+  "en": "to state, specify; (colloquial) to show off",
+  "expl": "angeben (mit) = to show off (with). Two very different meanings — context decides.",
+  "ex_de": "Bitte geben Sie Ihre genaue Adresse an.",
+  "ex_en": "Please state your exact address.",
+  "harder_de": "Er gibt gern mit seinem neuen Auto an, aber es gehört gar nicht ihm.",
+  "harder_en": "He likes to show off with his new car, but it doesn't even belong to him."
+ },
+ {
+  "head": "Angabe",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Angaben",
+  "en": "statement, piece of information",
+  "ex_de": "Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.",
+  "ex_en": "We need the following details from you: name, address, date of birth.",
+  "harder_de": "Ohne genaue Angaben zur Herkunft der Ware kann der Zoll die Sendung nicht freigeben.",
+  "harder_en": "Without exact details about the origin of the goods, customs can't release the shipment."
+ },
+ {
+  "head": "Angehörige",
+  "pos": "noun",
+  "gender": "der/die",
+  "plural": "Angehörige",
+  "en": "relative, family member",
+  "expl": "Adjectival noun — its ending shifts with the article, like a regular adjective would.",
+  "ex_de": "Der Arzt darf nur Familienangehörigen Auskunft geben.",
+  "ex_en": "The doctor may only give information to family members.",
+  "harder_de": "Als nächster Angehöriger müssen Sie das Formular unterschreiben.",
+  "harder_en": "As the next of kin, you have to sign the form."
+ },
+ {
+  "head": "angenehm",
+  "pos": "adj",
+  "en": "pleasant",
+  "ex_de": "Wir wünschen Ihnen eine angenehme Reise.",
+  "ex_en": "We wish you a pleasant journey.",
+  "harder_de": "Es wäre mir angenehmer, wenn wir das Gespräch schriftlich führen könnten.",
+  "harder_en": "It would be more comfortable for me if we could have this conversation in writing."
+ },
+ {
+  "head": "Angst",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ängste",
+  "en": "fear",
+  "expl": "Angst haben = to be afraid. Vor etwas Angst haben = to be afraid of something.",
+  "ex_de": "Ich habe Angst, vielleicht ist etwas passiert.",
+  "ex_en": "I'm afraid, maybe something happened.",
+  "harder_de": "Vor der Prüfung hatte ich solche Angst, dass ich kaum schlafen konnte.",
+  "harder_en": "Before the exam I was so afraid I could barely sleep."
+ },
+ {
+  "head": "ängstlich",
+  "pos": "adj",
+  "en": "anxious, fearful (as a trait)",
+  "expl": "The character trait — different from Angst haben (momentary fear).",
+  "ex_de": "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße.",
+  "ex_en": "My mother is a bit anxious. She doesn't like going out alone."
+ },
+ {
+  "head": "anhaben",
+  "pos": "verb",
+  "verb": {
+   "p3": "hat an",
+   "praet": "hatte an",
+   "part": "angehabt",
+   "aux": "haben"
+  },
+  "en": "to have on, be wearing",
+  "expl": "Conjugates exactly like haben — just with an- stuck on.",
+  "ex_de": "Gestern hatte Julia ein rotes Kleid an.",
+  "ex_en": "Yesterday Julia was wearing a red dress.",
+  "harder_de": "Was hattest du eigentlich an, als du sie kennengelernt hast?",
+  "harder_en": "What were you actually wearing when you met her?"
+ },
+ {
+  "head": "anklicken",
+  "pos": "verb",
+  "verb": {
+   "p3": "klickt an",
+   "praet": "klickte an",
+   "part": "angeklickt",
+   "aux": "haben"
+  },
+  "en": "to click on",
+  "ex_de": "Du musst das Bild anklicken. Dann wird es größer.",
+  "ex_en": "You have to click on the picture. Then it gets bigger."
+ },
+ {
+  "head": "ankommen",
+  "pos": "verb",
+  "verb": {
+   "p3": "kommt an",
+   "praet": "kam an",
+   "part": "angekommen",
+   "aux": "sein"
+  },
+  "en": "to arrive; (idiom) to matter/depend on",
+  "expl": "Fixed idiom: es kommt darauf an = it depends. Memorize as one chunk.",
+  "ex_de": "Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen.",
+  "ex_en": "In this game it depends on running faster than the others.",
+  "harder_de": "Es kommt darauf an, wie viel Zeit wir haben.",
+  "harder_en": "It depends on how much time we have."
+ },
+ {
+  "head": "Ankunft",
+  "pos": "noun",
+  "gender": "die",
+  "plural": null,
+  "en": "arrival",
+  "ex_de": "Gleich nach der Ankunft habe ich meine Eltern angerufen.",
+  "ex_en": "Right after arrival I called my parents."
+ },
+ {
+  "head": "ankündigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "kündigt an",
+   "praet": "kündigte an",
+   "part": "angekündigt",
+   "aux": "haben"
+  },
+  "en": "to announce",
+  "ex_de": "Wir sollten unseren Besuch ankündigen.",
+  "ex_en": "We should announce our visit.",
+  "harder_de": "Die Regierung hat neue Maßnahmen angekündigt, die ab nächstem Monat gelten sollen.",
+  "harder_en": "The government has announced new measures set to take effect next month."
+ },
+ {
+  "head": "Anlage",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Anlagen",
+  "en": "system/facility; email attachment",
+  "expl": "In der Anlage = in the attachment (email). Very useful for work correspondence.",
+  "ex_de": "In der Anlage der E-Mail finden Sie meinen Lebenslauf.",
+  "ex_en": "You'll find my CV in the attachment of the email.",
+  "harder_de": "Bitte prüfen Sie die Anlage und geben Sie mir bis Freitag Bescheid.",
+  "harder_en": "Please check the attachment and let me know by Friday."
+ },
+ {
+  "head": "Anleitung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Anleitungen",
+  "en": "instructions, manual",
+  "ex_de": "In der Anleitung steht, dass bei diesem Spiel der Älteste beginnt.",
+  "ex_en": "The instructions say that in this game the oldest person starts."
+ },
+ {
+  "head": "anmelden",
+  "pos": "verb",
+  "verb": {
+   "p3": "meldet an",
+   "praet": "meldete an",
+   "part": "angemeldet",
+   "aux": "haben"
+  },
+  "en": "to register (often reflexive: sich anmelden)",
+  "expl": "sich anmelden = to register oneself. Very useful for German bureaucracy and course enrollment.",
+  "ex_de": "Für diesen Kurs müssen Sie sich unbedingt vorher anmelden.",
+  "ex_en": "You definitely have to register for this course beforehand.",
+  "harder_de": "Ich habe mich für den Deutschkurs schon vor Wochen angemeldet, aber noch keine Bestätigung bekommen.",
+  "harder_en": "I registered for the German course weeks ago, but haven't gotten a confirmation yet."
+ },
+ {
+  "head": "Anmeldung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Anmeldungen",
+  "en": "registration; reception desk",
+  "ex_de": "Die Anmeldung ist im Erdgeschoss, Zimmer 55.",
+  "ex_en": "Reception is on the ground floor, room 55."
+ },
+ {
+  "head": "annehmen",
+  "pos": "verb",
+  "verb": {
+   "p3": "nimmt an",
+   "praet": "nahm an",
+   "part": "angenommen",
+   "aux": "haben"
+  },
+  "en": "to accept; to assume/suppose",
+  "expl": "Two senses: accept an offer, or assume something is true.",
+  "ex_de": "Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind.",
+  "ex_en": "I assume you agree with the proposal.",
+  "harder_de": "Ich nehme mal an, dass du das schon weißt, aber sicherheitshalber sage ich es trotzdem.",
+  "harder_en": "I'll assume you already know that, but I'll say it anyway just to be safe."
+ },
+ {
+  "head": "Annonce",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Annoncen",
+  "en": "classified ad",
+  "ex_de": "Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer.",
+  "ex_en": "I've read all the classified ads, but the apartments are too expensive."
+ },
+ {
+  "head": "Anrede",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Anreden",
+  "en": "salutation (in a letter)",
+  "ex_de": "Du darfst im Brief die Anrede nicht vergessen.",
+  "ex_en": "Don't forget the salutation in the letter."
+ },
+ {
+  "head": "anrufen",
+  "pos": "verb",
+  "verb": {
+   "p3": "ruft an",
+   "praet": "rief an",
+   "part": "angerufen",
+   "aux": "haben"
+  },
+  "en": "to phone, call",
+  "ex_de": "Ich rufe Sie heute Abend an.",
+  "ex_en": "I'll call you this evening."
+ },
+ {
+  "head": "Anruf",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anrufe",
+  "en": "phone call",
+  "ex_de": "Ich warte auf einen Anruf aus Berlin.",
+  "ex_en": "I'm waiting for a call from Berlin."
+ },
+ {
+  "head": "Anrufbeantworter",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anrufbeantworter",
+  "en": "answering machine",
+  "ex_de": "Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen.",
+  "ex_en": "I left you a message on the answering machine."
+ },
+ {
+  "head": "Ansage",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ansagen",
+  "en": "announcement (spoken, e.g. over a PA system)",
+  "ex_de": "Achten Sie auf die Ansage am Bahnsteig.",
+  "ex_en": "Pay attention to the announcement on the platform."
+ },
+ {
+  "head": "anschaffen",
+  "pos": "verb",
+  "verb": {
+   "p3": "schafft an",
+   "praet": "schaffte an",
+   "part": "angeschafft",
+   "aux": "haben"
+  },
+  "en": "to acquire, buy (something bigger/lasting)",
+  "expl": "sich (Dat.) etwas anschaffen = to get something for yourself.",
+  "ex_de": "Wir haben uns neue Möbel angeschafft.",
+  "ex_en": "We've bought ourselves new furniture.",
+  "harder_de": "Bevor wir uns einen Hund anschaffen, sollten wir wirklich sicher sein, dass wir genug Zeit haben.",
+  "harder_en": "Before we get a dog, we should really be sure we have enough time."
+ },
+ {
+  "head": "anschließen",
+  "pos": "verb",
+  "verb": {
+   "p3": "schließt an",
+   "praet": "schloss an",
+   "part": "angeschlossen",
+   "aux": "haben"
+  },
+  "en": "to connect, plug in",
+  "ex_de": "Wo kann ich den Computer anschließen?",
+  "ex_en": "Where can I plug in the computer?"
+ },
+ {
+  "head": "Anschluss",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anschlüsse",
+  "en": "connection (transport or utility)",
+  "expl": "den Anschluss verpassen = to miss the connection.",
+  "ex_de": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+  "ex_en": "In Mannheim you have a connection to Saarbrücken.",
+  "harder_de": "Wir haben unseren Anschluss in Frankfurt knapp verpasst, weil unser erster Zug Verspätung hatte.",
+  "harder_en": "We just missed our connection in Frankfurt because our first train was delayed."
+ },
+ {
+  "head": "anschnallen",
+  "pos": "verb",
+  "verb": {
+   "p3": "schnallt an",
+   "praet": "schnallte an",
+   "part": "angeschnallt",
+   "aux": "haben"
+  },
+  "en": "to buckle up",
+  "expl": "Note the zu wedged inside in infinitive: an-zu-schnallen — standard for separable verbs.",
+  "ex_de": "Vergiss nicht, dich anzuschnallen.",
+  "ex_en": "Don't forget to buckle up."
+ },
+ {
+  "head": "ansehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "sieht an",
+   "praet": "sah an",
+   "part": "angesehen",
+   "aux": "haben"
+  },
+  "en": "to look at",
+  "expl": "sich (Dat.) etwas ansehen = to take a look at something.",
+  "ex_de": "Darf ich eure Urlaubsfotos ansehen?",
+  "ex_en": "May I look at your holiday photos?",
+  "harder_de": "Ich habe mir die Sache noch mal in Ruhe angesehen und bin jetzt anderer Meinung.",
+  "harder_en": "I looked at the matter again calmly and now I have a different opinion."
+ },
+ {
+  "head": "ansprechen",
+  "pos": "verb",
+  "verb": {
+   "p3": "spricht an",
+   "praet": "sprach an",
+   "part": "angesprochen",
+   "aux": "haben"
+  },
+  "en": "to approach, speak to someone",
+  "ex_de": "Gestern hat mich unsere neue Nachbarin im Treppenhaus angesprochen.",
+  "ex_en": "Yesterday our new neighbour spoke to me in the stairwell."
+ },
+ {
+  "head": "Anspruch",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ansprüche",
+  "en": "claim, entitlement",
+  "expl": "Anspruch auf + accusative = entitlement to. Key for employment/benefits German.",
+  "ex_de": "Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld.",
+  "ex_en": "You live downtown, so you're not entitled to travel money.",
+  "harder_de": "Nach fünf Jahren im Betrieb haben Sie Anspruch auf zusätzlichen Urlaub.",
+  "harder_en": "After five years at the company you're entitled to extra leave."
+ },
+ {
+  "head": "anstellen",
+  "pos": "verb",
+  "verb": {
+   "p3": "stellt an",
+   "praet": "stellte an",
+   "part": "angestellt",
+   "aux": "haben"
+  },
+  "en": "to switch on; to employ; (reflexive) to queue up",
+  "expl": "Three unrelated meanings — always check context.",
+  "ex_de": "Mein Schwager ist bei einer Möbelfirma angestellt.",
+  "ex_en": "My brother-in-law is employed at a furniture company.",
+  "harder_de": "Wir mussten uns fast eine Stunde anstellen, bevor wir überhaupt reinkonnten.",
+  "harder_en": "We had to queue for almost an hour before we could even get in."
+ },
+ {
+  "head": "Angestellte",
+  "pos": "noun",
+  "gender": "der/die",
+  "plural": "Angestellte",
+  "en": "employee",
+  "expl": "Adjectival noun — like Angehörige, endings shift with the article.",
+  "ex_de": "Björn ist Angestellter in einem Reisebüro.",
+  "ex_en": "Björn is an employee at a travel agency.",
+  "harder_de": "Als Angestellter hat man in Deutschland meist mehr Kündigungsschutz als als Selbstständiger.",
+  "harder_en": "As an employee, you usually have more protection against dismissal than as a self-employed person."
+ },
+ {
+  "head": "sich anstrengen",
+  "pos": "verb",
+  "verb": {
+   "p3": "strengt sich an",
+   "praet": "strengte sich an",
+   "part": "angestrengt",
+   "aux": "haben"
+  },
+  "en": "to make an effort, exert oneself",
+  "expl": "Always reflexive. es hat nicht gereicht = it wasn't enough.",
+  "ex_de": "Wenn du die Prüfung schaffen willst, musst du dich mehr anstrengen.",
+  "ex_en": "If you want to pass the exam, you have to make more effort.",
+  "harder_de": "Ich habe mich wirklich angestrengt, aber am Ende hat es trotzdem nicht gereicht.",
+  "harder_en": "I really made an effort, but in the end it still wasn't enough."
+ },
+ {
+  "head": "anstrengend",
+  "pos": "adj",
+  "en": "tiring, strenuous",
+  "expl": "Adjective from anstrengen.",
+  "ex_de": "Ich finde diese Arbeit sehr anstrengend.",
+  "ex_en": "I find this work very tiring.",
+  "harder_de": "Es war ein anstrengender Tag, aber es hat sich gelohnt.",
+  "harder_en": "It was an exhausting day, but it was worth it."
+ },
+ {
+  "head": "Antrag",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anträge",
+  "en": "application, application form",
+  "expl": "einen Antrag stellen = to submit an application — worth learning as one chunk.",
+  "ex_de": "Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?",
+  "ex_en": "Have you already filled out an application for housing benefit?",
+  "harder_de": "Der Antrag auf Kindergeld muss schriftlich bei der Familienkasse gestellt werden.",
+  "harder_en": "The application for child benefit has to be submitted in writing to the family benefits office."
+ },
+ {
+  "head": "anwenden",
+  "pos": "verb",
+  "verb": {
+   "p3": "wendet an",
+   "praet": "wandte an",
+   "part": "angewandt",
+   "aux": "haben"
+  },
+  "en": "to apply, use",
+  "expl": "Two accepted past forms: wandte/angewandt or wendete/angewendet — both correct.",
+  "ex_de": "Diese Salbe muss man dreimal am Tag anwenden.",
+  "ex_en": "This ointment has to be applied three times a day.",
+  "harder_de": "Die neue Methode lässt sich auch auf andere Bereiche anwenden.",
+  "harder_en": "The new method can also be applied to other areas."
+ },
+ {
+  "head": "anwesend",
+  "pos": "adj",
+  "en": "present (opposite of abwesend)",
+  "ex_de": "Bei dem Treffen waren alle Mitglieder anwesend.",
+  "ex_en": "All members were present at the meeting."
+ },
+ {
+  "head": "antworten",
+  "pos": "verb",
+  "verb": {
+   "p3": "antwortet",
+   "praet": "antwortete",
+   "part": "geantwortet",
+   "aux": "haben"
+  },
+  "en": "to answer",
+  "expl": "Takes dative for the person; 'auf' for the thing being answered.",
+  "ex_de": "Jorge hat seit drei Wochen nicht auf meinen Brief geantwortet.",
+  "ex_en": "Jorge hasn't answered my letter in three weeks.",
+  "harder_de": "Ich habe ihr sofort geantwortet, aber bis heute keine Reaktion bekommen.",
+  "harder_en": "I answered her right away, but haven't gotten a response to this day."
+ },
+ {
+  "head": "Antwort",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Antworten",
+  "en": "answer",
+  "ex_de": "Leider habe ich keine Antwort bekommen.",
+  "ex_en": "Unfortunately I haven't gotten an answer."
+ },
+ {
+  "head": "Anwalt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anwälte",
+  "en": "lawyer",
+  "expl": "Feminine: die Anwältin (pl. Anwältinnen).",
+  "ex_de": "Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.",
+  "ex_en": "I won't pay that. I want to speak with my lawyer first.",
+  "harder_de": "Ohne einen Anwalt würde ich diesen Vertrag nicht unterschreiben.",
+  "harder_en": "I wouldn't sign this contract without a lawyer."
+ },
+ {
+  "head": "anzeigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "zeigt an",
+   "praet": "zeigte an",
+   "part": "angezeigt",
+   "aux": "haben"
+  },
+  "en": "to report (to police); to display",
+  "expl": "bei der Polizei anzeigen = to report to the police.",
+  "ex_de": "Wenn Sie hier parken, zeige ich Sie an.",
+  "ex_en": "If you park here, I'll report you."
+ },
+ {
+  "head": "Anzeige",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Anzeigen",
+  "en": "ad/listing; police report or citation",
+  "expl": "Two unrelated meanings — classified ad vs. citation. Context decides.",
+  "ex_de": "Hier dürfen Sie nicht parken, sonst bekommen Sie eine Anzeige.",
+  "ex_en": "You can't park here, or you'll get a citation.",
+  "harder_de": "Ich habe eine Anzeige für eine möblierte Wohnung im Zentrum gefunden.",
+  "harder_en": "I found a listing for a furnished apartment downtown."
+ },
+ {
+  "head": "(sich) anziehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "zieht an",
+   "praet": "zog an",
+   "part": "angezogen",
+   "aux": "haben"
+  },
+  "en": "to get dressed / put on clothes (reflexive); to attract",
+  "expl": "Reflexive: zieh dich an = get dressed. Also: jemanden anziehen = to attract someone.",
+  "ex_de": "Heute ziehe ich mein neues T-Shirt an.",
+  "ex_en": "Today I'm putting on my new T-shirt.",
+  "harder_de": "Zieh dich warm an, es soll heute Nacht sehr kalt werden.",
+  "harder_en": "Dress warmly, it's supposed to get very cold tonight."
+ },
+ {
+  "head": "Anzug",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Anzüge",
+  "en": "suit",
+  "ex_de": "Mein Mann hat sich einen neuen Anzug gekauft.",
+  "ex_en": "My husband bought himself a new suit."
+ },
+ {
+  "head": "Apartment",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Apartments",
+  "en": "apartment (usually smaller/furnished)",
+  "ex_de": "Wir haben ein Ferienapartment gemietet.",
+  "ex_en": "We rented a holiday apartment."
+ },
+ {
+  "head": "Apfel",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Äpfel",
+  "en": "apple",
+  "ex_de": "Zum Frühstück esse ich jeden Tag einen Apfel.",
+  "ex_en": "I eat an apple every day for breakfast."
+ },
+ {
+  "head": "Apotheke",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Apotheken",
+  "en": "pharmacy",
+  "ex_de": "Ist hier in der Nähe eine Apotheke?",
+  "ex_en": "Is there a pharmacy nearby?"
+ },
+ {
+  "head": "Apparat",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Apparate",
+  "en": "device, apparatus",
+  "expl": "Also in compounds: Fotoapparat = camera.",
+  "ex_de": "Wo ist mein Fotoapparat?",
+  "ex_en": "Where's my camera?"
+ },
+ {
+  "head": "Appetit",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "appetite",
+  "expl": "Fixed phrase: Guten Appetit! = Enjoy your meal!",
+  "ex_de": "Ich habe heute keinen Appetit. Ich mag nichts essen.",
+  "ex_en": "I have no appetite today. I don't want to eat anything."
+ },
+ {
+  "head": "Aprikose",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aprikosen",
+  "en": "apricot",
+  "expl": "Germany/Switzerland: Aprikose. Austria: Marille.",
+  "ex_de": "Schmecken dir die Aprikosen?",
+  "ex_en": "Do you like the taste of the apricots?"
+ },
+ {
+  "head": "arbeiten",
+  "pos": "verb",
+  "verb": {
+   "p3": "arbeitet",
+   "praet": "arbeitete",
+   "part": "gearbeitet",
+   "aux": "haben"
+  },
+  "en": "to work",
+  "expl": "German uses present tense with seit for ongoing actions: Ich arbeite seit 10 Jahren hier.",
+  "ex_de": "Arzu arbeitet als Krankenschwester im Krankenhaus.",
+  "ex_en": "Arzu works as a nurse in the hospital.",
+  "harder_de": "Ich arbeite seit über zehn Jahren in derselben Firma, aber die Aufgaben ändern sich ständig.",
+  "harder_en": "I've been working at the same company for over ten years, but the tasks keep changing."
+ },
+ {
+  "head": "Arbeit",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Arbeiten",
+  "en": "work, job",
+  "ex_de": "Nach der Ausbildung hat Mohamed eine Arbeit gefunden.",
+  "ex_en": "After his training, Mohamed found a job."
+ },
+ {
+  "head": "Arbeiter",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Arbeiter",
+  "en": "worker (manual/industrial labor)",
+  "expl": "Feminine: Arbeiterin. Compare with Angestellte (office staff) — different social register.",
+  "ex_de": "Maria ist seit zwei Jahren Arbeiterin bei Siemens.",
+  "ex_en": "Maria has been a worker at Siemens for two years."
+ },
+ {
+  "head": "Arbeitserlaubnis",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Arbeitserlaubnisse",
+  "en": "work permit",
+  "ex_de": "Haben Sie eine Arbeitserlaubnis?",
+  "ex_en": "Do you have a work permit?"
+ },
+ {
+  "head": "arbeitslos",
+  "pos": "adj",
+  "en": "unemployed",
+  "ex_de": "Wie lange sind Sie schon arbeitslos?",
+  "ex_en": "How long have you been unemployed?"
+ },
+ {
+  "head": "Arbeitslosigkeit",
+  "pos": "noun",
+  "gender": "die",
+  "plural": null,
+  "en": "unemployment",
+  "ex_de": "Die Arbeitslosigkeit ist gesunken.",
+  "ex_en": "Unemployment has fallen.",
+  "harder_de": "Die hohe Arbeitslosigkeit in der Region macht vielen jungen Leuten Sorgen.",
+  "harder_en": "The high unemployment in the region worries a lot of young people."
+ },
+ {
+  "head": "Arbeitsplatz",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Arbeitsplätze",
+  "en": "job, workplace",
+  "ex_de": "In der Industrie gibt es immer weniger Arbeitsplätze.",
+  "ex_en": "There are fewer and fewer jobs in industry."
+ },
+ {
+  "head": "Arbeitsstelle",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Arbeitsstellen",
+  "en": "job, position (near-synonym of Arbeitsplatz)",
+  "ex_de": "Meine Frau hat eine neue Arbeitsstelle gefunden.",
+  "ex_en": "My wife found a new job."
+ },
+ {
+  "head": "Architekt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Architekten",
+  "en": "architect",
+  "expl": "Feminine: Architektin.",
+  "ex_de": "Dieses Haus hat eine berühmte Architektin gebaut.",
+  "ex_en": "A famous architect built this house."
+ },
+ {
+  "head": "(sich) ärgern",
+  "pos": "verb",
+  "verb": {
+   "p3": "ärgert",
+   "praet": "ärgerte",
+   "part": "geärgert",
+   "aux": "haben"
+  },
+  "en": "to annoy (someone); reflexive: to get annoyed",
+  "expl": "sich ärgern über + accusative = to be annoyed about.",
+  "ex_de": "Mein Bruder hat mich schon als Kind immer geärgert.",
+  "ex_en": "My brother always annoyed me even as a child.",
+  "harder_de": "Ärgere dich nicht über solche Kleinigkeiten, das lohnt sich nicht.",
+  "harder_en": "Don't get worked up over such little things, it's not worth it."
+ },
+ {
+  "head": "Ärger",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "trouble, hassle",
+  "ex_de": "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
+  "ex_en": "I had trouble at the office today. I had an argument with a colleague."
+ },
+ {
+  "head": "ärgerlich",
+  "pos": "adj",
+  "en": "annoying",
+  "ex_de": "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich.",
+  "ex_en": "The train is delayed again. That's really annoying."
+ },
+ {
+  "head": "arm",
+  "pos": "adj",
+  "en": "poor",
+  "ex_de": "Die Regierung hilft armen Nachbarländern.",
+  "ex_en": "The government helps poor neighbouring countries.",
+  "harder_de": "Viele Familien sind trotz Vollzeitarbeit arm, weil die Löhne zu niedrig sind.",
+  "harder_en": "Many families are poor despite working full-time because wages are too low.",
+  "compar": "ärmer",
+  "superl": "am ärmsten"
+ },
+ {
+  "head": "Arm",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Arme",
+  "en": "arm",
+  "ex_de": "Mein Freund hat sich den Arm gebrochen.",
+  "ex_en": "My friend broke his arm."
+ },
+ {
+  "head": "Art",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Arten",
+  "en": "kind, type; manner, way; species",
+  "expl": "Fixed phrase: Art und Weise = manner/way.",
+  "ex_de": "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
+  "ex_en": "The zoo has 34 different species of birds.",
+  "harder_de": "Auf diese Art und Weise kommen wir nie zu einer Lösung.",
+  "harder_en": "This way, we'll never reach a solution."
+ },
+ {
+  "head": "Artikel",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Artikel",
+  "en": "article (written piece, or grammatical der/die/das)",
+  "ex_de": "Im Deutschen gibt es drei Artikel: der, die, das.",
+  "ex_en": "In German there are three articles: der, die, das."
+ },
+ {
+  "head": "Arzt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ärzte",
+  "en": "doctor",
+  "expl": "Feminine: Ärztin. zum Arzt = to the doctor.",
+  "ex_de": "Ich muss heute zum Arzt.",
+  "ex_en": "I have to go to the doctor today."
+ },
+ {
+  "head": "Asyl",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "asylum",
+  "ex_de": "Die Menschen sind auf der Flucht und bitten um Asyl.",
+  "ex_en": "The people are fleeing and requesting asylum."
+ },
+ {
+  "head": "atmen",
+  "pos": "verb",
+  "verb": {
+   "p3": "atmet",
+   "praet": "atmete",
+   "part": "geatmet",
+   "aux": "haben"
+  },
+  "en": "to breathe",
+  "ex_de": "Er hat eine Erkältung und kann nicht durch die Nase atmen.",
+  "ex_en": "He has a cold and can't breathe through his nose."
+ },
+ {
+  "head": "Atem",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "breath",
+  "ex_de": "Bitte den Atem anhalten.",
+  "ex_en": "Please hold your breath."
+ },
+ {
+  "head": "auch",
+  "pos": "other",
+  "en": "also, too; even",
+  "expl": "As a flavour particle with reproach: Warum kommst du auch so spät! = Why do you always have to be so late!",
+  "ex_de": "Wir fahren auf jeden Fall, auch wenn es regnet.",
+  "ex_en": "We're going in any case, even if it rains."
+ },
+ {
+  "head": "auf",
+  "pos": "other",
+  "en": "on, at, in; 'open' (door is auf)",
+  "expl": "Also: auf etwas reagieren = to respond to something.",
+  "ex_de": "Deine Brille liegt auf dem Schreibtisch.",
+  "ex_en": "Your glasses are on the desk.",
+  "harder_de": "Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.",
+  "harder_en": "Nobody has responded to our ad in the evening paper yet."
+ },
+ {
+  "head": "Aufenthalt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Aufenthalte",
+  "en": "stay, stopover",
+  "ex_de": "Der Zug hat in München nur 20 Minuten Aufenthalt.",
+  "ex_en": "The train only has a 20-minute stopover in Munich."
+ },
+ {
+  "head": "auffallen",
+  "pos": "verb",
+  "verb": {
+   "p3": "fällt auf",
+   "praet": "fiel auf",
+   "part": "aufgefallen",
+   "aux": "sein"
+  },
+  "en": "to catch one's attention, stand out",
+  "expl": "mir ist aufgefallen, dass... = I noticed that... (the thing noticed is the grammatical subject; mir is dative).",
+  "ex_de": "Mir ist aufgefallen, dass Harriett ganz blass ist.",
+  "ex_en": "I noticed that Harriett is quite pale.",
+  "harder_de": "Es ist mir aufgefallen, dass du in letzter Zeit viel gestresster wirkst als sonst.",
+  "harder_en": "I've noticed you've seemed a lot more stressed than usual lately."
+ },
+ {
+  "head": "auffordern",
+  "pos": "verb",
+  "verb": {
+   "p3": "fordert auf",
+   "praet": "forderte auf",
+   "part": "aufgefordert",
+   "aux": "haben"
+  },
+  "en": "to request, prompt, urge",
+  "expl": "jemanden auffordern, etwas zu tun = to urge someone to do something.",
+  "ex_de": "Er fordert sie zum Tanz auf.",
+  "ex_en": "He asks her to dance.",
+  "harder_de": "Der Chef hat mich aufgefordert, den Bericht bis Freitag fertigzustellen.",
+  "harder_en": "The boss urged me to finish the report by Friday."
+ },
+ {
+  "head": "Aufforderung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aufforderungen",
+  "en": "request, formal prompt",
+  "ex_de": "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen.",
+  "ex_en": "You'll receive a request to pay the amount by June."
+ },
+ {
+  "head": "aufführen",
+  "pos": "verb",
+  "verb": {
+   "p3": "führt auf",
+   "praet": "führte auf",
+   "part": "aufgeführt",
+   "aux": "haben"
+  },
+  "en": "to perform (a play)",
+  "ex_de": "Die Kinder führen zu Weihnachten ein Theaterstück auf.",
+  "ex_en": "The children are performing a play at Christmas."
+ },
+ {
+  "head": "Aufgabe",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aufgaben",
+  "en": "task, homework, duty",
+  "ex_de": "Das ist nicht meine Aufgabe.",
+  "ex_en": "That's not my job."
+ },
+ {
+  "head": "aufgeben",
+  "pos": "verb",
+  "verb": {
+   "p3": "gibt auf",
+   "praet": "gab auf",
+   "part": "aufgegeben",
+   "aux": "haben"
+  },
+  "en": "to give up; to mail a package",
+  "expl": "Two unrelated meanings — giving up, and posting a package at the post office.",
+  "ex_de": "Man darf nie aufgeben. Es gibt immer eine Hoffnung.",
+  "ex_en": "You should never give up. There's always hope.",
+  "harder_de": "Ich habe auf der Post ein Paket aufgegeben.",
+  "harder_en": "I posted a package at the post office."
+ },
+ {
+  "head": "aufhalten",
+  "pos": "verb",
+  "verb": {
+   "p3": "hält auf",
+   "praet": "hielt auf",
+   "part": "aufgehalten",
+   "aux": "haben"
+  },
+  "en": "to delay, hold up; (reflexive) to be staying somewhere",
+  "expl": "sich aufhalten = to be located/staying — different from the non-reflexive meaning.",
+  "ex_de": "Entschuldigen Sie die Verspätung, ich wurde aufgehalten.",
+  "ex_en": "Sorry for the delay, I was held up.",
+  "harder_de": "Wo hält er sich gerade auf? – In München.",
+  "harder_en": "Where is he currently staying? – In Munich."
+ },
+ {
+  "head": "aufheben",
+  "pos": "verb",
+  "verb": {
+   "p3": "hebt auf",
+   "praet": "hob auf",
+   "part": "aufgehoben",
+   "aux": "haben"
+  },
+  "en": "to pick up; to keep/preserve",
+  "expl": "Same verb, two senses: physically picking something up, and safekeeping a document.",
+  "ex_de": "Die Quittung müssen Sie gut aufheben.",
+  "ex_en": "You need to keep the receipt safe."
+ },
+ {
+  "head": "aufhören",
+  "pos": "verb",
+  "verb": {
+   "p3": "hört auf",
+   "praet": "hörte auf",
+   "part": "aufgehört",
+   "aux": "haben"
+  },
+  "en": "to stop, end",
+  "ex_de": "Es hört nicht auf zu schneien.",
+  "ex_en": "It won't stop snowing."
+ },
+ {
+  "head": "aufladen",
+  "pos": "verb",
+  "verb": {
+   "p3": "lädt auf",
+   "praet": "lud auf",
+   "part": "aufgeladen",
+   "aux": "haben"
+  },
+  "en": "to charge (a battery)",
+  "ex_de": "Ich muss mein Telefon aufladen. Die Batterie ist leer.",
+  "ex_en": "I have to charge my phone. The battery is dead."
+ },
+ {
+  "head": "auflösen",
+  "pos": "verb",
+  "verb": {
+   "p3": "löst auf",
+   "praet": "löste auf",
+   "part": "aufgelöst",
+   "aux": "haben"
+  },
+  "en": "to dissolve; (reflexive) to break up (group)",
+  "expl": "sich auflösen = to dissolve/break up — used for groups too, not just substances.",
+  "ex_de": "Die Tablette bitte in Wasser auflösen.",
+  "ex_en": "Please dissolve the tablet in water.",
+  "harder_de": "Nach dem Streit hat sich die Band leider aufgelöst.",
+  "harder_en": "After the argument, the band unfortunately broke up."
+ },
+ {
+  "head": "aufmerksam",
+  "pos": "adj",
+  "en": "attentive",
+  "expl": "jemanden auf etwas aufmerksam machen = to point something out to someone.",
+  "ex_de": "Die Schülerin hörte aufmerksam zu.",
+  "ex_en": "The student listened attentively.",
+  "harder_de": "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.",
+  "harder_en": "I'd like to point out that we're closing in half an hour."
+ },
+ {
+  "head": "aufnehmen",
+  "pos": "verb",
+  "verb": {
+   "p3": "nimmt auf",
+   "praet": "nahm auf",
+   "part": "aufgenommen",
+   "aux": "haben"
+  },
+  "en": "to admit (into a group); to record",
+  "ex_de": "Wir haben Aneta in unseren Verein aufgenommen.",
+  "ex_en": "We accepted Aneta into our club."
+ },
+ {
+  "head": "Aufnahme",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aufnahmen",
+  "en": "recording; admission",
+  "ex_de": "Bitte seid leise! – Ich starte die Aufnahme.",
+  "ex_en": "Please be quiet! – I'm starting the recording."
+ },
+ {
+  "head": "aufpassen",
+  "pos": "verb",
+  "verb": {
+   "p3": "passt auf",
+   "praet": "passte auf",
+   "part": "aufgepasst",
+   "aux": "haben"
+  },
+  "en": "to pay attention; to look after someone",
+  "expl": "aufpassen, dass... = be careful that... — very common everyday warning.",
+  "ex_de": "Ich muss zu Hause bleiben und auf die Kinder aufpassen.",
+  "ex_en": "I have to stay home and look after the kids.",
+  "harder_de": "Pass auf, dass du dir nicht wehtust!",
+  "harder_en": "Be careful you don't hurt yourself!"
+ },
+ {
+  "head": "aufräumen",
+  "pos": "verb",
+  "verb": {
+   "p3": "räumt auf",
+   "praet": "räumte auf",
+   "part": "aufgeräumt",
+   "aux": "haben"
+  },
+  "en": "to tidy up",
+  "ex_de": "Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen.",
+  "ex_en": "Before my holiday I really have to tidy up my desk."
+ },
+ {
+  "head": "aufregen",
+  "pos": "verb",
+  "verb": {
+   "p3": "regt auf",
+   "praet": "regte auf",
+   "part": "aufgeregt",
+   "aux": "haben"
+  },
+  "en": "to upset; (reflexive) to get worked up",
+  "expl": "sich aufregen = to get annoyed/worked up. Related adjective: aufregend = exciting.",
+  "ex_de": "Ganz ruhig! Bitte regen Sie sich nicht auf.",
+  "ex_en": "Calm down! Please don't get worked up.",
+  "harder_de": "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+  "harder_en": "It annoys me that I have to work overtime again."
+ },
+ {
+  "head": "aufstehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "steht auf",
+   "praet": "stand auf",
+   "part": "aufgestanden",
+   "aux": "sein"
+  },
+  "en": "to get up, stand up",
+  "expl": "zu + infinitive for separable verbs: aufzustehen (the zu wedges inside).",
+  "ex_de": "Ich stehe jeden Morgen um sechs Uhr auf.",
+  "ex_en": "I get up at six every morning."
+ },
+ {
+  "head": "Auftrag",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Aufträge",
+  "en": "order, assignment, commission",
+  "expl": "im Auftrag von = on behalf of — standard business phrase.",
+  "ex_de": "Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.",
+  "ex_en": "I've come on behalf of Ms Müller and am supposed to give you this letter."
+ },
+ {
+  "head": "auftreten",
+  "pos": "verb",
+  "verb": {
+   "p3": "tritt auf",
+   "praet": "trat auf",
+   "part": "aufgetreten",
+   "aux": "sein"
+  },
+  "en": "to perform (on stage); to occur (of a problem)",
+  "expl": "sollten...auftreten = should problems occur — formal conditional common in manuals.",
+  "ex_de": "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.",
+  "ex_en": "Next week a famous band is performing at the city hall.",
+  "harder_de": "Sollten während der Installation Probleme auftreten, wenden Sie sich bitte an den Support.",
+  "harder_en": "Should problems occur during installation, please contact support."
+ },
+ {
+  "head": "Auftritt",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Auftritte",
+  "en": "performance, appearance on stage",
+  "ex_de": "Nach dem Auftritt feiern die Musiker.",
+  "ex_en": "After the show the musicians celebrate."
+ },
+ {
+  "head": "aufwachen",
+  "pos": "verb",
+  "verb": {
+   "p3": "wacht auf",
+   "praet": "wachte auf",
+   "part": "aufgewacht",
+   "aux": "sein"
+  },
+  "en": "to wake up",
+  "expl": "Takes sein — a change-of-state verb.",
+  "ex_de": "Von dem Lärm bin ich aufgewacht.",
+  "ex_en": "The noise woke me up."
+ },
+ {
+  "head": "aufwärts",
+  "pos": "other",
+  "en": "upward",
+  "expl": "Opposite of abwärts. es geht aufwärts = things are looking up.",
+  "ex_de": "In letzter Zeit geht es wieder aufwärts mit der Wirtschaft.",
+  "ex_en": "Lately the economy is looking up again."
+ },
+ {
+  "head": "Aufzug",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Aufzüge",
+  "en": "lift, elevator",
+  "expl": "Switzerland says Lift.",
+  "ex_de": "Im Büro ist leider der Aufzug kaputt.",
+  "ex_en": "Unfortunately the lift at the office is broken."
+ },
+ {
+  "head": "Auge",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Augen",
+  "en": "eye",
+  "ex_de": "Meine beiden Kinder haben blaue Augen.",
+  "ex_en": "Both my children have blue eyes."
+ },
+ {
+  "head": "Augenblick",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Augenblicke",
+  "en": "moment",
+  "expl": "im Augenblick = at the moment.",
+  "ex_de": "Im Augenblick sind keine Plätze frei.",
+  "ex_en": "At the moment there are no seats available."
+ },
+ {
+  "head": "aus",
+  "pos": "other",
+  "en": "from, out of; made of; off (switched off)",
+  "expl": "aus + feeling = the motive behind an action: aus Liebe = for love.",
+  "ex_de": "Ich trage nur Pullover aus reiner Wolle.",
+  "ex_en": "I only wear sweaters made of pure wool.",
+  "harder_de": "Wir haben aus Liebe geheiratet.",
+  "harder_en": "We married for love."
+ },
+ {
+  "head": "Ausbildung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ausbildungen",
+  "en": "training, vocational education",
+  "ex_de": "Mit deiner guten Ausbildung findest du sicher eine Arbeit.",
+  "ex_en": "With your good training you'll definitely find work."
+ },
+ {
+  "head": "ausdrucken",
+  "pos": "verb",
+  "verb": {
+   "p3": "druckt aus",
+   "praet": "druckte aus",
+   "part": "ausgedruckt",
+   "aux": "haben"
+  },
+  "en": "to print out",
+  "ex_de": "Kann ich das auf deinem Drucker ausdrucken?",
+  "ex_en": "Can I print this on your printer?"
+ },
+ {
+  "head": "Ausdruck",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ausdrücke / Ausdrucke",
+  "en": "expression/phrase (pl. Ausdrücke); a printout (pl. Ausdrucke)",
+  "expl": "Different plurals distinguish the two meanings.",
+  "ex_de": "Diesen Ausdruck habe ich noch nie gehört.",
+  "ex_en": "I've never heard this expression.",
+  "harder_de": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
+  "harder_en": "Please make a printout of the email."
+ },
+ {
+  "head": "auseinander",
+  "pos": "other",
+  "en": "apart",
+  "ex_de": "Wir wohnen nicht weit auseinander.",
+  "ex_en": "We don't live far apart."
+ },
+ {
+  "head": "Ausfahrt",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ausfahrten",
+  "en": "exit (motorway); driveway",
+  "ex_de": "Wie weit ist es noch bis zur Ausfahrt Freiburg?",
+  "ex_en": "How far is it to the Freiburg exit?"
+ },
+ {
+  "head": "ausfallen",
+  "pos": "verb",
+  "verb": {
+   "p3": "fällt aus",
+   "praet": "fiel aus",
+   "part": "ausgefallen",
+   "aux": "sein"
+  },
+  "en": "to be cancelled; to fail/stop working",
+  "expl": "Trains, classes, and power all 'fallen aus'. Very high frequency.",
+  "ex_de": "Nächste Woche fällt der Kurs aus.",
+  "ex_en": "Next week the class is cancelled."
+ },
+ {
+  "head": "Ausflug",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ausflüge",
+  "en": "outing, excursion",
+  "ex_de": "Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg.",
+  "ex_en": "At the weekend we're taking a trip to Heidelberg with friends."
+ },
+ {
+  "head": "ausfüllen",
+  "pos": "verb",
+  "verb": {
+   "p3": "füllt aus",
+   "praet": "füllte aus",
+   "part": "ausgefüllt",
+   "aux": "haben"
+  },
+  "en": "to fill out (a form)",
+  "ex_de": "Füllen Sie bitte dieses Formular aus!",
+  "ex_en": "Please fill out this form."
+ },
+ {
+  "head": "Ausgabe",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ausgaben",
+  "en": "expense; edition; serving counter",
+  "expl": "Three different meanings — context decides.",
+  "ex_de": "Wie hoch sind Ihre Ausgaben in einem Monat?",
+  "ex_en": "How high are your monthly expenses?"
+ },
+ {
+  "head": "Ausgang",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ausgänge",
+  "en": "exit (of a building)",
+  "ex_de": "Wo ist der Ausgang bitte?",
+  "ex_en": "Where's the exit, please?"
+ },
+ {
+  "head": "ausgeben",
+  "pos": "verb",
+  "verb": {
+   "p3": "gibt aus",
+   "praet": "gab aus",
+   "part": "ausgegeben",
+   "aux": "haben"
+  },
+  "en": "to spend (money)",
+  "ex_de": "Carola gibt viel Geld für ihr Hobby aus.",
+  "ex_en": "Carola spends a lot of money on her hobby."
+ },
+ {
+  "head": "ausgehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "geht aus",
+   "praet": "ging aus",
+   "part": "ausgegangen",
+   "aux": "sein"
+  },
+  "en": "to go out; to go off (light); to turn out (end)",
+  "expl": "Three senses: socially going out, a light going off, and how something turns out.",
+  "ex_de": "Wie ist das Spiel ausgegangen?",
+  "ex_en": "How did the game turn out?",
+  "harder_de": "Plötzlich ist das Licht ausgegangen.",
+  "harder_en": "Suddenly the light went out."
+ },
+ {
+  "head": "ausgezeichnet",
+  "pos": "adj",
+  "en": "excellent",
+  "ex_de": "Essen und Unterkunft waren ausgezeichnet.",
+  "ex_en": "Food and accommodation were excellent."
+ },
+ {
+  "head": "Aushilfe",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aushilfen",
+  "en": "temporary help, casual worker",
+  "ex_de": "Wir suchen eine freundliche Aushilfe für unser Geschäft.",
+  "ex_en": "We're looking for a friendly temp for our shop."
+ },
+ {
+  "head": "Auskunft",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Auskünfte",
+  "en": "information; information desk/line",
+  "ex_de": "Ich hätte gern eine Auskunft.",
+  "ex_en": "I'd like some information."
+ },
+ {
+  "head": "Ausland",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "abroad, foreign countries",
+  "expl": "ins Ausland = going there, im Ausland = being there.",
+  "ex_de": "Wir fahren im Urlaub meistens ins Ausland.",
+  "ex_en": "We usually go abroad on holiday."
+ },
+ {
+  "head": "Ausländer",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ausländer",
+  "en": "foreigner",
+  "expl": "Feminine: Ausländerin.",
+  "ex_de": "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch.",
+  "ex_en": "Many foreigners learn German at the adult education centre."
+ },
+ {
+  "head": "ausländisch",
+  "pos": "adj",
+  "en": "foreign (adjective)",
+  "ex_de": "Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen.",
+  "ex_en": "The foreign students have to take a German course first."
+ },
+ {
+  "head": "ausmachen",
+  "pos": "verb",
+  "verb": {
+   "p3": "macht aus",
+   "praet": "machte aus",
+   "part": "ausgemacht",
+   "aux": "haben"
+  },
+  "en": "to switch off; to arrange; to matter/bother",
+  "expl": "das macht mir nichts aus = that doesn't bother me — memorize whole.",
+  "ex_de": "Machen Sie bitte das Licht aus!",
+  "ex_en": "Please turn off the light.",
+  "harder_de": "Das macht mir nichts aus.",
+  "harder_en": "That doesn't bother me."
+ },
+ {
+  "head": "Ausnahme",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ausnahmen",
+  "en": "exception",
+  "ex_de": "Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.",
+  "ex_en": "Normally I have to work weekends. But today is an exception."
+ },
+ {
+  "head": "ausreichen",
+  "pos": "verb",
+  "verb": {
+   "p3": "reicht aus",
+   "praet": "reichte aus",
+   "part": "ausgereicht",
+   "aux": "haben"
+  },
+  "en": "to be enough, suffice",
+  "ex_de": "Das Geld muss bis März ausreichen.",
+  "ex_en": "The money has to last until March."
+ },
+ {
+  "head": "ausreichend",
+  "pos": "adj",
+  "en": "sufficient",
+  "ex_de": "Das Geld ist für die Reise ausreichend.",
+  "ex_en": "The money is sufficient for the trip."
+ },
+ {
+  "head": "ausrichten",
+  "pos": "verb",
+  "verb": {
+   "p3": "richtet aus",
+   "praet": "richtete aus",
+   "part": "ausgerichtet",
+   "aux": "haben"
+  },
+  "en": "to pass on a message",
+  "expl": "Soll ich ihm etwas ausrichten? = Shall I pass on a message? — standard phone phrase.",
+  "ex_de": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
+  "ex_en": "My husband isn't here. Shall I pass on a message?"
+ },
+ {
+  "head": "(sich) ausruhen",
+  "pos": "verb",
+  "verb": {
+   "p3": "ruht aus",
+   "praet": "ruhte aus",
+   "part": "ausgeruht",
+   "aux": "haben"
+  },
+  "en": "to rest",
+  "ex_de": "Bist du gut ausgeruht?",
+  "ex_en": "Are you well rested?"
+ },
+ {
+  "head": "ausschließen",
+  "pos": "verb",
+  "verb": {
+   "p3": "schließt aus",
+   "praet": "schloss aus",
+   "part": "ausgeschlossen",
+   "aux": "haben"
+  },
+  "en": "to rule out, exclude",
+  "expl": "Das ist völlig ausgeschlossen = That's completely out of the question.",
+  "ex_de": "So viel kann ich nicht bezahlen. Das ist völlig ausgeschlossen.",
+  "ex_en": "I can't pay that much. That's completely out of the question."
+ },
+ {
+  "head": "ausschließlich",
+  "pos": "other",
+  "en": "exclusively, only",
+  "ex_de": "Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.",
+  "ex_en": "Sorry. We only have non-smoking rooms."
+ },
+ {
+  "head": "aussehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "sieht aus",
+   "praet": "sah aus",
+   "part": "ausgesehen",
+   "aux": "haben"
+  },
+  "en": "to look, appear",
+  "expl": "Es sieht so aus, als ob... = It looks like... (triggers Konjunktiv II).",
+  "ex_de": "Er sieht genauso aus wie sein Vater.",
+  "ex_en": "He looks exactly like his father.",
+  "harder_de": "Es sieht so aus, als ob es bald regnen würde.",
+  "harder_en": "It looks like it'll rain soon."
+ },
+ {
+  "head": "außen",
+  "pos": "other",
+  "en": "outside (on the exterior)",
+  "ex_de": "Außen ist das Haus nicht sehr schön.",
+  "ex_en": "From the outside the house isn't very nice."
+ },
+ {
+  "head": "außerhalb",
+  "pos": "other",
+  "en": "outside of (+ genitive)",
+  "ex_de": "Wir wohnen außerhalb von Berlin.",
+  "ex_en": "We live outside Berlin."
+ },
+ {
+  "head": "äußerlich",
+  "pos": "adj",
+  "en": "external(ly)",
+  "ex_de": "Das Medikament dürfen Sie nur äußerlich anwenden.",
+  "ex_en": "You may only use this medication externally."
+ },
+ {
+  "head": "außer",
+  "pos": "other",
+  "en": "except; out of (order)",
+  "expl": "außer Betrieb = out of order — you'll see this on signs constantly.",
+  "ex_de": "Außer Lisa hat sich niemand um die Stelle beworben.",
+  "ex_en": "Apart from Lisa, nobody applied for the position.",
+  "harder_de": "Der Aufzug ist außer Betrieb.",
+  "harder_en": "The lift is out of order."
+ },
+ {
+  "head": "außerdem",
+  "pos": "other",
+  "en": "besides, moreover",
+  "ex_de": "Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.",
+  "ex_en": "The film was boring, and besides, the actors performed badly."
+ },
+ {
+  "head": "Aussicht",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Aussichten",
+  "en": "view; prospects",
+  "expl": "Two meanings: a literal view and career/future prospects.",
+  "ex_de": "Von diesem Turm hat man eine tolle Aussicht.",
+  "ex_en": "From this tower you have a great view.",
+  "harder_de": "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.",
+  "harder_en": "With several foreign languages you have good career prospects."
+ },
+ {
+  "head": "aussprechen",
+  "pos": "verb",
+  "verb": {
+   "p3": "spricht aus",
+   "praet": "sprach aus",
+   "part": "ausgesprochen",
+   "aux": "haben"
+  },
+  "en": "to pronounce",
+  "ex_de": "Wie spricht man dieses Wort aus?",
+  "ex_en": "How do you pronounce this word?"
+ },
+ {
+  "head": "Aussprache",
+  "pos": "noun",
+  "gender": "die",
+  "plural": null,
+  "en": "pronunciation",
+  "ex_de": "Ali hat eine gute Aussprache.",
+  "ex_en": "Ali has good pronunciation."
+ },
+ {
+  "head": "ausstellen",
+  "pos": "verb",
+  "verb": {
+   "p3": "stellt aus",
+   "praet": "stellte aus",
+   "part": "ausgestellt",
+   "aux": "haben"
+  },
+  "en": "to display; to issue (a document)",
+  "ex_de": "Das Zeugnis wird bis nächste Woche ausgestellt.",
+  "ex_en": "The certificate will be issued by next week."
+ },
+ {
+  "head": "Ausstellung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Ausstellungen",
+  "en": "exhibition; issuance",
+  "ex_de": "Die Ausstellung eines neuen Passes dauert zwei Wochen.",
+  "ex_en": "Issuing a new passport takes two weeks."
+ },
+ {
+  "head": "(sich etwas) aussuchen",
+  "pos": "verb",
+  "verb": {
+   "p3": "sucht aus",
+   "praet": "suchte aus",
+   "part": "ausgesucht",
+   "aux": "haben"
+  },
+  "en": "to pick out, choose for oneself",
+  "ex_de": "Such dir etwas Schönes aus! Ich lade dich ein.",
+  "ex_en": "Pick out something nice! It's on me."
+ },
+ {
+  "head": "auswählen",
+  "pos": "verb",
+  "verb": {
+   "p3": "wählt aus",
+   "praet": "wählte aus",
+   "part": "ausgewählt",
+   "aux": "haben"
+  },
+  "en": "to select",
+  "ex_de": "Für die Aufgabe können Sie aus drei Themen auswählen.",
+  "ex_en": "For the task you can select from three topics."
+ },
+ {
+  "head": "Auswahl",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Auswahlen",
+  "en": "selection, range",
+  "ex_de": "Das Geschäft hat eine große Auswahl.",
+  "ex_en": "The shop has a big selection."
+ },
+ {
+  "head": "Ausweis",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Ausweise",
+  "en": "ID card",
+  "ex_de": "Darf ich mal Ihren Ausweis sehen?",
+  "ex_en": "May I see your ID?"
+ },
+ {
+  "head": "ausziehen",
+  "pos": "verb",
+  "verb": {
+   "p3": "zieht aus",
+   "praet": "zog aus",
+   "part": "ausgezogen",
+   "aux": "haben/sein"
+  },
+  "en": "to take off (clothes) → hat; to move out → ist",
+  "expl": "Rare case where the auxiliary tells you which meaning applies.",
+  "ex_de": "Willst du den Mantel nicht ausziehen?",
+  "ex_en": "Don't you want to take off your coat?",
+  "harder_de": "Müllers sind schon vor vier Wochen ausgezogen.",
+  "harder_en": "The Müllers moved out four weeks ago."
+ },
+ {
+  "head": "Auto",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Autos",
+  "en": "car",
+  "ex_de": "Mario fährt mit dem Auto zur Arbeit.",
+  "ex_en": "Mario drives to work."
+ },
+ {
+  "head": "Autobahn",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Autobahnen",
+  "en": "motorway",
+  "ex_de": "Das Dorf liegt direkt an der Autobahn.",
+  "ex_en": "The village is right by the motorway."
+ },
+ {
+  "head": "Automat",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Automaten",
+  "en": "vending machine",
+  "expl": "An n-noun: takes -en in every case except nominative singular.",
+  "ex_de": "Zigaretten bekommst du am Automaten.",
+  "ex_en": "You get cigarettes from the machine."
+ },
+ {
+  "head": "automatisch",
+  "pos": "adj",
+  "en": "automatic(ally)",
+  "ex_de": "Die Tür schließt automatisch.",
+  "ex_en": "The door closes automatically."
+ },
+ {
+  "head": "Autor",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Autoren",
+  "en": "author",
+  "expl": "Feminine: Autorin.",
+  "ex_de": "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
+  "ex_en": "This author has already written two books this year."
+ },
+ {
+  "head": "backen",
+  "pos": "verb",
+  "verb": {
+   "p3": "bäckt/backt",
+   "praet": "backte",
+   "part": "gebacken",
+   "aux": "haben"
+  },
+  "en": "to bake",
+  "expl": "Both 3rd-person forms (bäckt / backt) are accepted.",
+  "ex_de": "Wenn du kommst, backe ich einen Kuchen.",
+  "ex_en": "If you come, I'll bake a cake."
+ },
+ {
+  "head": "Bäckerei",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bäckereien",
+  "en": "bakery",
+  "ex_de": "Wir kaufen unser Brot immer in der Bäckerei am Markt.",
+  "ex_en": "We always buy our bread at the bakery on the market square."
+ },
+ {
+  "head": "baden",
+  "pos": "verb",
+  "verb": {
+   "p3": "badet",
+   "praet": "badete",
+   "part": "gebadet",
+   "aux": "haben"
+  },
+  "en": "to bathe, swim",
+  "expl": "Hier ist Baden verboten! — the infinitive used as a neuter noun: das Baden.",
+  "ex_de": "Hier ist Baden verboten!",
+  "ex_en": "Swimming is prohibited here."
+ },
+ {
+  "head": "Bad",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Bäder",
+  "en": "bath; bathroom",
+  "ex_de": "Ich möchte ein Zimmer mit Bad.",
+  "ex_en": "I'd like a room with a bathroom."
+ },
+ {
+  "head": "Badewanne",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Badewannen",
+  "en": "bathtub",
+  "ex_de": "Nach einem langen Arbeitstag setzte sie sich in die Badewanne.",
+  "ex_en": "After a long workday she got into the bathtub."
+ },
+ {
+  "head": "Bahn",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bahnen",
+  "en": "train, railway",
+  "ex_de": "Ich komme mit der Bahn.",
+  "ex_en": "I'm coming by train."
+ },
+ {
+  "head": "S-Bahn",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "S-Bahnen",
+  "en": "suburban train",
+  "ex_de": "Die S-Bahn ist schneller als die Straßenbahn.",
+  "ex_en": "The S-Bahn is faster than the tram."
+ },
+ {
+  "head": "Straßenbahn",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Straßenbahnen",
+  "en": "tram",
+  "ex_de": "Nehmen Sie die Straßenbahn Nr. 16.",
+  "ex_en": "Take tram number 16."
+ },
+ {
+  "head": "U-Bahn",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "U-Bahnen",
+  "en": "underground, metro",
+  "ex_de": "Die letzte U-Bahn geht um 23.15 Uhr.",
+  "ex_en": "The last metro leaves at 11:15 pm."
+ },
+ {
+  "head": "Bahnhof",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bahnhöfe",
+  "en": "station",
+  "ex_de": "Ich bringe Sie zum Bahnhof.",
+  "ex_en": "I'll take you to the station."
+ },
+ {
+  "head": "Bahnsteig",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bahnsteige",
+  "en": "platform",
+  "expl": "Switzerland: Perron.",
+  "ex_de": "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.",
+  "ex_en": "Main stations usually have many platforms."
+ },
+ {
+  "head": "bald",
+  "pos": "other",
+  "en": "soon",
+  "expl": "Fixed phrase: so bald wie möglich = as soon as possible (ASAP).",
+  "ex_de": "Geben Sie mir bitte so bald wie möglich Bescheid.",
+  "ex_en": "Please let me know as soon as possible."
+ },
+ {
+  "head": "Balkon",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Balkone",
+  "en": "balcony",
+  "ex_de": "Die Wohnung hat auch einen kleinen Balkon.",
+  "ex_en": "The flat also has a small balcony."
+ },
+ {
+  "head": "Ball",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bälle",
+  "en": "ball",
+  "ex_de": "Ich spiele gern mit meinen Kindern Ball.",
+  "ex_en": "I like playing ball with my kids."
+ },
+ {
+  "head": "Ballett",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Balletts",
+  "en": "ballet",
+  "ex_de": "Meine Tochter möchte gern Ballett tanzen.",
+  "ex_en": "My daughter would like to dance ballet."
+ },
+ {
+  "head": "Banane",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bananen",
+  "en": "banana",
+  "ex_de": "1 Kilo Bananen, bitte.",
+  "ex_en": "One kilo of bananas, please."
+ },
+ {
+  "head": "Bank",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bänke",
+  "en": "bench (umlaut plural = the seat)",
+  "expl": "Two homographs: die Bank/Bänke (bench) vs. die Bank/Banken (financial bank). The plural is the only difference.",
+  "ex_de": "Kommt, wir setzen uns auf die Bank da vorne.",
+  "ex_en": "Come on, let's sit on that bench up ahead."
+ },
+ {
+  "head": "Bar",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bars",
+  "en": "bar (place)",
+  "ex_de": "Setzen wir uns doch an die Bar!",
+  "ex_en": "Let's sit at the bar!"
+ },
+ {
+  "head": "bar",
+  "pos": "other",
+  "en": "in cash (adverb/adjective)",
+  "expl": "No relation to Bar (the place) despite identical spelling.",
+  "ex_de": "Zahlen Sie bar?",
+  "ex_en": "Are you paying cash?"
+ },
+ {
+  "head": "Bargeld",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "cash",
+  "ex_de": "Ich habe kein Bargeld mehr.",
+  "ex_en": "I have no cash left."
+ },
+ {
+  "head": "Bart",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bärte",
+  "en": "beard",
+  "expl": "German uses tragen (to wear) for beards, not haben.",
+  "ex_de": "John trägt jetzt einen Bart.",
+  "ex_en": "John has a beard now."
+ },
+ {
+  "head": "basteln",
+  "pos": "verb",
+  "verb": {
+   "p3": "bastelt",
+   "praet": "bastelte",
+   "part": "gebastelt",
+   "aux": "haben"
+  },
+  "en": "to do handicrafts, make things by hand",
+  "expl": "No clean English equivalent — the DIY-crafts verb.",
+  "ex_de": "Die Kinder basteln ein Vogelhaus.",
+  "ex_en": "The kids are making a birdhouse."
+ },
+ {
+  "head": "Batterie",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Batterien",
+  "en": "battery",
+  "ex_de": "Bringst du bitte Batterien für die Kamera mit?",
+  "ex_en": "Could you bring batteries for the camera?"
+ },
+ {
+  "head": "Bauch",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bäuche",
+  "en": "belly, stomach",
+  "expl": "mir tut der Bauch weh — the body part is the subject, you're in the dative.",
+  "ex_de": "Mir tut der Bauch weh.",
+  "ex_en": "My stomach hurts."
+ },
+ {
+  "head": "bauen",
+  "pos": "verb",
+  "verb": {
+   "p3": "baut",
+   "praet": "baute",
+   "part": "gebaut",
+   "aux": "haben"
+  },
+  "en": "to build",
+  "ex_de": "Mein Nachbar hat ein Haus gebaut.",
+  "ex_en": "My neighbour built a house."
+ },
+ {
+  "head": "Baustelle",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Baustellen",
+  "en": "building site, roadworks",
+  "ex_de": "Wir müssen die Baustelle umfahren.",
+  "ex_en": "We have to drive around the roadworks."
+ },
+ {
+  "head": "Bauer",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bauern",
+  "en": "farmer",
+  "expl": "An n-noun: beim Bauern, not beim Bauer.",
+  "ex_de": "Wir kaufen unser Gemüse beim Bauern.",
+  "ex_en": "We buy our vegetables from the farmer."
+ },
+ {
+  "head": "Baum",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bäume",
+  "en": "tree",
+  "ex_de": "Wir haben zwei Bäume im Garten.",
+  "ex_en": "We have two trees in the garden."
+ },
+ {
+  "head": "beachten",
+  "pos": "verb",
+  "verb": {
+   "p3": "beachtet",
+   "praet": "beachtete",
+   "part": "beachtet",
+   "aux": "haben"
+  },
+  "en": "to observe, pay heed to",
+  "expl": "Inseparable be- → no ge- in participle.",
+  "ex_de": "Bitte beachten Sie die Ansagen am Bahnsteig.",
+  "ex_en": "Please pay attention to the announcements on the platform."
+ },
+ {
+  "head": "Beamte",
+  "pos": "noun",
+  "gender": "der/die",
+  "plural": "Beamten",
+  "en": "civil servant",
+  "expl": "Der Beamte is an adjectival noun; die Beamtin is a normal noun.",
+  "ex_de": "Meine Frau ist Beamtin bei der Polizei.",
+  "ex_en": "My wife is a civil servant with the police."
+ },
+ {
+  "head": "beantragen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beantragt",
+   "praet": "beantragte",
+   "part": "beantragt",
+   "aux": "haben"
+  },
+  "en": "to apply for",
+  "expl": "Inseparable be- → no ge- in participle.",
+  "ex_de": "Hast du schon einen neuen Pass beantragt?",
+  "ex_en": "Have you already applied for a new passport?"
+ },
+ {
+  "head": "beantworten",
+  "pos": "verb",
+  "verb": {
+   "p3": "beantwortet",
+   "praet": "beantwortete",
+   "part": "beantwortet",
+   "aux": "haben"
+  },
+  "en": "to answer (something)",
+  "expl": "Takes a direct object — unlike antworten, which takes auf.",
+  "ex_de": "Sie haben meine Frage leider nicht beantwortet.",
+  "ex_en": "Unfortunately you didn't answer my question."
+ },
+ {
+  "head": "sich bedanken",
+  "pos": "verb",
+  "verb": {
+   "p3": "bedankt sich",
+   "praet": "bedankte sich",
+   "part": "bedankt",
+   "aux": "haben"
+  },
+  "en": "to thank, express thanks",
+  "expl": "sich bei jemandem für etwas bedanken — the polite, formal way to thank in writing.",
+  "ex_de": "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.",
+  "ex_en": "I'd like to thank you once again very warmly for your help."
+ },
+ {
+  "head": "Bedarf",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "need, demand",
+  "expl": "Bedarf bestehen = demand exists.",
+  "ex_de": "An diesem Produkt besteht großer Bedarf.",
+  "ex_en": "There's great demand for this product."
+ },
+ {
+  "head": "bedeuten",
+  "pos": "verb",
+  "verb": {
+   "p3": "bedeutet",
+   "praet": "bedeutete",
+   "part": "bedeutet",
+   "aux": "haben"
+  },
+  "en": "to mean",
+  "ex_de": "Was bedeutet dieses Wort?",
+  "ex_en": "What does this word mean?"
+ },
+ {
+  "head": "Bedeutung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bedeutungen",
+  "en": "meaning, significance",
+  "ex_de": "Das Wort „Maus“ hat inzwischen zwei Bedeutungen.",
+  "ex_en": "The word 'Maus' now has two meanings."
+ },
+ {
+  "head": "bedienen",
+  "pos": "verb",
+  "verb": {
+   "p3": "bedient",
+   "praet": "bediente",
+   "part": "bedient",
+   "aux": "haben"
+  },
+  "en": "to serve (a customer); to operate (a machine)",
+  "expl": "Two senses — serving customers and operating equipment.",
+  "ex_de": "Werden Sie schon bedient?",
+  "ex_en": "Are you being served?",
+  "harder_de": "Die Kaffeemaschine ist ganz leicht zu bedienen.",
+  "harder_en": "The coffee machine is very easy to operate."
+ },
+ {
+  "head": "Bedingung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Bedingungen",
+  "en": "condition, term",
+  "ex_de": "Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.",
+  "ex_en": "If you accept our terms, we can make a contract.",
+  "harder_de": "Wir haben in unserem Betrieb sehr gute Arbeitsbedingungen.",
+  "harder_en": "We have very good working conditions at our company."
+ },
+ {
+  "head": "sich beeilen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beeilt sich",
+   "praet": "beeilte sich",
+   "part": "beeilt",
+   "aux": "haben"
+  },
+  "en": "to hurry",
+  "expl": "Always reflexive — you can't 'beeilen' without 'sich'.",
+  "ex_de": "Wir müssen uns beeilen. Sonst verpassen wir den Zug.",
+  "ex_en": "We have to hurry. Otherwise we'll miss the train."
+ },
+ {
+  "head": "beenden",
+  "pos": "verb",
+  "verb": {
+   "p3": "beendet",
+   "praet": "beendete",
+   "part": "beendet",
+   "aux": "haben"
+  },
+  "en": "to finish, end (something)",
+  "ex_de": "Du musst deine Ausbildung auf jeden Fall beenden.",
+  "ex_en": "You definitely have to finish your training."
+ },
+ {
+  "head": "sich befinden",
+  "pos": "verb",
+  "verb": {
+   "p3": "befindet sich",
+   "praet": "befand sich",
+   "part": "befunden",
+   "aux": "haben"
+  },
+  "en": "to be located",
+  "expl": "Formal register — signage and announcements, rather than everyday speech.",
+  "ex_de": "Das Bord-Bistro befindet sich in der Mitte des Zuges.",
+  "ex_en": "The onboard bistro is located in the middle of the train."
+ },
+ {
+  "head": "begegnen",
+  "pos": "verb",
+  "verb": {
+   "p3": "begegnet",
+   "praet": "begegnete",
+   "part": "begegnet",
+   "aux": "sein"
+  },
+  "en": "to meet, encounter",
+  "expl": "Takes sein and the dative.",
+  "ex_de": "Sind wir uns nicht schon mal irgendwann begegnet?",
+  "ex_en": "Haven't we met somewhere before?"
+ },
+ {
+  "head": "begeistert",
+  "pos": "adj",
+  "en": "enthusiastic, delighted",
+  "ex_de": "Es war ein tolles Konzert. Ich bin begeistert.",
+  "ex_en": "It was a great concert. I'm thrilled."
+ },
+ {
+  "head": "beginnen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beginnt",
+   "praet": "begann",
+   "part": "begonnen",
+   "aux": "haben"
+  },
+  "en": "to begin",
+  "ex_de": "In zwei Wochen beginnen die Sommerferien.",
+  "ex_en": "Summer holidays start in two weeks."
+ },
+ {
+  "head": "Beginn",
+  "pos": "noun",
+  "gender": "der",
+  "plural": null,
+  "en": "beginning, start",
+  "expl": "zu Beginn = fixed phrase (more formal than am Anfang).",
+  "ex_de": "Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler.",
+  "ex_en": "At the start of the lesson the teacher greets her students."
+ },
+ {
+  "head": "begleiten",
+  "pos": "verb",
+  "verb": {
+   "p3": "begleitet",
+   "praet": "begleitete",
+   "part": "begleitet",
+   "aux": "haben"
+  },
+  "en": "to accompany",
+  "ex_de": "Ich begleite dich ein Stück.",
+  "ex_en": "I'll walk with you part of the way."
+ },
+ {
+  "head": "begrenzt",
+  "pos": "adj",
+  "en": "limited",
+  "ex_de": "Die Teilnehmerzahl ist auf 12 begrenzt.",
+  "ex_en": "The number of participants is limited to 12."
+ },
+ {
+  "head": "begründen",
+  "pos": "verb",
+  "verb": {
+   "p3": "begründet",
+   "praet": "begründete",
+   "part": "begründet",
+   "aux": "haben"
+  },
+  "en": "to justify, give reasons for",
+  "ex_de": "Bitte begründen Sie Ihre Meinung.",
+  "ex_en": "Please justify your opinion."
+ },
+ {
+  "head": "Begründung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Begründungen",
+  "en": "justification, reason given",
+  "ex_de": "Die Miete wurde ohne Begründung erhöht.",
+  "ex_en": "The rent was raised without justification."
+ },
+ {
+  "head": "begrüßen",
+  "pos": "verb",
+  "verb": {
+   "p3": "begrüßt",
+   "praet": "begrüßte",
+   "part": "begrüßt",
+   "aux": "haben"
+  },
+  "en": "to greet, welcome",
+  "ex_de": "Der Gastgeber begrüßt seine Gäste.",
+  "ex_en": "The host greets his guests."
+ },
+ {
+  "head": "behalten",
+  "pos": "verb",
+  "verb": {
+   "p3": "behält",
+   "praet": "behielt",
+   "part": "behalten",
+   "aux": "haben"
+  },
+  "en": "to keep",
+  "expl": "Stem change: er behält.",
+  "ex_de": "Darf ich die Zeitschrift behalten?",
+  "ex_en": "May I keep the magazine?"
+ },
+ {
+  "head": "behandeln",
+  "pos": "verb",
+  "verb": {
+   "p3": "behandelt",
+   "praet": "behandelte",
+   "part": "behandelt",
+   "aux": "haben"
+  },
+  "en": "to treat (medically or interpersonally)",
+  "ex_de": "Welcher Arzt hat Sie bis jetzt behandelt?",
+  "ex_en": "Which doctor has been treating you so far?",
+  "harder_de": "So lasse ich mich von Ihnen nicht länger behandeln.",
+  "harder_en": "I won't let you treat me like this any longer."
+ },
+ {
+  "head": "behaupten",
+  "pos": "verb",
+  "verb": {
+   "p3": "behauptet",
+   "praet": "behauptete",
+   "part": "behauptet",
+   "aux": "haben"
+  },
+  "en": "to claim, assert",
+  "expl": "behaupten + Konjunktiv I in reported speech: Er behauptet, sie sei krank = He claims she is ill.",
+  "ex_de": "Er behauptet, unsere Meinung sei nicht wichtig.",
+  "ex_en": "He claims our opinion isn't important."
+ },
+ {
+  "head": "behindern",
+  "pos": "verb",
+  "verb": {
+   "p3": "behindert",
+   "praet": "behinderte",
+   "part": "behindert",
+   "aux": "haben"
+  },
+  "en": "to obstruct, get in the way of",
+  "ex_de": "Bitte parken Sie so, dass Sie niemanden behindern.",
+  "ex_en": "Please park so that you don't obstruct anyone."
+ },
+ {
+  "head": "behindert",
+  "pos": "adj",
+  "en": "disabled",
+  "ex_de": "Seit dem Unfall ist das Kind unserer Freunde behindert.",
+  "ex_en": "Since the accident our friends' child has been disabled."
+ },
+ {
+  "head": "Behörde",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Behörden",
+  "en": "public authority, government office",
+  "expl": "die zuständige Behörde = the responsible authority — pairs with zuständig constantly.",
+  "ex_de": "Sie erhalten ein Schreiben von der zuständigen Behörde.",
+  "ex_en": "You'll receive a letter from the responsible authority."
+ },
+ {
+  "head": "bei",
+  "pos": "other",
+  "en": "near; at someone's place; during; on one's person",
+  "expl": "beim + noun = while doing something: beim Essen = while eating.",
+  "ex_de": "Ich wohne bei meinen Eltern.",
+  "ex_en": "I live at my parents' place.",
+  "harder_de": "Ich habe kein Geld bei mir.",
+  "harder_en": "I don't have any money on me."
+ },
+ {
+  "head": "beid-",
+  "pos": "other",
+  "en": "both (stem taking adjective endings)",
+  "ex_de": "Welche Bluse nehmen Sie, die rote oder die grüne? – Ich nehme beide.",
+  "ex_en": "Which blouse will you take, the red or the green? – I'll take both."
+ },
+ {
+  "head": "Bein",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Beine",
+  "en": "leg",
+  "ex_de": "Andreas hat sich das Bein gebrochen.",
+  "ex_en": "Andreas broke his leg."
+ },
+ {
+  "head": "beinahe",
+  "pos": "other",
+  "en": "almost, nearly",
+  "ex_de": "Ich habe heute beinahe den Bus verpasst.",
+  "ex_en": "I almost missed the bus today."
+ },
+ {
+  "head": "Beispiel",
+  "pos": "noun",
+  "gender": "das",
+  "plural": "Beispiele",
+  "en": "example",
+  "expl": "zum Beispiel (z. B.) = for example; beispielsweise = more formal one-word version.",
+  "ex_de": "Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.",
+  "ex_en": "My friend has many hobbies such as cooking, dancing, playing football."
+ },
+ {
+  "head": "beißen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beißt",
+   "praet": "biss",
+   "part": "gebissen",
+   "aux": "haben"
+  },
+  "en": "to bite",
+  "ex_de": "Pass auf, dass dich der Hund nicht beißt!",
+  "ex_en": "Watch out the dog doesn't bite you!"
+ },
+ {
+  "head": "Beitrag",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Beiträge",
+  "en": "contribution, fee, premium",
+  "expl": "Krankenkassenbeitrag = health insurance premium; Mitgliedsbeitrag = membership fee.",
+  "ex_de": "Die Krankenkasse hat die Beiträge erhöht.",
+  "ex_en": "The health insurance fund raised the premiums."
+ },
+ {
+  "head": "bekannt",
+  "pos": "adj",
+  "en": "well-known, familiar",
+  "expl": "Compare with berühmt (genuinely famous). bekannt = known/familiar, berühmt = famous.",
+  "ex_de": "Ein Onkel von mir ist ein bekannter Politiker.",
+  "ex_en": "An uncle of mine is a well-known politician."
+ },
+ {
+  "head": "Bekannte",
+  "pos": "noun",
+  "gender": "der/die",
+  "plural": "Bekannte",
+  "en": "acquaintance",
+  "expl": "Adjectival noun, like Angestellte.",
+  "ex_de": "In Hannover wohnen Bekannte von mir.",
+  "ex_en": "Some acquaintances of mine live in Hannover."
+ },
+ {
+  "head": "bekommen",
+  "pos": "verb",
+  "verb": {
+   "p3": "bekommt",
+   "praet": "bekam",
+   "part": "bekommen",
+   "aux": "haben"
+  },
+  "en": "to get, receive",
+  "expl": "FALSE FRIEND: does NOT mean 'to become' (that is werden).",
+  "ex_de": "Haben Sie meinen Brief bekommen?",
+  "ex_en": "Did you get my letter?",
+  "harder_de": "Plötzlich bekam ich starke Kopfschmerzen.",
+  "harder_en": "Suddenly I got a bad headache."
+ },
+ {
+  "head": "Beleg",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Belege",
+  "en": "receipt, proof of payment",
+  "ex_de": "Brauchen Sie einen Beleg?",
+  "ex_en": "Do you need a receipt?"
+ },
+ {
+  "head": "beleidigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beleidigt",
+   "praet": "beleidigte",
+   "part": "beleidigt",
+   "aux": "haben"
+  },
+  "en": "to insult, offend",
+  "ex_de": "Ich wollte Sie nicht beleidigen.",
+  "ex_en": "I didn't mean to offend you.",
+  "harder_de": "Sei doch nicht immer gleich beleidigt.",
+  "harder_en": "Don't always take offence so quickly."
+ },
+ {
+  "head": "beliebt",
+  "pos": "adj",
+  "en": "popular, well-liked",
+  "expl": "Used with bei for the group who likes it: beliebt bei Jugendlichen.",
+  "ex_de": "Dieses Spiel ist bei Jugendlichen sehr beliebt.",
+  "ex_en": "This game is very popular with young people."
+ },
+ {
+  "head": "bemerken",
+  "pos": "verb",
+  "verb": {
+   "p3": "bemerkt",
+   "praet": "bemerkte",
+   "part": "bemerkt",
+   "aux": "haben"
+  },
+  "en": "to notice, remark",
+  "ex_de": "Ich habe nicht bemerkt, dass das Fenster offen ist.",
+  "ex_en": "I didn't notice the window was open."
+ },
+ {
+  "head": "sich bemühen",
+  "pos": "verb",
+  "verb": {
+   "p3": "bemüht sich",
+   "praet": "bemühte sich",
+   "part": "bemüht",
+   "aux": "haben"
+  },
+  "en": "to make an effort, try hard",
+  "expl": "sich um etwas bemühen = to work on getting something.",
+  "ex_de": "Er hat sich sehr bemüht, etwas Gutes zu kochen.",
+  "ex_en": "He made a real effort to cook something good.",
+  "harder_de": "Ich werde mich um einen Termin bemühen.",
+  "harder_en": "I'll try to get an appointment."
+ },
+ {
+  "head": "benötigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "benötigt",
+   "praet": "benötigte",
+   "part": "benötigt",
+   "aux": "haben"
+  },
+  "en": "to need, require",
+  "expl": "Formal register — brauchen is the everyday word.",
+  "ex_de": "Sagen Sie Bescheid, wenn Sie noch etwas benötigen.",
+  "ex_en": "Let me know if you need anything else."
+ },
+ {
+  "head": "benutzen",
+  "pos": "verb",
+  "verb": {
+   "p3": "benutzt",
+   "praet": "benutzte",
+   "part": "benutzt",
+   "aux": "haben"
+  },
+  "en": "to use",
+  "ex_de": "Benutzen Sie bitte die öffentlichen Verkehrsmittel.",
+  "ex_en": "Please use public transport."
+ },
+ {
+  "head": "Benzin",
+  "pos": "noun",
+  "gender": "das",
+  "plural": null,
+  "en": "petrol, gasoline",
+  "ex_de": "Das Benzin soll wieder teurer werden.",
+  "ex_en": "Petrol is supposed to get more expensive again."
+ },
+ {
+  "head": "beobachten",
+  "pos": "verb",
+  "verb": {
+   "p3": "beobachtet",
+   "praet": "beobachtete",
+   "part": "beobachtet",
+   "aux": "haben"
+  },
+  "en": "to observe, watch",
+  "ex_de": "Wer hat den Unfall beobachtet?",
+  "ex_en": "Who witnessed the accident?"
+ },
+ {
+  "head": "bequem",
+  "pos": "adj",
+  "en": "comfortable; convenient; (of person) lazy",
+  "ex_de": "Diesen Sessel finde ich sehr bequem.",
+  "ex_en": "I find this armchair very comfortable.",
+  "harder_de": "Im Supermarkt einkaufen ist sehr bequem.",
+  "harder_en": "Shopping at the supermarket is very convenient."
+ },
+ {
+  "head": "beraten",
+  "pos": "verb",
+  "verb": {
+   "p3": "berät",
+   "praet": "beriet",
+   "part": "beraten",
+   "aux": "haben"
+  },
+  "en": "to advise",
+  "expl": "Stem change: er berät.",
+  "ex_de": "Unser Personal berät Sie gern, wenn Sie Fragen haben.",
+  "ex_en": "Our staff will gladly advise you if you have questions."
+ },
+ {
+  "head": "Beratung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": "Beratungen",
+  "en": "advice session, consultation",
+  "ex_de": "Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr.",
+  "ex_en": "Family consultations are available every Tuesday from 2 to 4 pm."
+ },
+ {
+  "head": "berechnen",
+  "pos": "verb",
+  "verb": {
+   "p3": "berechnet",
+   "praet": "berechnete",
+   "part": "berechnet",
+   "aux": "haben"
+  },
+  "en": "to calculate",
+  "ex_de": "Die Kosten für die Fahrt müssen erst berechnet werden.",
+  "ex_en": "The costs for the trip have to be calculated first."
+ },
+ {
+  "head": "Bereich",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bereiche",
+  "en": "area, field, sector",
+  "ex_de": "In welchem Bereich möchten Sie arbeiten?",
+  "ex_en": "What field would you like to work in?"
+ },
+ {
+  "head": "bereit",
+  "pos": "adj",
+  "en": "ready, willing",
+  "expl": "bereit sein, etwas zu tun = to be ready to do something.",
+  "ex_de": "Ich bin jederzeit bereit, dir zu helfen.",
+  "ex_en": "I'm ready to help you any time.",
+  "harder_de": "Das Paket liegt auf der Post für Sie bereit.",
+  "harder_en": "The package is waiting for you at the post office."
+ },
+ {
+  "head": "bereits",
+  "pos": "other",
+  "en": "already",
+  "expl": "More formal than schon.",
+  "ex_de": "Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.",
+  "ex_en": "Please get back to Ms Kaiser. She's already called three times."
+ },
+ {
+  "head": "Berg",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Berge",
+  "en": "mountain",
+  "ex_de": "Die Zugspitze ist der höchste Berg in Deutschland.",
+  "ex_en": "The Zugspitze is the highest mountain in Germany."
+ },
+ {
+  "head": "berichten",
+  "pos": "verb",
+  "verb": {
+   "p3": "berichtet",
+   "praet": "berichtete",
+   "part": "berichtet",
+   "aux": "haben"
+  },
+  "en": "to report",
+  "expl": "Used with über + accusative.",
+  "ex_de": "Alle Zeitungen haben über den Unfall berichtet.",
+  "ex_en": "All the newspapers reported on the accident."
+ },
+ {
+  "head": "Bericht",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Berichte",
+  "en": "report",
+  "ex_de": "Ich habe gestern einen interessanten Bericht gelesen.",
+  "ex_en": "I read an interesting report yesterday."
+ },
+ {
+  "head": "Beruf",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Berufe",
+  "en": "profession, occupation",
+  "expl": "Was sind Sie von Beruf? — fixed phrase, no article.",
+  "ex_de": "Was sind Sie von Beruf?",
+  "ex_en": "What do you do for a living?"
+ },
+ {
+  "head": "beruflich",
+  "pos": "adj",
+  "en": "professionally, work-related",
+  "ex_de": "Was machen Sie beruflich?",
+  "ex_en": "What do you do professionally?"
+ },
+ {
+  "head": "berufstätig",
+  "pos": "adj",
+  "en": "employed, working",
+  "expl": "Asks whether you're in employment at all, not what you do.",
+  "ex_de": "Sind Sie berufstätig?",
+  "ex_en": "Are you working?"
+ },
+ {
+  "head": "beruhigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beruhigt",
+   "praet": "beruhigte",
+   "part": "beruhigt",
+   "aux": "haben"
+  },
+  "en": "to calm (someone); reflexive: to calm down",
+  "ex_de": "Beruhigen Sie sich bitte. Es ist alles in Ordnung.",
+  "ex_en": "Please calm down. Everything's fine.",
+  "harder_de": "Ich kann Sie beruhigen. Ihrem Sohn ist nichts passiert.",
+  "harder_en": "I can reassure you. Nothing happened to your son."
+ },
+ {
+  "head": "berühmt",
+  "pos": "adj",
+  "en": "famous",
+  "expl": "Compare with bekannt: bekannt = known/familiar, berühmt = genuinely famous.",
+  "ex_de": "Michael Schumacher ist ein berühmter Rennfahrer.",
+  "ex_en": "Michael Schumacher is a famous racing driver."
+ },
+ {
+  "head": "beschädigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beschädigt",
+   "praet": "beschädigte",
+   "part": "beschädigt",
+   "aux": "haben"
+  },
+  "en": "to damage",
+  "ex_de": "Bitte machen Sie eine Liste davon, was die Einbrecher beschädigt haben.",
+  "ex_en": "Please make a list of what the burglars damaged."
+ },
+ {
+  "head": "beschäftigen",
+  "pos": "verb",
+  "verb": {
+   "p3": "beschäftigt",
+   "praet": "beschäftigte",
+   "part": "beschäftigt",
+   "aux": "haben"
+  },
+  "en": "to employ; reflexive: to occupy oneself with",
+  "expl": "sich mit etwas beschäftigen = to deal with / work on something.",
+  "ex_de": "Seit wann sind Sie bei dieser Firma beschäftigt?",
+  "ex_en": "How long have you been employed at this company?",
+  "harder_de": "Womit haben Sie sich bei Ihrer Arbeit beschäftigt?",
+  "harder_en": "What did you work on in your job?"
+ },
+ {
+  "head": "Beschäftigung",
+  "pos": "noun",
+  "gender": "die",
+  "plural": null,
+  "en": "employment, occupation",
+  "ex_de": "Ich suche eine Halbtagsbeschäftigung, weil ich ein kleines Kind habe.",
+  "ex_en": "I'm looking for a part-time job because I have a small child."
+ },
+ {
+  "head": "Bescheid",
+  "pos": "noun",
+  "gender": "der",
+  "plural": "Bescheide",
+  "en": "official decision, notification",
+  "expl": "A Bescheid from an authority is the formal written answer to an application.",
+  "ex_de": "Den endgültigen Bescheid erhalten Sie in etwa vier Wochen.",
+  "ex_en": "You'll receive the final decision in about four weeks."
+ },
+ {
+  "head": "Bescheid sagen / Bescheid geben",
+  "pos": "other",
+  "en": "to let someone know",
+  "expl": "Two fixed phrases, same meaning — essential for everyday German.",
+  "ex_de": "Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid.",
+  "ex_en": "I'll ask about the dates and then let you know.",
+  "harder_de": "Kannst du mir bis morgen Bescheid geben?",
+  "harder_en": "Can you let me know by tomorrow?"
+ }
+]

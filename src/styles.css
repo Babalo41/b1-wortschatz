@@ -246,6 +246,28 @@ button {
   margin-bottom: 10px;
 }
 
+.word-expl {
+  font-size: 0.88rem;
+  opacity: 0.85;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+.fixed-phrases {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.fixed-phrase {
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+
 .example-line {
   display: flex;
   flex-direction: column;

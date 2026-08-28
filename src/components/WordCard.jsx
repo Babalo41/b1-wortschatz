@@ -53,6 +53,13 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
         <div className="word-head">{headline(entry)}</div>
         {entry.meaning && <div className="word-meaning">{entry.meaning}</div>}
         {entry.plural && <div className="word-sub">Plural: {entry.plural}</div>}
+        {(entry.compar || entry.superl) && (
+          <div className="word-sub">
+            {entry.compar}
+            {entry.compar && entry.superl ? " · " : ""}
+            {entry.superl}
+          </div>
+        )}
         <button
           className="speak-btn"
           onClick={(e) => {
@@ -70,6 +77,18 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
         <div className="word-card-back" onClick={(e) => e.stopPropagation()}>
           <div className="pos-tag">{entry.pos}{entry.region ? ` · ${entry.region}` : ""}</div>
 
+          {entry.expl && <div className="word-expl">{entry.expl}</div>}
+
+          {entry.fixedPhrases?.length > 0 && (
+            <div className="fixed-phrases">
+              {entry.fixedPhrases.map((phrase, i) => (
+                <div key={i} className="fixed-phrase">
+                  {phrase}
+                </div>
+              ))}
+            </div>
+          )}
+
           {entry.examples.length > 0 && (
             <Section title="Beispiel" open={openSections.examples ?? true} onToggle={() => toggle("examples")}>
               {entry.examples.map((ex, i) => (
@@ -83,6 +102,24 @@ export default function WordCard({ entry, flipped, onFlip, showBack = true }) {
                   {entry.examplesEn?.[i] && <div className="example-en">{entry.examplesEn[i]}</div>}
                 </div>
               ))}
+            </Section>
+          )}
+
+          {entry.harderExample && (
+            <Section title="Schwieriger" open={openSections.harder} onToggle={() => toggle("harder")}>
+              <div className="example-line">
+                <div className="example-de">
+                  <span>{entry.harderExample.de}</span>
+                  <button
+                    className="speak-btn-inline"
+                    onClick={() => speak(entry.harderExample.de)}
+                    aria-label="Beispiel anhören"
+                  >
+                    🔊
+                  </button>
+                </div>
+                <div className="example-en">{entry.harderExample.en}</div>
+              </div>
             </Section>
           )}
 

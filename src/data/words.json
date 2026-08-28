@@ -11,6 +11,16 @@
    "Die Fahrt kostet ab Hamburg 200 Euro.",
    "Ab nächster Woche bleibt unser Geschäft samstags geschlossen.",
    "Mein Bruder besucht uns ab und zu."
+  ],
+  "meaning": "from / starting at; away/off (prefix)",
+  "expl": "As a standalone word it marks a starting point in place, time, or price. As a prefix ab- means 'away/off' — the key pattern that unlocks most of the words that follow.",
+  "fixedPhrases": [
+   "ab und zu = now and then"
+  ],
+  "examplesEn": [
+   "The trip costs €200 from Hamburg onward.",
+   null,
+   null
   ]
  },
  {
@@ -29,6 +39,11 @@
   "page": 16,
   "examples": [
    "An der nächsten Kreuzung müssen Sie links abbiegen."
+  ],
+  "meaning": "to turn (off a road)",
+  "expl": "ab (off) + biegen (to bend) → bend away from the straight line. Movement verb → takes sein.",
+  "examplesEn": [
+   "At the next junction you have to turn left."
   ]
  },
  {
@@ -41,6 +56,11 @@
   "page": 16,
   "examples": [
    "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet."
+  ],
+  "meaning": "illustration, figure, diagram",
+  "expl": "Contains Bild (picture). The -ung ending is almost always feminine → die.",
+  "examplesEn": [
+   "The figure shows how to switch the device on."
   ]
  },
  {
@@ -54,6 +74,12 @@
   "examples": [
    "Unser Urlaub war ein tolles Abenteuer.",
    "Die Kinder lieben Abenteuergeschichten."
+  ],
+  "meaning": "adventure",
+  "expl": "Cognate — shares a Latin root with English 'adventure'. Neuter, and the plural doesn't change.",
+  "examplesEn": [
+   "Our holiday was a great adventure.",
+   null
   ]
  },
  {
@@ -65,6 +91,7 @@
   "region": null,
   "page": 16,
   "examples": [
+   "Du spielst aber gut Klavier!",
    "Heute kann ich nicht, aber morgen ganz bestimmt.",
    "Es lag sehr viel Schnee, aber Enzo ist trotzdem mit dem Motorrad gefahren.",
    "Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.",
@@ -72,6 +99,18 @@
    "Ich würde gerne kommen, aber es geht leider nicht.",
    "Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.",
    "Du spielst aber gut Klavier."
+  ],
+  "meaning": "but; (emphasis particle) really / wow",
+  "expl": "Two jobs: job 1 = 'but' (contrast). Job 2 = flavour particle adding surprise or emphasis, hard to translate literally.",
+  "examplesEn": [
+   "Wow, you really play the piano well!",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  },
  {
@@ -90,6 +129,11 @@
   "page": 16,
   "examples": [
    "Unser Zug ist pünktlich abgefahren."
+  ],
+  "meaning": "to depart, leave",
+  "expl": "ab (away) + fahren (to go/drive) → drive away. Motion → sein. Stem change: er fährt ab.",
+  "examplesEn": [
+   "Our train left on time."
   ]
  },
  {
@@ -102,6 +146,11 @@
   "page": 16,
   "examples": [
    "Es bleiben uns noch zwanzig Minuten bis zur Abfahrt."
+  ],
+  "meaning": "departure",
+  "expl": "The noun of abfahren — literally the word on station boards. Feminine.",
+  "examplesEn": [
+   "We still have twenty minutes until departure."
   ]
  },
  {
@@ -114,6 +163,11 @@
   "page": 16,
   "examples": [
    "Werfen Sie den Bioabfall bitte nicht zum normalen Müll."
+  ],
+  "meaning": "waste, rubbish",
+  "expl": "From abfallen (to fall off) — peelings falling off the counter. Plural umlauts: die Abfälle.",
+  "examplesEn": [
+   "Please don't put organic waste in with normal rubbish."
   ]
  },
  {
@@ -126,6 +180,11 @@
   "page": 16,
   "examples": [
    "Wirf das bitte in den Abfalleimer!"
+  ],
+  "meaning": "waste bin",
+  "expl": "Compound: Abfall (waste) + Eimer (bucket). Gender follows the last part → der Eimer → der.",
+  "examplesEn": [
+   "Please throw that in the bin!"
   ]
  },
  {
@@ -156,6 +215,11 @@
   "page": 16,
   "examples": [
    "Ich soll dieses Päckchen bei Herrn Müller abgeben."
+  ],
+  "meaning": "to hand in, drop off",
+  "expl": "ab + geben (to give) → give it away to someone. Stem change: er gibt ab.",
+  "examplesEn": [
+   "I'm supposed to drop this parcel off at Mr Müller's."
   ]
  },
  {
@@ -173,7 +237,14 @@
   "region": "von",
   "page": 16,
   "examples": [
+   "Das hängt vom Wetter ab.",
    "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab."
+  ],
+  "meaning": "to depend (on)",
+  "expl": "ab + hängen (to hang) → your plans hang off something else. Used with von. Strong: hing / abgehangen.",
+  "examplesEn": [
+   "That depends on the weather.",
+   null
   ]
  },
  {
@@ -186,6 +257,13 @@
   "page": 16,
   "examples": [
    "Gregor ist finanziell von seinen Eltern abhängig."
+  ],
+  "meaning": "dependent",
+  "expl": "The adjective sibling of abhängen. Pairs with von: abhängig von …",
+  "compar": "abhängiger",
+  "superl": "am abhängigsten",
+  "examplesEn": [
+   "Gregor is financially dependent on his parents."
   ]
  },
  {
@@ -204,6 +282,11 @@
   "page": 16,
   "examples": [
    "Für die Reise habe ich 500 Euro von meinem Konto abgehoben."
+  ],
+  "meaning": "to withdraw (money); to take off (plane)",
+  "expl": "ab + heben (to lift): lift money out of the account, or a plane lifts off the ground.",
+  "examplesEn": [
+   "I withdrew €500 from my account for the trip."
   ]
  },
  {
@@ -222,6 +305,11 @@
   "page": 16,
   "examples": [
    "Meine Freundin hat mich vom Bahnhof abgeholt."
+  ],
+  "meaning": "to pick up, collect",
+  "expl": "ab + holen (to fetch) → fetch someone/something away with you. Fully regular.",
+  "examplesEn": [
+   "My girlfriend picked me up from the station."
   ]
  },
  {
@@ -240,6 +328,11 @@
   "page": 16,
   "examples": [
    "Er hat die Hausaufgaben von mir abgeschrieben."
+  ],
+  "meaning": "to copy (someone's work)",
+  "expl": "ab + schreiben (to write) → write it off someone else's page.",
+  "examplesEn": [
+   "He copied the homework off me."
   ]
  },
  {
@@ -252,6 +345,11 @@
   "page": 16,
   "examples": [
    "Meine Tochter hat gerade Abitur gemacht."
+  ],
+  "meaning": "school-leaving exam (A-levels equivalent)",
+  "expl": "The German university-entrance qualification. Germany-specific term — Austria/Switzerland say Matura. Neuter.",
+  "examplesEn": [
+   "My daughter has just finished her Abitur."
   ]
  },
  {
@@ -270,6 +368,11 @@
   "page": 16,
   "examples": [
    "Er hat mein Angebot, ihm zu helfen, abgelehnt."
+  ],
+  "meaning": "to reject, decline",
+  "expl": "ab + lehnen (to lean) → lean away from an offer. Opposite of annehmen (to accept).",
+  "examplesEn": [
+   "He turned down my offer to help him."
   ]
  },
  {
@@ -288,6 +391,11 @@
   "page": 16,
   "examples": [
    "Wir hatten doch abgemacht, dass du die Getränke besorgst."
+  ],
+  "meaning": "to arrange, agree on",
+  "expl": "ab + machen (to make/do). The noun die Abmachung = the agreement.",
+  "examplesEn": [
+   "We had agreed that you'd get the drinks."
   ]
  },
  {
@@ -307,6 +415,12 @@
   "examples": [
    "Morgen können wir den Verband abnehmen.",
    "Ich habe zehn Kilo abgenommen."
+  ],
+  "meaning": "to lose weight; to take off/remove",
+  "expl": "ab + nehmen (to take) → take off/away. Opposite: zunehmen (to gain weight). Stem change: er nimmt ab.",
+  "examplesEn": [
+   null,
+   "I've lost ten kilos."
   ]
  },
  {
@@ -355,6 +469,11 @@
   "page": 16,
   "examples": [
    "Ich muss unser Treffen leider absagen, weil ich krank geworden bin."
+  ],
+  "meaning": "to cancel, call off",
+  "expl": "ab + sagen (to say) → say it off. Opposite: zusagen (to accept an invitation).",
+  "examplesEn": [
+   "I have to cancel our meeting because I've fallen ill."
   ]
  },
  {
@@ -367,6 +486,11 @@
   "page": 16,
   "examples": [
    "Ein guter Schulabschluss ist sehr wichtig."
+  ],
+  "meaning": "conclusion; qualification/degree",
+  "expl": "From abschließen (to finish/lock). Two senses: finishing something, and a diploma/degree.",
+  "examplesEn": [
+   "A good school-leaving qualification is very important."
   ]
  },
  {
@@ -379,6 +503,11 @@
   "page": 16,
   "examples": [
    "Lesen Sie bitte den zweiten Abschnitt."
+  ],
+  "meaning": "section, paragraph",
+  "expl": "From abschneiden (to cut off) → a cut-off piece of text or a stretch of time/road.",
+  "examplesEn": [
+   "Please read the second section."
   ]
  },
  {
@@ -390,7 +519,14 @@
   "region": null,
   "page": 16,
   "examples": [
+   "Schicken Sie das Paket an den Absender zurück.",
    "Schicken Sie das Paket an den"
+  ],
+  "meaning": "sender",
+  "expl": "From senden (to send) — the one it's sent away from. Feminine form: die Absenderin.",
+  "examplesEn": [
+   "Send the package back to the sender.",
+   null
   ]
  },
  {
@@ -414,8 +550,20 @@
   "region": null,
   "page": 16,
   "examples": [
+   "Meine Tochter hat das nicht mit Absicht gemacht.",
    "Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.",
    "Hast du die Absicht zu studieren?"
+  ],
+  "meaning": "intention",
+  "expl": "Key phrase: mit Absicht = on purpose / deliberately. Feminine.",
+  "harderExample": {
+   "de": "Hast du die Absicht zu studieren?",
+   "en": "Do you intend to study (at university)?"
+  },
+  "examplesEn": [
+   "My daughter didn't do that on purpose.",
+   null,
+   null
   ]
  },
  {
@@ -429,6 +577,12 @@
   "examples": [
    "Was Sie da sagen, ist absolut falsch.",
    "Ich habe absolutes Vertrauen zu dir."
+  ],
+  "meaning": "absolute(ly)",
+  "expl": "Works as adjective and intensifying adverb. Cognate — no comparison forms.",
+  "examplesEn": [
+   "What you're saying is absolutely wrong.",
+   null
   ]
  },
  {
@@ -447,6 +601,11 @@
   "page": 16,
   "examples": [
    "Lasst uns über diesen Punkt abstimmen."
+  ],
+  "meaning": "to vote (on)",
+  "expl": "stimmen = to vote/tune. Used with über + accusative.",
+  "examplesEn": [
+   "Let's vote on this point."
   ]
  },
  {
@@ -459,6 +618,11 @@
   "page": 16,
   "examples": [
    "Meine Freundin arbeitet in der Abteilung von Frau Kaufmann."
+  ],
+  "meaning": "department",
+  "expl": "A part (Teil) of a company or shop. The -ung ending → feminine.",
+  "examplesEn": [
+   "My friend works in Ms Kaufmann's department."
   ]
  },
  {
@@ -470,7 +634,14 @@
   "region": null,
   "page": 16,
   "examples": [
+   "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",
    "Der Abwart hat mir geholfen, den"
+  ],
+  "meaning": "caretaker/janitor (Swiss German)",
+  "expl": "Swiss word — Germany/Austria say Hausmeister. Worth recognising. Feminine: die Abwartin.",
+  "examplesEn": [
+   "The caretaker helped me carry the wardrobe into the apartment.",
+   null
   ]
  },
  {
@@ -495,6 +666,11 @@
   "page": 16,
   "examples": [
    "Von dort führt der Weg abwärts ins Tal."
+  ],
+  "meaning": "downward",
+  "expl": "ab (down/away) + -wärts (-ward). Opposite: aufwärts.",
+  "examplesEn": [
+   "From there the path leads down into the valley."
   ]
  },
  {
@@ -513,6 +689,11 @@
   "page": 16,
   "examples": [
    "Ich muss noch das Geschirr abwaschen."
+  ],
+  "meaning": "to wash up (dishes)",
+  "expl": "ab + waschen (to wash) → wash the food off the plates. Stem change: er wäscht ab.",
+  "examplesEn": [
+   "I still have to wash the dishes."
   ]
  },
  {
@@ -525,6 +706,11 @@
   "page": 16,
   "examples": [
    "Herr Huber ist bis zum 25. April abwesend."
+  ],
+  "meaning": "absent",
+  "expl": "Opposite: anwesend (present). The noun is die Abwesenheit.",
+  "examplesEn": [
+   "Mr Huber is absent until 25 April."
   ]
  },
  {
@@ -543,6 +729,11 @@
   "page": 16,
   "examples": [
    "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen."
+  ],
+  "meaning": "to pay attention (to); to respect",
+  "expl": "With auf: achten auf = watch out for / pay attention to. Related: die Achtung (attention/respect).",
+  "examplesEn": [
+   "Please make sure you lock up when you leave."
   ]
  },
  {
@@ -567,6 +758,11 @@
   "page": 17,
   "examples": [
    "Hast du schon meine neue Adresse?"
+  ],
+  "meaning": "address",
+  "expl": "Cognate. Nouns ending in -e are usually feminine → die.",
+  "examplesEn": [
+   "Do you have my new address yet?"
   ]
  },
  {
@@ -580,6 +776,18 @@
   "examples": [
    "Emilia ist in einer ganz ähnlichen Situation wie ich.",
    "Oleg sieht seinem Bruder sehr ähnlich."
+  ],
+  "meaning": "similar",
+  "expl": "Used with dative: jemandem ähnlich sein = to resemble someone. Noun: die Ähnlichkeit.",
+  "harderExample": {
+   "de": "Oleg sieht seinem Bruder sehr ähnlich.",
+   "en": "Oleg looks a lot like his brother."
+  },
+  "compar": "ähnlicher",
+  "superl": "am ähnlichsten",
+  "examplesEn": [
+   "Emilia is in a very similar situation to me.",
+   null
   ]
  },
  {
@@ -592,6 +800,11 @@
   "page": 17,
   "examples": [
    "Ich hatte keine Ahnung, dass du heute Geburtstag hast."
+  ],
+  "meaning": "idea, clue",
+  "expl": "Lives in the phrase keine Ahnung = 'no idea'. From ahnen (to sense/suspect). Feminine.",
+  "examplesEn": [
+   "I had no idea it was your birthday today."
   ]
  },
  {
@@ -604,6 +817,11 @@
   "page": 17,
   "examples": [
    "Die Stadt sollte eine Aktion für Familien planen."
+  ],
+  "meaning": "campaign, action, promotion",
+  "expl": "Cognate.",
+  "examplesEn": [
+   "The city should plan a campaign for families."
   ]
  },
  {
@@ -616,6 +834,11 @@
   "page": 17,
   "examples": [
    "Ich bin sehr aktiv und mache viel Sport."
+  ],
+  "meaning": "active",
+  "expl": "Cognate. Opposite: passiv. Noun: die Aktivität.",
+  "examplesEn": [
+   "I'm very active and do a lot of sport."
   ]
  },
  {
@@ -628,6 +851,11 @@
   "page": 17,
   "examples": [
    "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten."
+  ],
+  "meaning": "activity",
+  "expl": "Noun form of aktiv.",
+  "examplesEn": [
+   "During the holidays the city offers children various leisure activities."
   ]
  },
  {
@@ -640,6 +868,13 @@
   "page": 17,
   "examples": [
    "Umweltschutz ist ein aktuelles Thema."
+  ],
+  "meaning": "current, topical, up-to-date",
+  "expl": "FALSE FRIEND: aktuell does NOT mean 'actual'. For 'actually' use eigentlich.",
+  "compar": "aktueller",
+  "superl": "am aktuellsten",
+  "examplesEn": [
+   "Environmental protection is a topical issue."
   ]
  },
  {
@@ -658,6 +893,11 @@
   "page": 17,
   "examples": [
    "Ich kann diese Bedingungen nicht akzeptieren."
+  ],
+  "meaning": "to accept",
+  "expl": "-ieren verb — NO ge- in the participle: akzeptiert, not *geakzeptiert.",
+  "examplesEn": [
+   "I can't accept these conditions."
   ]
  },
  {
@@ -670,6 +910,11 @@
   "page": 17,
   "examples": [
    "Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen."
+  ],
+  "meaning": "alarm",
+  "expl": "Cognate.",
+  "examplesEn": [
+   "In case of a fire alarm you must not use the lifts."
   ]
  },
  {
@@ -683,6 +928,12 @@
   "examples": [
    "Du musst die Wunde mit Alkohol reinigen.",
    "Nein, danke! Ich trinke keinen Alkohol."
+  ],
+  "meaning": "alcohol",
+  "expl": "Cognate but note the stress: al-ko-HOL. Masculine, mass noun (no plural).",
+  "examplesEn": [
+   null,
+   "No thanks! I don't drink alcohol."
   ]
  },
  {
@@ -697,6 +948,13 @@
    "Sind alle Kinder da?",
    "Sonst noch (et)was? – Nein, danke. Das ist alles.",
    "Alles Gute!"
+  ],
+  "meaning": "all, every (stem taking endings)",
+  "expl": "Takes adjective endings: alle, alles, aller-. Fixed phrase: Alles Gute! = All the best!",
+  "examplesEn": [
+   "Are all the children here?",
+   null,
+   null
   ]
  },
  {
@@ -711,6 +969,17 @@
    "Ich gehe nicht gern allein spazieren.",
    "Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.",
    "Es war sehr teuer. Allein das Essen hat schon über 50 Euro gekostet."
+  ],
+  "meaning": "alone; just/only (for emphasis)",
+  "expl": "Two uses: alone (physical) and 'just/only' as an emphasising word.",
+  "harderExample": {
+   "de": "Allein das Essen hat schon über 50 Euro gekostet.",
+   "en": "The food alone already cost over €50."
+  },
+  "examplesEn": [
+   "I don't like going for walks alone.",
+   null,
+   null
   ]
  },
  {
@@ -722,8 +991,16 @@
   "region": null,
   "page": 17,
   "examples": [
+   "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst.",
    "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst du schnell wieder gesund.",
    "Das ist das Allerschönste, was ich je gesehen habe."
+  ],
+  "meaning": "booster prefix for superlatives (the very best, most beautiful of all)",
+  "expl": "allerbeste = the very best; allerschönste = most beautiful of all.",
+  "examplesEn": [
+   "The very best thing is to go to bed and sleep for a long time.",
+   null,
+   null
   ]
  },
  {
@@ -736,6 +1013,11 @@
   "page": 17,
   "examples": [
    "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit."
+  ],
+  "meaning": "however, though, mind you",
+  "expl": "A softer contrast word than aber.",
+  "examplesEn": [
+   "We can meet tomorrow, though I only have time from midday."
   ]
  },
  {
@@ -750,6 +1032,17 @@
    "Wir haben nur über allgemeine Probleme gesprochen.",
    "Es ist allgemein bekannt, dass man hier gut essen kann.",
    "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden."
+  ],
+  "meaning": "general",
+  "expl": "Phrase: im Allgemeinen = generally, in general.",
+  "harderExample": {
+   "de": "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.",
+   "en": "Generally speaking, I'm very satisfied with my work."
+  },
+  "examplesEn": [
+   "We only talked about general problems.",
+   null,
+   null
   ]
  },
  {
@@ -775,6 +1068,16 @@
   "examples": [
    "Das alltägliche Leben ist manchmal langweilig.",
    "Der Roman erzählt eine ganz alltägliche Geschichte."
+  ],
+  "meaning": "everyday, ordinary",
+  "expl": "From Alltag (everyday life) + -lich.",
+  "harderExample": {
+   "de": "Für die meisten Deutschen ist es alltäglich, mit dem Fahrrad zur Arbeit zu fahren.",
+   "en": "For most Germans it's an everyday thing to cycle to work."
+  },
+  "examplesEn": [
+   "Everyday life is sometimes boring.",
+   null
   ]
  },
  {
@@ -787,6 +1090,14 @@
   "page": 17,
   "examples": [
    "Wie viele Buchstaben hat das Alphabet in Ihrer Sprache?"
+  ],
+  "meaning": "alphabet",
+  "harderExample": {
+   "de": "Das deutsche Alphabet hat vier Buchstaben mehr als das englische, wenn man ä, ö, ü und ß mitzählt.",
+   "en": "The German alphabet has four more letters than English, if you count ä, ö, ü and ß."
+  },
+  "examplesEn": [
+   "How many letters does the alphabet have in your language?"
   ]
  },
  {
@@ -802,6 +1113,18 @@
    "Sie können sich sowohl persönlich als auch im Internet anmelden.",
    "Meine Schwester ist älter als ich.",
    "Es ist später, als ich dachte."
+  ],
+  "meaning": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "harderExample": {
+   "de": "Als mein Mann kam, war die Party schon zu Ende.",
+   "en": "When my husband arrived, the party was already over."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "My sister is older than me.",
+   null
   ]
  },
  {
@@ -813,7 +1136,18 @@
   "region": "ob",
   "page": 17,
   "examples": [
+   "Meine Schwester ist älter als ich.",
    "Er tut so, als ob wir nie darüber gesprochen hätten."
+  ],
+  "meaning": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "harderExample": {
+   "de": "Als mein Mann kam, war die Party schon zu Ende.",
+   "en": "When my husband arrived, the party was already over."
+  },
+  "examplesEn": [
+   "My sister is older than me.",
+   null
   ]
  },
  {
@@ -828,6 +1162,13 @@
    "Also, die Sache ist so: …",
    "Irina hat Urlaub. Sie kann uns also helfen.",
    "Also wirklich, jetzt reicht es."
+  ],
+  "meaning": "so, therefore; well then",
+  "expl": "Two uses: logical connector ('so/therefore') and opener/filler ('well then...').",
+  "examplesEn": [
+   null,
+   "Irina is on holiday. So she can help us.",
+   null
   ]
  },
  {
@@ -841,6 +1182,18 @@
   "examples": [
    "Wie alt sind Sie?",
    "Maria ist eine alte Freundin von mir."
+  ],
+  "meaning": "old",
+  "expl": "Je älter ich werde, desto mehr... = The older I get, the more...",
+  "harderExample": {
+   "de": "Je älter ich werde, desto mehr schätze ich meine Ruhe.",
+   "en": "The older I get, the more I appreciate my peace and quiet."
+  },
+  "compar": "älter",
+  "superl": "am ältesten",
+  "examplesEn": [
+   null,
+   "Maria is an old friend of mine."
   ]
  },
  {
@@ -854,6 +1207,12 @@
   "examples": [
    "Wir sind etwa im gleichen Alter.",
    "Alter: 26 Jahre"
+  ],
+  "meaning": "age",
+  "expl": "No plural as a mass noun. Fixed phrase: im Alter von = at the age of.",
+  "examplesEn": [
+   "We're roughly the same age.",
+   null
   ]
  },
  {
@@ -866,6 +1225,10 @@
   "page": 17,
   "examples": [
    "Die Großeltern unserer Nachbarn sind im Altenheim."
+  ],
+  "meaning": "old people's home (synonym: Altersheim)",
+  "examplesEn": [
+   "Our neighbours' grandparents are in the care home."
   ]
  },
  {
@@ -890,6 +1253,14 @@
   "page": 17,
   "examples": [
    "Wir brauchen alternative Energien."
+  ],
+  "meaning": "alternative (adjective/adverb)",
+  "harderExample": {
+   "de": "Alternativ könnten wir auch mit dem Zug fahren.",
+   "en": "Alternatively, we could go by train."
+  },
+  "examplesEn": [
+   "We need alternative energy sources."
   ]
  },
  {
@@ -902,6 +1273,10 @@
   "page": 17,
   "examples": [
    "Auf dieser Strecke ist der Zug eine gute Alternative zum Flugzeug."
+  ],
+  "meaning": "alternative (noun)",
+  "examplesEn": [
+   "On this route, the train is a good alternative to the plane."
   ]
  },
  {
@@ -914,6 +1289,15 @@
   "page": 17,
   "examples": [
    "Dort an der Ampel kannst du über die Straße gehen."
+  ],
+  "meaning": "traffic light",
+  "expl": "A high-frequency city word with no English cognate — worth drilling. Feminine.",
+  "harderExample": {
+   "de": "An dieser Kreuzung schaltet die Ampel viel zu schnell auf Rot.",
+   "en": "At this junction, the light switches to red far too quickly."
+  },
+  "examplesEn": [
+   "You can cross the street there at the traffic light."
   ]
  },
  {
@@ -926,6 +1310,15 @@
   "page": 17,
   "examples": [
    "Das Arbeitsamt befindet sich neben dem Busbahnhof."
+  ],
+  "meaning": "(government) office, authority",
+  "expl": "Arbeitsamt = employment office. Key word for German bureaucracy.",
+  "harderExample": {
+   "de": "Für die Anmeldung müssen Sie persönlich beim Amt vorbeikommen.",
+   "en": "For the registration you have to go to the office in person."
+  },
+  "examplesEn": [
+   "The employment office is next to the bus station."
   ]
  },
  {
@@ -944,6 +1337,15 @@
   "page": 17,
   "examples": [
    "Bei dem Fest haben wir uns sehr gut amüsiert."
+  ],
+  "meaning": "to have fun, enjoy oneself",
+  "expl": "Reflexive -ieren verb. No ge- in participle.",
+  "harderExample": {
+   "de": "Die Kinder amüsieren sich prächtig, während die Eltern sich um alles kümmern müssen.",
+   "en": "The kids are having a wonderful time, while the parents have to take care of everything."
+  },
+  "examplesEn": [
+   "We had a great time at the party."
   ]
  },
  {
@@ -960,6 +1362,19 @@
    "Ich warte am Bahnhof auf dich.",
    "Am besten, du gehst zur Information und fragst da.",
    "Das Licht war die ganze Nacht an."
+  ],
+  "meaning": "at, on; also 'switched on'",
+  "expl": "Preposition with many roles. As an adverb: das Licht ist an = the light is on.",
+  "harderExample": {
+   "de": "An solchen Tagen frage ich mich, ob sich der ganze Stress überhaupt lohnt.",
+   "en": "On days like this, I ask myself whether all the stress is even worth it."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "I'll wait for you at the station.",
+   null,
+   null
   ]
  },
  {
@@ -978,6 +1393,15 @@
   "page": 17,
   "examples": [
    "Die Politiker analysieren die Situation auf dem Arbeitsmarkt."
+  ],
+  "meaning": "to analyze",
+  "expl": "-ieren verb, no ge- in participle.",
+  "harderExample": {
+   "de": "Bevor wir eine Entscheidung treffen, sollten wir die Zahlen genauer analysieren.",
+   "en": "Before we decide, we should analyze the numbers more closely."
+  },
+  "examplesEn": [
+   "The politicians are analyzing the job-market situation."
   ]
  },
  {
@@ -996,6 +1420,15 @@
   "page": 17,
   "examples": [
    "Darf ich Ihnen etwas zu trinken anbieten?"
+  ],
+  "meaning": "to offer",
+  "expl": "Separable prefix an- jumps to the end of the sentence.",
+  "harderExample": {
+   "de": "Die Firma bietet ihren Mitarbeitern seit Kurzem auch Homeoffice an.",
+   "en": "The company has recently started offering employees remote work too."
+  },
+  "examplesEn": [
+   "May I offer you something to drink?"
   ]
  },
  {
@@ -1008,6 +1441,14 @@
   "page": 18,
   "examples": [
    "Ist das ein privater Telefonanbieter?"
+  ],
+  "meaning": "provider, supplier",
+  "harderExample": {
+   "de": "Bevor Sie den Vertrag unterschreiben, sollten Sie die Preise verschiedener Anbieter vergleichen.",
+   "en": "Before signing the contract, you should compare prices from different providers."
+  },
+  "examplesEn": [
+   "Is that a private phone provider?"
   ]
  },
  {
@@ -1021,6 +1462,15 @@
   "examples": [
    "Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.",
    "Der Käse ist heute im Angebot."
+  ],
+  "meaning": "offer, deal",
+  "harderExample": {
+   "de": "Das Angebot klingt zu gut, um wahr zu sein — da wäre ich vorsichtig.",
+   "en": "The offer sounds too good to be true — I'd be careful there."
+  },
+  "examplesEn": [
+   null,
+   "The cheese is on special offer today."
   ]
  },
  {
@@ -1036,6 +1486,18 @@
    "Bitte nicht alle auf einmal! Einer nach dem anderen.",
    "Ich hätte gern ein anderes Auto.",
    "Natascha hat unter anderem Chinesisch und Spanisch gelernt."
+  ],
+  "meaning": "other, different (stem taking adjective endings)",
+  "expl": "Fixed phrase: unter anderem = among other things.",
+  "harderExample": {
+   "de": "Natascha hat unter anderem Chinesisch und Spanisch gelernt.",
+   "en": "Among other things, Natascha has learned Chinese and Spanish."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "I'd like a different car.",
+   null
   ]
  },
  {
@@ -1048,6 +1510,15 @@
   "page": 18,
   "examples": [
    "Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen."
+  ],
+  "meaning": "on the other hand",
+  "expl": "Pairs with einerseits (on one hand).",
+  "harderExample": {
+   "de": "Einerseits will ich mehr Zeit mit der Familie verbringen, andererseits reizt mich die neue Stelle im Ausland sehr.",
+   "en": "On one hand I want more family time, on the other the new job abroad really appeals to me."
+  },
+  "examplesEn": [
+   "Tarek does want to study, but on the other hand he also wants to earn money right away."
   ]
  },
  {
@@ -1067,6 +1538,15 @@
   "examples": [
    "Das Wetter hat sich geändert.",
    "Ich habe meine Meinung inzwischen geändert."
+  ],
+  "meaning": "to change (something)",
+  "harderExample": {
+   "de": "Die Firma hat ihre Rückgabebedingungen letztes Jahr stillschweigend geändert.",
+   "en": "The company quietly changed its return policy last year."
+  },
+  "examplesEn": [
+   null,
+   "I've changed my mind in the meantime."
   ]
  },
  {
@@ -1079,6 +1559,14 @@
   "page": 18,
   "examples": [
    "Es gibt eine Programmänderung."
+  ],
+  "meaning": "change, modification",
+  "harderExample": {
+   "de": "Kleine Änderungen im Vertrag können später große Auswirkungen haben.",
+   "en": "Small changes in a contract can have big consequences later."
+  },
+  "examplesEn": [
+   "There's a change to the schedule."
   ]
  },
  {
@@ -1093,6 +1581,17 @@
    "Anders geht das leider nicht.",
    "Oliver ist anders als seine Freunde.",
    "Ich würde das anders machen."
+  ],
+  "meaning": "differently (adverb)",
+  "expl": "Adverb — different from ander- (adjective). Compare: ein anderes Auto (adj) vs. ich würde das anders machen (adv).",
+  "harderExample": {
+   "de": "Wenn ich das gewusst hätte, hätte ich vieles anders gemacht.",
+   "en": "If I'd known that, I would have done a lot of things differently."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "I would do that differently."
   ]
  },
  {
@@ -1111,6 +1610,15 @@
   "page": 18,
   "examples": [
    "Meine Ausbildung wird hier nicht anerkannt."
+  ],
+  "meaning": "to recognize, acknowledge formally",
+  "expl": "Participle is anerkannt, no extra ge- (erkennen already starts with inseparable er-).",
+  "harderExample": {
+   "de": "Viele Länder erkennen ausländische Abschlüsse erst nach einer Prüfung an.",
+   "en": "Many countries only recognize foreign qualifications after an assessment."
+  },
+  "examplesEn": [
+   "My qualification isn't recognized here."
   ]
  },
  {
@@ -1130,6 +1638,15 @@
   "examples": [
    "Wann fängst du mit der Arbeit an?",
    "Hier fängt die Bahnhofstraße an."
+  ],
+  "meaning": "to begin, start",
+  "harderExample": {
+   "de": "Sobald du fertig bist, fangen wir mit der Besprechung an.",
+   "en": "As soon as you're ready, we'll start the meeting."
+  },
+  "examplesEn": [
+   "When are you starting work?",
+   null
   ]
  },
  {
@@ -1147,6 +1664,20 @@
    "Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.",
    "Wir machen Anfang Juli Ferien.",
    "Meine Freundin wohnt am Anfang der Straße."
+  ],
+  "meaning": "beginning, start",
+  "expl": "Fixed phrases: von Anfang an = from the start; Anfang Juli = early July; Anfang fünfzig = in one's early fifties.",
+  "harderExample": {
+   "de": "Der Anfang war schwer, aber inzwischen habe ich mich gut eingelebt.",
+   "en": "The start was hard, but by now I've settled in well."
+  },
+  "examplesEn": [
+   null,
+   null,
+   null,
+   "My mother was against it from the start, me moving to Berlin.",
+   null,
+   null
   ]
  },
  {
@@ -1159,6 +1690,15 @@
   "page": 18,
   "examples": [
    "Anfangs ging alles gut."
+  ],
+  "meaning": "at first, initially",
+  "expl": "Adverb — pairs naturally with mittlerweile (by now).",
+  "harderExample": {
+   "de": "Anfangs war ich skeptisch, aber mittlerweile bin ich überzeugt.",
+   "en": "At first I was skeptical, but by now I'm convinced."
+  },
+  "examplesEn": [
+   "At first everything went well."
   ]
  },
  {
@@ -1177,6 +1717,15 @@
   "page": 18,
   "examples": [
    "Bitte geben Sie Ihre genaue Adresse an."
+  ],
+  "meaning": "to state, specify; (colloquial) to show off",
+  "expl": "angeben (mit) = to show off (with). Two very different meanings — context decides.",
+  "harderExample": {
+   "de": "Er gibt gern mit seinem neuen Auto an, aber es gehört gar nicht ihm.",
+   "en": "He likes to show off with his new car, but it doesn't even belong to him."
+  },
+  "examplesEn": [
+   "Please state your exact address."
   ]
  },
  {
@@ -1189,6 +1738,14 @@
   "page": 18,
   "examples": [
    "Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum."
+  ],
+  "meaning": "statement, piece of information",
+  "harderExample": {
+   "de": "Ohne genaue Angaben zur Herkunft der Ware kann der Zoll die Sendung nicht freigeben.",
+   "en": "Without exact details about the origin of the goods, customs can't release the shipment."
+  },
+  "examplesEn": [
+   "We need the following details from you: name, address, date of birth."
   ]
  },
  {
@@ -1200,7 +1757,18 @@
   "region": null,
   "page": 18,
   "examples": [
+   "Der Arzt darf nur Familienangehörigen Auskunft geben.",
    "Der Arzt darf nur Familienangehörigen"
+  ],
+  "meaning": "relative, family member",
+  "expl": "Adjectival noun — its ending shifts with the article, like a regular adjective would.",
+  "harderExample": {
+   "de": "Als nächster Angehöriger müssen Sie das Formular unterschreiben.",
+   "en": "As the next of kin, you have to sign the form."
+  },
+  "examplesEn": [
+   "The doctor may only give information to family members.",
+   null
   ]
  },
  {
@@ -1212,7 +1780,18 @@
   "region": null,
   "page": 18,
   "examples": [
+   "Der Arzt darf nur Familienangehörigen Auskunft geben.",
    "Auskunft geben."
+  ],
+  "meaning": "relative, family member",
+  "expl": "Adjectival noun — its ending shifts with the article, like a regular adjective would.",
+  "harderExample": {
+   "de": "Als nächster Angehöriger müssen Sie das Formular unterschreiben.",
+   "en": "As the next of kin, you have to sign the form."
+  },
+  "examplesEn": [
+   "The doctor may only give information to family members.",
+   null
   ]
  },
  {
@@ -1225,6 +1804,14 @@
   "page": 18,
   "examples": [
    "Wir wünschen Ihnen eine angenehme Reise."
+  ],
+  "meaning": "pleasant",
+  "harderExample": {
+   "de": "Es wäre mir angenehmer, wenn wir das Gespräch schriftlich führen könnten.",
+   "en": "It would be more comfortable for me if we could have this conversation in writing."
+  },
+  "examplesEn": [
+   "We wish you a pleasant journey."
   ]
  },
  {
@@ -1238,6 +1825,16 @@
   "examples": [
    "Du brauchst keine Angst zu haben. Der Hund tut dir nichts.",
    "Ich habe Angst, vielleicht ist etwas passiert."
+  ],
+  "meaning": "fear",
+  "expl": "Angst haben = to be afraid. Vor etwas Angst haben = to be afraid of something.",
+  "harderExample": {
+   "de": "Vor der Prüfung hatte ich solche Angst, dass ich kaum schlafen konnte.",
+   "en": "Before the exam I was so afraid I could barely sleep."
+  },
+  "examplesEn": [
+   null,
+   "I'm afraid, maybe something happened."
   ]
  },
  {
@@ -1250,6 +1847,11 @@
   "page": 18,
   "examples": [
    "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße."
+  ],
+  "meaning": "anxious, fearful (as a trait)",
+  "expl": "The character trait — different from Angst haben (momentary fear).",
+  "examplesEn": [
+   "My mother is a bit anxious. She doesn't like going out alone."
   ]
  },
  {
@@ -1268,6 +1870,15 @@
   "page": 18,
   "examples": [
    "Gestern hatte Julia ein rotes Kleid an."
+  ],
+  "meaning": "to have on, be wearing",
+  "expl": "Conjugates exactly like haben — just with an- stuck on.",
+  "harderExample": {
+   "de": "Was hattest du eigentlich an, als du sie kennengelernt hast?",
+   "en": "What were you actually wearing when you met her?"
+  },
+  "examplesEn": [
+   "Yesterday Julia was wearing a red dress."
   ]
  },
  {
@@ -1286,6 +1897,10 @@
   "page": 18,
   "examples": [
    "Du musst das Bild anklicken. Dann wird es größer."
+  ],
+  "meaning": "to click on",
+  "examplesEn": [
+   "You have to click on the picture. Then it gets bigger."
   ]
  },
  {
@@ -1305,6 +1920,16 @@
   "examples": [
    "Wann kommt der Zug in Hamburg an?",
    "Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen."
+  ],
+  "meaning": "to arrive; (idiom) to matter/depend on",
+  "expl": "Fixed idiom: es kommt darauf an = it depends. Memorize as one chunk.",
+  "harderExample": {
+   "de": "Es kommt darauf an, wie viel Zeit wir haben.",
+   "en": "It depends on how much time we have."
+  },
+  "examplesEn": [
+   null,
+   "In this game it depends on running faster than the others."
   ]
  },
  {
@@ -1318,6 +1943,11 @@
   "examples": [
    "Die Abfahrt ist um 0.55 Uhr, die Ankunft um 8.07 Uhr.",
    "Gleich nach der Ankunft habe ich meine Eltern angerufen."
+  ],
+  "meaning": "arrival",
+  "examplesEn": [
+   null,
+   "Right after arrival I called my parents."
   ]
  },
  {
@@ -1336,6 +1966,14 @@
   "page": 18,
   "examples": [
    "Wir sollten unseren Besuch ankündigen."
+  ],
+  "meaning": "to announce",
+  "harderExample": {
+   "de": "Die Regierung hat neue Maßnahmen angekündigt, die ab nächstem Monat gelten sollen.",
+   "en": "The government has announced new measures set to take effect next month."
+  },
+  "examplesEn": [
+   "We should announce our visit."
   ]
  },
  {
@@ -1349,6 +1987,16 @@
   "examples": [
    "Meine Musikanlage ist kaputt.",
    "In der Anlage der E-Mail finden Sie meinen Lebenslauf."
+  ],
+  "meaning": "system/facility; email attachment",
+  "expl": "In der Anlage = in the attachment (email). Very useful for work correspondence.",
+  "harderExample": {
+   "de": "Bitte prüfen Sie die Anlage und geben Sie mir bis Freitag Bescheid.",
+   "en": "Please check the attachment and let me know by Friday."
+  },
+  "examplesEn": [
+   null,
+   "You'll find my CV in the attachment of the email."
   ]
  },
  {
@@ -1361,6 +2009,10 @@
   "page": 18,
   "examples": [
    "In der Anleitung steht, dass bei diesem Spiel der Älteste beginnt."
+  ],
+  "meaning": "instructions, manual",
+  "examplesEn": [
+   "The instructions say that in this game the oldest person starts."
   ]
  },
  {
@@ -1379,6 +2031,15 @@
   "page": 18,
   "examples": [
    "Für diesen Kurs müssen Sie sich unbedingt vorher anmelden."
+  ],
+  "meaning": "to register (often reflexive: sich anmelden)",
+  "expl": "sich anmelden = to register oneself. Very useful for German bureaucracy and course enrollment.",
+  "harderExample": {
+   "de": "Ich habe mich für den Deutschkurs schon vor Wochen angemeldet, aber noch keine Bestätigung bekommen.",
+   "en": "I registered for the German course weeks ago, but haven't gotten a confirmation yet."
+  },
+  "examplesEn": [
+   "You definitely have to register for this course beforehand."
   ]
  },
  {
@@ -1392,6 +2053,11 @@
   "examples": [
    "Wo bekomme ich die Formulare für die Anmeldung?",
    "Die Anmeldung ist im Erdgeschoss, Zimmer 55."
+  ],
+  "meaning": "registration; reception desk",
+  "examplesEn": [
+   null,
+   "Reception is on the ground floor, room 55."
   ]
  },
  {
@@ -1411,6 +2077,16 @@
   "examples": [
    "Ich nehme Ihre Einladung gern an.",
    "Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind."
+  ],
+  "meaning": "to accept; to assume/suppose",
+  "expl": "Two senses: accept an offer, or assume something is true.",
+  "harderExample": {
+   "de": "Ich nehme mal an, dass du das schon weißt, aber sicherheitshalber sage ich es trotzdem.",
+   "en": "I'll assume you already know that, but I'll say it anyway just to be safe."
+  },
+  "examplesEn": [
+   null,
+   "I assume you agree with the proposal."
   ]
  },
  {
@@ -1423,6 +2099,10 @@
   "page": 18,
   "examples": [
    "Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer."
+  ],
+  "meaning": "classified ad",
+  "examplesEn": [
+   "I've read all the classified ads, but the apartments are too expensive."
   ]
  },
  {
@@ -1435,6 +2115,10 @@
   "page": 18,
   "examples": [
    "Du darfst im Brief die Anrede nicht vergessen."
+  ],
+  "meaning": "salutation (in a letter)",
+  "examplesEn": [
+   "Don't forget the salutation in the letter."
   ]
  },
  {
@@ -1453,6 +2137,10 @@
   "page": 18,
   "examples": [
    "Ich rufe Sie heute Abend an."
+  ],
+  "meaning": "to phone, call",
+  "examplesEn": [
+   "I'll call you this evening."
   ]
  },
  {
@@ -1465,6 +2153,10 @@
   "page": 18,
   "examples": [
    "Ich warte auf einen Anruf aus Berlin."
+  ],
+  "meaning": "phone call",
+  "examplesEn": [
+   "I'm waiting for a call from Berlin."
   ]
  },
  {
@@ -1477,6 +2169,10 @@
   "page": 18,
   "examples": [
    "Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen."
+  ],
+  "meaning": "answering machine",
+  "examplesEn": [
+   "I left you a message on the answering machine."
   ]
  },
  {
@@ -1489,6 +2185,10 @@
   "page": 18,
   "examples": [
    "Achten Sie auf die Ansage am Bahnsteig."
+  ],
+  "meaning": "announcement (spoken, e.g. over a PA system)",
+  "examplesEn": [
+   "Pay attention to the announcement on the platform."
   ]
  },
  {
@@ -1507,6 +2207,15 @@
   "page": 19,
   "examples": [
    "Wir haben uns neue Möbel angeschafft."
+  ],
+  "meaning": "to acquire, buy (something bigger/lasting)",
+  "expl": "sich (Dat.) etwas anschaffen = to get something for yourself.",
+  "harderExample": {
+   "de": "Bevor wir uns einen Hund anschaffen, sollten wir wirklich sicher sein, dass wir genug Zeit haben.",
+   "en": "Before we get a dog, we should really be sure we have enough time."
+  },
+  "examplesEn": [
+   "We've bought ourselves new furniture."
   ]
  },
  {
@@ -1525,6 +2234,10 @@
   "page": 19,
   "examples": [
    "Wo kann ich den Computer anschließen?"
+  ],
+  "meaning": "to connect, plug in",
+  "examplesEn": [
+   "Where can I plug in the computer?"
   ]
  },
  {
@@ -1538,6 +2251,16 @@
   "examples": [
    "In Mannheim haben Sie Anschluss nach Saarbrücken.",
    "Ich brauche in meiner Wohnung einen Telefonanschluss."
+  ],
+  "meaning": "connection (transport or utility)",
+  "expl": "den Anschluss verpassen = to miss the connection.",
+  "harderExample": {
+   "de": "Wir haben unseren Anschluss in Frankfurt knapp verpasst, weil unser erster Zug Verspätung hatte.",
+   "en": "We just missed our connection in Frankfurt because our first train was delayed."
+  },
+  "examplesEn": [
+   "In Mannheim you have a connection to Saarbrücken.",
+   null
   ]
  },
  {
@@ -1556,6 +2279,11 @@
   "page": 19,
   "examples": [
    "Vergiss nicht, dich anzuschnallen."
+  ],
+  "meaning": "to buckle up",
+  "expl": "Note the zu wedged inside in infinitive: an-zu-schnallen — standard for separable verbs.",
+  "examplesEn": [
+   "Don't forget to buckle up."
   ]
  },
  {
@@ -1575,6 +2303,16 @@
   "examples": [
    "Warum siehst du mich so erschrocken an?",
    "Darf ich eure Urlaubsfotos ansehen?"
+  ],
+  "meaning": "to look at",
+  "expl": "sich (Dat.) etwas ansehen = to take a look at something.",
+  "harderExample": {
+   "de": "Ich habe mir die Sache noch mal in Ruhe angesehen und bin jetzt anderer Meinung.",
+   "en": "I looked at the matter again calmly and now I have a different opinion."
+  },
+  "examplesEn": [
+   null,
+   "May I look at your holiday photos?"
   ]
  },
  {
@@ -1593,6 +2331,10 @@
   "page": 19,
   "examples": [
    "Gestern hat mich unsere neue Nachbarin im Treppenhaus angesprochen."
+  ],
+  "meaning": "to approach, speak to someone",
+  "examplesEn": [
+   "Yesterday our new neighbour spoke to me in the stairwell."
   ]
  },
  {
@@ -1605,6 +2347,15 @@
   "page": 19,
   "examples": [
    "Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld."
+  ],
+  "meaning": "claim, entitlement",
+  "expl": "Anspruch auf + accusative = entitlement to. Key for employment/benefits German.",
+  "harderExample": {
+   "de": "Nach fünf Jahren im Betrieb haben Sie Anspruch auf zusätzlichen Urlaub.",
+   "en": "After five years at the company you're entitled to extra leave."
+  },
+  "examplesEn": [
+   "You live downtown, so you're not entitled to travel money."
   ]
  },
  {
@@ -1625,6 +2376,17 @@
    "Können Sie bitte die Heizung anstellen?",
    "Mein Schwager ist bei einer Möbelfirma angestellt.",
    "Da vorne ist die Kasse. Du musst dich anstellen."
+  ],
+  "meaning": "to switch on; to employ; (reflexive) to queue up",
+  "expl": "Three unrelated meanings — always check context.",
+  "harderExample": {
+   "de": "Wir mussten uns fast eine Stunde anstellen, bevor wir überhaupt reinkonnten.",
+   "en": "We had to queue for almost an hour before we could even get in."
+  },
+  "examplesEn": [
+   null,
+   "My brother-in-law is employed at a furniture company.",
+   null
   ]
  },
  {
@@ -1636,7 +2398,18 @@
   "region": null,
   "page": 19,
   "examples": [
+   "Björn ist Angestellter in einem Reisebüro.",
    "Björn ist Angestellter in einem"
+  ],
+  "meaning": "employee",
+  "expl": "Adjectival noun — like Angehörige, endings shift with the article.",
+  "harderExample": {
+   "de": "Als Angestellter hat man in Deutschland meist mehr Kündigungsschutz als als Selbstständiger.",
+   "en": "As an employee, you usually have more protection against dismissal than as a self-employed person."
+  },
+  "examplesEn": [
+   "Björn is an employee at a travel agency.",
+   null
   ]
  },
  {
@@ -1648,7 +2421,18 @@
   "region": null,
   "page": 19,
   "examples": [
+   "Björn ist Angestellter in einem Reisebüro.",
    "Reisebüro."
+  ],
+  "meaning": "employee",
+  "expl": "Adjectival noun — like Angehörige, endings shift with the article.",
+  "harderExample": {
+   "de": "Als Angestellter hat man in Deutschland meist mehr Kündigungsschutz als als Selbstständiger.",
+   "en": "As an employee, you usually have more protection against dismissal than as a self-employed person."
+  },
+  "examplesEn": [
+   "Björn is an employee at a travel agency.",
+   null
   ]
  },
  {
@@ -1668,6 +2452,16 @@
   "examples": [
    "Diese Arbeit strengt mich sehr an.",
    "Wenn du die Prüfung schaffen willst, musst du dich mehr anstrengen."
+  ],
+  "meaning": "to make an effort, exert oneself",
+  "expl": "Always reflexive. es hat nicht gereicht = it wasn't enough.",
+  "harderExample": {
+   "de": "Ich habe mich wirklich angestrengt, aber am Ende hat es trotzdem nicht gereicht.",
+   "en": "I really made an effort, but in the end it still wasn't enough."
+  },
+  "examplesEn": [
+   null,
+   "If you want to pass the exam, you have to make more effort."
   ]
  },
  {
@@ -1680,6 +2474,15 @@
   "page": 19,
   "examples": [
    "Ich finde diese Arbeit sehr anstrengend."
+  ],
+  "meaning": "tiring, strenuous",
+  "expl": "Adjective from anstrengen.",
+  "harderExample": {
+   "de": "Es war ein anstrengender Tag, aber es hat sich gelohnt.",
+   "en": "It was an exhausting day, but it was worth it."
+  },
+  "examplesEn": [
+   "I find this work very tiring."
   ]
  },
  {
@@ -1692,6 +2495,15 @@
   "page": 19,
   "examples": [
    "Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?"
+  ],
+  "meaning": "application, application form",
+  "expl": "einen Antrag stellen = to submit an application — worth learning as one chunk.",
+  "harderExample": {
+   "de": "Der Antrag auf Kindergeld muss schriftlich bei der Familienkasse gestellt werden.",
+   "en": "The application for child benefit has to be submitted in writing to the family benefits office."
+  },
+  "examplesEn": [
+   "Have you already filled out an application for housing benefit?"
   ]
  },
  {
@@ -1710,6 +2522,15 @@
   "page": 19,
   "examples": [
    "Diese Salbe muss man dreimal am Tag anwenden."
+  ],
+  "meaning": "to apply, use",
+  "expl": "Two accepted past forms: wandte/angewandt or wendete/angewendet — both correct.",
+  "harderExample": {
+   "de": "Die neue Methode lässt sich auch auf andere Bereiche anwenden.",
+   "en": "The new method can also be applied to other areas."
+  },
+  "examplesEn": [
+   "This ointment has to be applied three times a day."
   ]
  },
  {
@@ -1722,6 +2543,10 @@
   "page": 19,
   "examples": [
    "Bei dem Treffen waren alle Mitglieder anwesend."
+  ],
+  "meaning": "present (opposite of abwesend)",
+  "examplesEn": [
+   "All members were present at the meeting."
   ]
  },
  {
@@ -1740,6 +2565,15 @@
   "page": 19,
   "examples": [
    "Jorge hat seit drei Wochen nicht auf meinen Brief geantwortet."
+  ],
+  "meaning": "to answer",
+  "expl": "Takes dative for the person; 'auf' for the thing being answered.",
+  "harderExample": {
+   "de": "Ich habe ihr sofort geantwortet, aber bis heute keine Reaktion bekommen.",
+   "en": "I answered her right away, but haven't gotten a response to this day."
+  },
+  "examplesEn": [
+   "Jorge hasn't answered my letter in three weeks."
   ]
  },
  {
@@ -1752,6 +2586,10 @@
   "page": 19,
   "examples": [
    "Leider habe ich keine Antwort bekommen."
+  ],
+  "meaning": "answer",
+  "examplesEn": [
+   "Unfortunately I haven't gotten an answer."
   ]
  },
  {
@@ -1763,7 +2601,18 @@
   "region": null,
   "page": 19,
   "examples": [
+   "Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.",
    "Ich werde das nicht bezahlen. Ich"
+  ],
+  "meaning": "lawyer",
+  "expl": "Feminine: die Anwältin (pl. Anwältinnen).",
+  "harderExample": {
+   "de": "Ohne einen Anwalt würde ich diesen Vertrag nicht unterschreiben.",
+   "en": "I wouldn't sign this contract without a lawyer."
+  },
+  "examplesEn": [
+   "I won't pay that. I want to speak with my lawyer first.",
+   null
   ]
  },
  {
@@ -1794,6 +2643,11 @@
   "page": 19,
   "examples": [
    "Wenn Sie hier parken, zeige ich Sie an."
+  ],
+  "meaning": "to report (to police); to display",
+  "expl": "bei der Polizei anzeigen = to report to the police.",
+  "examplesEn": [
+   "If you park here, I'll report you."
   ]
  },
  {
@@ -1808,6 +2662,17 @@
    "Ich habe alle Anzeigen gelesen, aber die Wohnungen sind zu teuer.",
    "Hier dürfen Sie nicht parken, sonst bekommen Sie eine Anzeige.",
    "Du musst dich wärmer anziehen, sonst"
+  ],
+  "meaning": "ad/listing; police report or citation",
+  "expl": "Two unrelated meanings — classified ad vs. citation. Context decides.",
+  "harderExample": {
+   "de": "Ich habe eine Anzeige für eine möblierte Wohnung im Zentrum gefunden.",
+   "en": "I found a listing for a furnished apartment downtown."
+  },
+  "examplesEn": [
+   null,
+   "You can't park here, or you'll get a citation.",
+   null
   ]
  },
  {
@@ -1833,6 +2698,10 @@
   "page": 19,
   "examples": [
    "Mein Mann hat sich einen neuen Anzug gekauft."
+  ],
+  "meaning": "suit",
+  "examplesEn": [
+   "My husband bought himself a new suit."
   ]
  },
  {
@@ -1845,6 +2714,10 @@
   "page": 19,
   "examples": [
    "Wir haben ein Ferienapartment gemietet."
+  ],
+  "meaning": "apartment (usually smaller/furnished)",
+  "examplesEn": [
+   "We rented a holiday apartment."
   ]
  },
  {
@@ -1857,6 +2730,10 @@
   "page": 19,
   "examples": [
    "Zum Frühstück esse ich jeden Tag einen Apfel."
+  ],
+  "meaning": "apple",
+  "examplesEn": [
+   "I eat an apple every day for breakfast."
   ]
  },
  {
@@ -1869,6 +2746,10 @@
   "page": 19,
   "examples": [
    "Ist hier in der Nähe eine Apotheke?"
+  ],
+  "meaning": "pharmacy",
+  "examplesEn": [
+   "Is there a pharmacy nearby?"
   ]
  },
  {
@@ -1882,6 +2763,12 @@
   "examples": [
    "Können Sie den Apparat bitte etwas leiser stellen?",
    "Wo ist mein Fotoapparat?"
+  ],
+  "meaning": "device, apparatus",
+  "expl": "Also in compounds: Fotoapparat = camera.",
+  "examplesEn": [
+   null,
+   "Where's my camera?"
   ]
  },
  {
@@ -1896,6 +2783,13 @@
    "Ich habe heute keinen Appetit. Ich mag nichts essen.",
    "Auf was hast du Appetit? Vielleicht auf einen Salat?",
    "Guten Appetit!"
+  ],
+  "meaning": "appetite",
+  "expl": "Fixed phrase: Guten Appetit! = Enjoy your meal!",
+  "examplesEn": [
+   "I have no appetite today. I don't want to eat anything.",
+   null,
+   null
   ]
  },
  {
@@ -1908,6 +2802,11 @@
   "page": 19,
   "examples": [
    "Schmecken dir die Aprikosen?"
+  ],
+  "meaning": "apricot",
+  "expl": "Germany/Switzerland: Aprikose. Austria: Marille.",
+  "examplesEn": [
+   "Do you like the taste of the apricots?"
   ]
  },
  {
@@ -1927,6 +2826,16 @@
   "examples": [
    "Er arbeitet heute bis 16 Uhr.",
    "Arzu arbeitet als Krankenschwester im Krankenhaus."
+  ],
+  "meaning": "to work",
+  "expl": "German uses present tense with seit for ongoing actions: Ich arbeite seit 10 Jahren hier.",
+  "harderExample": {
+   "de": "Ich arbeite seit über zehn Jahren in derselben Firma, aber die Aufgaben ändern sich ständig.",
+   "en": "I've been working at the same company for over ten years, but the tasks keep changing."
+  },
+  "examplesEn": [
+   null,
+   "Arzu works as a nurse in the hospital."
   ]
  },
  {
@@ -1940,6 +2849,11 @@
   "examples": [
    "Wie gefällt dir deine Arbeit?",
    "Nach der Ausbildung hat Mohamed eine Arbeit gefunden."
+  ],
+  "meaning": "work, job",
+  "examplesEn": [
+   null,
+   "After his training, Mohamed found a job."
   ]
  },
  {
@@ -1951,7 +2865,14 @@
   "region": null,
   "page": 19,
   "examples": [
+   "Maria ist seit zwei Jahren Arbeiterin bei Siemens.",
    "Maria ist seit zwei Jahren Arbeiterin"
+  ],
+  "meaning": "worker (manual/industrial labor)",
+  "expl": "Feminine: Arbeiterin. Compare with Angestellte (office staff) — different social register.",
+  "examplesEn": [
+   "Maria has been a worker at Siemens for two years.",
+   null
   ]
  },
  {
@@ -1976,6 +2897,10 @@
   "page": 19,
   "examples": [
    "Haben Sie eine Arbeitserlaubnis?"
+  ],
+  "meaning": "work permit",
+  "examplesEn": [
+   "Do you have a work permit?"
   ]
  },
  {
@@ -1988,6 +2913,10 @@
   "page": 19,
   "examples": [
    "Wie lange sind Sie schon arbeitslos?"
+  ],
+  "meaning": "unemployed",
+  "examplesEn": [
+   "How long have you been unemployed?"
   ]
  },
  {
@@ -2000,6 +2929,14 @@
   "page": 19,
   "examples": [
    "Die Arbeitslosigkeit ist gesunken."
+  ],
+  "meaning": "unemployment",
+  "harderExample": {
+   "de": "Die hohe Arbeitslosigkeit in der Region macht vielen jungen Leuten Sorgen.",
+   "en": "The high unemployment in the region worries a lot of young people."
+  },
+  "examplesEn": [
+   "Unemployment has fallen."
   ]
  },
  {
@@ -2012,6 +2949,10 @@
   "page": 19,
   "examples": [
    "In der Industrie gibt es immer weniger Arbeitsplätze."
+  ],
+  "meaning": "job, workplace",
+  "examplesEn": [
+   "There are fewer and fewer jobs in industry."
   ]
  },
  {
@@ -2024,6 +2965,10 @@
   "page": 19,
   "examples": [
    "Meine Frau hat eine neue Arbeitsstelle gefunden."
+  ],
+  "meaning": "job, position (near-synonym of Arbeitsplatz)",
+  "examplesEn": [
+   "My wife found a new job."
   ]
  },
  {
@@ -2035,7 +2980,14 @@
   "region": null,
   "page": 20,
   "examples": [
+   "Dieses Haus hat eine berühmte Architektin gebaut.",
    "Dieses Haus hat eine berühmte"
+  ],
+  "meaning": "architect",
+  "expl": "Feminine: Architektin.",
+  "examplesEn": [
+   "A famous architect built this house.",
+   null
   ]
  },
  {
@@ -2062,6 +3014,10 @@
   "page": 20,
   "examples": [
    "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten."
+  ],
+  "meaning": "trouble, hassle",
+  "examplesEn": [
+   "I had trouble at the office today. I had an argument with a colleague."
   ]
  },
  {
@@ -2074,6 +3030,10 @@
   "page": 20,
   "examples": [
    "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich."
+  ],
+  "meaning": "annoying",
+  "examplesEn": [
+   "The train is delayed again. That's really annoying."
   ]
  },
  {
@@ -2087,6 +3047,17 @@
   "examples": [
    "Die Regierung hilft armen Nachbarländern.",
    "Ich hätte gerne 200 g fettarmen Käse."
+  ],
+  "meaning": "poor",
+  "harderExample": {
+   "de": "Viele Familien sind trotz Vollzeitarbeit arm, weil die Löhne zu niedrig sind.",
+   "en": "Many families are poor despite working full-time because wages are too low."
+  },
+  "compar": "ärmer",
+  "superl": "am ärmsten",
+  "examplesEn": [
+   "The government helps poor neighbouring countries.",
+   null
   ]
  },
  {
@@ -2099,6 +3070,10 @@
   "page": 20,
   "examples": [
    "Mein Freund hat sich den Arm gebrochen."
+  ],
+  "meaning": "arm",
+  "examplesEn": [
+   "My friend broke his arm."
   ]
  },
  {
@@ -2113,6 +3088,17 @@
    "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
    "Seine Art gefällt mir nicht.",
    "Man kann auf unterschiedliche Art und Weise ein Fest feiern."
+  ],
+  "meaning": "kind, type; manner, way; species",
+  "expl": "Fixed phrase: Art und Weise = manner/way.",
+  "harderExample": {
+   "de": "Auf diese Art und Weise kommen wir nie zu einer Lösung.",
+   "en": "This way, we'll never reach a solution."
+  },
+  "examplesEn": [
+   "The zoo has 34 different species of birds.",
+   null,
+   null
   ]
  },
  {
@@ -2126,6 +3112,11 @@
   "examples": [
    "Ich habe einen interessanten Artikel gelesen.",
    "Im Deutschen gibt es drei Artikel: der, die, das."
+  ],
+  "meaning": "article (written piece, or grammatical der/die/das)",
+  "examplesEn": [
+   null,
+   "In German there are three articles: der, die, das."
   ]
  },
  {
@@ -2138,6 +3129,11 @@
   "page": 20,
   "examples": [
    "Ich muss heute zum Arzt."
+  ],
+  "meaning": "doctor",
+  "expl": "Feminine: Ärztin. zum Arzt = to the doctor.",
+  "examplesEn": [
+   "I have to go to the doctor today."
   ]
  },
  {
@@ -2162,6 +3158,10 @@
   "page": 20,
   "examples": [
    "Die Menschen sind auf der Flucht und bitten um Asyl."
+  ],
+  "meaning": "asylum",
+  "examplesEn": [
+   "The people are fleeing and requesting asylum."
   ]
  },
  {
@@ -2180,6 +3180,10 @@
   "page": 20,
   "examples": [
    "Er hat eine Erkältung und kann nicht durch die Nase atmen."
+  ],
+  "meaning": "to breathe",
+  "examplesEn": [
+   "He has a cold and can't breathe through his nose."
   ]
  },
  {
@@ -2192,6 +3196,10 @@
   "page": 20,
   "examples": [
    "Bitte den Atem anhalten."
+  ],
+  "meaning": "breath",
+  "examplesEn": [
+   "Please hold your breath."
   ]
  },
  {
@@ -2207,6 +3215,14 @@
    "Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.",
    "Wir fahren auf jeden Fall, auch wenn es regnet.",
    "Der Zug ist gerade eben abgefahren. Warum kommst du auch so spät!"
+  ],
+  "meaning": "also, too; even",
+  "expl": "As a flavour particle with reproach: Warum kommst du auch so spät! = Why do you always have to be so late!",
+  "examplesEn": [
+   null,
+   null,
+   "We're going in any case, even if it rains.",
+   null
   ]
  },
  {
@@ -2226,6 +3242,22 @@
    "Wie heißt das auf Deutsch?",
    "Meine Tochter kommt nächstes Jahr aufs Gymnasium. (D) (A, CH: ins)",
    "Im Mai war ich auf Urlaub. (A) (D: in)"
+  ],
+  "meaning": "on, at, in; 'open' (door is auf)",
+  "expl": "Also: auf etwas reagieren = to respond to something.",
+  "harderExample": {
+   "de": "Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.",
+   "en": "Nobody has responded to our ad in the evening paper yet."
+  },
+  "examplesEn": [
+   "Your glasses are on the desk.",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  },
  {
@@ -2240,6 +3272,12 @@
    "Ich bin schon seit zwei Stunden auf. 10.Komm herein, die Tür ist auf. (D) (A, CH: offen)",
    "Der Zug hat in München nur 20 Minuten Aufenthalt.",
    "Wir wünschen Ihnen einen angenehmen Aufenthalt."
+  ],
+  "meaning": "stay, stopover",
+  "examplesEn": [
+   null,
+   "The train only has a 20-minute stopover in Munich.",
+   null
   ]
  },
  {
@@ -2258,6 +3296,15 @@
   "page": 20,
   "examples": [
    "Mir ist aufgefallen, dass Harriett ganz blass ist."
+  ],
+  "meaning": "to catch one's attention, stand out",
+  "expl": "mir ist aufgefallen, dass... = I noticed that... (the thing noticed is the grammatical subject; mir is dative).",
+  "harderExample": {
+   "de": "Es ist mir aufgefallen, dass du in letzter Zeit viel gestresster wirkst als sonst.",
+   "en": "I've noticed you've seemed a lot more stressed than usual lately."
+  },
+  "examplesEn": [
+   "I noticed that Harriett is quite pale."
   ]
  },
  {
@@ -2277,6 +3324,16 @@
   "examples": [
    "Sie forderte mich auf, meine Meinung zu sagen.",
    "Er fordert sie zum Tanz auf."
+  ],
+  "meaning": "to request, prompt, urge",
+  "expl": "jemanden auffordern, etwas zu tun = to urge someone to do something.",
+  "harderExample": {
+   "de": "Der Chef hat mich aufgefordert, den Bericht bis Freitag fertigzustellen.",
+   "en": "The boss urged me to finish the report by Friday."
+  },
+  "examplesEn": [
+   null,
+   "He asks her to dance."
   ]
  },
  {
@@ -2289,6 +3346,10 @@
   "page": 20,
   "examples": [
    "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen."
+  ],
+  "meaning": "request, formal prompt",
+  "examplesEn": [
+   "You'll receive a request to pay the amount by June."
   ]
  },
  {
@@ -2307,6 +3368,10 @@
   "page": 20,
   "examples": [
    "Die Kinder führen zu Weihnachten ein Theaterstück auf."
+  ],
+  "meaning": "to perform (a play)",
+  "examplesEn": [
+   "The children are performing a play at Christmas."
   ]
  },
  {
@@ -2320,6 +3385,11 @@
   "examples": [
    "Hast du deine Hausaufgaben für die Schule schon gemacht?",
    "Das ist nicht meine Aufgabe."
+  ],
+  "meaning": "task, homework, duty",
+  "examplesEn": [
+   null,
+   "That's not my job."
   ]
  },
  {
@@ -2339,6 +3409,16 @@
   "examples": [
    "Ich habe auf der Post ein Paket aufgegeben.",
    "Man darf nie aufgeben. Es gibt immer eine Hoffnung."
+  ],
+  "meaning": "to give up; to mail a package",
+  "expl": "Two unrelated meanings — giving up, and posting a package at the post office.",
+  "harderExample": {
+   "de": "Ich habe auf der Post ein Paket aufgegeben.",
+   "en": "I posted a package at the post office."
+  },
+  "examplesEn": [
+   null,
+   "You should never give up. There's always hope."
   ]
  },
  {
@@ -2359,6 +3439,17 @@
    "Wo hält er sich gerade auf? – In München.",
    "Darf ich Ihnen die Tür aufhalten?",
    "Entschuldigen Sie die Verspätung, ich wurde aufgehalten."
+  ],
+  "meaning": "to delay, hold up; (reflexive) to be staying somewhere",
+  "expl": "sich aufhalten = to be located/staying — different from the non-reflexive meaning.",
+  "harderExample": {
+   "de": "Wo hält er sich gerade auf? – In München.",
+   "en": "Where is he currently staying? – In Munich."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "Sorry for the delay, I was held up."
   ]
  },
  {
@@ -2378,6 +3469,12 @@
   "examples": [
    "Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.",
    "Die Quittung müssen Sie gut aufheben."
+  ],
+  "meaning": "to pick up; to keep/preserve",
+  "expl": "Same verb, two senses: physically picking something up, and safekeeping a document.",
+  "examplesEn": [
+   null,
+   "You need to keep the receipt safe."
   ]
  },
  {
@@ -2398,6 +3495,12 @@
    "Es hört nicht auf zu schneien.",
    "Wann hört ihr mit der Arbeit auf?",
    "Hier hört die Hauptstraße auf."
+  ],
+  "meaning": "to stop, end",
+  "examplesEn": [
+   "It won't stop snowing.",
+   null,
+   null
   ]
  },
  {
@@ -2416,6 +3519,10 @@
   "page": 20,
   "examples": [
    "Ich muss mein Telefon aufladen. Die Batterie ist leer."
+  ],
+  "meaning": "to charge (a battery)",
+  "examplesEn": [
+   "I have to charge my phone. The battery is dead."
   ]
  },
  {
@@ -2434,6 +3541,15 @@
   "page": 20,
   "examples": [
    "Die Tablette bitte in Wasser auflösen."
+  ],
+  "meaning": "to dissolve; (reflexive) to break up (group)",
+  "expl": "sich auflösen = to dissolve/break up — used for groups too, not just substances.",
+  "harderExample": {
+   "de": "Nach dem Streit hat sich die Band leider aufgelöst.",
+   "en": "After the argument, the band unfortunately broke up."
+  },
+  "examplesEn": [
+   "Please dissolve the tablet in water."
   ]
  },
  {
@@ -2447,6 +3563,16 @@
   "examples": [
    "Die Schülerin hörte aufmerksam zu.",
    "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen."
+  ],
+  "meaning": "attentive",
+  "expl": "jemanden auf etwas aufmerksam machen = to point something out to someone.",
+  "harderExample": {
+   "de": "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.",
+   "en": "I'd like to point out that we're closing in half an hour."
+  },
+  "examplesEn": [
+   "The student listened attentively.",
+   null
   ]
  },
  {
@@ -2466,6 +3592,11 @@
   "examples": [
    "Wir haben Aneta in unseren Verein aufgenommen.",
    "Ich habe den Film im Urlaub aufgenommen."
+  ],
+  "meaning": "to admit (into a group); to record",
+  "examplesEn": [
+   "We accepted Aneta into our club.",
+   null
   ]
  },
  {
@@ -2478,6 +3609,10 @@
   "page": 20,
   "examples": [
    "Bitte seid leise! – Ich starte die Aufnahme."
+  ],
+  "meaning": "recording; admission",
+  "examplesEn": [
+   "Please be quiet! – I'm starting the recording."
   ]
  },
  {
@@ -2497,6 +3632,16 @@
   "examples": [
    "Tut mir leid. Da habe ich wohl nicht aufgepasst.",
    "Ich muss zu Hause bleiben und auf die Kinder aufpassen."
+  ],
+  "meaning": "to pay attention; to look after someone",
+  "expl": "aufpassen, dass... = be careful that... — very common everyday warning.",
+  "harderExample": {
+   "de": "Pass auf, dass du dir nicht wehtust!",
+   "en": "Be careful you don't hurt yourself!"
+  },
+  "examplesEn": [
+   null,
+   "I have to stay home and look after the kids."
   ]
  },
  {
@@ -2515,6 +3660,10 @@
   "page": 21,
   "examples": [
    "Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen."
+  ],
+  "meaning": "to tidy up",
+  "examplesEn": [
+   "Before my holiday I really have to tidy up my desk."
   ]
  },
  {
@@ -2536,6 +3685,18 @@
    "Ganz ruhig! Bitte regen Sie sich nicht auf.",
    "Heute hast du eine Prüfung. Bist du schon aufgeregt?",
    "Die Musikgruppe zu erleben war sehr aufregend."
+  ],
+  "meaning": "to upset; (reflexive) to get worked up",
+  "expl": "sich aufregen = to get annoyed/worked up. Related adjective: aufregend = exciting.",
+  "harderExample": {
+   "de": "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+   "en": "It annoys me that I have to work overtime again."
+  },
+  "examplesEn": [
+   null,
+   "Calm down! Please don't get worked up.",
+   null,
+   null
   ]
  },
  {
@@ -2555,6 +3716,12 @@
   "examples": [
    "Ich stehe jeden Morgen um sechs Uhr auf.",
    "Sie brauchen nicht aufzustehen. Sie können sitzen bleiben."
+  ],
+  "meaning": "to get up, stand up",
+  "expl": "zu + infinitive for separable verbs: aufzustehen (the zu wedges inside).",
+  "examplesEn": [
+   "I get up at six every morning.",
+   null
   ]
  },
  {
@@ -2568,6 +3735,12 @@
   "examples": [
    "Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.",
    "Im Moment hat die Firma besonders viele Aufträge."
+  ],
+  "meaning": "order, assignment, commission",
+  "expl": "im Auftrag von = on behalf of — standard business phrase.",
+  "examplesEn": [
+   "I've come on behalf of Ms Müller and am supposed to give you this letter.",
+   null
   ]
  },
  {
@@ -2586,6 +3759,15 @@
   "page": 21,
   "examples": [
    "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf."
+  ],
+  "meaning": "to perform (on stage); to occur (of a problem)",
+  "expl": "sollten...auftreten = should problems occur — formal conditional common in manuals.",
+  "harderExample": {
+   "de": "Sollten während der Installation Probleme auftreten, wenden Sie sich bitte an den Support.",
+   "en": "Should problems occur during installation, please contact support."
+  },
+  "examplesEn": [
+   "Next week a famous band is performing at the city hall."
   ]
  },
  {
@@ -2598,6 +3780,10 @@
   "page": 21,
   "examples": [
    "Nach dem Auftritt feiern die Musiker."
+  ],
+  "meaning": "performance, appearance on stage",
+  "examplesEn": [
+   "After the show the musicians celebrate."
   ]
  },
  {
@@ -2616,6 +3802,11 @@
   "page": 21,
   "examples": [
    "Von dem Lärm bin ich aufgewacht."
+  ],
+  "meaning": "to wake up",
+  "expl": "Takes sein — a change-of-state verb.",
+  "examplesEn": [
+   "The noise woke me up."
   ]
  },
  {
@@ -2629,6 +3820,12 @@
   "examples": [
    "Sie müssen gute Schuhe anziehen. Der Weg geht immer aufwärts.",
    "In letzter Zeit geht es wieder aufwärts mit der Wirtschaft."
+  ],
+  "meaning": "upward",
+  "expl": "Opposite of abwärts. es geht aufwärts = things are looking up.",
+  "examplesEn": [
+   null,
+   "Lately the economy is looking up again."
   ]
  },
  {
@@ -2641,6 +3838,11 @@
   "page": 21,
   "examples": [
    "Im Büro ist leider der Aufzug kaputt."
+  ],
+  "meaning": "lift, elevator",
+  "expl": "Switzerland says Lift.",
+  "examplesEn": [
+   "Unfortunately the lift at the office is broken."
   ]
  },
  {
@@ -2653,6 +3855,10 @@
   "page": 21,
   "examples": [
    "Meine beiden Kinder haben blaue Augen."
+  ],
+  "meaning": "eye",
+  "examplesEn": [
+   "Both my children have blue eyes."
   ]
  },
  {
@@ -2667,6 +3873,13 @@
    "Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.",
    "Einen Augenblick, bitte!",
    "Im Augenblick sind keine Plätze frei."
+  ],
+  "meaning": "moment",
+  "expl": "im Augenblick = at the moment.",
+  "examplesEn": [
+   null,
+   null,
+   "At the moment there are no seats available."
   ]
  },
  {
@@ -2685,6 +3898,21 @@
    "Wir haben aus Liebe geheiratet.",
    "Wann ist der Kurs aus?",
    "Ich seh‘ nichts! Das Licht ist aus!"
+  ],
+  "meaning": "from, out of; made of; off (switched off)",
+  "expl": "aus + feeling = the motive behind an action: aus Liebe = for love.",
+  "harderExample": {
+   "de": "Wir haben aus Liebe geheiratet.",
+   "en": "We married for love."
+  },
+  "examplesEn": [
+   null,
+   null,
+   null,
+   "I only wear sweaters made of pure wool.",
+   null,
+   null,
+   null
   ]
  },
  {
@@ -2698,6 +3926,11 @@
   "examples": [
    "Ich habe meine Ausbildung abgeschlossen.",
    "Mit deiner guten Ausbildung findest du sicher eine Arbeit."
+  ],
+  "meaning": "training, vocational education",
+  "examplesEn": [
+   null,
+   "With your good training you'll definitely find work."
   ]
  },
  {
@@ -2728,6 +3961,10 @@
   "page": 21,
   "examples": [
    "Kann ich das auf deinem Drucker ausdrucken?"
+  ],
+  "meaning": "to print out",
+  "examplesEn": [
+   "Can I print this on your printer?"
   ]
  },
  {
@@ -2740,6 +3977,15 @@
   "page": 21,
   "examples": [
    "Diesen Ausdruck habe ich noch nie gehört."
+  ],
+  "meaning": "expression/phrase (pl. Ausdrücke); a printout (pl. Ausdrucke)",
+  "expl": "Different plurals distinguish the two meanings.",
+  "harderExample": {
+   "de": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
+   "en": "Please make a printout of the email."
+  },
+  "examplesEn": [
+   "I've never heard this expression."
   ]
  },
  {
@@ -2751,7 +3997,18 @@
   "region": null,
   "page": 21,
   "examples": [
+   "Diesen Ausdruck habe ich noch nie gehört.",
    "Machen Sie doch bitte einen Ausdruck von der E-Mail."
+  ],
+  "meaning": "expression/phrase (pl. Ausdrücke); a printout (pl. Ausdrucke)",
+  "expl": "Different plurals distinguish the two meanings.",
+  "harderExample": {
+   "de": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
+   "en": "Please make a printout of the email."
+  },
+  "examplesEn": [
+   "I've never heard this expression.",
+   null
   ]
  },
  {
@@ -2764,6 +4021,10 @@
   "page": 21,
   "examples": [
    "Wir wohnen nicht weit auseinander."
+  ],
+  "meaning": "apart",
+  "examplesEn": [
+   "We don't live far apart."
   ]
  },
  {
@@ -2777,6 +4038,11 @@
   "examples": [
    "Hier ist eine Ausfahrt, da dürfen Sie nicht parken.",
    "Wie weit ist es noch bis zur Ausfahrt Freiburg?"
+  ],
+  "meaning": "exit (motorway); driveway",
+  "examplesEn": [
+   null,
+   "How far is it to the Freiburg exit?"
   ]
  },
  {
@@ -2795,6 +4061,11 @@
   "page": 21,
   "examples": [
    "Nächste Woche fällt der Kurs aus."
+  ],
+  "meaning": "to be cancelled; to fail/stop working",
+  "expl": "Trains, classes, and power all 'fallen aus'. Very high frequency.",
+  "examplesEn": [
+   "Next week the class is cancelled."
   ]
  },
  {
@@ -2807,6 +4078,10 @@
   "page": 21,
   "examples": [
    "Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg."
+  ],
+  "meaning": "outing, excursion",
+  "examplesEn": [
+   "At the weekend we're taking a trip to Heidelberg with friends."
   ]
  },
  {
@@ -2825,6 +4100,10 @@
   "page": 21,
   "examples": [
    "Füllen Sie bitte dieses Formular aus!"
+  ],
+  "meaning": "to fill out (a form)",
+  "examplesEn": [
+   "Please fill out this form."
   ]
  },
  {
@@ -2839,6 +4118,13 @@
    "Wie hoch sind Ihre Ausgaben in einem Monat?",
    "Wo ist die Essensausgabe?",
    "In welchem Buch hast du das gelesen? In welcher Ausgabe?"
+  ],
+  "meaning": "expense; edition; serving counter",
+  "expl": "Three different meanings — context decides.",
+  "examplesEn": [
+   "How high are your monthly expenses?",
+   null,
+   null
   ]
  },
  {
@@ -2851,6 +4137,10 @@
   "page": 21,
   "examples": [
    "Wo ist der Ausgang bitte?"
+  ],
+  "meaning": "exit (of a building)",
+  "examplesEn": [
+   "Where's the exit, please?"
   ]
  },
  {
@@ -2869,6 +4159,10 @@
   "page": 21,
   "examples": [
    "Carola gibt viel Geld für ihr Hobby aus."
+  ],
+  "meaning": "to spend (money)",
+  "examplesEn": [
+   "Carola spends a lot of money on her hobby."
   ]
  },
  {
@@ -2889,6 +4183,17 @@
    "Plötzlich ist das Licht ausgegangen.",
    "Gehen wir heute Abend aus?",
    "Wie ist das Spiel ausgegangen?"
+  ],
+  "meaning": "to go out; to go off (light); to turn out (end)",
+  "expl": "Three senses: socially going out, a light going off, and how something turns out.",
+  "harderExample": {
+   "de": "Plötzlich ist das Licht ausgegangen.",
+   "en": "Suddenly the light went out."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "How did the game turn out?"
   ]
  },
  {
@@ -2901,6 +4206,10 @@
   "page": 21,
   "examples": [
    "Essen und Unterkunft waren ausgezeichnet."
+  ],
+  "meaning": "excellent",
+  "examplesEn": [
+   "Food and accommodation were excellent."
   ]
  },
  {
@@ -2913,6 +4222,10 @@
   "page": 21,
   "examples": [
    "Wir suchen eine freundliche Aushilfe für unser Geschäft."
+  ],
+  "meaning": "temporary help, casual worker",
+  "examplesEn": [
+   "We're looking for a friendly temp for our shop."
   ]
  },
  {
@@ -2926,6 +4239,11 @@
   "examples": [
    "Ich hätte gern eine Auskunft.",
    "Die Firma hat eine neue Nummer. Bitte, rufen Sie die Auskunft an."
+  ],
+  "meaning": "information; information desk/line",
+  "examplesEn": [
+   "I'd like some information.",
+   null
   ]
  },
  {
@@ -2938,6 +4256,11 @@
   "page": 21,
   "examples": [
    "Wir fahren im Urlaub meistens ins Ausland."
+  ],
+  "meaning": "abroad, foreign countries",
+  "expl": "ins Ausland = going there, im Ausland = being there.",
+  "examplesEn": [
+   "We usually go abroad on holiday."
   ]
  },
  {
@@ -2949,7 +4272,14 @@
   "region": null,
   "page": 22,
   "examples": [
+   "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch.",
    "Viele Ausländer und Ausländerinnen"
+  ],
+  "meaning": "foreigner",
+  "expl": "Feminine: Ausländerin.",
+  "examplesEn": [
+   "Many foreigners learn German at the adult education centre.",
+   null
   ]
  },
  {
@@ -2974,6 +4304,10 @@
   "page": 22,
   "examples": [
    "Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen."
+  ],
+  "meaning": "foreign (adjective)",
+  "examplesEn": [
+   "The foreign students have to take a German course first."
   ]
  },
  {
@@ -2995,6 +4329,18 @@
    "Machen Sie bitte das Licht aus!",
    "Wir hatten doch ausgemacht, dass du die Getränke besorgst.",
    "Haben Sie einen Termin ausgemacht?"
+  ],
+  "meaning": "to switch off; to arrange; to matter/bother",
+  "expl": "das macht mir nichts aus = that doesn't bother me — memorize whole.",
+  "harderExample": {
+   "de": "Das macht mir nichts aus.",
+   "en": "That doesn't bother me."
+  },
+  "examplesEn": [
+   null,
+   "Please turn off the light.",
+   null,
+   null
   ]
  },
  {
@@ -3007,6 +4353,10 @@
   "page": 22,
   "examples": [
    "Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme."
+  ],
+  "meaning": "exception",
+  "examplesEn": [
+   "Normally I have to work weekends. But today is an exception."
   ]
  },
  {
@@ -3026,6 +4376,11 @@
   "examples": [
    "Das Geld muss bis März ausreichen.",
    "Seine Kenntnisse reichen für diese Arbeit aus."
+  ],
+  "meaning": "to be enough, suffice",
+  "examplesEn": [
+   "The money has to last until March.",
+   null
   ]
  },
  {
@@ -3038,6 +4393,10 @@
   "page": 22,
   "examples": [
    "Das Geld ist für die Reise ausreichend."
+  ],
+  "meaning": "sufficient",
+  "examplesEn": [
+   "The money is sufficient for the trip."
   ]
  },
  {
@@ -3056,6 +4415,11 @@
   "page": 22,
   "examples": [
    "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?"
+  ],
+  "meaning": "to pass on a message",
+  "expl": "Soll ich ihm etwas ausrichten? = Shall I pass on a message? — standard phone phrase.",
+  "examplesEn": [
+   "My husband isn't here. Shall I pass on a message?"
   ]
  },
  {
@@ -3099,6 +4463,12 @@
   "examples": [
    "Das kann man nicht ganz ausschließen.",
    "So viel kann ich nicht bezahlen. Das ist völlig ausgeschlossen."
+  ],
+  "meaning": "to rule out, exclude",
+  "expl": "Das ist völlig ausgeschlossen = That's completely out of the question.",
+  "examplesEn": [
+   null,
+   "I can't pay that much. That's completely out of the question."
   ]
  },
  {
@@ -3111,6 +4481,10 @@
   "page": 22,
   "examples": [
    "Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer."
+  ],
+  "meaning": "exclusively, only",
+  "examplesEn": [
+   "Sorry. We only have non-smoking rooms."
   ]
  },
  {
@@ -3131,6 +4505,17 @@
    "Sie sehen wieder besser aus. Sind Sie wieder gesund?",
    "Er sieht genauso aus wie sein Vater.",
    "Es sieht so aus, als ob es bald regnen würde."
+  ],
+  "meaning": "to look, appear",
+  "expl": "Es sieht so aus, als ob... = It looks like... (triggers Konjunktiv II).",
+  "harderExample": {
+   "de": "Es sieht so aus, als ob es bald regnen würde.",
+   "en": "It looks like it'll rain soon."
+  },
+  "examplesEn": [
+   null,
+   "He looks exactly like his father.",
+   null
   ]
  },
  {
@@ -3144,6 +4529,11 @@
   "examples": [
    "Wir haben das Schloss nur von außen gesehen.",
    "Außen ist das Haus nicht sehr schön."
+  ],
+  "meaning": "outside (on the exterior)",
+  "examplesEn": [
+   null,
+   "From the outside the house isn't very nice."
   ]
  },
  {
@@ -3156,6 +4546,10 @@
   "page": 22,
   "examples": [
    "Wir wohnen außerhalb von Berlin."
+  ],
+  "meaning": "outside of (+ genitive)",
+  "examplesEn": [
+   "We live outside Berlin."
   ]
  },
  {
@@ -3168,6 +4562,10 @@
   "page": 22,
   "examples": [
    "Das Medikament dürfen Sie nur äußerlich anwenden."
+  ],
+  "meaning": "external(ly)",
+  "examplesEn": [
+   "You may only use this medication externally."
   ]
  },
  {
@@ -3182,6 +4580,17 @@
    "Außer Lisa hat sich niemand um die Stelle beworben.",
    "Der Aufzug ist außer Betrieb.",
    "Wir haben täglich außer Samstag geöffnet."
+  ],
+  "meaning": "except; out of (order)",
+  "expl": "außer Betrieb = out of order — you'll see this on signs constantly.",
+  "harderExample": {
+   "de": "Der Aufzug ist außer Betrieb.",
+   "en": "The lift is out of order."
+  },
+  "examplesEn": [
+   "Apart from Lisa, nobody applied for the position.",
+   null,
+   null
   ]
  },
  {
@@ -3195,6 +4604,11 @@
   "examples": [
    "Möchten Sie außerdem noch etwas?",
    "Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt."
+  ],
+  "meaning": "besides, moreover",
+  "examplesEn": [
+   null,
+   "The film was boring, and besides, the actors performed badly."
   ]
  },
  {
@@ -3208,6 +4622,16 @@
   "examples": [
    "Von diesem Turm hat man eine tolle Aussicht.",
    "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf."
+  ],
+  "meaning": "view; prospects",
+  "expl": "Two meanings: a literal view and career/future prospects.",
+  "harderExample": {
+   "de": "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.",
+   "en": "With several foreign languages you have good career prospects."
+  },
+  "examplesEn": [
+   "From this tower you have a great view.",
+   null
   ]
  },
  {
@@ -3226,6 +4650,10 @@
   "page": 22,
   "examples": [
    "Wie spricht man dieses Wort aus?"
+  ],
+  "meaning": "to pronounce",
+  "examplesEn": [
+   "How do you pronounce this word?"
   ]
  },
  {
@@ -3238,6 +4666,10 @@
   "page": 22,
   "examples": [
    "Ali hat eine gute Aussprache."
+  ],
+  "meaning": "pronunciation",
+  "examplesEn": [
+   "Ali has good pronunciation."
   ]
  },
  {
@@ -3257,6 +4689,11 @@
   "examples": [
    "Im Schaufenster sind Winterschuhe ausgestellt.",
    "Das Zeugnis wird bis nächste Woche ausgestellt."
+  ],
+  "meaning": "to display; to issue (a document)",
+  "examplesEn": [
+   null,
+   "The certificate will be issued by next week."
   ]
  },
  {
@@ -3268,8 +4705,15 @@
   "region": "(sich etwas) aussuchen,",
   "page": 22,
   "examples": [
+   "Die Ausstellung eines neuen Passes dauert zwei Wochen.",
    "Wir waren mit der Lehrerin in einer Ausstellung.",
    "Die Ausstellung eines neuen Passes dauert zwei Wochen. Such dir etwas Schönes aus! Ich lade"
+  ],
+  "meaning": "exhibition; issuance",
+  "examplesEn": [
+   "Issuing a new passport takes two weeks.",
+   null,
+   null
   ]
  },
  {
@@ -3300,6 +4744,10 @@
   "page": 22,
   "examples": [
    "Für die Aufgabe können Sie aus drei Themen auswählen."
+  ],
+  "meaning": "to select",
+  "examplesEn": [
+   "For the task you can select from three topics."
   ]
  },
  {
@@ -3313,6 +4761,11 @@
   "examples": [
    "Wir müssen eine Auswahl aus den Büchern treffen.",
    "Das Geschäft hat eine große Auswahl."
+  ],
+  "meaning": "selection, range",
+  "examplesEn": [
+   null,
+   "The shop has a big selection."
   ]
  },
  {
@@ -3325,6 +4778,10 @@
   "page": 22,
   "examples": [
    "Darf ich mal Ihren Ausweis sehen?"
+  ],
+  "meaning": "ID card",
+  "examplesEn": [
+   "May I see your ID?"
   ]
  },
  {
@@ -3344,6 +4801,16 @@
   "examples": [
    "Willst du den Mantel nicht ausziehen?",
    "Müllers sind schon vor vier Wochen ausgezogen."
+  ],
+  "meaning": "to take off (clothes) → hat; to move out → ist",
+  "expl": "Rare case where the auxiliary tells you which meaning applies.",
+  "harderExample": {
+   "de": "Müllers sind schon vor vier Wochen ausgezogen.",
+   "en": "The Müllers moved out four weeks ago."
+  },
+  "examplesEn": [
+   "Don't you want to take off your coat?",
+   null
   ]
  },
  {
@@ -3356,6 +4823,10 @@
   "page": 22,
   "examples": [
    "Mario fährt mit dem Auto zur Arbeit."
+  ],
+  "meaning": "car",
+  "examplesEn": [
+   "Mario drives to work."
   ]
  },
  {
@@ -3368,6 +4839,10 @@
   "page": 22,
   "examples": [
    "Das Dorf liegt direkt an der Autobahn."
+  ],
+  "meaning": "motorway",
+  "examplesEn": [
+   "The village is right by the motorway."
   ]
  },
  {
@@ -3381,6 +4856,12 @@
   "examples": [
    "Zigaretten bekommst du am Automaten.",
    "Der Fahrkartenautomat ist auf dem Bahnsteig."
+  ],
+  "meaning": "vending machine",
+  "expl": "An n-noun: takes -en in every case except nominative singular.",
+  "examplesEn": [
+   "You get cigarettes from the machine.",
+   null
   ]
  },
  {
@@ -3394,6 +4875,11 @@
   "examples": [
    "Die Tür schließt automatisch.",
    "Das Zeugnis bekommen Sie automatisch zugeschickt."
+  ],
+  "meaning": "automatic(ally)",
+  "examplesEn": [
+   "The door closes automatically.",
+   null
   ]
  },
  {
@@ -3405,7 +4891,14 @@
   "region": null,
   "page": 22,
   "examples": [
+   "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
    "Diese Autorin hat in diesem Jahr schon"
+  ],
+  "meaning": "author",
+  "expl": "Feminine: Autorin.",
+  "examplesEn": [
+   "This author has already written two books this year.",
+   null
   ]
  },
  {
@@ -3436,6 +4929,11 @@
   "page": 23,
   "examples": [
    "Wenn du kommst, backe ich einen Kuchen."
+  ],
+  "meaning": "to bake",
+  "expl": "Both 3rd-person forms (bäckt / backt) are accepted.",
+  "examplesEn": [
+   "If you come, I'll bake a cake."
   ]
  },
  {
@@ -3448,6 +4946,10 @@
   "page": 23,
   "examples": [
    "Wir kaufen unser Brot immer in der Bäckerei am Markt."
+  ],
+  "meaning": "bakery",
+  "examplesEn": [
+   "We always buy our bread at the bakery on the market square."
   ]
  },
  {
@@ -3467,6 +4969,12 @@
   "examples": [
    "Wenn du baden möchtest: Das Badezimmer ist dort hinten links.",
    "Hier ist Baden verboten!"
+  ],
+  "meaning": "to bathe, swim",
+  "expl": "Hier ist Baden verboten! — the infinitive used as a neuter noun: das Baden.",
+  "examplesEn": [
+   null,
+   "Swimming is prohibited here."
   ]
  },
  {
@@ -3480,6 +4988,11 @@
   "examples": [
    "Nach einem warmen Bad fühlt man sich gleich viel besser.",
    "Ich möchte ein Zimmer mit Bad."
+  ],
+  "meaning": "bath; bathroom",
+  "examplesEn": [
+   null,
+   "I'd like a room with a bathroom."
   ]
  },
  {
@@ -3492,6 +5005,10 @@
   "page": 23,
   "examples": [
    "Nach einem langen Arbeitstag setzte sie sich in die Badewanne."
+  ],
+  "meaning": "bathtub",
+  "examplesEn": [
+   "After a long workday she got into the bathtub."
   ]
  },
  {
@@ -3504,6 +5021,10 @@
   "page": 23,
   "examples": [
    "Ich komme mit der Bahn."
+  ],
+  "meaning": "train, railway",
+  "examplesEn": [
+   "I'm coming by train."
   ]
  },
  {
@@ -3516,6 +5037,10 @@
   "page": 23,
   "examples": [
    "Die S-Bahn ist schneller als die Straßenbahn."
+  ],
+  "meaning": "suburban train",
+  "examplesEn": [
+   "The S-Bahn is faster than the tram."
   ]
  },
  {
@@ -3528,6 +5053,10 @@
   "page": 23,
   "examples": [
    "Nehmen Sie die Straßenbahn Nr. 16."
+  ],
+  "meaning": "tram",
+  "examplesEn": [
+   "Take tram number 16."
   ]
  },
  {
@@ -3540,6 +5069,10 @@
   "page": 23,
   "examples": [
    "Die letzte U-Bahn geht um 23.15 Uhr."
+  ],
+  "meaning": "underground, metro",
+  "examplesEn": [
+   "The last metro leaves at 11:15 pm."
   ]
  },
  {
@@ -3552,6 +5085,10 @@
   "page": 23,
   "examples": [
    "Ich bringe Sie zum Bahnhof."
+  ],
+  "meaning": "station",
+  "examplesEn": [
+   "I'll take you to the station."
   ]
  },
  {
@@ -3564,6 +5101,11 @@
   "page": 23,
   "examples": [
    "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige."
+  ],
+  "meaning": "platform",
+  "expl": "Switzerland: Perron.",
+  "examplesEn": [
+   "Main stations usually have many platforms."
   ]
  },
  {
@@ -3578,6 +5120,13 @@
    "Besuchen Sie uns doch bald mal.",
    "Geben Sie mir bitte so bald wie möglich Bescheid.",
    "Auf Wiedersehen, bis bald!"
+  ],
+  "meaning": "soon",
+  "expl": "Fixed phrase: so bald wie möglich = as soon as possible (ASAP).",
+  "examplesEn": [
+   null,
+   "Please let me know as soon as possible.",
+   null
   ]
  },
  {
@@ -3590,6 +5139,10 @@
   "page": 23,
   "examples": [
    "Die Wohnung hat auch einen kleinen Balkon."
+  ],
+  "meaning": "balcony",
+  "examplesEn": [
+   "The flat also has a small balcony."
   ]
  },
  {
@@ -3602,6 +5155,10 @@
   "page": 23,
   "examples": [
    "Ich spiele gern mit meinen Kindern Ball."
+  ],
+  "meaning": "ball",
+  "examplesEn": [
+   "I like playing ball with my kids."
   ]
  },
  {
@@ -3614,6 +5171,10 @@
   "page": 23,
   "examples": [
    "Meine Tochter möchte gern Ballett tanzen."
+  ],
+  "meaning": "ballet",
+  "examplesEn": [
+   "My daughter would like to dance ballet."
   ]
  },
  {
@@ -3626,6 +5187,10 @@
   "page": 23,
   "examples": [
    "1 Kilo Bananen, bitte."
+  ],
+  "meaning": "banana",
+  "examplesEn": [
+   "One kilo of bananas, please."
   ]
  },
  {
@@ -3638,6 +5203,11 @@
   "page": 23,
   "examples": [
    "Kommt, wir setzen uns auf die Bank da vorne."
+  ],
+  "meaning": "bench (umlaut plural = the seat)",
+  "expl": "Two homographs: die Bank/Bänke (bench) vs. die Bank/Banken (financial bank). The plural is the only difference.",
+  "examplesEn": [
+   "Come on, let's sit on that bench up ahead."
   ]
  },
  {
@@ -3649,7 +5219,14 @@
   "region": null,
   "page": 23,
   "examples": [
+   "Kommt, wir setzen uns auf die Bank da vorne.",
    "Bei welcher Bank haben Sie Ihr Konto?"
+  ],
+  "meaning": "bench (umlaut plural = the seat)",
+  "expl": "Two homographs: die Bank/Bänke (bench) vs. die Bank/Banken (financial bank). The plural is the only difference.",
+  "examplesEn": [
+   "Come on, let's sit on that bench up ahead.",
+   null
   ]
  },
  {
@@ -3699,6 +5276,11 @@
   "examples": [
    "Setzen wir uns doch an die Bar!",
    "Ich treffe meine Freundin in der Hotelbar."
+  ],
+  "meaning": "bar (place)",
+  "examplesEn": [
+   "Let's sit at the bar!",
+   null
   ]
  },
  {
@@ -3711,6 +5293,11 @@
   "page": 23,
   "examples": [
    "Zahlen Sie bar?"
+  ],
+  "meaning": "in cash (adverb/adjective)",
+  "expl": "No relation to Bar (the place) despite identical spelling.",
+  "examplesEn": [
+   "Are you paying cash?"
   ]
  },
  {
@@ -3723,6 +5310,10 @@
   "page": 23,
   "examples": [
    "Ich habe kein Bargeld mehr."
+  ],
+  "meaning": "cash",
+  "examplesEn": [
+   "I have no cash left."
   ]
  },
  {
@@ -3735,6 +5326,11 @@
   "page": 23,
   "examples": [
    "John trägt jetzt einen Bart."
+  ],
+  "meaning": "beard",
+  "expl": "German uses tragen (to wear) for beards, not haben.",
+  "examplesEn": [
+   "John has a beard now."
   ]
  },
  {
@@ -3767,6 +5363,12 @@
   "examples": [
    "Die Kinder basteln ein Vogelhaus.",
    "Ich arbeite gern mit natürlichen Bastelmaterialien."
+  ],
+  "meaning": "to do handicrafts, make things by hand",
+  "expl": "No clean English equivalent — the DIY-crafts verb.",
+  "examplesEn": [
+   "The kids are making a birdhouse.",
+   null
   ]
  },
  {
@@ -3779,6 +5381,10 @@
   "page": 23,
   "examples": [
    "Bringst du bitte Batterien für die Kamera mit?"
+  ],
+  "meaning": "battery",
+  "examplesEn": [
+   "Could you bring batteries for the camera?"
   ]
  },
  {
@@ -3791,6 +5397,11 @@
   "page": 23,
   "examples": [
    "Mir tut der Bauch weh."
+  ],
+  "meaning": "belly, stomach",
+  "expl": "mir tut der Bauch weh — the body part is the subject, you're in the dative.",
+  "examplesEn": [
+   "My stomach hurts."
   ]
  },
  {
@@ -3809,6 +5420,10 @@
   "page": 23,
   "examples": [
    "Mein Nachbar hat ein Haus gebaut."
+  ],
+  "meaning": "to build",
+  "examplesEn": [
+   "My neighbour built a house."
   ]
  },
  {
@@ -3834,6 +5449,10 @@
   "page": 23,
   "examples": [
    "Wir müssen die Baustelle umfahren."
+  ],
+  "meaning": "building site, roadworks",
+  "examplesEn": [
+   "We have to drive around the roadworks."
   ]
  },
  {
@@ -3846,6 +5465,11 @@
   "page": 23,
   "examples": [
    "Wir kaufen unser Gemüse beim Bauern."
+  ],
+  "meaning": "farmer",
+  "expl": "An n-noun: beim Bauern, not beim Bauer.",
+  "examplesEn": [
+   "We buy our vegetables from the farmer."
   ]
  },
  {
@@ -3858,6 +5482,10 @@
   "page": 23,
   "examples": [
    "Wir haben zwei Bäume im Garten."
+  ],
+  "meaning": "tree",
+  "examplesEn": [
+   "We have two trees in the garden."
   ]
  },
  {
@@ -3876,6 +5504,11 @@
   "page": 23,
   "examples": [
    "Bitte beachten Sie die Ansagen am Bahnsteig."
+  ],
+  "meaning": "to observe, pay heed to",
+  "expl": "Inseparable be- → no ge- in participle.",
+  "examplesEn": [
+   "Please pay attention to the announcements on the platform."
   ]
  },
  {
@@ -3888,6 +5521,11 @@
   "page": 23,
   "examples": [
    "Meine Frau ist Beamtin bei der Polizei."
+  ],
+  "meaning": "civil servant",
+  "expl": "Der Beamte is an adjectival noun; die Beamtin is a normal noun.",
+  "examplesEn": [
+   "My wife is a civil servant with the police."
   ]
  },
  {
@@ -3916,6 +5554,11 @@
   "page": 23,
   "examples": [
    "Hast du schon einen neuen Pass beantragt?"
+  ],
+  "meaning": "to apply for",
+  "expl": "Inseparable be- → no ge- in participle.",
+  "examplesEn": [
+   "Have you already applied for a new passport?"
   ]
  },
  {
@@ -3934,6 +5577,11 @@
   "page": 23,
   "examples": [
    "Sie haben meine Frage leider nicht beantwortet."
+  ],
+  "meaning": "to answer (something)",
+  "expl": "Takes a direct object — unlike antworten, which takes auf.",
+  "examplesEn": [
+   "Unfortunately you didn't answer my question."
   ]
  },
  {
@@ -3952,6 +5600,11 @@
   "page": 23,
   "examples": [
    "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken."
+  ],
+  "meaning": "to thank, express thanks",
+  "expl": "sich bei jemandem für etwas bedanken — the polite, formal way to thank in writing.",
+  "examplesEn": [
+   "I'd like to thank you once again very warmly for your help."
   ]
  },
  {
@@ -3964,6 +5617,11 @@
   "page": 23,
   "examples": [
    "An diesem Produkt besteht großer Bedarf."
+  ],
+  "meaning": "need, demand",
+  "expl": "Bedarf bestehen = demand exists.",
+  "examplesEn": [
+   "There's great demand for this product."
   ]
  },
  {
@@ -3983,6 +5641,11 @@
   "examples": [
    "Was bedeutet dieses Wort?",
    "Ich bin krank. Das bedeutet, dass ich heute nicht arbeiten kann."
+  ],
+  "meaning": "to mean",
+  "examplesEn": [
+   "What does this word mean?",
+   null
   ]
  },
  {
@@ -3995,6 +5658,10 @@
   "page": 23,
   "examples": [
    "Das Wort „Maus“ hat inzwischen zwei Bedeutungen."
+  ],
+  "meaning": "meaning, significance",
+  "examplesEn": [
+   "The word 'Maus' now has two meanings."
   ]
  },
  {
@@ -4014,6 +5681,16 @@
   "examples": [
    "Werden Sie schon bedient?",
    "Die Kaffeemaschine ist ganz leicht zu bedienen."
+  ],
+  "meaning": "to serve (a customer); to operate (a machine)",
+  "expl": "Two senses — serving customers and operating equipment.",
+  "harderExample": {
+   "de": "Die Kaffeemaschine ist ganz leicht zu bedienen.",
+   "en": "The coffee machine is very easy to operate."
+  },
+  "examplesEn": [
+   "Are you being served?",
+   null
   ]
  },
  {
@@ -4039,6 +5716,15 @@
   "examples": [
    "Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.",
    "Wir haben in unserem Betrieb sehr gute Arbeitsbedingungen."
+  ],
+  "meaning": "condition, term",
+  "harderExample": {
+   "de": "Wir haben in unserem Betrieb sehr gute Arbeitsbedingungen.",
+   "en": "We have very good working conditions at our company."
+  },
+  "examplesEn": [
+   "If you accept our terms, we can make a contract.",
+   null
   ]
  },
  {
@@ -4057,6 +5743,11 @@
   "page": 24,
   "examples": [
    "Wir müssen uns beeilen. Sonst verpassen wir den Zug."
+  ],
+  "meaning": "to hurry",
+  "expl": "Always reflexive — you can't 'beeilen' without 'sich'.",
+  "examplesEn": [
+   "We have to hurry. Otherwise we'll miss the train."
   ]
  },
  {
@@ -4075,6 +5766,10 @@
   "page": 24,
   "examples": [
    "Du musst deine Ausbildung auf jeden Fall beenden."
+  ],
+  "meaning": "to finish, end (something)",
+  "examplesEn": [
+   "You definitely have to finish your training."
   ]
  },
  {
@@ -4093,6 +5788,11 @@
   "page": 24,
   "examples": [
    "Das Bord-Bistro befindet sich in der Mitte des Zuges."
+  ],
+  "meaning": "to be located",
+  "expl": "Formal register — signage and announcements, rather than everyday speech.",
+  "examplesEn": [
+   "The onboard bistro is located in the middle of the train."
   ]
  },
  {
@@ -4135,6 +5835,11 @@
   "page": 24,
   "examples": [
    "Sind wir uns nicht schon mal irgendwann begegnet?"
+  ],
+  "meaning": "to meet, encounter",
+  "expl": "Takes sein and the dative.",
+  "examplesEn": [
+   "Haven't we met somewhere before?"
   ]
  },
  {
@@ -4147,6 +5852,10 @@
   "page": 24,
   "examples": [
    "Es war ein tolles Konzert. Ich bin begeistert."
+  ],
+  "meaning": "enthusiastic, delighted",
+  "examplesEn": [
+   "It was a great concert. I'm thrilled."
   ]
  },
  {
@@ -4165,6 +5874,10 @@
   "page": 24,
   "examples": [
    "In zwei Wochen beginnen die Sommerferien."
+  ],
+  "meaning": "to begin",
+  "examplesEn": [
+   "Summer holidays start in two weeks."
   ]
  },
  {
@@ -4177,6 +5890,11 @@
   "page": 24,
   "examples": [
    "Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler."
+  ],
+  "meaning": "beginning, start",
+  "expl": "zu Beginn = fixed phrase (more formal than am Anfang).",
+  "examplesEn": [
+   "At the start of the lesson the teacher greets her students."
   ]
  },
  {
@@ -4195,6 +5913,10 @@
   "page": 24,
   "examples": [
    "Ich begleite dich ein Stück."
+  ],
+  "meaning": "to accompany",
+  "examplesEn": [
+   "I'll walk with you part of the way."
   ]
  },
  {
@@ -4207,6 +5929,10 @@
   "page": 24,
   "examples": [
    "Die Teilnehmerzahl ist auf 12 begrenzt."
+  ],
+  "meaning": "limited",
+  "examplesEn": [
+   "The number of participants is limited to 12."
   ]
  },
  {
@@ -4225,6 +5951,10 @@
   "page": 24,
   "examples": [
    "Bitte begründen Sie Ihre Meinung."
+  ],
+  "meaning": "to justify, give reasons for",
+  "examplesEn": [
+   "Please justify your opinion."
   ]
  },
  {
@@ -4237,6 +5967,10 @@
   "page": 24,
   "examples": [
    "Die Miete wurde ohne Begründung erhöht."
+  ],
+  "meaning": "justification, reason given",
+  "examplesEn": [
+   "The rent was raised without justification."
   ]
  },
  {
@@ -4255,6 +5989,10 @@
   "page": 24,
   "examples": [
    "Der Gastgeber begrüßt seine Gäste."
+  ],
+  "meaning": "to greet, welcome",
+  "examplesEn": [
+   "The host greets his guests."
   ]
  },
  {
@@ -4273,6 +6011,11 @@
   "page": 24,
   "examples": [
    "Darf ich die Zeitschrift behalten?"
+  ],
+  "meaning": "to keep",
+  "expl": "Stem change: er behält.",
+  "examplesEn": [
+   "May I keep the magazine?"
   ]
  },
  {
@@ -4292,6 +6035,15 @@
   "examples": [
    "Welcher Arzt hat Sie bis jetzt behandelt?",
    "So lasse ich mich von Ihnen nicht länger behandeln."
+  ],
+  "meaning": "to treat (medically or interpersonally)",
+  "harderExample": {
+   "de": "So lasse ich mich von Ihnen nicht länger behandeln.",
+   "en": "I won't let you treat me like this any longer."
+  },
+  "examplesEn": [
+   "Which doctor has been treating you so far?",
+   null
   ]
  },
  {
@@ -4311,6 +6063,12 @@
   "examples": [
    "Er behauptet, unsere Meinung sei nicht wichtig.",
    "Es ist schwer, sich gegen meinen Kollegen zu behaupten."
+  ],
+  "meaning": "to claim, assert",
+  "expl": "behaupten + Konjunktiv I in reported speech: Er behauptet, sie sei krank = He claims she is ill.",
+  "examplesEn": [
+   "He claims our opinion isn't important.",
+   null
   ]
  },
  {
@@ -4329,6 +6087,10 @@
   "page": 24,
   "examples": [
    "Bitte parken Sie so, dass Sie niemanden behindern."
+  ],
+  "meaning": "to obstruct, get in the way of",
+  "examplesEn": [
+   "Please park so that you don't obstruct anyone."
   ]
  },
  {
@@ -4341,6 +6103,10 @@
   "page": 24,
   "examples": [
    "Seit dem Unfall ist das Kind unserer Freunde behindert."
+  ],
+  "meaning": "disabled",
+  "examplesEn": [
+   "Since the accident our friends' child has been disabled."
   ]
  },
  {
@@ -4353,6 +6119,11 @@
   "page": 24,
   "examples": [
    "Sie erhalten ein Schreiben von der zuständigen Behörde."
+  ],
+  "meaning": "public authority, government office",
+  "expl": "die zuständige Behörde = the responsible authority — pairs with zuständig constantly.",
+  "examplesEn": [
+   "You'll receive a letter from the responsible authority."
   ]
  },
  {
@@ -4369,6 +6140,19 @@
    "Bei uns ist das anders als bei euch. Wir essen kein Fleisch.",
    "Ich habe kein Geld bei mir.",
    "Wir wollen euch nicht beim Essen stören."
+  ],
+  "meaning": "near; at someone's place; during; on one's person",
+  "expl": "beim + noun = while doing something: beim Essen = while eating.",
+  "harderExample": {
+   "de": "Ich habe kein Geld bei mir.",
+   "en": "I don't have any money on me."
+  },
+  "examplesEn": [
+   null,
+   "I live at my parents' place.",
+   null,
+   null,
+   null
   ]
  },
  {
@@ -4382,6 +6166,11 @@
   "examples": [
    "Beide waren mit meinem Vorschlag einverstanden.",
    "Welche Bluse nehmen Sie, die rote oder die grüne? – Ich nehme beide."
+  ],
+  "meaning": "both (stem taking adjective endings)",
+  "examplesEn": [
+   null,
+   "Which blouse will you take, the red or the green? – I'll take both."
   ]
  },
  {
@@ -4394,6 +6183,10 @@
   "page": 24,
   "examples": [
    "Andreas hat sich das Bein gebrochen."
+  ],
+  "meaning": "leg",
+  "examplesEn": [
+   "Andreas broke his leg."
   ]
  },
  {
@@ -4406,6 +6199,10 @@
   "page": 24,
   "examples": [
    "Ich habe heute beinahe den Bus verpasst."
+  ],
+  "meaning": "almost, nearly",
+  "examplesEn": [
+   "I almost missed the bus today."
   ]
  },
  {
@@ -4420,6 +6217,13 @@
    "Können Sie mir ein Beispiel sagen?",
    "Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.",
    "Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …"
+  ],
+  "meaning": "example",
+  "expl": "zum Beispiel (z. B.) = for example; beispielsweise = more formal one-word version.",
+  "examplesEn": [
+   null,
+   "My friend has many hobbies such as cooking, dancing, playing football.",
+   null
   ]
  },
  {
@@ -4438,6 +6242,10 @@
   "page": 24,
   "examples": [
    "Pass auf, dass dich der Hund nicht beißt!"
+  ],
+  "meaning": "to bite",
+  "examplesEn": [
+   "Watch out the dog doesn't bite you!"
   ]
  },
  {
@@ -4451,6 +6259,12 @@
   "examples": [
    "Die Krankenkasse hat die Beiträge erhöht.",
    "Der Mitgliedsbeitrag für den Sportverein beträgt 34 Euro pro Monat."
+  ],
+  "meaning": "contribution, fee, premium",
+  "expl": "Krankenkassenbeitrag = health insurance premium; Mitgliedsbeitrag = membership fee.",
+  "examplesEn": [
+   "The health insurance fund raised the premiums.",
+   null
   ]
  },
  {
@@ -4464,6 +6278,12 @@
   "examples": [
    "Ein Onkel von mir ist ein bekannter Politiker.",
    "Dieses Lied ist sehr bekannt."
+  ],
+  "meaning": "well-known, familiar",
+  "expl": "Compare with berühmt (genuinely famous). bekannt = known/familiar, berühmt = famous.",
+  "examplesEn": [
+   "An uncle of mine is a well-known politician.",
+   null
   ]
  },
  {
@@ -4475,7 +6295,14 @@
   "region": null,
   "page": 24,
   "examples": [
+   "In Hannover wohnen Bekannte von mir.",
    "In Hannover wohnen Bekannte von"
+  ],
+  "meaning": "acquaintance",
+  "expl": "Adjectival noun, like Angestellte.",
+  "examplesEn": [
+   "Some acquaintances of mine live in Hannover.",
+   null
   ]
  },
  {
@@ -4487,7 +6314,14 @@
   "region": null,
   "page": 24,
   "examples": [
+   "In Hannover wohnen Bekannte von mir.",
    "mir."
+  ],
+  "meaning": "acquaintance",
+  "expl": "Adjectival noun, like Angestellte.",
+  "examplesEn": [
+   "Some acquaintances of mine live in Hannover.",
+   null
   ]
  },
  {
@@ -4499,7 +6333,14 @@
   "region": "geben, gibt bekannt, gab bekannt, hat",
   "page": 24,
   "examples": [
+   "Ein Onkel von mir ist ein bekannter Politiker.",
    "Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt."
+  ],
+  "meaning": "well-known, familiar",
+  "expl": "Compare with berühmt (genuinely famous). bekannt = known/familiar, berühmt = famous.",
+  "examplesEn": [
+   "An uncle of mine is a well-known politician.",
+   null
   ]
  },
  {
@@ -4510,7 +6351,14 @@
   "verb": null,
   "region": "gegeben",
   "page": 24,
-  "examples": []
+  "examples": [
+   "Ein Onkel von mir ist ein bekannter Politiker."
+  ],
+  "meaning": "well-known, familiar",
+  "expl": "Compare with berühmt (genuinely famous). bekannt = known/familiar, berühmt = famous.",
+  "examplesEn": [
+   "An uncle of mine is a well-known politician."
+  ]
  },
  {
   "head": "bekommen",
@@ -4531,6 +6379,18 @@
    "Ich bekomme jeden Tag eine Spritze.",
    "Was bekommen Sie? – 5 kg Kartoffeln.",
    "Wir haben Besuch bekommen."
+  ],
+  "meaning": "to get, receive",
+  "expl": "FALSE FRIEND: does NOT mean 'to become' (that is werden).",
+  "harderExample": {
+   "de": "Plötzlich bekam ich starke Kopfschmerzen.",
+   "en": "Suddenly I got a bad headache."
+  },
+  "examplesEn": [
+   "Did you get my letter?",
+   null,
+   null,
+   null
   ]
  },
  {
@@ -4542,8 +6402,15 @@
   "region": null,
   "page": 25,
   "examples": [
+   "Brauchen Sie einen Beleg?",
    "Laut Wetterbericht bekommen wir Regen.",
    "Plötzlich bekam ich starke Kopfschmerzen. Brauchen Sie einen Beleg?"
+  ],
+  "meaning": "receipt, proof of payment",
+  "examplesEn": [
+   "Do you need a receipt?",
+   null,
+   null
   ]
  },
  {
@@ -4563,6 +6430,15 @@
   "examples": [
    "Ich wollte Sie nicht beleidigen.",
    "Sei doch nicht immer gleich beleidigt."
+  ],
+  "meaning": "to insult, offend",
+  "harderExample": {
+   "de": "Sei doch nicht immer gleich beleidigt.",
+   "en": "Don't always take offence so quickly."
+  },
+  "examplesEn": [
+   "I didn't mean to offend you.",
+   null
   ]
  },
  {
@@ -4575,6 +6451,11 @@
   "page": 25,
   "examples": [
    "Dieses Spiel ist bei Jugendlichen sehr beliebt."
+  ],
+  "meaning": "popular, well-liked",
+  "expl": "Used with bei for the group who likes it: beliebt bei Jugendlichen.",
+  "examplesEn": [
+   "This game is very popular with young people."
   ]
  },
  {
@@ -4593,6 +6474,10 @@
   "page": 25,
   "examples": [
    "Ich habe nicht bemerkt, dass das Fenster offen ist."
+  ],
+  "meaning": "to notice, remark",
+  "examplesEn": [
+   "I didn't notice the window was open."
   ]
  },
  {
@@ -4612,6 +6497,16 @@
   "examples": [
    "Er hat sich sehr bemüht, etwas Gutes zu kochen.",
    "Ich werde mich um einen Termin bemühen."
+  ],
+  "meaning": "to make an effort, try hard",
+  "expl": "sich um etwas bemühen = to work on getting something.",
+  "harderExample": {
+   "de": "Ich werde mich um einen Termin bemühen.",
+   "en": "I'll try to get an appointment."
+  },
+  "examplesEn": [
+   "He made a real effort to cook something good.",
+   null
   ]
  },
  {
@@ -4630,6 +6525,11 @@
   "page": 25,
   "examples": [
    "Sagen Sie Bescheid, wenn Sie noch etwas benötigen."
+  ],
+  "meaning": "to need, require",
+  "expl": "Formal register — brauchen is the everyday word.",
+  "examplesEn": [
+   "Let me know if you need anything else."
   ]
  },
  {
@@ -4648,6 +6548,10 @@
   "page": 25,
   "examples": [
    "Benutzen Sie bitte die öffentlichen Verkehrsmittel."
+  ],
+  "meaning": "to use",
+  "examplesEn": [
+   "Please use public transport."
   ]
  },
  {
@@ -4660,6 +6564,10 @@
   "page": 25,
   "examples": [
    "Das Benzin soll wieder teurer werden."
+  ],
+  "meaning": "petrol, gasoline",
+  "examplesEn": [
+   "Petrol is supposed to get more expensive again."
   ]
  },
  {
@@ -4678,6 +6586,10 @@
   "page": 25,
   "examples": [
    "Wer hat den Unfall beobachtet?"
+  ],
+  "meaning": "to observe, watch",
+  "examplesEn": [
+   "Who witnessed the accident?"
   ]
  },
  {
@@ -4692,6 +6604,16 @@
    "Meine Kinder ziehen am liebsten bequeme Sachen an.",
    "Im Supermarkt einkaufen ist sehr bequem.",
    "Diesen Sessel finde ich sehr bequem."
+  ],
+  "meaning": "comfortable; convenient; (of person) lazy",
+  "harderExample": {
+   "de": "Im Supermarkt einkaufen ist sehr bequem.",
+   "en": "Shopping at the supermarket is very convenient."
+  },
+  "examplesEn": [
+   null,
+   null,
+   "I find this armchair very comfortable."
   ]
  },
  {
@@ -4710,6 +6632,11 @@
   "page": 25,
   "examples": [
    "Unser Personal berät Sie gern, wenn Sie Fragen haben."
+  ],
+  "meaning": "to advise",
+  "expl": "Stem change: er berät.",
+  "examplesEn": [
+   "Our staff will gladly advise you if you have questions."
   ]
  },
  {
@@ -4722,6 +6649,10 @@
   "page": 25,
   "examples": [
    "Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr."
+  ],
+  "meaning": "advice session, consultation",
+  "examplesEn": [
+   "Family consultations are available every Tuesday from 2 to 4 pm."
   ]
  },
  {
@@ -4740,6 +6671,10 @@
   "page": 25,
   "examples": [
    "Die Kosten für die Fahrt müssen erst berechnet werden."
+  ],
+  "meaning": "to calculate",
+  "examplesEn": [
+   "The costs for the trip have to be calculated first."
   ]
  },
  {
@@ -4753,6 +6688,11 @@
   "examples": [
    "In welchem Bereich möchten Sie arbeiten?",
    "Umfahren Sie den Baustellenbereich."
+  ],
+  "meaning": "area, field, sector",
+  "examplesEn": [
+   "What field would you like to work in?",
+   null
   ]
  },
  {
@@ -4766,6 +6706,16 @@
   "examples": [
    "Ich bin jederzeit bereit, dir zu helfen.",
    "Das Paket liegt auf der Post für Sie bereit."
+  ],
+  "meaning": "ready, willing",
+  "expl": "bereit sein, etwas zu tun = to be ready to do something.",
+  "harderExample": {
+   "de": "Das Paket liegt auf der Post für Sie bereit.",
+   "en": "The package is waiting for you at the post office."
+  },
+  "examplesEn": [
+   "I'm ready to help you any time.",
+   null
   ]
  },
  {
@@ -4778,6 +6728,11 @@
   "page": 25,
   "examples": [
    "Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen."
+  ],
+  "meaning": "already",
+  "expl": "More formal than schon.",
+  "examplesEn": [
+   "Please get back to Ms Kaiser. She's already called three times."
   ]
  },
  {
@@ -4791,6 +6746,11 @@
   "examples": [
    "Die Zugspitze ist der höchste Berg in Deutschland.",
    "Wir fahren jeden Sonntag in die Berge."
+  ],
+  "meaning": "mountain",
+  "examplesEn": [
+   "The Zugspitze is the highest mountain in Germany.",
+   null
   ]
  },
  {
@@ -4808,7 +6768,14 @@
   "region": null,
   "page": 25,
   "examples": [
+   "Alle Zeitungen haben über den Unfall berichtet.",
    "Auf dem Berg haben wir ein Picknick gemacht. Alle Zeitungen haben über den Unfall berichtet."
+  ],
+  "meaning": "to report",
+  "expl": "Used with über + accusative.",
+  "examplesEn": [
+   "All the newspapers reported on the accident.",
+   null
   ]
  },
  {
@@ -4821,6 +6788,10 @@
   "page": 25,
   "examples": [
    "Ich habe gestern einen interessanten Bericht gelesen."
+  ],
+  "meaning": "report",
+  "examplesEn": [
+   "I read an interesting report yesterday."
   ]
  },
  {
@@ -4833,6 +6804,11 @@
   "page": 25,
   "examples": [
    "Was sind Sie von Beruf?"
+  ],
+  "meaning": "profession, occupation",
+  "expl": "Was sind Sie von Beruf? — fixed phrase, no article.",
+  "examplesEn": [
+   "What do you do for a living?"
   ]
  },
  {
@@ -4845,6 +6821,10 @@
   "page": 25,
   "examples": [
    "Was machen Sie beruflich?"
+  ],
+  "meaning": "professionally, work-related",
+  "examplesEn": [
+   "What do you do professionally?"
   ]
  },
  {
@@ -4857,6 +6837,11 @@
   "page": 25,
   "examples": [
    "Sind Sie berufstätig?"
+  ],
+  "meaning": "employed, working",
+  "expl": "Asks whether you're in employment at all, not what you do.",
+  "examplesEn": [
+   "Are you working?"
   ]
  },
  {
@@ -4876,6 +6861,15 @@
   "examples": [
    "Beruhigen Sie sich bitte. Es ist alles in Ordnung.",
    "Ich kann Sie beruhigen. Ihrem Sohn ist nichts passiert."
+  ],
+  "meaning": "to calm (someone); reflexive: to calm down",
+  "harderExample": {
+   "de": "Ich kann Sie beruhigen. Ihrem Sohn ist nichts passiert.",
+   "en": "I can reassure you. Nothing happened to your son."
+  },
+  "examplesEn": [
+   "Please calm down. Everything's fine.",
+   null
   ]
  },
  {
@@ -4888,6 +6882,11 @@
   "page": 25,
   "examples": [
    "Michael Schumacher ist ein berühmter Rennfahrer."
+  ],
+  "meaning": "famous",
+  "expl": "Compare with bekannt: bekannt = known/familiar, berühmt = genuinely famous.",
+  "examplesEn": [
+   "Michael Schumacher is a famous racing driver."
   ]
  },
  {
@@ -4906,6 +6905,10 @@
   "page": 25,
   "examples": [
    "Bitte machen Sie eine Liste davon, was die Einbrecher beschädigt haben."
+  ],
+  "meaning": "to damage",
+  "examplesEn": [
+   "Please make a list of what the burglars damaged."
   ]
  },
  {
@@ -4925,6 +6928,16 @@
   "examples": [
    "Womit haben Sie sich bei Ihrer Arbeit beschäftigt?",
    "Seit wann sind Sie bei dieser Firma beschäftigt?"
+  ],
+  "meaning": "to employ; reflexive: to occupy oneself with",
+  "expl": "sich mit etwas beschäftigen = to deal with / work on something.",
+  "harderExample": {
+   "de": "Womit haben Sie sich bei Ihrer Arbeit beschäftigt?",
+   "en": "What did you work on in your job?"
+  },
+  "examplesEn": [
+   null,
+   "How long have you been employed at this company?"
   ]
  },
  {
@@ -4937,6 +6950,10 @@
   "page": 25,
   "examples": [
    "Ich suche eine Halbtagsbeschäftigung, weil ich ein kleines Kind habe."
+  ],
+  "meaning": "employment, occupation",
+  "examplesEn": [
+   "I'm looking for a part-time job because I have a small child."
   ]
  },
  {
@@ -4948,7 +6965,14 @@
   "region": "Bescheid sagen Bescheid geben",
   "page": 25,
   "examples": [
+   "Den endgültigen Bescheid erhalten Sie in etwa vier Wochen.",
    "Den endgültigen Bescheid erhalten Sie in etwa vier Wochen. Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid. Kannst du mir bis morgen Bescheid geben?"
+  ],
+  "meaning": "official decision, notification",
+  "expl": "A Bescheid from an authority is the formal written answer to an application.",
+  "examplesEn": [
+   "You'll receive the final decision in about four weeks.",
+   null
   ]
  },
  {
@@ -8124,9 +10148,22 @@
   "region": "Modalverb)",
   "page": 32,
   "examples": [
+   "Meine Schwester ist älter als ich.",
    "Das hätten Sie nicht machen dürfen!",
    "Was darf ich Ihnen anbieten?",
    "Ich suche ein gebrauchtes Auto. Es darf nicht mehr als 1000 Euro kosten."
+  ],
+  "meaning": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "harderExample": {
+   "de": "Als mein Mann kam, war die Party schon zu Ende.",
+   "en": "When my husband arrived, the party was already over."
+  },
+  "examplesEn": [
+   "My sister is older than me.",
+   null,
+   null,
+   null
   ]
  },
  {
@@ -19160,11 +21197,26 @@
   "region": "Modalverb)",
   "page": 56,
   "examples": [
+   "Meine Schwester ist älter als ich.",
    "Sie können mit dem Bus zum Bahnhof fahren.",
    "Kann ich jetzt nach Hause gehen?",
    "Können Sie mir helfen?",
    "Ich kann sehr gut Englisch und Deutsch.",
    "Es kann sein, dass es heute noch regnet."
+  ],
+  "meaning": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "harderExample": {
+   "de": "Als mein Mann kam, war die Party schon zu Ende.",
+   "en": "When my husband arrived, the party was already over."
+  },
+  "examplesEn": [
+   "My sister is older than me.",
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  },
  {
@@ -23255,9 +25307,22 @@
   "region": "Modalverb)",
   "page": 65,
   "examples": [
+   "Meine Schwester ist älter als ich.",
    "überweisen.",
    "Ich muss jeden Tag von 8 bis 18 Uhr arbeiten.",
    "Du musst mich nicht abholen. Nur wenn du willst."
+  ],
+  "meaning": "when (one-off past event); than; as",
+  "expl": "Three jobs: 1) when (single past event, not wenn which is repeated), 2) than in comparisons, 3) as in role.",
+  "harderExample": {
+   "de": "Als mein Mann kam, war die Party schon zu Ende.",
+   "en": "When my husband arrived, the party was already over."
+  },
+  "examplesEn": [
+   "My sister is older than me.",
+   null,
+   null,
+   null
   ]
  },
  {
@@ -32365,7 +34430,13 @@
   "region": "(D, A) → CH: Tram",
   "page": 84,
   "examples": [
+   "Nehmen Sie die Straßenbahn Nr. 16.",
    "Fahren wir mit der Straßenbahn oder der U-Bahn?"
+  ],
+  "meaning": "tram",
+  "examplesEn": [
+   "Take tram number 16.",
+   null
   ]
  },
  {
@@ -34519,7 +36590,13 @@
   "region": null,
   "page": 88,
   "examples": [
+   "Die letzte U-Bahn geht um 23.15 Uhr.",
    "Ich fahre mit der U-Bahn."
+  ],
+  "meaning": "underground, metro",
+  "examplesEn": [
+   "The last metro leaves at 11:15 pm.",
+   null
   ]
  },
  {
