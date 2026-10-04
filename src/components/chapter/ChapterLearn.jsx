@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import { articleColor, germanLabel, imageCredit, imageSrc } from "../../lib/chapterWords.js";
+import { articleColor, germanLabel, imageSrc } from "../../lib/chapterWords.js";
 import { speak, stopSpeaking } from "../../lib/tts.js";
 import { notoUrl, wordEmoji } from "../../lib/wordEmoji.js";
 
@@ -52,26 +52,12 @@ export function WordAnimation({ word }) {
   );
 }
 
-export function WordImage({ word, showCredit = false }) {
+export function WordImage({ word }) {
   const [failed, setFailed] = useState(false);
-  const [credit, setCredit] = useState(null);
   const src = imageSrc(word);
   useEffect(() => setFailed(false), [src]);
-  useEffect(() => {
-    if (showCredit) imageCredit(word).then(setCredit);
-  }, [word, showCredit]);
   if (!src || failed) return null;
-  return (
-    <>
-      <img className="chapter-img" src={src} alt="" loading="lazy" onError={() => setFailed(true)} />
-      {credit && (
-        <div className="chapter-img-credit">
-          Bild: {credit.author}
-          {credit.license ? ` (${credit.license})` : ""}, Wikimedia Commons
-        </div>
-      )}
-    </>
-  );
+  return <img className="chapter-img" src={src} alt="" loading="lazy" onError={() => setFailed(true)} />;
 }
 
 export default function ChapterLearn({ words, direction }) {
@@ -99,7 +85,7 @@ export default function ChapterLearn({ words, direction }) {
         {index + 1} / {words.length}
       </div>
       <div className="chapter-card" style={{ background: color.bg, color: color.fg }} onClick={() => setFlipped((f) => !f)}>
-        <WordImage word={word} showCredit={flipped} />
+        <WordImage word={word} />
         <WordAnimation key={word.key} word={word} />
         <div className="chapter-card-main">{front}</div>
         <button

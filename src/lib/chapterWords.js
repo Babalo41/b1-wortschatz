@@ -61,20 +61,6 @@ export function germanLabel(word) {
   return [word.article, word.german_word].filter(Boolean).join(" ");
 }
 
-// Attribution for Commons pictures, written by scripts/crawler.py. Fetched
-// once (the service worker precaches it like any other json).
-let creditsPromise = null;
-
-export function imageCredit(word) {
-  if (!creditsPromise) {
-    creditsPromise = fetch(import.meta.env.BASE_URL + "images/credits.json")
-      .then((r) => (r.ok ? r.json() : {}))
-      .catch(() => ({}));
-  }
-  const file = (word.image_local_path || "").split("/").pop();
-  return creditsPromise.then((c) => (c[file]?.author ? c[file] : null));
-}
-
 export function imageSrc(word) {
   const path = word.image_local_path;
   if (!path) return word.image_override_url || null;

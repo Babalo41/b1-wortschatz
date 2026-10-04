@@ -5,6 +5,7 @@ import { isLearned } from "../../lib/quiz.js";
 import ChapterLearn from "./ChapterLearn.jsx";
 import ChapterQuiz from "./ChapterQuiz.jsx";
 import ChapterDashboard from "./ChapterDashboard.jsx";
+import ImageCredits from "./ImageCredits.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
@@ -104,6 +105,7 @@ export default function ChapterApp({ onSwitchProfile }) {
             </div>
             <div style={{ display: tab === "dashboard" ? "block" : "none" }}>
               <ChapterDashboard scores={scores} progress={progress} onReset={reload} />
+              <ImageCredits />
             </div>
           </>
         )}
