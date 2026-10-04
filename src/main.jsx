@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./styles.css";
+import "./palette.css"; // trial palette -- delete this line to revert
 import { initTTS } from "./lib/tts.js";
 import { registerSW } from "virtual:pwa-register";
 

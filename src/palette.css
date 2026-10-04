@@ -1,0 +1,91 @@
+/* ============================================================
+   PALETTE CONFIG -- edit these 4 colors, everything else follows.
+   To revert to the original dark theme, delete the palette.css
+   import in main.jsx.
+   ============================================================ */
+:root {
+  --c-bg:    #d1edd3;  /* page background (light) */
+  --c-main:  #5c7057;  /* primary: active tabs/chips/buttons, text tint */
+  --c-soft:  #acc5a6;  /* secondary: glows, bar tracks, borders */
+  --c-pop:   #89a482;  /* highlight: title, stats, progress bars */
+  /* previous trial: bg #fff0c5 · main #359fa0 · soft #8ad6d1 · pop #ff8c52 */
+}
+
+/* ---- Derived values (no need to touch below) ---------------
+   Word-card gender/POS colors (lib/words.js) are intentionally
+   untouched -- der/die/das colors aid memorization. */
+:root {
+  color-scheme: light;
+  --bg: var(--c-bg);
+  --bg-2: color-mix(in srgb, var(--c-bg) 85%, var(--c-pop));
+  --panel: rgb(255 255 255 / 0.6);
+  --panel-border: color-mix(in srgb, var(--c-main) 35%, transparent);
+  --text: color-mix(in srgb, var(--c-main) 50%, #000);
+  --muted: color-mix(in srgb, var(--c-main) 70%, #000);
+  --accent: var(--c-main);
+  --accent-2: var(--c-pop);
+}
+
+body {
+  background:
+    radial-gradient(circle at 15% 0%, color-mix(in srgb, var(--c-soft) 55%, transparent), transparent 45%),
+    radial-gradient(circle at 100% 25%, color-mix(in srgb, var(--c-pop) 22%, transparent), transparent 40%),
+    linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 100%);
+}
+
+.app-title,
+.stat-value {
+  background: linear-gradient(90deg, var(--c-main), var(--c-pop));
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.app-tabs {
+  background: color-mix(in srgb, var(--c-bg) 85%, transparent);
+}
+
+.tab.active,
+.chip.active,
+.close-filters,
+.quiz-feedback button {
+  background: var(--c-main);
+  color: #fff;
+  box-shadow: 0 4px 14px color-mix(in srgb, var(--c-main) 40%, transparent);
+}
+
+.setup-buttons button,
+.chip {
+  background: rgb(255 255 255 / 0.6);
+}
+
+.filter-panel {
+  background: rgb(255 255 255 / 0.4);
+}
+
+.page-range input,
+.pace-row input {
+  background: #fff;
+}
+
+table td {
+  border-bottom-color: color-mix(in srgb, var(--c-main) 20%, transparent);
+}
+
+.box-bar-track,
+.kap-bar {
+  background: color-mix(in srgb, var(--c-soft) 35%, transparent);
+}
+
+.box-bar-fill,
+.kap-bar-fill {
+  background: linear-gradient(90deg, var(--c-main), var(--c-pop));
+  box-shadow: none;
+}
+
+.chapter-card {
+  box-shadow: 0 14px 30px -16px color-mix(in srgb, var(--text) 35%, transparent);
+}
+
+.panda-overlay {
+  background: color-mix(in srgb, var(--c-bg) 92%, transparent);
+}
