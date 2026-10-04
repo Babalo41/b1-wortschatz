@@ -1,6 +1,55 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { articleColor, germanLabel, imageCredit, imageSrc } from "../../lib/chapterWords.js";
 import { speak, stopSpeaking } from "../../lib/tts.js";
+import { notoUrl, wordEmoji } from "../../lib/wordEmoji.js";
+
+// Plays once over the card, then removes itself. Animated Noto emoji when
+// online (or cached), otherwise the plain emoji glyph with the same motion.
+export function WordAnimation({ word }) {
+  const hit = wordEmoji(word);
+  const figure = useRef(null);
+  const [state, setState] = useState("loading"); // loading | lottie | glyph | done
+
+  useEffect(() => {
+    if (!hit) return;
+    let anim = null;
+    let cancelled = false;
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 4000);
+    Promise.all([
+      fetch(notoUrl(hit.e), { signal: ctrl.signal }).then((r) => (r.ok ? r.json() : Promise.reject())),
+      import("lottie-web/build/player/lottie_light"),
+    ])
+      .then(([data, mod]) => {
+        if (cancelled) return;
+        anim = mod.default.loadAnimation({ container: figure.current, renderer: "svg", loop: true, autoplay: true, animationData: data });
+        setState("lottie");
+      })
+      .catch(() => !cancelled && setState("glyph"))
+      .finally(() => clearTimeout(timer));
+    return () => {
+      cancelled = true;
+      ctrl.abort();
+      anim?.destroy();
+    };
+  }, []);
+
+  if (!hit || state === "done") return null;
+  const running = state === "lottie" || state === "glyph";
+  return (
+    <div className={`word-anim word-anim-${hit.m}`} aria-hidden="true">
+      <div
+        className={running ? "word-anim-actor run" : "word-anim-actor"}
+        onAnimationEnd={(e) => e.target === e.currentTarget && setState("done")}
+      >
+        {hit.m === "drop" && <span className="word-anim-rope" />}
+        <div className="word-anim-figure" ref={figure}>
+          {state === "glyph" && hit.e}
+        </div>
+      </div>
+    </div>
+  );
+}
 
 export function WordImage({ word, showCredit = false }) {
   const [failed, setFailed] = useState(false);
@@ -50,6 +99,7 @@ export default function ChapterLearn({ words, direction }) {
       </div>
       <div className="chapter-card" style={{ background: color.bg, color: color.fg }} onClick={() => setFlipped((f) => !f)}>
         <WordImage word={word} showCredit={flipped} />
+        <WordAnimation key={word.key} word={word} />
         <div className="chapter-card-main">{front}</div>
         <button
           className="speak-btn chapter-speak"

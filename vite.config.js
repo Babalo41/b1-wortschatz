@@ -33,6 +33,18 @@ export default defineConfig({
         skipWaiting: true,
         clientsClaim: true,
         cleanupOutdatedCaches: true,
+        // Animated word emoji are loaded live; keep the ones already seen for offline use.
+        runtimeCaching: [
+          {
+            urlPattern: /^https:\/\/fonts\.gstatic\.com\/s\/e\/notoemoji\//,
+            handler: "CacheFirst",
+            options: {
+              cacheName: "noto-emoji",
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 90 },
+              cacheableResponse: { statuses: [200] },
+            },
+          },
+        ],
       },
     }),
   ],

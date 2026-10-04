@@ -1057,6 +1057,80 @@ h2, h3 {
   .panda-overlay, .panda-overlay * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
 }
 
+/* ---------------- Word animation (chapter cards) ---------------- */
+
+.word-anim {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.word-anim-actor {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+  opacity: 0;
+}
+
+.word-anim-figure {
+  width: 100%;
+  height: 100%;
+  font-size: 56px;
+  line-height: 72px;
+  text-align: center;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* drop: hangs from a rope, waves, gets pulled back up */
+.word-anim-drop .word-anim-actor { top: 0; left: 22px; }
+.word-anim-drop .word-anim-actor.run { animation: anim-drop 3.6s ease-in-out forwards; }
+.word-anim-drop .word-anim-actor.run .word-anim-figure { transform-origin: 50% 0; animation: anim-wave 0.5s ease-in-out 0.9s 4 alternate; }
+.word-anim-rope {
+  position: absolute;
+  bottom: 100%;
+  left: calc(50% - 1px);
+  width: 2px;
+  height: 260px;
+  background: currentColor;
+  opacity: 0.6;
+}
+
+/* float: drifts across the top with a little bob */
+.word-anim-float .word-anim-actor { top: 10px; left: 0; }
+.word-anim-float .word-anim-actor.run { animation: anim-float 3.4s linear forwards; }
+.word-anim-float .word-anim-actor.run .word-anim-figure { animation: anim-bob 0.85s ease-in-out 4 alternate; }
+
+/* pop: pops in at the corner, bounces, shrinks away */
+.word-anim-pop .word-anim-actor { top: 12px; left: 12px; }
+.word-anim-pop .word-anim-actor.run { animation: anim-pop 2.8s ease-out forwards; }
+
+@keyframes anim-drop {
+  0% { opacity: 1; transform: translateY(-100%); }
+  22% { transform: translateY(48px); }
+  28% { transform: translateY(36px); }
+  34%, 72% { opacity: 1; transform: translateY(42px); }
+  100% { opacity: 1; transform: translateY(-120%); }
+}
+@keyframes anim-wave { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
+@keyframes anim-float {
+  0% { opacity: 0; left: -72px; }
+  10%, 85% { opacity: 1; }
+  100% { opacity: 0; left: 100%; }
+}
+@keyframes anim-bob { from { transform: translateY(-6px); } to { transform: translateY(6px); } }
+@keyframes anim-pop {
+  0% { opacity: 0; transform: scale(0); }
+  15% { opacity: 1; transform: scale(1.25); }
+  25% { transform: scale(0.9); }
+  33%, 75% { opacity: 1; transform: scale(1); }
+  45% { transform: translateY(-10px); }
+  55% { transform: translateY(0); }
+  100% { opacity: 0; transform: scale(0); }
+}
+
 .chapter-img-credit {
   font-size: 0.65rem;
   opacity: 0.7;
