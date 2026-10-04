@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ch3-203",
+    "chapter": 3,
+    "german_word": "schwach, schwächer, am schwächsten",
+    "article": null,
+    "plural": null,
+    "english_translation": "weak",
+    "explanation": null,
+    "image_local_path": "/images/schwach_schwaecher_am_schwaechsten.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch3-204",
+    "chapter": 3,
+    "german_word": "üß die Botschaft, -en",
+    "article": null,
+    "plural": "die üß die Botschaft, -enen",
+    "english_translation": "embassy",
+    "explanation": null,
+    "image_local_path": "/images/uess_die_botschaft_en.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch3-205",
+    "chapter": 3,
+    "german_word": "beziehungsweise",
+    "article": null,
+    "plural": null,
+    "english_translation": "or (rather)",
+    "explanation": "bzw.",
+    "image_local_path": "/images/beziehungsweise.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch3-206",
+    "chapter": 3,
+    "german_word": "Gescháftsfrau",
+    "article": "die",
+    "plural": "die Gescháftsfrauen",
+    "english_translation": "business woman",
+    "explanation": null,
+    "image_local_path": "/images/geschaftsfrau.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch3-207",
+    "chapter": 3,
+    "german_word": "k&k die Vokaländerung, -en",
+    "article": null,
+    "plural": null,
+    "english_translation": "vowel change",
+    "explanation": null,
+    "image_local_path": "/images/k_k_die_vokalaenderung_en.jpg",
+    "image_override_url": null
+  }
+]

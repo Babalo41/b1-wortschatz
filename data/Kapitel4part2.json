@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ch4-187",
+    "chapter": 4,
+    "german_word": "Mechatronikern",
+    "article": "die",
+    "plural": "die Mechatronikernnen",
+    "english_translation": "mechanical electronics engineer (f)",
+    "explanation": null,
+    "image_local_path": "/images/mechatronikerin.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch4-188",
+    "chapter": 4,
+    "german_word": "herlstellen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to create",
+    "explanation": null,
+    "image_local_path": "/images/herlstellen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch4-189",
+    "chapter": 4,
+    "german_word": "schútten",
+    "article": null,
+    "plural": null,
+    "english_translation": "to spill",
+    "explanation": "Peinlich, heute habe ich einem Kollegen aus Versehen Kaffee über das Hemd geschüttet. — Today I accidentally spilled coffee on a coworker's shirt, that was embarrassing.",
+    "image_local_path": "/images/schutten.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch4-190",
+    "chapter": 4,
+    "german_word": "Pronominaladverb",
+    "article": "das",
+    "plural": "die Pronominaladverbien",
+    "english_translation": "pronominal adverb",
+    "explanation": null,
+    "image_local_path": "/images/pronominaladverb.jpg",
+    "image_override_url": null
+  }
+]

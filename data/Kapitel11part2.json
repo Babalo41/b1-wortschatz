@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ch11-130",
+    "chapter": 11,
+    "german_word": "irgendein, irgendeine, irgendwelche",
+    "article": null,
+    "plural": null,
+    "english_translation": "some",
+    "explanation": null,
+    "image_local_path": "/images/irgendein_irgendeine_irgendwelche.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-131",
+    "chapter": 11,
+    "german_word": "hindern hineinlgehen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to hinder",
+    "explanation": "er geht hinein, ging hinein, to enter ist hineingegangen | an + D.",
+    "image_local_path": "/images/hindern_hineinlgehen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-132",
+    "chapter": 11,
+    "german_word": "p6 das Ranking, -s",
+    "article": null,
+    "plural": null,
+    "english_translation": "ranking",
+    "explanation": null,
+    "image_local_path": "/images/p6_das_ranking_s.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-133",
+    "chapter": 11,
+    "german_word": "Stadtrátin",
+    "article": "die",
+    "plural": "die Stadtrátinnen",
+    "english_translation": "city council member (f)",
+    "explanation": null,
+    "image_local_path": "/images/stadtratin.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-134",
+    "chapter": 11,
+    "german_word": "armfahren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to drive around",
+    "explanation": "er fährt rum, fuhr rum, ist rumgefahren",
+    "image_local_path": "/images/rumlfahren.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-135",
+    "chapter": 11,
+    "german_word": "üß an/schauen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to look at",
+    "explanation": null,
+    "image_local_path": "/images/uess_an_schauen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch11-136",
+    "chapter": 11,
+    "german_word": "k&k halbformell",
+    "article": null,
+    "plural": null,
+    "english_translation": "half formal",
+    "explanation": null,
+    "image_local_path": "/images/k_k_halbformell.jpg",
+    "image_override_url": null
+  }
+]

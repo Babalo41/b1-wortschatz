@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ch6-142",
+    "chapter": 6,
+    "german_word": "Kindertagesstátte",
+    "article": "die",
+    "plural": "die Kindertagesstátten",
+    "english_translation": "kindergarten",
+    "explanation": null,
+    "image_local_path": "/images/kindertagesstatte.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch6-143",
+    "chapter": 6,
+    "german_word": "Lage",
+    "article": "der",
+    "plural": "die Lagen",
+    "english_translation": "moment.)",
+    "explanation": "mich zu bewegen.)",
+    "image_local_path": "/images/lage.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch6-144",
+    "chapter": 6,
+    "german_word": "P6 bewerten",
+    "article": null,
+    "plural": null,
+    "english_translation": "to evaluate",
+    "explanation": null,
+    "image_local_path": "/images/p6_bewerten.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch6-145",
+    "chapter": 6,
+    "german_word": "üß der Bass, \"-e",
+    "article": null,
+    "plural": "die üß der Bäss, \"-ee",
+    "english_translation": "bass",
+    "explanation": null,
+    "image_local_path": "/images/uess_der_bass_e.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch6-146",
+    "chapter": 6,
+    "german_word": "k&k bezeichnen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to mean",
+    "explanation": null,
+    "image_local_path": "/images/k_k_bezeichnen.jpg",
+    "image_override_url": null
+  }
+]

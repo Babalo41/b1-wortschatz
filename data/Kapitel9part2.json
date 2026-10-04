@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ch9-173",
+    "chapter": 9,
+    "german_word": "hernkommen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to approach",
+    "explanation": "er kommt heran, kam heran, ist herangekommen | an + A.",
+    "image_local_path": "/images/heran_kommen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch9-174",
+    "chapter": 9,
+    "german_word": "Präpositionalergänzung",
+    "article": "die",
+    "plural": "die Präpositionalergänzungen",
+    "english_translation": "prepositional appendix",
+    "explanation": null,
+    "image_local_path": "/images/praepositionalergaenzung.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch9-175",
+    "chapter": 9,
+    "german_word": "armliegen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to lie around",
+    "explanation": "er liegt rum, lag rum, hat/ist rumgelegen",
+    "image_local_path": "/images/rumlliegen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch9-176",
+    "chapter": 9,
+    "german_word": "heimlich her sein",
+    "article": null,
+    "plural": null,
+    "english_translation": "secret the choir.)",
+    "explanation": "Es ist lange her, dass ich im Chor to be long ago (It is long ago that I sung in gesungen habe.)",
+    "image_local_path": "/images/heimlich_her_sein.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch9-177",
+    "chapter": 9,
+    "german_word": "k&k relativieren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to relativise",
+    "explanation": null,
+    "image_local_path": "/images/k_k_relativieren.jpg",
+    "image_override_url": null
+  }
+]

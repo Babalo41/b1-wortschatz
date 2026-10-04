@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ch8-202",
+    "chapter": 8,
+    "german_word": "üß gtmen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to breathe",
+    "explanation": null,
+    "image_local_path": "/images/uess_gtmen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch8-203",
+    "chapter": 8,
+    "german_word": "Diat-Assistent",
+    "article": "der",
+    "plural": "die Diat-Assistenten",
+    "english_translation": "dietary assistant (m)",
+    "explanation": null,
+    "image_local_path": "/images/diat_assistent.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch8-204",
+    "chapter": 8,
+    "german_word": "Diát-Assistentin",
+    "article": "die",
+    "plural": "die Diát-Assistentinnen",
+    "english_translation": "dietary assistant (f)",
+    "explanation": null,
+    "image_local_path": "/images/diat_assistentin.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch8-205",
+    "chapter": 8,
+    "german_word": "grundsátzlich",
+    "article": null,
+    "plural": null,
+    "english_translation": "in general",
+    "explanation": null,
+    "image_local_path": "/images/grundsatzlich.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch8-206",
+    "chapter": 8,
+    "german_word": "Klassik leiden",
+    "article": "die",
+    "plural": null,
+    "english_translation": "classic",
+    "explanation": "an + D. | er leidet, litt, hat gelitten to suffer",
+    "image_local_path": "/images/klassik_leiden.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch8-207",
+    "chapter": 8,
+    "german_word": "úberfragt sein",
+    "article": null,
+    "plural": null,
+    "english_translation": "to be stumped",
+    "explanation": null,
+    "image_local_path": "/images/uberfragt_sein.jpg",
+    "image_override_url": null
+  }
+]

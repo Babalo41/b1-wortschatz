@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ch10-180",
+    "chapter": 10,
+    "german_word": "üß der/die Abgeordnete, -n",
+    "article": null,
+    "plural": "die üß der/die Abgeordnete, -nn",
+    "english_translation": "MP, congressman (wo)",
+    "explanation": null,
+    "image_local_path": "/images/uess_der_die_abgeordnete_n.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch10-181",
+    "chapter": 10,
+    "german_word": "blind",
+    "article": null,
+    "plural": null,
+    "english_translation": "blind",
+    "explanation": null,
+    "image_local_path": "/images/blind.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch10-182",
+    "chapter": 10,
+    "german_word": "durch-führen einlnehmen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to conduct",
+    "explanation": "er nimmt ein, nahm ein, hat to take in eingenommen | Geld einnehmen | to take in money",
+    "image_local_path": "/images/durch_fuehren_einlnehmen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch10-183",
+    "chapter": 10,
+    "german_word": "mitlorganisieren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to help organise",
+    "explanation": null,
+    "image_local_path": "/images/mitlorganisieren.jpg",
+    "image_override_url": null
+  }
+]

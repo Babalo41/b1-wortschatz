@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ch5-212",
+    "chapter": 5,
+    "german_word": "erháltlich",
+    "article": null,
+    "plural": null,
+    "english_translation": "to be available",
+    "explanation": null,
+    "image_local_path": "/images/erhaltlich.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-213",
+    "chapter": 5,
+    "german_word": "zurúck/bringen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to bring back",
+    "explanation": "er bringt zurúck, brachte zurück, hat zurückgebracht",
+    "image_local_path": "/images/zuruck_bringen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-214",
+    "chapter": 5,
+    "german_word": "P6 der Satzanfang, \"e",
+    "article": null,
+    "plural": null,
+    "english_translation": "beginning of a sentence",
+    "explanation": null,
+    "image_local_path": "/images/p6_der_satzanfang_e.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-215",
+    "chapter": 5,
+    "german_word": "úberzeugt sein",
+    "article": null,
+    "plural": null,
+    "english_translation": "to be convinced",
+    "explanation": "von + D.",
+    "image_local_path": "/images/uberzeugt_sein.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-216",
+    "chapter": 5,
+    "german_word": "tsuösun",
+    "article": null,
+    "plural": null,
+    "english_translation": "for free",
+    "explanation": null,
+    "image_local_path": "/images/tsuoesun.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-217",
+    "chapter": 5,
+    "german_word": "Gedáchtnis",
+    "article": "das",
+    "plural": null,
+    "english_translation": "memory",
+    "explanation": null,
+    "image_local_path": "/images/gedachtnis.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-218",
+    "chapter": 5,
+    "german_word": "geschútzt",
+    "article": null,
+    "plural": null,
+    "english_translation": "protected",
+    "explanation": null,
+    "image_local_path": "/images/geschutzt.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-219",
+    "chapter": 5,
+    "german_word": "mmer wieder",
+    "article": null,
+    "plural": null,
+    "english_translation": "again and again",
+    "explanation": null,
+    "image_local_path": "/images/mmer_wieder.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch5-220",
+    "chapter": 5,
+    "german_word": "k&k deklinieren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to decline",
+    "explanation": null,
+    "image_local_path": "/images/k_k_deklinieren.jpg",
+    "image_override_url": null
+  }
+]

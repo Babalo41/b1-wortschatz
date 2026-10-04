@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ch7-171",
+    "chapter": 7,
+    "german_word": "üß decken",
+    "article": null,
+    "plural": null,
+    "english_translation": "to lay",
+    "explanation": "den Tisch decken — to lay the table",
+    "image_local_path": "/images/uess_decken.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-172",
+    "chapter": 7,
+    "german_word": "Prásident",
+    "article": "der",
+    "plural": "die Prásidenten",
+    "english_translation": "president (m)",
+    "explanation": null,
+    "image_local_path": "/images/prasident.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-173",
+    "chapter": 7,
+    "german_word": "sich verspäten das Verständnis",
+    "article": null,
+    "plural": null,
+    "english_translation": "to be late",
+    "explanation": "Verständnis haben sympathy (To have sympathy for + A.) für + A.",
+    "image_local_path": "/images/verspaeten_das_verstaendnis.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-174",
+    "chapter": 7,
+    "german_word": "erschöpft seit since",
+    "article": null,
+    "plural": null,
+    "english_translation": "exhausted",
+    "explanation": "Seit ich dich kenne, bin ich glücklich. I've been happy since I met you.",
+    "image_local_path": "/images/erschoepft_seit_since.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-175",
+    "chapter": 7,
+    "german_word": "wahrend",
+    "article": null,
+    "plural": null,
+    "english_translation": "while",
+    "explanation": "Ich putze, während ich telefoniere. — I clean while I'm on the phone.",
+    "image_local_path": "/images/wahrend.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-176",
+    "chapter": 7,
+    "german_word": "sich B amúsieren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to amuse",
+    "explanation": "úber + A.",
+    "image_local_path": "/images/b_amusieren.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-177",
+    "chapter": 7,
+    "german_word": "arm, ármer, am ärmsten",
+    "article": null,
+    "plural": null,
+    "english_translation": "poor",
+    "explanation": null,
+    "image_local_path": "/images/arm_armer_am_aermsten.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-178",
+    "chapter": 7,
+    "german_word": "dokumentieren erhalten sein",
+    "article": null,
+    "plural": null,
+    "english_translation": "to document preserved.)",
+    "explanation": "Die Briefe sind alt, aber gut to be preserved (The letters are old, but well erhalten.)",
+    "image_local_path": "/images/dokumentieren_erhalten_sein.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-179",
+    "chapter": 7,
+    "german_word": "brüllen davonlgehen",
+    "article": null,
+    "plural": null,
+    "english_translation": "roared",
+    "explanation": "er geht davon, ging davon, to leave ist davongegangen",
+    "image_local_path": "/images/bruellen_davonlgehen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-180",
+    "chapter": 7,
+    "german_word": "scharf, schärfer, am schärfsten",
+    "article": null,
+    "plural": null,
+    "english_translation": "sharp",
+    "explanation": "Vorsicht, das Messer ist scharf. — Careful, the knife is sharp.",
+    "image_local_path": "/images/scharf_schaerfer_am_schaerfsten.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-181",
+    "chapter": 7,
+    "german_word": "zurúckbrúllen",
+    "article": null,
+    "plural": null,
+    "english_translation": "to roar back",
+    "explanation": null,
+    "image_local_path": "/images/zuruckbrullen.jpg",
+    "image_override_url": null
+  },
+  {
+    "id": "ch7-182",
+    "chapter": 7,
+    "german_word": "k&k das Konfliktgespräch, -e",
+    "article": null,
+    "plural": null,
+    "english_translation": "argument",
+    "explanation": null,
+    "image_local_path": "/images/k_k_das_konfliktgespraech_e.jpg",
+    "image_override_url": null
+  }
+]
