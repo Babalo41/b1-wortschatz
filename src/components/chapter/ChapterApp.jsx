@@ -4,10 +4,12 @@ import { getAllScores, getAllWordProgress, scoreKey } from "../../lib/chapterDb.
 import { isLearned } from "../../lib/quiz.js";
 import ChapterLearn from "./ChapterLearn.jsx";
 import ChapterQuiz from "./ChapterQuiz.jsx";
+import ChapterDashboard from "./ChapterDashboard.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
   { key: "quiz", label: "Quiz", icon: "❓" },
+  { key: "dashboard", label: "Fortschritt", icon: "📊" },
 ];
 
 function ProgressBar({ done, total, thin = false }) {
@@ -49,7 +51,7 @@ export default function ChapterApp({ onSwitchProfile }) {
         </button>
       </header>
 
-      <div className="kap-top">
+      <div className="kap-top" style={{ display: tab === "dashboard" ? "none" : undefined }}>
         <div className="kap-overall">
           <span>
             {totalLearned} / {CHAPTER_WORDS.length} Wörter gelernt
@@ -91,7 +93,7 @@ export default function ChapterApp({ onSwitchProfile }) {
           <div className="empty-state">Noch keine Wörter – lege data/Kapitel1.json usw. an.</div>
         ) : (
           <>
-            {/* Both stay mounted (hidden via CSS) so a running quiz survives a
+            {/* All tabs stay mounted (hidden via CSS) so a running quiz survives a
                 glance at the Lernen tab, same as the B1 profile does. Keyed
                 on chapter+direction so switching either starts fresh. */}
             <div style={{ display: tab === "learn" ? "block" : "none" }}>
@@ -99,6 +101,9 @@ export default function ChapterApp({ onSwitchProfile }) {
             </div>
             <div style={{ display: tab === "quiz" ? "block" : "none" }}>
               <ChapterQuiz key={`${chapter}|${direction}`} chapter={chapter} words={words} direction={direction} onProgressChanged={reload} />
+            </div>
+            <div style={{ display: tab === "dashboard" ? "block" : "none" }}>
+              <ChapterDashboard scores={scores} progress={progress} onReset={reload} />
             </div>
           </>
         )}

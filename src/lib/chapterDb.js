@@ -55,3 +55,8 @@ export async function recordWordResult(wordKey, direction, correct) {
   await db.put(WORDS, updated, wordKey);
   return updated;
 }
+
+export async function resetChapterProgress() {
+  const db = await getDB();
+  await Promise.all([db.clear(SCORES), db.clear(WORDS)]);
+}
