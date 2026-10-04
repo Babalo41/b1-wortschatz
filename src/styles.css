@@ -1122,13 +1122,14 @@ h2, h3 {
 }
 @keyframes anim-bob { from { transform: translateY(-6px); } to { transform: translateY(6px); } }
 @keyframes anim-pop {
-  0% { opacity: 0; transform: scale(0); }
+  /* never exactly scale(0): WebKit (all iOS browsers) won't paint a layer that starts singular */
+  0% { opacity: 0; transform: scale(0.01); }
   15% { opacity: 1; transform: scale(1.25); }
   25% { transform: scale(0.9); }
   33%, 75% { opacity: 1; transform: scale(1); }
-  45% { transform: translateY(-10px); }
-  55% { transform: translateY(0); }
-  100% { opacity: 0; transform: scale(0); }
+  45% { transform: translateY(-10px) scale(1); }
+  55% { transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: scale(0.01); }
 }
 
 .chapter-img-credit {
