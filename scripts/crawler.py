@@ -299,6 +299,9 @@ def main(argv=None):
                     save_image(http_get(hit["url"]), target)
                     done += 1
                 credits[Path(rel).name] = {k: hit[k] for k in ("author", "license", "source")}
+                if len(credits) % 25 == 0:  # survive an interrupted run
+                    save_credits(credits)
+                    print(f"  {len(handled)} words checked, {done} downloaded", flush=True)
             except Exception as e:  # keep going; report at the end
                 missing.append(f"{w.get('id')} {w.get('german_word')} ({e})")
             time.sleep(0.5)
