@@ -17,13 +17,16 @@ describe("notoUrl", () => {
 
 describe("wordEmoji", () => {
   it("finds a noun by article and word", () => {
-    expect(wordEmoji({ article: "der", german_word: "Fuchs" })).toEqual({ e: "🦊", m: "pop" });
+    expect(wordEmoji({ article: "der", german_word: "Fuchs" })).toEqual({ e: "🦊", m: "pop", still: false });
   });
   it("keeps an explicit motion", () => {
-    expect(wordEmoji({ article: "der", german_word: "Rechtsanwalt" })).toEqual({ e: "⚖️", m: "drop" });
+    expect(wordEmoji({ article: "der", german_word: "Rechtsanwalt" })).toEqual({ e: "⚖️", m: "drop", still: false });
   });
   it("finds a word without article", () => {
-    expect(wordEmoji({ article: "", german_word: "wolkig" })).toEqual({ e: "☁️", m: "float" });
+    expect(wordEmoji({ article: "", german_word: "wolkig" })).toEqual({ e: "☁️", m: "float", still: false });
+  });
+  it("flags emoji without a Noto animation as still", () => {
+    expect(wordEmoji({ article: "der", german_word: "Richter" })).toEqual({ e: "🧑‍⚖️", m: "drop", still: true });
   });
   it("returns null for an unmapped word", () => {
     expect(wordEmoji({ article: "der", german_word: "Quatschwort" })).toBeNull();

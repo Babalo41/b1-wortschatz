@@ -12,6 +12,7 @@ export function WordAnimation({ word }) {
 
   useEffect(() => {
     if (!hit) return;
+    if (hit.still) return setState("glyph");
     let anim = null;
     let cancelled = false;
     const ctrl = new AbortController();
