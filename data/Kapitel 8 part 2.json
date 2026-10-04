@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "ch8-031",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "atmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to breathe",
+    "explanation": "",
+    "image_local_path": "/images/atmen.jpg"
+  },
+  {
+    "id": "ch8-032",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "auflösen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to resolve",
+    "explanation": "",
+    "image_local_path": "/images/auflosen.jpg"
+  },
+  {
+    "id": "ch8-033",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "blass",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "pale",
+    "explanation": "",
+    "image_local_path": "/images/blass.jpg"
+  },
+  {
+    "id": "ch8-034",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Brust",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "chest",
+    "explanation": "",
+    "image_local_path": "/images/brust.jpg"
+  },
+  {
+    "id": "ch8-035",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "einnehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take",
+    "explanation": "Medikamente einnehmen / to take medicine",
+    "image_local_path": "/images/einnehmen.jpg"
+  },
+  {
+    "id": "ch8-036",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "kleben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to stick",
+    "explanation": "",
+    "image_local_path": "/images/kleben.jpg"
+  },
+  {
+    "id": "ch8-037",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Krankenwagen",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "ambulance",
+    "explanation": "",
+    "image_local_path": "/images/krankenwagen.jpg"
+  },
+  {
+    "id": "ch8-038",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "krankschreiben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sign sb off work, to take sick leave",
+    "explanation": "er schreibt krank, schrieb krank, hat krankgeschrieben",
+    "image_local_path": "/images/krankschreiben.jpg"
+  },
+  {
+    "id": "ch8-039",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Notaufnahme",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "emergency room",
+    "explanation": "",
+    "image_local_path": "/images/notaufnahme.jpg"
+  },
+  {
+    "id": "ch8-040",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Notruf",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "SOS, emergency call",
+    "explanation": "",
+    "image_local_path": "/images/notruf.jpg"
+  },
+  {
+    "id": "ch8-041",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Pulver",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "powder",
+    "explanation": "",
+    "image_local_path": "/images/pulver.jpg"
+  },
+  {
+    "id": "ch8-042",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Rest",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "rest",
+    "explanation": "",
+    "image_local_path": "/images/rest.jpg"
+  },
+  {
+    "id": "ch8-043",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Schmerzmittel",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "pain killer",
+    "explanation": "",
+    "image_local_path": "/images/schmerzmittel.jpg"
+  },
+  {
+    "id": "ch8-044",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Schulter",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "shoulder",
+    "explanation": "",
+    "image_local_path": "/images/schulter.jpg"
+  },
+  {
+    "id": "ch8-045",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "verschreiben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to prescribe",
+    "explanation": "er verschreibt, verschrieb, hat verschrieben",
+    "image_local_path": "/images/verschreiben.jpg"
+  },
+  {
+    "id": "ch8-046",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Versichertenkarte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "insurance card",
+    "explanation": "",
+    "image_local_path": "/images/versichertenkarte.jpg"
+  },
+  {
+    "id": "ch8-047",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Krankenzimmer",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "hospital room",
+    "explanation": "",
+    "image_local_path": "/images/krankenzimmer.jpg"
+  },
+  {
+    "id": "ch8-048",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "brauchen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to need",
+    "explanation": "Sie brauchen mich nur zu rufen, wenn ich Ihnen helfen soll. / You only need to call me when I'm supposed to help you.",
+    "image_local_path": "/images/brauchen.jpg"
+  },
+  {
+    "id": "ch8-049",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "warnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to warn",
+    "explanation": "(vor + D.)",
+    "image_local_path": "/images/warnen.jpg"
+  },
+  {
+    "id": "ch8-050",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "zu",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to",
+    "explanation": "Danke, aber du brauchst mir nicht zu helfen. / Thank you, but you don't need to help me.",
+    "image_local_path": "/images/zu.jpg"
+  },
+  {
+    "id": "ch8-051",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Pfleger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "nurse (m)",
+    "explanation": "",
+    "image_local_path": "/images/pfleger.jpg"
+  },
+  {
+    "id": "ch8-052",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Pflegerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "nurse (f)",
+    "explanation": "",
+    "image_local_path": "/images/pflegerin.jpg"
+  },
+  {
+    "id": "ch8-053",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "glatt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "smooth",
+    "explanation": "",
+    "image_local_path": "/images/glatt.jpg"
+  },
+  {
+    "id": "ch8-054",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "schwindelig/schwindlig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "dizzy",
+    "explanation": "",
+    "image_local_path": "/images/schwindelig.jpg"
+  },
+  {
+    "id": "ch8-055",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "unbequem",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "uncomfortable",
+    "explanation": "",
+    "image_local_path": "/images/unbequem.jpg"
+  },
+  {
+    "id": "ch8-056",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Akkusativobjekt",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "direct object",
+    "explanation": "",
+    "image_local_path": "/images/akkusativobjekt.jpg"
+  },
+  {
+    "id": "ch8-057",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "kämmen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to comb",
+    "explanation": "",
+    "image_local_path": "/images/kammen.jpg"
+  },
+  {
+    "id": "ch8-058",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Besuchszeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "visiting hours",
+    "explanation": "",
+    "image_local_path": "/images/besuchszeit.jpg"
+  },
+  {
+    "id": "ch8-059",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Wertsachen",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "valuables",
+    "explanation": "",
+    "image_local_path": "/images/wertsachen.jpg"
+  },
+  {
+    "id": "ch8-060",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Alarmknopf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "alarm",
+    "explanation": "",
+    "image_local_path": "/images/alarmknopf.jpg"
+  },
+  {
+    "id": "ch8-061",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Apparat",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "appratus, machine",
+    "explanation": "",
+    "image_local_path": "/images/apparat.jpg"
+  },
+  {
+    "id": "ch8-062",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "aufbewahren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to keep safe",
+    "explanation": "",
+    "image_local_path": "/images/aufbewahren.jpg"
+  },
+  {
+    "id": "ch8-063",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "aufteilen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to divide",
+    "explanation": "",
+    "image_local_path": "/images/aufteilen.jpg"
+  },
+  {
+    "id": "ch8-064",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Bademantel",
+    "article": "der",
+    "plural_indicator": "\"-",
+    "english_translation": "bathrobe",
+    "explanation": "",
+    "image_local_path": "/images/bademantel.jpg"
+  },
+  {
+    "id": "ch8-065",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Bedienungsanleitung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "instruction manual",
+    "explanation": "",
+    "image_local_path": "/images/bedienungsanleitung.jpg"
+  },
+  {
+    "id": "ch8-066",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "beschildert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "marked with signs",
+    "explanation": "",
+    "image_local_path": "/images/beschildert.jpg"
+  },
+  {
+    "id": "ch8-067",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "betragen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to come to",
+    "explanation": "er beträgt, betrug, hat betragen",
+    "image_local_path": "/images/betragen.jpg"
+  },
+  {
+    "id": "ch8-068",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Brand",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "fire",
+    "explanation": "",
+    "image_local_path": "/images/brand.jpg"
+  },
+  {
+    "id": "ch8-069",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Chipkarte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "keycard",
+    "explanation": "",
+    "image_local_path": "/images/chipkarte.jpg"
+  },
+  {
+    "id": "ch8-070",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Diät-Assistent",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "dietary assistant (m)",
+    "explanation": "",
+    "image_local_path": "/images/diat_assistent.jpg"
+  },
+  {
+    "id": "ch8-071",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Diät-Assistentin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "dietary assistant (f)",
+    "explanation": "",
+    "image_local_path": "/images/diat_assistentin.jpg"
+  },
+  {
+    "id": "ch8-072",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "diätisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "dietary",
+    "explanation": "diätische Ernährung / dietary food",
+    "image_local_path": "/images/diatisch.jpg"
+  },
+  {
+    "id": "ch8-073",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Drogerie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "drug store",
+    "explanation": "",
+    "image_local_path": "/images/drogerie.jpg"
+  },
+  {
+    "id": "ch8-074",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "einschließlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "including",
+    "explanation": "",
+    "image_local_path": "/images/einschliesslich.jpg"
+  },
+  {
+    "id": "ch8-075",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Entlassung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "discharge",
+    "explanation": "",
+    "image_local_path": "/images/entlassung.jpg"
+  },
+  {
+    "id": "ch8-076",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Fernbedienung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "remote control",
+    "explanation": "",
+    "image_local_path": "/images/fernbedienung.jpg"
+  },
+  {
+    "id": "ch8-077",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Fernsehgerät",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "television",
+    "explanation": "",
+    "image_local_path": "/images/fernsehgerat.jpg"
+  },
+  {
+    "id": "ch8-078",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Festnetz",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "landline",
+    "explanation": "",
+    "image_local_path": "/images/festnetz.jpg"
+  },
+  {
+    "id": "ch8-079",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "grundsätzlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "in general",
+    "explanation": "",
+    "image_local_path": "/images/grundsatzlich.jpg"
+  },
+  {
+    "id": "ch8-080",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Haupteingang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "main entrance",
+    "explanation": "",
+    "image_local_path": "/images/haupteingang.jpg"
+  },
+  {
+    "id": "ch8-081",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Hauptmahlzeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "main meal",
+    "explanation": "",
+    "image_local_path": "/images/hauptmahlzeit.jpg"
+  },
+  {
+    "id": "ch8-082",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Hausschuh",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "slipper",
+    "explanation": "",
+    "image_local_path": "/images/hausschuh.jpg"
+  },
+  {
+    "id": "ch8-083",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Infoblatt",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "fact sheet",
+    "explanation": "",
+    "image_local_path": "/images/infoblatt.jpg"
+  },
+  {
+    "id": "ch8-084",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Klinikaufenthalt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "hospital stay",
+    "explanation": "",
+    "image_local_path": "/images/klinikaufenthalt.jpg"
+  },
+  {
+    "id": "ch8-085",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Küchenteam",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "kitchen staff",
+    "explanation": "",
+    "image_local_path": "/images/kuchenteam.jpg"
+  },
+  {
+    "id": "ch8-086",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Nachthemd",
+    "article": "das",
+    "plural_indicator": "-en",
+    "english_translation": "nightgown",
+    "explanation": "",
+    "image_local_path": "/images/nachthemd.jpg"
+  },
+  {
+    "id": "ch8-087",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Nachttisch",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "nightstand",
+    "explanation": "",
+    "image_local_path": "/images/nachttisch.jpg"
+  },
+  {
+    "id": "ch8-088",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Notausgang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "emergency exit",
+    "explanation": "",
+    "image_local_path": "/images/notausgang.jpg"
+  },
+  {
+    "id": "ch8-089",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "obere",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "upper",
+    "explanation": "",
+    "image_local_path": "/images/obere.jpg"
+  },
+  {
+    "id": "ch8-090",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "prinzipiell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "basically",
+    "explanation": "",
+    "image_local_path": "/images/prinzipiell.jpg"
+  },
+  {
+    "id": "ch8-091",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Rücksicht",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "consideration",
+    "explanation": "Bitte nehmen Sie bei Partys Rücksicht auf Ihre Nachbarn. / Please be considerate of your neighbours when partying.",
+    "image_local_path": "/images/rucksicht.jpg"
+  },
+  {
+    "id": "ch8-092",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Schlafanzug",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "pyjamas",
+    "explanation": "",
+    "image_local_path": "/images/schlafanzug.jpg"
+  },
+  {
+    "id": "ch8-093",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Schließfach",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "safe",
+    "explanation": "",
+    "image_local_path": "/images/schliessfach.jpg"
+  },
+  {
+    "id": "ch8-094",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Shampoo",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "shampoo",
+    "explanation": "",
+    "image_local_path": "/images/shampoo.jpg"
+  },
+  {
+    "id": "ch8-095",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "sichtbar",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "visible",
+    "explanation": "",
+    "image_local_path": "/images/sichtbar.jpg"
+  },
+  {
+    "id": "ch8-096",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Trainingsanzug",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "track suit",
+    "explanation": "",
+    "image_local_path": "/images/trainingsanzug.jpg"
+  },
+  {
+    "id": "ch8-097",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "untersagt sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be forbidden",
+    "explanation": "",
+    "image_local_path": "/images/untersagt_sein.jpg"
+  },
+  {
+    "id": "ch8-098",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zahnbürste",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "toothbrush",
+    "explanation": "",
+    "image_local_path": "/images/zahnburste.jpg"
+  },
+  {
+    "id": "ch8-099",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zahnpasta",
+    "article": "die",
+    "plural_indicator": "-pasten",
+    "english_translation": "toothpaste",
+    "explanation": "",
+    "image_local_path": "/images/zahnpasta.jpg"
+  },
+  {
+    "id": "ch8-100",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zimmernachbar",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "next-door neighbour (m)",
+    "explanation": "",
+    "image_local_path": "/images/zimmernachbar.jpg"
+  },
+  {
+    "id": "ch8-101",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zimmernachbarin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "next-door neighbour (f)",
+    "explanation": "",
+    "image_local_path": "/images/zimmernachbarin.jpg"
+  },
+  {
+    "id": "ch8-102",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "zur Verfügung stehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be available",
+    "explanation": "",
+    "image_local_path": "/images/zur_verfugung_stehen.jpg"
+  },
+  {
+    "id": "ch8-103",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "zuständig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "responsible",
+    "explanation": "(für + A.)",
+    "image_local_path": "/images/zustandig.jpg"
+  },
+  {
+    "id": "ch8-104",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zwischenmahlzeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "snack",
+    "explanation": "",
+    "image_local_path": "/images/zwischenmahlzeit.jpg"
+  },
+  {
+    "id": "ch8-105",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Krankenbesuch",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "hospital visit",
+    "explanation": "",
+    "image_local_path": "/images/krankenbesuch.jpg"
+  },
+  {
+    "id": "ch8-106",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Alzheimer",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "Alzheimer's Disease",
+    "explanation": "",
+    "image_local_path": "/images/alzheimer.jpg"
+  },
+  {
+    "id": "ch8-107",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "amerikanisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "American",
+    "explanation": "",
+    "image_local_path": "/images/amerikanisch.jpg"
+  },
+  {
+    "id": "ch8-108",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "andererseits",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "on the other hand",
+    "explanation": "",
+    "image_local_path": "/images/andererseits.jpg"
+  },
+  {
+    "id": "ch8-109",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "auslösen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to elicit",
+    "explanation": "",
+    "image_local_path": "/images/auslosen.jpg"
+  },
+  {
+    "id": "ch8-110",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Beerdigung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "funeral",
+    "explanation": "",
+    "image_local_path": "/images/beerdigung.jpg"
+  },
+  {
+    "id": "ch8-111",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "beruhigend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "soothing",
+    "explanation": "",
+    "image_local_path": "/images/beruhigend.jpg"
+  },
+  {
+    "id": "ch8-112",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Dur",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "major",
+    "explanation": "",
+    "image_local_path": "/images/dur.jpg"
+  },
+  {
+    "id": "ch8-113",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "einerseits ..., andererseits ...",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "on the one hand..., on the other hand...",
+    "explanation": "",
+    "image_local_path": "/images/einerseits_andererseits.jpg"
+  },
+  {
+    "id": "ch8-114",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "empfinden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to feel",
+    "explanation": "er empfindet, empfand, hat empfunden",
+    "image_local_path": "/images/empfinden.jpg"
+  },
+  {
+    "id": "ch8-115",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "entweder... oder",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "either... or",
+    "explanation": "",
+    "image_local_path": "/images/entweder_oder.jpg"
+  },
+  {
+    "id": "ch8-116",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "feierlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "festive",
+    "explanation": "",
+    "image_local_path": "/images/feierlich.jpg"
+  },
+  {
+    "id": "ch8-117",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Filmbranche",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "film industry",
+    "explanation": "",
+    "image_local_path": "/images/filmbranche.jpg"
+  },
+  {
+    "id": "ch8-118",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Forscher",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "researcher (m)",
+    "explanation": "",
+    "image_local_path": "/images/forscher.jpg"
+  },
+  {
+    "id": "ch8-119",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Forscherin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "researcher (f)",
+    "explanation": "",
+    "image_local_path": "/images/forscherin.jpg"
+  },
+  {
+    "id": "ch8-120",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "gelangen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to reach, attain",
+    "explanation": "",
+    "image_local_path": "/images/gelangen.jpg"
+  },
+  {
+    "id": "ch8-121",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Heavy Metal",
+    "article": "das",
+    "plural_indicator": "(Sg. ohne Artikel)",
+    "english_translation": "heavy metal",
+    "explanation": "",
+    "image_local_path": "/images/heavy_metal.jpg"
+  },
+  {
+    "id": "ch8-122",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Käsekuchen",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "cheesecake",
+    "explanation": "",
+    "image_local_path": "/images/kasekuchen.jpg"
+  },
+  {
+    "id": "ch8-123",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Klassik",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "classic",
+    "explanation": "",
+    "image_local_path": "/images/klassik.jpg"
+  },
+  {
+    "id": "ch8-124",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "leiden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to suffer",
+    "explanation": "(an + D.) er leidet, litt, hat gelitten",
+    "image_local_path": "/images/leiden.jpg"
+  },
+  {
+    "id": "ch8-125",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Liebesszene",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "love scene",
+    "explanation": "",
+    "image_local_path": "/images/liebesszene.jpg"
+  },
+  {
+    "id": "ch8-126",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Medizin",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "medicine",
+    "explanation": "Musik kann wie Medizin wirken. / Music can work like medicine.",
+    "image_local_path": "/images/medizin.jpg"
+  },
+  {
+    "id": "ch8-127",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Metal",
+    "article": "das",
+    "plural_indicator": "(Sg. ohne Artikel)",
+    "english_translation": "metal",
+    "explanation": "Ich höre gern Metal. / I like listening to metal.",
+    "image_local_path": "/images/metal.jpg"
+  },
+  {
+    "id": "ch8-128",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "mithilfe",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "with the help of",
+    "explanation": "(von + D.)",
+    "image_local_path": "/images/mithilfe.jpg"
+  },
+  {
+    "id": "ch8-129",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Moll",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "minor",
+    "explanation": "",
+    "image_local_path": "/images/moll.jpg"
+  },
+  {
+    "id": "ch8-130",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Musikgeschmack",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "music taste",
+    "explanation": "",
+    "image_local_path": "/images/musikgeschmack.jpg"
+  },
+  {
+    "id": "ch8-131",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Musikstudium",
+    "article": "das",
+    "plural_indicator": "-studien",
+    "english_translation": "study of music",
+    "explanation": "",
+    "image_local_path": "/images/musikstudium.jpg"
+  },
+  {
+    "id": "ch8-132",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "nicht nur ..., sondern auch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "not only... but also...",
+    "explanation": "",
+    "image_local_path": "/images/nicht_nur_sondern_auch.jpg"
+  },
+  {
+    "id": "ch8-133",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Puls",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "pulse",
+    "explanation": "",
+    "image_local_path": "/images/puls.jpg"
+  },
+  {
+    "id": "ch8-134",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Reklame",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "advertisement",
+    "explanation": "",
+    "image_local_path": "/images/reklame.jpg"
+  },
+  {
+    "id": "ch8-135",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Salsa",
+    "article": "die",
+    "plural_indicator": "(Sg. ohne Artikel)",
+    "english_translation": "salsa music",
+    "explanation": "",
+    "image_local_path": "/images/salsa.jpg"
+  },
+  {
+    "id": "ch8-136",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "sinken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sink",
+    "explanation": "er sinkt, sank, ist gesunken",
+    "image_local_path": "/images/sinken.jpg"
+  },
+  {
+    "id": "ch8-137",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "sowohl... als auch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "... as well as...",
+    "explanation": "",
+    "image_local_path": "/images/sowohl_als_auch.jpg"
+  },
+  {
+    "id": "ch8-138",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Stück",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "piece",
+    "explanation": "Ich spiele ein Stück von Mozart am Klavier. / I'm playing a piece by Mozart on the piano.",
+    "image_local_path": "/images/stuck.jpg"
+  },
+  {
+    "id": "ch8-139",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Ton",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "tone",
+    "explanation": "",
+    "image_local_path": "/images/ton.jpg"
+  },
+  {
+    "id": "ch8-140",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Tonart",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "key",
+    "explanation": "",
+    "image_local_path": "/images/tonart.jpg"
+  },
+  {
+    "id": "ch8-141",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "tragisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "tragic",
+    "explanation": "",
+    "image_local_path": "/images/tragisch.jpg"
+  },
+  {
+    "id": "ch8-142",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "verarbeiten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to process",
+    "explanation": "",
+    "image_local_path": "/images/verarbeiten.jpg"
+  },
+  {
+    "id": "ch8-143",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "vermutlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "presumably",
+    "explanation": "",
+    "image_local_path": "/images/vermutlich.jpg"
+  },
+  {
+    "id": "ch8-144",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "weder ... noch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "neither...nor",
+    "explanation": "",
+    "image_local_path": "/images/weder_noch.jpg"
+  },
+  {
+    "id": "ch8-145",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Wirkung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "effect",
+    "explanation": "",
+    "image_local_path": "/images/wirkung.jpg"
+  },
+  {
+    "id": "ch8-146",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "würzig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "spicy",
+    "explanation": "",
+    "image_local_path": "/images/wurzig.jpg"
+  },
+  {
+    "id": "ch8-147",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "zwar..., aber",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "still...yet...",
+    "explanation": "",
+    "image_local_path": "/images/zwar_aber.jpg"
+  },
+  {
+    "id": "ch8-148",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Heilung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "cure",
+    "explanation": "",
+    "image_local_path": "/images/heilung.jpg"
+  },
+  {
+    "id": "ch8-149",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Wort",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "word",
+    "explanation": "etwas mit einfachen Worten erklären / to explain something using easy words",
+    "image_local_path": "/images/wort.jpg"
+  },
+  {
+    "id": "ch8-150",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Einschränkung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "limitation",
+    "explanation": "",
+    "image_local_path": "/images/einschränkung.jpg"
+  },
+  {
+    "id": "ch8-151",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Konnektor",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "restriction",
+    "explanation": "",
+    "image_local_path": "/images/konnektor.jpg"
+  },
+  {
+    "id": "ch8-152",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "zweiteilig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "two-part",
+    "explanation": "",
+    "image_local_path": "/images/zweiteilig.jpg"
+  },
+  {
+    "id": "ch8-153",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Jazz",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "jazz",
+    "explanation": "",
+    "image_local_path": "/images/jazz.jpg"
+  },
+  {
+    "id": "ch8-154",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "klassisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "classic",
+    "explanation": "",
+    "image_local_path": "/images/klassisch.jpg"
+  },
+  {
+    "id": "ch8-155",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Kopf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "head",
+    "explanation": "Was geht dir durch den Kopf? / What's going through your head?",
+    "image_local_path": "/images/kopf.jpg"
+  },
+  {
+    "id": "ch8-156",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Nachfrage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "demand, inquiry",
+    "explanation": "",
+    "image_local_path": "/images/nachfrage.jpg"
+  },
+  {
+    "id": "ch8-157",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Seite",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "side",
+    "explanation": "Geh mal zur Seite. / Move to the side.",
+    "image_local_path": "/images/seite.jpg"
+  },
+  {
+    "id": "ch8-158",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Unsicherheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "uncertainty",
+    "explanation": "",
+    "image_local_path": "/images/unsicherheit.jpg"
+  },
+  {
+    "id": "ch8-159",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Gedächtnisleistung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "memory skills",
+    "explanation": "",
+    "image_local_path": "/images/gedächtnisleistung.jpg"
+  },
+  {
+    "id": "ch8-160",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "kommen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to think",
+    "explanation": "(auf + A.) er kommt, kam, ist gekommen (Ich komme gerade nicht auf die Lösung.)",
+    "image_local_path": "/images/kommen.jpg"
+  },
+  {
+    "id": "ch8-161",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Kursstunde",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "lesson",
+    "explanation": "",
+    "image_local_path": "/images/kursstunde.jpg"
+  },
+  {
+    "id": "ch8-162",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "überfragt sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be stumped",
+    "explanation": "",
+    "image_local_path": "/images/überfragt_sein.jpg"
+  },
+  {
+    "id": "ch8-163",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "woran",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "what",
+    "explanation": "",
+    "image_local_path": "/images/woran.jpg"
+  },
+  {
+    "id": "ch8-164",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Zunge",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "tongue",
+    "explanation": "Wie heißt das Wort noch mal? Mir liegt es auf der Zunge. / What's the word again? It's on the top of my tongue.",
+    "image_local_path": "/images/zunge.jpg"
+  },
+  {
+    "id": "ch8-165",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Lerncoach",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "learning coach",
+    "explanation": "",
+    "image_local_path": "/images/lerncoach.jpg"
+  },
+  {
+    "id": "ch8-166",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Motivation",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "motivation",
+    "explanation": "",
+    "image_local_path": "/images/motivation.jpg"
+  },
+  {
+    "id": "ch8-167",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Programmankündigung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "program announcement",
+    "explanation": "",
+    "image_local_path": "/images/programmankündigung.jpg"
+  },
+  {
+    "id": "ch8-168",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Studiogast",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "studio guest",
+    "explanation": "",
+    "image_local_path": "/images/studiogast.jpg"
+  },
+  {
+    "id": "ch8-169",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "vermitteln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to convey",
+    "explanation": "Es ist wichtig, in den Schulen auch Lerntechniken zu vermitteln. / It's important to convey learning techniques in school as well.",
+    "image_local_path": "/images/vermitteln.jpg"
+  },
+  {
+    "id": "ch8-170",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Lerntipp",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "learning tip",
+    "explanation": "",
+    "image_local_path": "/images/lerntipp.jpg"
+  },
+  {
+    "id": "ch8-171",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Lerntyp",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "learning type",
+    "explanation": "",
+    "image_local_path": "/images/lerntyp.jpg"
+  },
+  {
+    "id": "ch8-172",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Lernzeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "learning time",
+    "explanation": "",
+    "image_local_path": "/images/lernzeit.jpg"
+  },
+  {
+    "id": "ch8-173",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Moderator",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "moderator (m)",
+    "explanation": "",
+    "image_local_path": "/images/moderator.jpg"
+  },
+  {
+    "id": "ch8-174",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Moderatorin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "moderator (f)",
+    "explanation": "",
+    "image_local_path": "/images/moderatorin.jpg"
+  },
+  {
+    "id": "ch8-175",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "motiviert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "motivated",
+    "explanation": "",
+    "image_local_path": "/images/motiviert.jpg"
+  },
+  {
+    "id": "ch8-176",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "ausdenken (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to think of",
+    "explanation": "er denkt aus, dachte aus, hat ausgedacht",
+    "image_local_path": "/images/ausdenken.jpg"
+  },
+  {
+    "id": "ch8-177",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "fantasievoll",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "imaginative",
+    "explanation": "",
+    "image_local_path": "/images/fantasievoll.jpg"
+  },
+  {
+    "id": "ch8-178",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "überprüfen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to check",
+    "explanation": "",
+    "image_local_path": "/images/überprüfen.jpg"
+  },
+  {
+    "id": "ch8-179",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "ungewöhnlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "unusual",
+    "explanation": "",
+    "image_local_path": "/images/ungewöhnlich.jpg"
+  },
+  {
+    "id": "ch8-180",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "alltäglich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "ordinary",
+    "explanation": "",
+    "image_local_path": "/images/alltäglich.jpg"
+  },
+  {
+    "id": "ch8-181",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Altersgruppe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "peer group",
+    "explanation": "",
+    "image_local_path": "/images/altersgruppe.jpg"
+  },
+  {
+    "id": "ch8-182",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "ausbreiten (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to spread",
+    "explanation": "",
+    "image_local_path": "/images/ausbreiten.jpg"
+  },
+  {
+    "id": "ch8-183",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Ausflugstipp",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "excursion tip",
+    "explanation": "",
+    "image_local_path": "/images/ausflugstipp.jpg"
+  },
+  {
+    "id": "ch8-184",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Aussichtsturm",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "belvedere, observation tower",
+    "explanation": "",
+    "image_local_path": "/images/aussichtsturm.jpg"
+  },
+  {
+    "id": "ch8-185",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "barrierearm",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "partly accessible",
+    "explanation": "",
+    "image_local_path": "/images/barrierearm.jpg"
+  },
+  {
+    "id": "ch8-186",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "essbar",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "edible",
+    "explanation": "",
+    "image_local_path": "/images/essbar.jpg"
+  },
+  {
+    "id": "ch8-187",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "familienfreundlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "family friendly",
+    "explanation": "",
+    "image_local_path": "/images/familienfreundlich.jpg"
+  },
+  {
+    "id": "ch8-188",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Ferne",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "distance",
+    "explanation": "",
+    "image_local_path": "/images/ferne.jpg"
+  },
+  {
+    "id": "ch8-189",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "formen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to form",
+    "explanation": "",
+    "image_local_path": "/images/formen.jpg"
+  },
+  {
+    "id": "ch8-190",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Freigelände",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "open-air site",
+    "explanation": "",
+    "image_local_path": "/images/freigelände.jpg"
+  },
+  {
+    "id": "ch8-191",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "geeignet",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "suitable",
+    "explanation": "(für + A.)",
+    "image_local_path": "/images/geeignet.jpg"
+  },
+  {
+    "id": "ch8-192",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "interaktiv",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "interactive",
+    "explanation": "",
+    "image_local_path": "/images/interaktiv.jpg"
+  },
+  {
+    "id": "ch8-193",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Klang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "sound",
+    "explanation": "",
+    "image_local_path": "/images/klang.jpg"
+  },
+  {
+    "id": "ch8-194",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Musikinteressierte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "musically interested",
+    "explanation": "",
+    "image_local_path": "/images/musikinteressierte.jpg"
+  },
+  {
+    "id": "ch8-195",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Pfad",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "way",
+    "explanation": "",
+    "image_local_path": "/images/pfad.jpg"
+  },
+  {
+    "id": "ch8-196",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Riesen-",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "huge",
+    "explanation": "Ole und Valerie wohnen in einem Riesenhaus. / Ole and Valerie live in a huge house.",
+    "image_local_path": "/images/riesen.jpg"
+  },
+  {
+    "id": "ch8-197",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Schönheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "beauty",
+    "explanation": "",
+    "image_local_path": "/images/schönheit.jpg"
+  },
+  {
+    "id": "ch8-198",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "traumhaft",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "dreamy",
+    "explanation": "",
+    "image_local_path": "/images/traumhaft.jpg"
+  },
+  {
+    "id": "ch8-199",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "Villa",
+    "article": "die",
+    "plural_indicator": "Villen",
+    "english_translation": "mansion",
+    "explanation": "",
+    "image_local_path": "/images/villa.jpg"
+  },
+  {
+    "id": "ch8-200",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "visuell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "visual",
+    "explanation": "",
+    "image_local_path": "/images/visuell.jpg"
+  },
+  {
+    "id": "ch8-201",
+    "chapter": "Kapitel 8: Rund um Körper und Geist",
+    "german_word": "wundern (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to marvel",
+    "explanation": "(über + A.)",
+    "image_local_path": "/images/wundern.jpg"
+  }
+]

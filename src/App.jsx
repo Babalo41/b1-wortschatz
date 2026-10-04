@@ -6,6 +6,7 @@ import LearnMode from "./components/LearnMode.jsx";
 import TestMode from "./components/TestMode.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import FilterPanel from "./components/FilterPanel.jsx";
+import ChapterApp from "./components/chapter/ChapterApp.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
@@ -13,7 +14,7 @@ const TABS = [
   { key: "dashboard", label: "Fortschritt", icon: "📊" },
 ];
 
-export default function App() {
+function B1App({ onSwitchProfile }) {
   const [tab, setTab] = useState("learn");
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
   const [filtersOpen, setFiltersOpen] = useState(false);
@@ -54,9 +55,14 @@ export default function App() {
     <div className="app-shell">
       <header className="app-header">
         <div className="app-title">B1 Wortschatz 🍒</div>
-        <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
-          Filter{activeFilterCount ? ` (${activeFilterCount})` : ""}
-        </button>
+        <div className="header-actions">
+          <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
+            Filter{activeFilterCount ? ` (${activeFilterCount})` : ""}
+          </button>
+          <button className="filter-toggle" onClick={onSwitchProfile} aria-label="Profil wechseln">
+            ⇄
+          </button>
+        </div>
       </header>
 
       <FilterPanel filters={filters} setFilters={setFilters} open={filtersOpen} onClose={() => setFiltersOpen(false)} />
@@ -94,4 +100,51 @@ export default function App() {
       </nav>
     </div>
   );
+}
+
+// Two learners share one app: the B1 Goethe list and the chapter-wise list.
+// The choice is a per-device convenience (localStorage); each profile keeps
+// its own progress in its own IndexedDB database.
+const PROFILE_KEY = "wortschatz-profile";
+
+function loadProfile() {
+  try {
+    return localStorage.getItem(PROFILE_KEY);
+  } catch {
+    return null;
+  }
+}
+
+function ProfilePicker({ onPick }) {
+  return (
+    <div className="app-shell profile-picker">
+      <div className="app-title">Wer lernt heute?</div>
+      <button className="profile-btn" onClick={() => onPick("b1")}>
+        <span className="profile-icon">🍒</span>
+        B1 Goethe-Liste
+      </button>
+      <button className="profile-btn" onClick={() => onPick("chapters")}>
+        <span className="profile-icon">🐼</span>
+        Kapitel-Wörter
+      </button>
+    </div>
+  );
+}
+
+export default function App() {
+  const [profile, setProfile] = useState(loadProfile);
+
+  function choose(p) {
+    try {
+      if (p) localStorage.setItem(PROFILE_KEY, p);
+      else localStorage.removeItem(PROFILE_KEY);
+    } catch {
+      // storage unavailable: the choice just isn't remembered
+    }
+    setProfile(p);
+  }
+
+  if (profile === "b1") return <B1App onSwitchProfile={() => choose(null)} />;
+  if (profile === "chapters") return <ChapterApp onSwitchProfile={() => choose(null)} />;
+  return <ProfilePicker onPick={choose} />;
 }

@@ -13,3 +13,8 @@ Goethe-Zertifikat_B1_Wortliste.pdf
 # Scratch files from the translation enrichment script
 scripts/.translation-cache.json
 *.bak
+
+# Copyrighted Klett glossary PDF (source for the chapter-word extraction)
+NWn_B1_Glossar_Englisch*.pdf
+
+__pycache__/

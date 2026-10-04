@@ -1,0 +1,592 @@
+[
+  {
+    "id": "ch7-001",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "zwischenmenschlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "interpersonal",
+    "explanation": "",
+    "image_local_path": "/images/zwischenmenschlich.jpg"
+  },
+  {
+    "id": "ch7-002",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "decken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to lay",
+    "explanation": "den Tisch decken / to lay the table",
+    "image_local_path": "/images/decken.jpg"
+  },
+  {
+    "id": "ch7-003",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Erhöhung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "increase",
+    "explanation": "",
+    "image_local_path": "/images/erhohung.jpg"
+  },
+  {
+    "id": "ch7-004",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Forderung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "demand",
+    "explanation": "",
+    "image_local_path": "/images/forderung.jpg"
+  },
+  {
+    "id": "ch7-005",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Gelände",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "site",
+    "explanation": "",
+    "image_local_path": "/images/gelande.jpg"
+  },
+  {
+    "id": "ch7-006",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Gelegenheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "opportunity",
+    "explanation": "",
+    "image_local_path": "/images/gelegenheit.jpg"
+  },
+  {
+    "id": "ch7-007",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Grill",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "grill",
+    "explanation": "",
+    "image_local_path": "/images/grill.jpg"
+  },
+  {
+    "id": "ch7-008",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "hassen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hate",
+    "explanation": "",
+    "image_local_path": "/images/hassen.jpg"
+  },
+  {
+    "id": "ch7-009",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Institut",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "institute",
+    "explanation": "",
+    "image_local_path": "/images/institut.jpg"
+  },
+  {
+    "id": "ch7-010",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Kabine",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "cabin",
+    "explanation": "",
+    "image_local_path": "/images/kabine.jpg"
+  },
+  {
+    "id": "ch7-011",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "klären",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to settle",
+    "explanation": "",
+    "image_local_path": "/images/klaren.jpg"
+  },
+  {
+    "id": "ch7-012",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Krankenkasse",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "insurance company",
+    "explanation": "",
+    "image_local_path": "/images/krankenkasse.jpg"
+  },
+  {
+    "id": "ch7-013",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Lagerfeuer",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "campfire",
+    "explanation": "",
+    "image_local_path": "/images/lagerfeuer.jpg"
+  },
+  {
+    "id": "ch7-014",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Mahnung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "reminder",
+    "explanation": "",
+    "image_local_path": "/images/mahnung.jpg"
+  },
+  {
+    "id": "ch7-015",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Pflicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "duty",
+    "explanation": "",
+    "image_local_path": "/images/pflicht.jpg"
+  },
+  {
+    "id": "ch7-016",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Präsident",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "president (m)",
+    "explanation": "",
+    "image_local_path": "/images/prasident.jpg"
+  },
+  {
+    "id": "ch7-017",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Präsidentin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "president (f)",
+    "explanation": "",
+    "image_local_path": "/images/prasidentin.jpg"
+  },
+  {
+    "id": "ch7-018",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Prof",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "professor",
+    "explanation": "",
+    "image_local_path": "/images/prof.jpg"
+  },
+  {
+    "id": "ch7-019",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Schatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "darling",
+    "explanation": "Hallo, mein Schatz!",
+    "image_local_path": "/images/schatz.jpg"
+  },
+  {
+    "id": "ch7-020",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "schätzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to guess",
+    "explanation": "Ich schätze, so tolle Nachbarn findet man selten. / I guess you don't find such nice neighbours often.",
+    "image_local_path": "/images/schatzen.jpg"
+  },
+  {
+    "id": "ch7-021",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Spätschicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "late shift",
+    "explanation": "",
+    "image_local_path": "/images/spatschicht.jpg"
+  },
+  {
+    "id": "ch7-022",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "streiken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to go on strike",
+    "explanation": "",
+    "image_local_path": "/images/streiken.jpg"
+  },
+  {
+    "id": "ch7-023",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Teilnahme",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "participation",
+    "explanation": "",
+    "image_local_path": "/images/teilnahme.jpg"
+  },
+  {
+    "id": "ch7-024",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Versammlung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "assembly",
+    "explanation": "",
+    "image_local_path": "/images/versammlung.jpg"
+  },
+  {
+    "id": "ch7-025",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "verspäten (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be late",
+    "explanation": "",
+    "image_local_path": "/images/verspaten.jpg"
+  },
+  {
+    "id": "ch7-026",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Verständnis",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "sympathy",
+    "explanation": "Verständnis haben für + A. / To have sympathy for + A.",
+    "image_local_path": "/images/verstandnis.jpg"
+  },
+  {
+    "id": "ch7-027",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Vorstellung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "introduction",
+    "explanation": "Kommst du zur Vorstellung der neuen Präsidentin? / Are you coming to the introduction of the new president?",
+    "image_local_path": "/images/vorstellung.jpg"
+  },
+  {
+    "id": "ch7-028",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "hervorheben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to highlight",
+    "explanation": "er hebt hervor, hob hervor, hat hervorgehoben",
+    "image_local_path": "/images/hervorheben.jpg"
+  },
+  {
+    "id": "ch7-029",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "schätzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to value",
+    "explanation": "An meinem Chef schätze ich vor allem seine Ruhe und Freundlichkeit. / I especially value my boss' calmness and friendliness.",
+    "image_local_path": "/images/schatzen_value.jpg"
+  },
+  {
+    "id": "ch7-030",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "aus den Augen verlieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lose touch",
+    "explanation": "Meine Freunde aus der Kindheit habe ich leider aus den Augen verloren. / Sadly I've lost touch with my childhood friends.",
+    "image_local_path": "/images/aus_den_augen_verlieren.jpg"
+  },
+  {
+    "id": "ch7-031",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Ausgabe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "edition",
+    "explanation": "Lesen Sie den spannenden Artikel in der Juli-Ausgabe. / Read the interesting article in July's edition.",
+    "image_local_path": "/images/ausgabe.jpg"
+  },
+  {
+    "id": "ch7-032",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "beim Alten bleiben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to stay the same",
+    "explanation": "Früher dachte ich, dass immer alles beim Alten bleibt. / I used to think that everything always stays the same.",
+    "image_local_path": "/images/beim_alten_bleiben.jpg"
+  },
+  {
+    "id": "ch7-033",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "berufstätig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "working",
+    "explanation": "",
+    "image_local_path": "/images/berufstatig.jpg"
+  },
+  {
+    "id": "ch7-034",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "beschließen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to decide",
+    "explanation": "er beschließt, beschloss, hat beschlossen",
+    "image_local_path": "/images/beschliessen.jpg"
+  },
+  {
+    "id": "ch7-035",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Clique",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "clique",
+    "explanation": "",
+    "image_local_path": "/images/clique.jpg"
+  },
+  {
+    "id": "ch7-036",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "eingespannt sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be very busy",
+    "explanation": "Meine Freunde und ich sind alle beruflich stark eingespannt. / My friends and I are all very busy at work.",
+    "image_local_path": "/images/eingespannt_sein.jpg"
+  },
+  {
+    "id": "ch7-037",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "entgegen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "against",
+    "explanation": "",
+    "image_local_path": "/images/entgegen.jpg"
+  },
+  {
+    "id": "ch7-038",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Erwartung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "expectation",
+    "explanation": "",
+    "image_local_path": "/images/erwartung.jpg"
+  },
+  {
+    "id": "ch7-039",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Ewigkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "ages",
+    "explanation": "",
+    "image_local_path": "/images/ewigkeit.jpg"
+  },
+  {
+    "id": "ch7-040",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "fest stellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to realize",
+    "explanation": "",
+    "image_local_path": "/images/fest_stellen.jpg"
+  },
+  {
+    "id": "ch7-041",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Freundschaftsgeschichte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "friendship history",
+    "explanation": "",
+    "image_local_path": "/images/freundschaftsgeschichte.jpg"
+  },
+  {
+    "id": "ch7-042",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Gespräch",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "conversation",
+    "explanation": "ins Gespräch kommen / to start a conversation",
+    "image_local_path": "/images/gesprach.jpg"
+  },
+  {
+    "id": "ch7-043",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "gut tun",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to benefit",
+    "explanation": "er tut gut, tat gut, hat gutgetan",
+    "image_local_path": "/images/gut_tun.jpg"
+  },
+  {
+    "id": "ch7-044",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "halten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hold",
+    "explanation": "Unsere Freundschaft hält schon seit 20 Jahren. / Our friendship has held for 20 years.",
+    "image_local_path": "/images/halten.jpg"
+  },
+  {
+    "id": "ch7-045",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Konflikt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "conflict",
+    "explanation": "",
+    "image_local_path": "/images/konflikt.jpg"
+  },
+  {
+    "id": "ch7-046",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "kräftig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hard",
+    "explanation": "",
+    "image_local_path": "/images/kraftig.jpg"
+  },
+  {
+    "id": "ch7-047",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "nachdem",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "after",
+    "explanation": "",
+    "image_local_path": "/images/nachdem.jpg"
+  },
+  {
+    "id": "ch7-048",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "selbe",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "same",
+    "explanation": "Inga und ich wohnen im selben Haus. / Inga and I live in the same house.",
+    "image_local_path": "/images/selbe.jpg"
+  },
+  {
+    "id": "ch7-049",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Studienplatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "place to study",
+    "explanation": "",
+    "image_local_path": "/images/studienplatz.jpg"
+  },
+  {
+    "id": "ch7-050",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "verlieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lose",
+    "explanation": "aus den Augen verlieren / to lose touch",
+    "image_local_path": "/images/verlieren.jpg"
+  },
+  {
+    "id": "ch7-051",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "verstehen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to get along",
+    "explanation": "Ich verstehe mich nicht so gut mit meinem Mitbewohner. / I don't get along well with my flat mate.",
+    "image_local_path": "/images/verstehen.jpg"
+  },
+  {
+    "id": "ch7-052",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Weg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "path",
+    "explanation": "Meiner besten Freundin bin ich zufällig über den Weg gelaufen. / My best friend and I crossed paths by chance.",
+    "image_local_path": "/images/weg.jpg"
+  },
+  {
+    "id": "ch7-053",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "zusammen stoßen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to crash together",
+    "explanation": "",
+    "image_local_path": "/images/zusammen_stossen.jpg"
+  },
+  {
+    "id": "ch7-054",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "zusammen wohnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to live together",
+    "explanation": "",
+    "image_local_path": "/images/zusammen_wohnen.jpg"
+  },
+  {
+    "id": "ch7-055",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Bildung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "formation",
+    "explanation": "Wie ist die Bildung des Plusquamperfekts? / What is the formation of the pluperfect?",
+    "image_local_path": "/images/bildung.jpg"
+  },
+  {
+    "id": "ch7-056",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Gegenwart",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "present",
+    "explanation": "",
+    "image_local_path": "/images/gegenwart.jpg"
+  },
+  {
+    "id": "ch7-057",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Plusquamperfekt",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "pluperfect",
+    "explanation": "",
+    "image_local_path": "/images/plusquamperfekt.jpg"
+  },
+  {
+    "id": "ch7-058",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Vorvergangenheit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "past perfect",
+    "explanation": "",
+    "image_local_path": "/images/vorvergangenheit.jpg"
+  },
+  {
+    "id": "ch7-059",
+    "chapter": "Kapitel 7: Zwischenmenschliches",
+    "german_word": "Netzwerk",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "network",
+    "explanation": "",
+    "image_local_path": "/images/netzwerk.jpg"
+  }
+]

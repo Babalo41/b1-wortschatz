@@ -704,3 +704,361 @@ h2, h3 {
   letter-spacing: -0.01em;
 }
 
+
+/* ---------------- Profiles ---------------- */
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.profile-picker {
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 24px 16px;
+}
+
+.profile-btn {
+  width: min(320px, 100%);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 20px 22px;
+  border-radius: 22px;
+  border: 1px solid var(--panel-border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.profile-icon {
+  font-size: 2rem;
+}
+
+/* ---------------- Kapitel-Wörter ---------------- */
+
+.kap-top {
+  padding: 0 16px 8px;
+}
+
+.kap-overall {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.kap-bar {
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+}
+
+.kap-bar.thin {
+  height: 4px;
+  margin-top: 4px;
+}
+
+.kap-bar-fill {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--good-1), var(--accent-2));
+  transition: width 300ms ease;
+}
+
+.kap-chapters {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 12px 0 8px;
+}
+
+.kap-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 78px;
+  flex-shrink: 0;
+}
+
+.kap-best {
+  font-size: 0.7rem;
+  opacity: 0.8;
+}
+
+.kap-direction {
+  display: flex;
+  gap: 8px;
+}
+
+.chapter-card {
+  position: relative;
+  border-radius: 24px;
+  padding: 22px 20px 18px;
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+  box-shadow: 0 18px 40px -16px rgba(0, 0, 0, 0.6);
+  background: var(--panel);
+  color: var(--text);
+}
+
+.chapter-img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: contain;
+  border-radius: 16px;
+}
+
+.chapter-card-main {
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.chapter-card-back {
+  border-top: 1px solid currentColor;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.chapter-card-answer {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.chapter-card-sub {
+  margin-top: 4px;
+  font-size: 0.95rem;
+}
+
+.chapter-card-expl {
+  margin-top: 8px;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.chapter-speak {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+
+.quiz-prompt {
+  min-height: 160px;
+}
+
+.quiz-options {
+  display: grid;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.quiz-option,
+.article-btn {
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1px solid var(--panel-border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+.quiz-option.right,
+.article-btn.right {
+  background: linear-gradient(135deg, var(--good-1), var(--good-2));
+  color: #fff;
+}
+
+.quiz-option.wrong,
+.article-btn.wrong {
+  background: linear-gradient(135deg, var(--bad-1), var(--bad-2));
+  color: #fff;
+}
+
+.quiz-option:disabled,
+.article-btn:disabled {
+  cursor: default;
+}
+
+.article-step {
+  margin-top: 16px;
+}
+
+.quiz-articles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.article-btn {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.article-btn.article-der:not(.right):not(.wrong) { background: #dbeafe; color: #1e40af; }
+.article-btn.article-die:not(.right):not(.wrong) { background: #fce7f3; color: #9d174d; }
+.article-btn.article-das:not(.right):not(.wrong) { background: #ffedd5; color: #9a3412; }
+
+.quiz-feedback {
+  margin-top: 16px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-weight: 600;
+}
+
+.quiz-feedback.right { background: rgba(34, 197, 94, 0.18); }
+.quiz-feedback.wrong { background: rgba(251, 113, 133, 0.18); }
+
+.quiz-feedback button {
+  flex-shrink: 0;
+  padding: 10px 16px;
+  border-radius: 12px;
+  border: none;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  color: #fff;
+  font-weight: 700;
+}
+
+/* ---------------- Panda celebration ---------------- */
+
+.panda-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(11, 6, 32, 0.88);
+  animation: panda-fade 300ms ease;
+}
+
+.panda-stage {
+  position: relative;
+  width: min(240px, 60vw);
+}
+
+.panda-svg {
+  width: 100%;
+  display: block;
+  overflow: visible;
+}
+
+.panda-message {
+  margin-top: 18px;
+  font-size: 1.6rem;
+  font-weight: 800;
+  text-align: center;
+  padding: 0 16px;
+  animation: panda-pop 600ms cubic-bezier(0.2, 1.6, 0.4, 1);
+}
+
+.panda-hint {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.confetti {
+  position: absolute;
+  top: -12px;
+  width: 9px;
+  height: 14px;
+  border-radius: 2px;
+  animation-name: confetti-fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+/* scene: dance -- wiggle + waving arms */
+.scene-dance .panda-actor { animation: dance 0.9s ease-in-out infinite; transform-origin: 50% 100%; }
+.scene-dance .panda-arm-l, .scene-dance .panda-arm-r { animation: wave 0.45s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: 50% 0; }
+
+/* scene: trampoline -- bounce */
+.scene-trampoline .panda-actor { animation: bounce 0.8s cubic-bezier(0.3, 0, 0.7, 1) infinite; }
+.panda-trampoline {
+  position: absolute;
+  bottom: calc(50% - 170px);
+  width: min(260px, 70vw);
+  height: 18px;
+  border-radius: 50%;
+  border: 6px solid #38bdf8;
+  animation: squash 0.8s ease-in-out infinite;
+}
+
+/* scene: juggle -- hearts orbit over the head */
+.panda-juggle { position: absolute; top: calc(50% - 190px); width: 120px; height: 120px; }
+.panda-juggle span { position: absolute; left: 48px; top: 48px; font-size: 1.6rem; animation: orbit 1.5s linear infinite; }
+.scene-juggle .panda-arm-l, .scene-juggle .panda-arm-r { animation: wave 0.375s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: 50% 0; }
+
+/* scene: roll -- roll across the screen */
+.scene-roll .panda-actor { animation: roll 2.4s ease-in-out infinite; }
+
+/* scene: bamboo -- munching, stars pop */
+.scene-bamboo .panda-actor { animation: munch 0.6s ease-in-out infinite; }
+.panda-bamboo {
+  position: absolute;
+  width: 14px;
+  height: 220px;
+  left: calc(50% + 70px);
+  background: repeating-linear-gradient(180deg, #4ade80 0 40px, #166534 40px 44px);
+  border-radius: 7px;
+  transform: rotate(18deg);
+}
+.panda-star { position: absolute; top: 18%; font-size: 1.5rem; animation: star-pop 1.5s ease-out infinite; }
+
+/* scene: fireworks -- bursts behind a happy sway */
+.scene-fireworks .panda-actor { animation: sway 1.6s ease-in-out infinite; }
+.panda-firework {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  box-shadow:
+    0 -40px 0 currentColor, 28px -28px 0 currentColor, 40px 0 0 currentColor, 28px 28px 0 currentColor,
+    0 40px 0 currentColor, -28px 28px 0 currentColor, -40px 0 0 currentColor, -28px -28px 0 currentColor;
+  animation: burst 1.4s ease-out infinite;
+}
+
+@keyframes panda-fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes panda-pop { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+@keyframes confetti-fall { to { top: 105%; transform: rotate(720deg); } }
+@keyframes dance { 0%, 100% { transform: rotate(-8deg); } 50% { transform: rotate(8deg) translateY(-6px); } }
+@keyframes wave { from { transform: rotate(-25deg); } to { transform: rotate(35deg); } }
+@keyframes bounce { 0%, 100% { transform: translateY(0) scaleY(0.94); } 50% { transform: translateY(-90px) scaleY(1.03); } }
+@keyframes squash { 0%, 100% { transform: scaleY(0.6); } 50% { transform: scaleY(1); } }
+@keyframes orbit { from { transform: rotate(0deg) translateX(52px) rotate(0deg); } to { transform: rotate(360deg) translateX(52px) rotate(-360deg); } }
+@keyframes roll { 0% { transform: translateX(-60vw) rotate(-360deg); } 45%, 55% { transform: translateX(0) rotate(0deg); } 100% { transform: translateX(60vw) rotate(360deg); } }
+@keyframes munch { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.04, 0.97); } }
+@keyframes star-pop { 0% { transform: scale(0); opacity: 0; } 40% { transform: scale(1.3); opacity: 1; } 100% { transform: translateY(-40px) scale(0.6); opacity: 0; } }
+@keyframes sway { 0%, 100% { transform: rotate(-5deg); } 50% { transform: rotate(5deg); } }
+@keyframes burst { 0% { transform: scale(0.1); opacity: 1; } 100% { transform: scale(1.6); opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .panda-overlay, .panda-overlay * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}
+
+.chapter-img-credit {
+  font-size: 0.65rem;
+  opacity: 0.7;
+  margin-top: -4px;
+}

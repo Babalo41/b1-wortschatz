@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "ch5-101",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "krumm",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "crooked",
+    "explanation": "",
+    "image_local_path": "/images/krumm.jpg"
+  },
+  {
+    "id": "ch5-102",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Kunststoff",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "plastic",
+    "explanation": "",
+    "image_local_path": "/images/kunststoff.jpg"
+  },
+  {
+    "id": "ch5-103",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "landen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to land",
+    "explanation": "Es landen viel zu viele Kaffeebecher im Abfall. / Way too many coffee cups land in the bin.",
+    "image_local_path": "/images/landen.jpg"
+  },
+  {
+    "id": "ch5-104",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "liefern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to deliver",
+    "explanation": "",
+    "image_local_path": "/images/liefern.jpg"
+  },
+  {
+    "id": "ch5-105",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Müllberg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "mountain of rubbish",
+    "explanation": "",
+    "image_local_path": "/images/mullberg.jpg"
+  },
+  {
+    "id": "ch5-106",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Mülleimer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "rubbish bin",
+    "explanation": "",
+    "image_local_path": "/images/mulleimer.jpg"
+  },
+  {
+    "id": "ch5-107",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "nachhaltig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "sustainable",
+    "explanation": "",
+    "image_local_path": "/images/nachhaltig.jpg"
+  },
+  {
+    "id": "ch5-108",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Neugründung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "start-up",
+    "explanation": "",
+    "image_local_path": "/images/neugrundung.jpg"
+  },
+  {
+    "id": "ch5-109",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Ökostrom",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "green electricity",
+    "explanation": "",
+    "image_local_path": "/images/okostrom.jpg"
+  },
+  {
+    "id": "ch5-110",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Online-Shop",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "online shop",
+    "explanation": "",
+    "image_local_path": "/images/online_shop.jpg"
+  },
+  {
+    "id": "ch5-111",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Pfand",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "deposit",
+    "explanation": "",
+    "image_local_path": "/images/pfand.jpg"
+  },
+  {
+    "id": "ch5-112",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "recycelbar",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "recyclable",
+    "explanation": "",
+    "image_local_path": "/images/recycelbar.jpg"
+  },
+  {
+    "id": "ch5-113",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "sogenannt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "so-called",
+    "explanation": "",
+    "image_local_path": "/images/sogenannt.jpg"
+  },
+  {
+    "id": "ch5-114",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Solarpanel",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "solar panel",
+    "explanation": "",
+    "image_local_path": "/images/solarpanel.jpg"
+  },
+  {
+    "id": "ch5-115",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Sonnenenergie",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "sun energy",
+    "explanation": "",
+    "image_local_path": "/images/sonnenenergie.jpg"
+  },
+  {
+    "id": "ch5-116",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Start-up",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "start-up",
+    "explanation": "",
+    "image_local_path": "/images/start_up.jpg"
+  },
+  {
+    "id": "ch5-117",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Steckdose",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "power outlet, socket",
+    "explanation": "",
+    "image_local_path": "/images/steckdose.jpg"
+  },
+  {
+    "id": "ch5-118",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Tonne",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "ton",
+    "explanation": "",
+    "image_local_path": "/images/tonne.jpg"
+  },
+  {
+    "id": "ch5-119",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "um zu",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "in order to",
+    "explanation": "",
+    "image_local_path": "/images/um_zu.jpg"
+  },
+  {
+    "id": "ch5-120",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "verleihen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lend",
+    "explanation": "",
+    "image_local_path": "/images/verleihen.jpg"
+  },
+  {
+    "id": "ch5-121",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "vermeiden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to avoid",
+    "explanation": "",
+    "image_local_path": "/images/vermeiden.jpg"
+  },
+  {
+    "id": "ch5-122",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Verschwendung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "waste",
+    "explanation": "",
+    "image_local_path": "/images/verschwendung.jpg"
+  },
+  {
+    "id": "ch5-123",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "zu tun haben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to have to do with",
+    "explanation": "(mit + D.) Was haben diese Ideen mit der Umwelt zu tun? / What do these ideas have to do with the environment?",
+    "image_local_path": "/images/zu_tun_haben.jpg"
+  },
+  {
+    "id": "ch5-124",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "zurück bekommen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to get back",
+    "explanation": "",
+    "image_local_path": "/images/zuruck_bekommen.jpg"
+  },
+  {
+    "id": "ch5-125",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "zurück bringen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to bring back",
+    "explanation": "",
+    "image_local_path": "/images/zuruck_bringen.jpg"
+  },
+  {
+    "id": "ch5-126",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Pfandbecher",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "deposit cup",
+    "explanation": "",
+    "image_local_path": "/images/pfandbecher.jpg"
+  },
+  {
+    "id": "ch5-127",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "retten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to rescue",
+    "explanation": "",
+    "image_local_path": "/images/retten.jpg"
+  },
+  {
+    "id": "ch5-128",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "verlangen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to ask for",
+    "explanation": "",
+    "image_local_path": "/images/verlangen.jpg"
+  },
+  {
+    "id": "ch5-129",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Wegwerfbecher",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "disposable cup",
+    "explanation": "",
+    "image_local_path": "/images/wegwerfbecher.jpg"
+  },
+  {
+    "id": "ch5-130",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Aktion",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "action",
+    "explanation": "",
+    "image_local_path": "/images/aktion.jpg"
+  },
+  {
+    "id": "ch5-131",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "elektronisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "electronic",
+    "explanation": "",
+    "image_local_path": "/images/elektronisch.jpg"
+  },
+  {
+    "id": "ch5-132",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Stromverbrauch",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "energy usage",
+    "explanation": "",
+    "image_local_path": "/images/stromverbrauch.jpg"
+  },
+  {
+    "id": "ch5-133",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Umwelttipp",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "tip for the environment",
+    "explanation": "",
+    "image_local_path": "/images/umwelttipp.jpg"
+  },
+  {
+    "id": "ch5-134",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "verschmutzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to pollute",
+    "explanation": "",
+    "image_local_path": "/images/verschmutzen.jpg"
+  },
+  {
+    "id": "ch5-135",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Satzanfang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "beginning of a sentence",
+    "explanation": "",
+    "image_local_path": "/images/satzanfang.jpg"
+  },
+  {
+    "id": "ch5-136",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Ansicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "opinion",
+    "explanation": "Ich bin der Ansicht, dass... / I'm of the opinion, that...",
+    "image_local_path": "/images/ansicht.jpg"
+  },
+  {
+    "id": "ch5-137",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Argument",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "argument",
+    "explanation": "",
+    "image_local_path": "/images/argument.jpg"
+  },
+  {
+    "id": "ch5-138",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Standpunkt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "hier: point of view",
+    "explanation": "",
+    "image_local_path": "/images/standpunkt.jpg"
+  },
+  {
+    "id": "ch5-139",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "stehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to be",
+    "explanation": "Ich stehe auf dem Standpunkt, dass ... / It is my point of view, that...",
+    "image_local_path": "/images/stehen.jpg"
+  },
+  {
+    "id": "ch5-140",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "überzeugt sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be convinced",
+    "explanation": "",
+    "image_local_path": "/images/uberzeugt_sein.jpg"
+  },
+  {
+    "id": "ch5-141",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "umsonst",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "for free",
+    "explanation": "",
+    "image_local_path": "/images/umsonst.jpg"
+  },
+  {
+    "id": "ch5-142",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Uni-Mensa",
+    "article": "die",
+    "plural_indicator": "-Mensen",
+    "english_translation": "university cafeteria",
+    "explanation": "",
+    "image_local_path": "/images/uni_mensa.jpg"
+  },
+  {
+    "id": "ch5-143",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "völlig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "completely",
+    "explanation": "",
+    "image_local_path": "/images/vollig.jpg"
+  },
+  {
+    "id": "ch5-144",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "widersprechen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to contradict",
+    "explanation": "",
+    "image_local_path": "/images/widersprechen.jpg"
+  },
+  {
+    "id": "ch5-145",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Blitz",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "lightning",
+    "explanation": "",
+    "image_local_path": "/images/blitz.jpg"
+  },
+  {
+    "id": "ch5-146",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "blitzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to flash lightning",
+    "explanation": "",
+    "image_local_path": "/images/blitzen.jpg"
+  },
+  {
+    "id": "ch5-147",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Donner",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "thunder",
+    "explanation": "",
+    "image_local_path": "/images/donner.jpg"
+  },
+  {
+    "id": "ch5-148",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "donnern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to thunder",
+    "explanation": "",
+    "image_local_path": "/images/donnern.jpg"
+  },
+  {
+    "id": "ch5-149",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "feucht",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "humid",
+    "explanation": "",
+    "image_local_path": "/images/feucht.jpg"
+  },
+  {
+    "id": "ch5-150",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "hageln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hail",
+    "explanation": "",
+    "image_local_path": "/images/hageln.jpg"
+  },
+  {
+    "id": "ch5-151",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "mild",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "mild",
+    "explanation": "",
+    "image_local_path": "/images/mild.jpg"
+  },
+  {
+    "id": "ch5-152",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "neblig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "foggy",
+    "explanation": "",
+    "image_local_path": "/images/neblig.jpg"
+  },
+  {
+    "id": "ch5-153",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "nieseln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to drizzle",
+    "explanation": "",
+    "image_local_path": "/images/nieseln.jpg"
+  },
+  {
+    "id": "ch5-154",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "regnerisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "rainy",
+    "explanation": "",
+    "image_local_path": "/images/regnerisch.jpg"
+  },
+  {
+    "id": "ch5-155",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "schwül",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "muggy",
+    "explanation": "",
+    "image_local_path": "/images/schwul.jpg"
+  },
+  {
+    "id": "ch5-156",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "stürmisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "stormy",
+    "explanation": "",
+    "image_local_path": "/images/sturmisch.jpg"
+  },
+  {
+    "id": "ch5-157",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Traumwetter",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "dream weather",
+    "explanation": "",
+    "image_local_path": "/images/traumwetter.jpg"
+  },
+  {
+    "id": "ch5-158",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "wolkig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "cloudy",
+    "explanation": "",
+    "image_local_path": "/images/wolkig.jpg"
+  },
+  {
+    "id": "ch5-159",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Wettervorhersage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "weather forecast",
+    "explanation": "",
+    "image_local_path": "/images/wettervorhersage.jpg"
+  },
+  {
+    "id": "ch5-160",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Vorhersage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "forecast",
+    "explanation": "",
+    "image_local_path": "/images/vorhersage.jpg"
+  },
+  {
+    "id": "ch5-161",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Wetterbesserung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "weather improvement",
+    "explanation": "",
+    "image_local_path": "/images/wetterbesserung.jpg"
+  },
+  {
+    "id": "ch5-162",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Gedächtnis",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "memory",
+    "explanation": "",
+    "image_local_path": "/images/gedachtnis.jpg"
+  },
+  {
+    "id": "ch5-163",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Herbststurm",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "autumn storm",
+    "explanation": "",
+    "image_local_path": "/images/herbststurm.jpg"
+  },
+  {
+    "id": "ch5-164",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Schneesturm",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "snow storm",
+    "explanation": "",
+    "image_local_path": "/images/schneesturm.jpg"
+  },
+  {
+    "id": "ch5-165",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Sturm",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "storm",
+    "explanation": "",
+    "image_local_path": "/images/sturm.jpg"
+  },
+  {
+    "id": "ch5-166",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "stürmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to storm",
+    "explanation": "",
+    "image_local_path": "/images/sturmen.jpg"
+  },
+  {
+    "id": "ch5-167",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "aufklären",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to inform",
+    "explanation": "",
+    "image_local_path": "/images/aufklaren.jpg"
+  },
+  {
+    "id": "ch5-168",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "beteiligen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to participate",
+    "explanation": "",
+    "image_local_path": "/images/beteiligen.jpg"
+  },
+  {
+    "id": "ch5-169",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Bevölkerung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "population",
+    "explanation": "",
+    "image_local_path": "/images/bevolkerung.jpg"
+  },
+  {
+    "id": "ch5-170",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Bürger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "citizen (m)",
+    "explanation": "",
+    "image_local_path": "/images/burger.jpg"
+  },
+  {
+    "id": "ch5-171",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Bürgerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "citizen (f)",
+    "explanation": "",
+    "image_local_path": "/images/burgerin.jpg"
+  },
+  {
+    "id": "ch5-172",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "dienen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to serve",
+    "explanation": "(als + N.)",
+    "image_local_path": "/images/dienen.jpg"
+  },
+  {
+    "id": "ch5-173",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "drehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to turn",
+    "explanation": "",
+    "image_local_path": "/images/drehen.jpg"
+  },
+  {
+    "id": "ch5-174",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Engagement",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "commitment, involvement",
+    "explanation": "",
+    "image_local_path": "/images/engagement.jpg"
+  },
+  {
+    "id": "ch5-175",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "extra",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "extra",
+    "explanation": "",
+    "image_local_path": "/images/extra.jpg"
+  },
+  {
+    "id": "ch5-176",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "geschützt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "protected",
+    "explanation": "",
+    "image_local_path": "/images/geschutzt.jpg"
+  },
+  {
+    "id": "ch5-177",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Hauskatze",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "domestic cat",
+    "explanation": "",
+    "image_local_path": "/images/hauskatze.jpg"
+  },
+  {
+    "id": "ch5-178",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "hilflos",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "helpless",
+    "explanation": "",
+    "image_local_path": "/images/hilflos.jpg"
+  },
+  {
+    "id": "ch5-179",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Idee",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "idea",
+    "explanation": "auf eine Idee kommen / to get an idea",
+    "image_local_path": "/images/idee.jpg"
+  },
+  {
+    "id": "ch5-180",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "immer wieder",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "again and again",
+    "explanation": "",
+    "image_local_path": "/images/immer_wieder.jpg"
+  },
+  {
+    "id": "ch5-181",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Infomaterial",
+    "article": "das",
+    "plural_indicator": "-ien",
+    "english_translation": "information material",
+    "explanation": "",
+    "image_local_path": "/images/infomaterial.jpg"
+  },
+  {
+    "id": "ch5-182",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Katzenfreund",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "cat lover (m)",
+    "explanation": "",
+    "image_local_path": "/images/katzenfreund.jpg"
+  },
+  {
+    "id": "ch5-183",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Katzenfreundin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "cat lover (f)",
+    "explanation": "",
+    "image_local_path": "/images/katzenfreundin.jpg"
+  },
+  {
+    "id": "ch5-184",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Klima",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "climate",
+    "explanation": "",
+    "image_local_path": "/images/klima.jpg"
+  },
+  {
+    "id": "ch5-185",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "ländlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "rural",
+    "explanation": "",
+    "image_local_path": "/images/landlich.jpg"
+  },
+  {
+    "id": "ch5-186",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Mitfahrbank",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "ride-on bench",
+    "explanation": "",
+    "image_local_path": "/images/mitfahrbank.jpg"
+  },
+  {
+    "id": "ch5-187",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Nachbardorf",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "neighbouring village",
+    "explanation": "",
+    "image_local_path": "/images/nachbardorf.jpg"
+  },
+  {
+    "id": "ch5-188",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Naturfreund",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "nature lover (m)",
+    "explanation": "",
+    "image_local_path": "/images/naturfreund.jpg"
+  },
+  {
+    "id": "ch5-189",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Naturfreundin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "nature lover (f)",
+    "explanation": "",
+    "image_local_path": "/images/naturfreundin.jpg"
+  },
+  {
+    "id": "ch5-190",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "pflanzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to plant",
+    "explanation": "",
+    "image_local_path": "/images/pflanzen.jpg"
+  },
+  {
+    "id": "ch5-191",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "schaden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to harm",
+    "explanation": "",
+    "image_local_path": "/images/schaden.jpg"
+  },
+  {
+    "id": "ch5-192",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Schwierigkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "difficulty",
+    "explanation": "",
+    "image_local_path": "/images/schwierigkeit.jpg"
+  },
+  {
+    "id": "ch5-193",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Strauch",
+    "article": "der",
+    "plural_indicator": "\"-er",
+    "english_translation": "bush",
+    "explanation": "",
+    "image_local_path": "/images/strauch.jpg"
+  },
+  {
+    "id": "ch5-194",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Themenwoche",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "theme week",
+    "explanation": "",
+    "image_local_path": "/images/themenwoche.jpg"
+  },
+  {
+    "id": "ch5-195",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "verteilen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to distribute",
+    "explanation": "",
+    "image_local_path": "/images/verteilen.jpg"
+  },
+  {
+    "id": "ch5-196",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Vorort",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "suburb",
+    "explanation": "",
+    "image_local_path": "/images/vorort.jpg"
+  },
+  {
+    "id": "ch5-197",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Wildkatze",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "wild cat",
+    "explanation": "",
+    "image_local_path": "/images/wildkatze.jpg"
+  },
+  {
+    "id": "ch5-198",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "zählen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to count",
+    "explanation": "Kannst du auf Arabisch bis zehn zählen? / Can you count to ten in Arabic?",
+    "image_local_path": "/images/zahlen.jpg"
+  },
+  {
+    "id": "ch5-199",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Zeichen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "symbol",
+    "explanation": "",
+    "image_local_path": "/images/zeichen.jpg"
+  },
+  {
+    "id": "ch5-200",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "anschließen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to follow",
+    "explanation": "Beim Plogging kann man sich einer Gruppe anschließen. / When you go plogging you can follow a group.",
+    "image_local_path": "/images/anschliessen.jpg"
+  },
+  {
+    "id": "ch5-201",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "aufheben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to pick up",
+    "explanation": "er hebt auf, hob auf, hat aufgehoben",
+    "image_local_path": "/images/aufheben.jpg"
+  },
+  {
+    "id": "ch5-202",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "aufwändig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "laborious",
+    "explanation": "",
+    "image_local_path": "/images/aufwandig.jpg"
+  },
+  {
+    "id": "ch5-203",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Geschwindigkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "speed",
+    "explanation": "",
+    "image_local_path": "/images/geschwindigkeit.jpg"
+  },
+  {
+    "id": "ch5-204",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Plogging",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "plogging",
+    "explanation": "",
+    "image_local_path": "/images/plogging.jpg"
+  },
+  {
+    "id": "ch5-205",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "engagieren (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be involved",
+    "explanation": "(für/gegen + A.)",
+    "image_local_path": "/images/engagieren.jpg"
+  },
+  {
+    "id": "ch5-206",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Teilnehmer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "participant (m)",
+    "explanation": "",
+    "image_local_path": "/images/teilnehmer.jpg"
+  },
+  {
+    "id": "ch5-207",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Teilnehmerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "participant (f)",
+    "explanation": "",
+    "image_local_path": "/images/teilnehmerin.jpg"
+  },
+  {
+    "id": "ch5-208",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "deklinieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to decline",
+    "explanation": "",
+    "image_local_path": "/images/deklinieren.jpg"
+  },
+  {
+    "id": "ch5-209",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "entfallen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "omitted",
+    "explanation": "er entfällt, entfiel, ist entfallen",
+    "image_local_path": "/images/entfallen.jpg"
+  },
+  {
+    "id": "ch5-210",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Finalsatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "final sentence",
+    "explanation": "",
+    "image_local_path": "/images/finalsatz.jpg"
+  },
+  {
+    "id": "ch5-211",
+    "chapter": "Kapitel 5: Umweltfreundlich?",
+    "german_word": "Umweltaktion",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "environmental campaign",
+    "explanation": "",
+    "image_local_path": "/images/umweltaktion.jpg"
+  }
+]

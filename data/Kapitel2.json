@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ch2-001",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "benötigen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to need",
+    "explanation": "",
+    "image_local_path": "/images/benotigen.jpg"
+  },
+  {
+    "id": "ch2-002",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Fingerabdruck",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "finger print",
+    "explanation": "",
+    "image_local_path": "/images/fingerabdruck.jpg"
+  },
+  {
+    "id": "ch2-003",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Funkkopfhörer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "wireless headphones",
+    "explanation": "",
+    "image_local_path": "/images/funkkopfhorer.jpg"
+  },
+  {
+    "id": "ch2-004",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Lastenfahrrad",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "freight bicycle",
+    "explanation": "",
+    "image_local_path": "/images/lastenfahrrad.jpg"
+  },
+  {
+    "id": "ch2-005",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Sprachassistent",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "language assistant",
+    "explanation": "",
+    "image_local_path": "/images/sprachassistent.jpg"
+  },
+  {
+    "id": "ch2-006",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Steh-Sitz-Tisch",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "stand-sit-table",
+    "explanation": "",
+    "image_local_path": "/images/steh_sitz_tisch.jpg"
+  },
+  {
+    "id": "ch2-007",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Türöffner",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "door opener",
+    "explanation": "",
+    "image_local_path": "/images/turoffner.jpg"
+  },
+  {
+    "id": "ch2-008",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Slogan",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "slogan",
+    "explanation": "",
+    "image_local_path": "/images/slogan.jpg"
+  },
+  {
+    "id": "ch2-009",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Taste",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "key",
+    "explanation": "",
+    "image_local_path": "/images/taste.jpg"
+  },
+  {
+    "id": "ch2-010",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Transport",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "transport",
+    "explanation": "",
+    "image_local_path": "/images/transport.jpg"
+  },
+  {
+    "id": "ch2-011",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "anschließen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to connect",
+    "explanation": "Er schließt den Lautsprecher an den Laptop an. / He connects the speaker to the laptop.",
+    "image_local_path": "/images/anschliessen.jpg"
+  },
+  {
+    "id": "ch2-012",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "aufladen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to charge",
+    "explanation": "",
+    "image_local_path": "/images/aufladen.jpg"
+  },
+  {
+    "id": "ch2-013",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "bedienen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to use",
+    "explanation": "",
+    "image_local_path": "/images/bedienen.jpg"
+  },
+  {
+    "id": "ch2-014",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "einsetzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to insert",
+    "explanation": "eine Batterie ins Handy einsetzen / to insert a battery into the mobile phone",
+    "image_local_path": "/images/einsetzen.jpg"
+  },
+  {
+    "id": "ch2-015",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "einstecken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to plug (in)",
+    "explanation": "",
+    "image_local_path": "/images/einstecken.jpg"
+  },
+  {
+    "id": "ch2-016",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "installieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to install",
+    "explanation": "",
+    "image_local_path": "/images/installieren.jpg"
+  },
+  {
+    "id": "ch2-017",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "schalten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to switch",
+    "explanation": "das Handy stumm schalten / to mute the phone",
+    "image_local_path": "/images/schalten.jpg"
+  },
+  {
+    "id": "ch2-018",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "stumm",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "mute",
+    "explanation": "das Handy stumm schalten / to mute the phone",
+    "image_local_path": "/images/stumm.jpg"
+  },
+  {
+    "id": "ch2-019",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Anleitung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "instruction",
+    "explanation": "",
+    "image_local_path": "/images/anleitung.jpg"
+  },
+  {
+    "id": "ch2-020",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "anschaffen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to get",
+    "explanation": "",
+    "image_local_path": "/images/anschaffen.jpg"
+  },
+  {
+    "id": "ch2-021",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "bloß",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "only",
+    "explanation": "",
+    "image_local_path": "/images/bloss.jpg"
+  },
+  {
+    "id": "ch2-022",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Frage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "question",
+    "explanation": "vor einer Frage stehen / to be confronted with a question",
+    "image_local_path": "/images/frage.jpg"
+  },
+  {
+    "id": "ch2-023",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Handyladen",
+    "article": "der",
+    "plural_indicator": "\"",
+    "english_translation": "mobile phone shop",
+    "explanation": "",
+    "image_local_path": "/images/handyladen.jpg"
+  },
+  {
+    "id": "ch2-024",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "herunterfallen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fall",
+    "explanation": "",
+    "image_local_path": "/images/herunterfallen.jpg"
+  },
+  {
+    "id": "ch2-025",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "irgendetwas",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "something",
+    "explanation": "",
+    "image_local_path": "/images/irgendetwas.jpg"
+  },
+  {
+    "id": "ch2-026",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Sonderangebot",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "special offer",
+    "explanation": "",
+    "image_local_path": "/images/sonderangebot.jpg"
+  },
+  {
+    "id": "ch2-027",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Staubsauger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "vacuum cleaner",
+    "explanation": "",
+    "image_local_path": "/images/staubsauger.jpg"
+  },
+  {
+    "id": "ch2-028",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Knopf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "button",
+    "explanation": "",
+    "image_local_path": "/images/knopf.jpg"
+  },
+  {
+    "id": "ch2-029",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Kopfhörer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "headphones",
+    "explanation": "",
+    "image_local_path": "/images/kopfhorer.jpg"
+  },
+  {
+    "id": "ch2-030",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Ladekabel",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "charger",
+    "explanation": "",
+    "image_local_path": "/images/ladekabel.jpg"
+  },
+  {
+    "id": "ch2-031",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Powerbank",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "powerbank",
+    "explanation": "",
+    "image_local_path": "/images/powerbank.jpg"
+  },
+  {
+    "id": "ch2-032",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Handyakku",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "mobile phone battery",
+    "explanation": "",
+    "image_local_path": "/images/handyakku.jpg"
+  },
+  {
+    "id": "ch2-033",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Stick",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "USB",
+    "explanation": "",
+    "image_local_path": "/images/stick.jpg"
+  },
+  {
+    "id": "ch2-034",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "EC-Karte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "debit card",
+    "explanation": "",
+    "image_local_path": "/images/ec_karte.jpg"
+  },
+  {
+    "id": "ch2-035",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Gebrauchsanweisung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "instructions",
+    "explanation": "",
+    "image_local_path": "/images/gebrauchsanweisung.jpg"
+  },
+  {
+    "id": "ch2-036",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Geheimzahl",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "PIN",
+    "explanation": "",
+    "image_local_path": "/images/geheimzahl.jpg"
+  },
+  {
+    "id": "ch2-037",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Geldautomat",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "ATM (automatic teller machine)",
+    "explanation": "",
+    "image_local_path": "/images/geldautomat.jpg"
+  },
+  {
+    "id": "ch2-038",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Girokonto",
+    "article": "das",
+    "plural_indicator": "-konten",
+    "english_translation": "checking account",
+    "explanation": "",
+    "image_local_path": "/images/girokonto.jpg"
+  },
+  {
+    "id": "ch2-039",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Portemonnaie",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "wallet",
+    "explanation": "",
+    "image_local_path": "/images/portemonnaie.jpg"
+  },
+  {
+    "id": "ch2-040",
+    "chapter": "Kapitel 2: Das ist ja praktisch!",
+    "german_word": "Rabatt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "discount",
+    "explanation": "",
+    "image_local_path": "/images/rabatt.jpg"
+  }
+]

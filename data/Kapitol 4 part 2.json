@@ -1,0 +1,562 @@
+[
+  {
+    "id": "ch4-051",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "aushalten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to cope (with)",
+    "explanation": "",
+    "image_local_path": "/images/aushalten.jpg"
+  },
+  {
+    "id": "ch4-052",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Wunschberuf",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "dream job",
+    "explanation": "",
+    "image_local_path": "/images/wunschberuf.jpg"
+  },
+  {
+    "id": "ch4-053",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Konjunktivform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "subjunctive form",
+    "explanation": "",
+    "image_local_path": "/images/konjunktivform.jpg"
+  },
+  {
+    "id": "ch4-054",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bedingungssatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "conditional clause",
+    "explanation": "",
+    "image_local_path": "/images/bedingungssatz.jpg"
+  },
+  {
+    "id": "ch4-055",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "freinehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take time off",
+    "explanation": "",
+    "image_local_path": "/images/freinehmen.jpg"
+  },
+  {
+    "id": "ch4-056",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "irreal",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "surreal",
+    "explanation": "",
+    "image_local_path": "/images/irreal.jpg"
+  },
+  {
+    "id": "ch4-057",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Besteck",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "cutlery",
+    "explanation": "",
+    "image_local_path": "/images/besteck.jpg"
+  },
+  {
+    "id": "ch4-058",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bürste",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "brush",
+    "explanation": "",
+    "image_local_path": "/images/burste.jpg"
+  },
+  {
+    "id": "ch4-059",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "färben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to colour",
+    "explanation": "",
+    "image_local_path": "/images/farben.jpg"
+  },
+  {
+    "id": "ch4-060",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "föhnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to dry ones hair",
+    "explanation": "",
+    "image_local_path": "/images/fohnen.jpg"
+  },
+  {
+    "id": "ch4-061",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Gaststätte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "restaurant",
+    "explanation": "",
+    "image_local_path": "/images/gaststatte.jpg"
+  },
+  {
+    "id": "ch4-062",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Hammer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "hammer",
+    "explanation": "",
+    "image_local_path": "/images/hammer.jpg"
+  },
+  {
+    "id": "ch4-063",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Imbiss",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "takeaway",
+    "explanation": "",
+    "image_local_path": "/images/imbiss.jpg"
+  },
+  {
+    "id": "ch4-064",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Kamm",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "comb",
+    "explanation": "",
+    "image_local_path": "/images/kamm.jpg"
+  },
+  {
+    "id": "ch4-065",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Karton",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "carton",
+    "explanation": "",
+    "image_local_path": "/images/karton.jpg"
+  },
+  {
+    "id": "ch4-066",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Rechner",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "calculator",
+    "explanation": "",
+    "image_local_path": "/images/rechner.jpg"
+  },
+  {
+    "id": "ch4-067",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Schere",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "scissors",
+    "explanation": "",
+    "image_local_path": "/images/schere.jpg"
+  },
+  {
+    "id": "ch4-068",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Umschlag",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "envelope",
+    "explanation": "",
+    "image_local_path": "/images/umschlag.jpg"
+  },
+  {
+    "id": "ch4-069",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "irren (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be wrong, to confuse",
+    "explanation": "",
+    "image_local_path": "/images/irren.jpg"
+  },
+  {
+    "id": "ch4-070",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "schütten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to spill",
+    "explanation": "Peinlich, heute habe ich einem Kollegen aus Versehen Kaffee über das Hemd geschüttet. / Today I accidentally spilled coffee on a coworker's shirt, that was embarrassing.",
+    "image_local_path": "/images/schutten.jpg"
+  },
+  {
+    "id": "ch4-071",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Versehen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "accident (accidentally)",
+    "explanation": "",
+    "image_local_path": "/images/versehen.jpg"
+  },
+  {
+    "id": "ch4-072",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "verwechseln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to confuse",
+    "explanation": "",
+    "image_local_path": "/images/verwechseln.jpg"
+  },
+  {
+    "id": "ch4-073",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zusammensitzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sit with",
+    "explanation": "",
+    "image_local_path": "/images/zusammensitzen.jpg"
+  },
+  {
+    "id": "ch4-074",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Absicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "intention",
+    "explanation": "",
+    "image_local_path": "/images/absicht.jpg"
+  },
+  {
+    "id": "ch4-075",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "schrecklich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "terrible",
+    "explanation": "Es tut mir schrecklich leid! / I'm terribly sorry!",
+    "image_local_path": "/images/schrecklich.jpg"
+  },
+  {
+    "id": "ch4-076",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "verzeihen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to forgive",
+    "explanation": "",
+    "image_local_path": "/images/verzeihen.jpg"
+  },
+  {
+    "id": "ch4-077",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "kürzlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "shortly",
+    "explanation": "",
+    "image_local_path": "/images/kurzlich.jpg"
+  },
+  {
+    "id": "ch4-078",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "unfreundlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "unfriendly",
+    "explanation": "",
+    "image_local_path": "/images/unfreundlich.jpg"
+  },
+  {
+    "id": "ch4-079",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Variante",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "variant",
+    "explanation": "",
+    "image_local_path": "/images/variante.jpg"
+  },
+  {
+    "id": "ch4-080",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "abschreiben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to copy",
+    "explanation": "",
+    "image_local_path": "/images/abschreiben.jpg"
+  },
+  {
+    "id": "ch4-081",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Anhang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "appendix",
+    "explanation": "",
+    "image_local_path": "/images/anhang.jpg"
+  },
+  {
+    "id": "ch4-082",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "ankommen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier to depend on",
+    "explanation": "",
+    "image_local_path": "/images/ankommen.jpg"
+  },
+  {
+    "id": "ch4-083",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "aussagekräftig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "meaningful",
+    "explanation": "",
+    "image_local_path": "/images/aussagekraftig.jpg"
+  },
+  {
+    "id": "ch4-084",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bescheinigung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "certificate",
+    "explanation": "",
+    "image_local_path": "/images/bescheinigung.jpg"
+  },
+  {
+    "id": "ch4-085",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerbungsfoto",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "application photo",
+    "explanation": "",
+    "image_local_path": "/images/bewerbungsfoto.jpg"
+  },
+  {
+    "id": "ch4-086",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerbungsportal",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "application website",
+    "explanation": "",
+    "image_local_path": "/images/bewerbungsportal.jpg"
+  },
+  {
+    "id": "ch4-087",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerbungsschreiben",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "cover letter",
+    "explanation": "",
+    "image_local_path": "/images/bewerbungsschreiben.jpg"
+  },
+  {
+    "id": "ch4-088",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerbungstraining",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "job application training",
+    "explanation": "",
+    "image_local_path": "/images/bewerbungstraining.jpg"
+  },
+  {
+    "id": "ch4-089",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "darum",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier keine direkte Übersetzung",
+    "explanation": "Könntest du dich darum kümmern, dass unser Kunde pünktlich zum Flughafen kommt? / Could you take care that our client arrives at the airport on time?",
+    "image_local_path": "/images/darum.jpg"
+  },
+  {
+    "id": "ch4-090",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Download",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "download",
+    "explanation": "",
+    "image_local_path": "/images/download.jpg"
+  },
+  {
+    "id": "ch4-091",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "eignen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be suitable for",
+    "explanation": "",
+    "image_local_path": "/images/eignen.jpg"
+  },
+  {
+    "id": "ch4-092",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "enthalten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to contain",
+    "explanation": "",
+    "image_local_path": "/images/enthalten.jpg"
+  },
+  {
+    "id": "ch4-093",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "erkundigen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to inquire",
+    "explanation": "",
+    "image_local_path": "/images/erkundigen.jpg"
+  },
+  {
+    "id": "ch4-094",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Fortbildung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "further training",
+    "explanation": "",
+    "image_local_path": "/images/fortbildung.jpg"
+  },
+  {
+    "id": "ch4-095",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "frühere",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "previous",
+    "explanation": "",
+    "image_local_path": "/images/fruhere.jpg"
+  },
+  {
+    "id": "ch4-096",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Geduld",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "patience",
+    "explanation": "",
+    "image_local_path": "/images/geduld.jpg"
+  },
+  {
+    "id": "ch4-097",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Institution",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "institution",
+    "explanation": "",
+    "image_local_path": "/images/institution.jpg"
+  },
+  {
+    "id": "ch4-098",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "jedoch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "however",
+    "explanation": "",
+    "image_local_path": "/images/jedoch.jpg"
+  },
+  {
+    "id": "ch4-099",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Jobsuche",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "job search",
+    "explanation": "",
+    "image_local_path": "/images/jobsuche.jpg"
+  },
+  {
+    "id": "ch4-100",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Lebenslauf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "resume",
+    "explanation": "",
+    "image_local_path": "/images/lebenslauf.jpg"
+  },
+  {
+    "id": "ch4-101",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "mitschicken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to send along",
+    "explanation": "",
+    "image_local_path": "/images/mitschicken.jpg"
+  },
+  {
+    "id": "ch4-102",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "PDF-Dokument",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "PDF document",
+    "explanation": "",
+    "image_local_path": "/images/pdf_dokument.jpg"
+  },
+  {
+    "id": "ch4-103",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Personalabteilung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "human resources (HR)",
+    "explanation": "",
+    "image_local_path": "/images/personalabteilung.jpg"
+  },
+  {
+    "id": "ch4-104",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Personalchef",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "HR director (m)",
+    "explanation": "",
+    "image_local_path": "/images/personalchef.jpg"
+  },
+  {
+    "id": "ch4-105",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Personalchefin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "HR director (f)",
+    "explanation": "",
+    "image_local_path": "/images/personalchefin.jpg"
+  },
+  {
+    "id": "ch4-106",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Personalien",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "personal data",
+    "explanation": "",
+    "image_local_path": "/images/personalien.jpg"
+  }
+]

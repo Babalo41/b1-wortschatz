@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "ch10-031",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Recht",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "law",
+    "explanation": "",
+    "image_local_path": "/images/recht.jpg"
+  },
+  {
+    "id": "ch10-032",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Regierung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "government",
+    "explanation": "",
+    "image_local_path": "/images/regierung.jpg"
+  },
+  {
+    "id": "ch10-033",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "verlassen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to leave",
+    "explanation": "er verlässt, verließ, hat verlassen",
+    "image_local_path": "/images/verlassen.jpg"
+  },
+  {
+    "id": "ch10-034",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "vollständig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "complete",
+    "explanation": "",
+    "image_local_path": "/images/vollstandig.jpg"
+  },
+  {
+    "id": "ch10-035",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vorurteil",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "prejudice",
+    "explanation": "",
+    "image_local_path": "/images/vorurteil.jpg"
+  },
+  {
+    "id": "ch10-036",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Meinungsfreiheit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "freedom of opinion",
+    "explanation": "",
+    "image_local_path": "/images/meinungsfreiheit.jpg"
+  },
+  {
+    "id": "ch10-037",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "sichern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to secure",
+    "explanation": "",
+    "image_local_path": "/images/sichern.jpg"
+  },
+  {
+    "id": "ch10-038",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "alarmieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to alert",
+    "explanation": "",
+    "image_local_path": "/images/alarmieren.jpg"
+  },
+  {
+    "id": "ch10-039",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Arbeitssuche",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "job search",
+    "explanation": "",
+    "image_local_path": "/images/arbeitssuche.jpg"
+  },
+  {
+    "id": "ch10-040",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "ausbilden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to train",
+    "explanation": "",
+    "image_local_path": "/images/ausbilden.jpg"
+  },
+  {
+    "id": "ch10-041",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ausgabestelle",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "issuing office",
+    "explanation": "",
+    "image_local_path": "/images/ausgabestelle.jpg"
+  },
+  {
+    "id": "ch10-042",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "bedürftig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "needy",
+    "explanation": "",
+    "image_local_path": "/images/beduerftig.jpg"
+  },
+  {
+    "id": "ch10-043",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Behördengang",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "visit to the authorities",
+    "explanation": "",
+    "image_local_path": "/images/behoerdengang.jpg"
+  },
+  {
+    "id": "ch10-044",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Berufsfeuerwehr",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "professional fire brigade",
+    "explanation": "",
+    "image_local_path": "/images/berufsfeuerwehr.jpg"
+  },
+  {
+    "id": "ch10-045",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "bewältigen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to deal with",
+    "explanation": "",
+    "image_local_path": "/images/bewaeltigen.jpg"
+  },
+  {
+    "id": "ch10-046",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ding",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "thing",
+    "explanation": "In der Not zu helfen ist mein Ding. / To help during times of need is my thing",
+    "image_local_path": "/images/ding.jpg"
+  },
+  {
+    "id": "ch10-047",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "ehrenamtlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "voluntary",
+    "explanation": "",
+    "image_local_path": "/images/ehrenamtlich.jpg"
+  },
+  {
+    "id": "ch10-048",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "erfüllen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fulfill",
+    "explanation": "eine wichtige Funktion erfüllen",
+    "image_local_path": "/images/erfuellen.jpg"
+  },
+  {
+    "id": "ch10-049",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Erste Hilfe",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "first aid",
+    "explanation": "",
+    "image_local_path": "/images/erste_hilfe.jpg"
+  },
+  {
+    "id": "ch10-050",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Feuerwehrleute",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "firefighters",
+    "explanation": "",
+    "image_local_path": "/images/feuerwehrleute.jpg"
+  },
+  {
+    "id": "ch10-051",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Funktion",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "function",
+    "explanation": "eine wichtige Funktion erfüllen",
+    "image_local_path": "/images/funktion.jpg"
+  },
+  {
+    "id": "ch10-052",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Hochwasser",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "flood",
+    "explanation": "",
+    "image_local_path": "/images/hochwasser.jpg"
+  },
+  {
+    "id": "ch10-053",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Jugendgruppe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "youth group",
+    "explanation": "",
+    "image_local_path": "/images/jugendgruppe.jpg"
+  },
+  {
+    "id": "ch10-054",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Mühe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "effort",
+    "explanation": "",
+    "image_local_path": "/images/muehe.jpg"
+  },
+  {
+    "id": "ch10-055",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Nachhilfe",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "tutoring",
+    "explanation": "Nachhilfe geben / to tutor",
+    "image_local_path": "/images/nachhilfe.jpg"
+  },
+  {
+    "id": "ch10-056",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Nachtzeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "nighttime",
+    "explanation": "",
+    "image_local_path": "/images/nachtzeit.jpg"
+  },
+  {
+    "id": "ch10-057",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Not",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "need",
+    "explanation": "",
+    "image_local_path": "/images/not.jpg"
+  },
+  {
+    "id": "ch10-058",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Organisation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "organization",
+    "explanation": "",
+    "image_local_path": "/images/organisation.jpg"
+  },
+  {
+    "id": "ch10-059",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Pate",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "godfather",
+    "explanation": "",
+    "image_local_path": "/images/pate.jpg"
+  },
+  {
+    "id": "ch10-060",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Patenschaft",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "sponsorship, godparenthood",
+    "explanation": "",
+    "image_local_path": "/images/patenschaft.jpg"
+  },
+  {
+    "id": "ch10-061",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Patin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "godmother",
+    "explanation": "",
+    "image_local_path": "/images/patin.jpg"
+  },
+  {
+    "id": "ch10-062",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "qualitativ",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "qualitative",
+    "explanation": "",
+    "image_local_path": "/images/qualitativ.jpg"
+  },
+  {
+    "id": "ch10-063",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "spenden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to donate",
+    "explanation": "",
+    "image_local_path": "/images/spenden.jpg"
+  },
+  {
+    "id": "ch10-064",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "übrig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "remaining",
+    "explanation": "",
+    "image_local_path": "/images/uebrig.jpg"
+  },
+  {
+    "id": "ch10-065",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vereinsmitglied",
+    "article": "das",
+    "plural_indicator": "-er",
+    "english_translation": "club member",
+    "explanation": "",
+    "image_local_path": "/images/vereinsmitglied.jpg"
+  },
+  {
+    "id": "ch10-066",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "werden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "will",
+    "explanation": "Er wird in Erster Hilfe ausgebildet. / He will be trained in first aid",
+    "image_local_path": "/images/werden.jpg"
+  },
+  {
+    "id": "ch10-067",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Auswahl",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "selection",
+    "explanation": "eine Auswahl treffen / to make a selection",
+    "image_local_path": "/images/auswahl.jpg"
+  },
+  {
+    "id": "ch10-068",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Apfelsine",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "orange",
+    "explanation": "",
+    "image_local_path": "/images/apfelsine.jpg"
+  },
+  {
+    "id": "ch10-069",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Aprikose",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "apricot",
+    "explanation": "",
+    "image_local_path": "/images/aprikose.jpg"
+  },
+  {
+    "id": "ch10-070",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Croissant",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "croissant",
+    "explanation": "",
+    "image_local_path": "/images/croissant.jpg"
+  },
+  {
+    "id": "ch10-071",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Gewürz",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "spice",
+    "explanation": "",
+    "image_local_path": "/images/gewuerz.jpg"
+  },
+  {
+    "id": "ch10-072",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Hackfleisch",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "ground meat",
+    "explanation": "",
+    "image_local_path": "/images/hackfleisch.jpg"
+  },
+  {
+    "id": "ch10-073",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Hörnchen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "croissant",
+    "explanation": "",
+    "image_local_path": "/images/hoernchen.jpg"
+  },
+  {
+    "id": "ch10-074",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Hühnchen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "chicken",
+    "explanation": "",
+    "image_local_path": "/images/huehnchen.jpg"
+  },
+  {
+    "id": "ch10-075",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ketchup",
+    "article": "der/das",
+    "plural_indicator": "-s",
+    "english_translation": "ketchup",
+    "explanation": "",
+    "image_local_path": "/images/ketchup.jpg"
+  },
+  {
+    "id": "ch10-076",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Konfitüre",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "jam",
+    "explanation": "",
+    "image_local_path": "/images/konfituere.jpg"
+  },
+  {
+    "id": "ch10-077",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Margarine",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "margarine",
+    "explanation": "",
+    "image_local_path": "/images/margarine.jpg"
+  },
+  {
+    "id": "ch10-078",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Milchprodukt",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "milk product",
+    "explanation": "",
+    "image_local_path": "/images/milchprodukt.jpg"
+  },
+  {
+    "id": "ch10-079",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Orange",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "orange",
+    "explanation": "",
+    "image_local_path": "/images/orange.jpg"
+  },
+  {
+    "id": "ch10-080",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Pflaume",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "plum",
+    "explanation": "",
+    "image_local_path": "/images/pflaume.jpg"
+  },
+  {
+    "id": "ch10-081",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Pudding",
+    "article": "der",
+    "plural_indicator": "-e/-s",
+    "english_translation": "pudding",
+    "explanation": "",
+    "image_local_path": "/images/pudding.jpg"
+  },
+  {
+    "id": "ch10-082",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Quark",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "curd",
+    "explanation": "",
+    "image_local_path": "/images/quark.jpg"
+  },
+  {
+    "id": "ch10-083",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Schlagsahne",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "whipped cream",
+    "explanation": "",
+    "image_local_path": "/images/schlagsahne.jpg"
+  },
+  {
+    "id": "ch10-084",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Soße",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "sauce",
+    "explanation": "",
+    "image_local_path": "/images/sosse.jpg"
+  },
+  {
+    "id": "ch10-085",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vollmilch",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "whole milk",
+    "explanation": "",
+    "image_local_path": "/images/vollmilch.jpg"
+  },
+  {
+    "id": "ch10-086",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "würzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to season",
+    "explanation": "",
+    "image_local_path": "/images/wuerzen.jpg"
+  },
+  {
+    "id": "ch10-087",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Zwetschge/Zwetschke",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "plum",
+    "explanation": "",
+    "image_local_path": "/images/zwetschge.jpg"
+  },
+  {
+    "id": "ch10-088",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Aktiv",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "active",
+    "explanation": "",
+    "image_local_path": "/images/aktiv.jpg"
+  },
+  {
+    "id": "ch10-089",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Passiv",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "passive",
+    "explanation": "",
+    "image_local_path": "/images/passiv.jpg"
+  },
+  {
+    "id": "ch10-090",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Passivsatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "passive sentence",
+    "explanation": "",
+    "image_local_path": "/images/passivsatz.jpg"
+  },
+  {
+    "id": "ch10-091",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Passivform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "passive form",
+    "explanation": "",
+    "image_local_path": "/images/passivform.jpg"
+  },
+  {
+    "id": "ch10-092",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Anfrage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "enquiry",
+    "explanation": "",
+    "image_local_path": "/images/anfrage.jpg"
+  },
+  {
+    "id": "ch10-093",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "bundesweit",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "nationwide",
+    "explanation": "",
+    "image_local_path": "/images/bundesweit.jpg"
+  },
+  {
+    "id": "ch10-094",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "verbreiten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to spread",
+    "explanation": "",
+    "image_local_path": "/images/verbreiten.jpg"
+  },
+  {
+    "id": "ch10-095",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "abmelden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sign off",
+    "explanation": "",
+    "image_local_path": "/images/abmelden.jpg"
+  },
+  {
+    "id": "ch10-096",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Einwohnermeldeamt",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "registration office",
+    "explanation": "",
+    "image_local_path": "/images/einwohnermeldeamt.jpg"
+  },
+  {
+    "id": "ch10-097",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Stadtinformation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "city information",
+    "explanation": "",
+    "image_local_path": "/images/stadtinformation.jpg"
+  },
+  {
+    "id": "ch10-098",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "verantwortlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "responsible",
+    "explanation": "(für + A.)",
+    "image_local_path": "/images/verantwortlich.jpg"
+  },
+  {
+    "id": "ch10-099",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "abstimmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to vote",
+    "explanation": "",
+    "image_local_path": "/images/abstimmen.jpg"
+  },
+  {
+    "id": "ch10-100",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "abziehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be deducted",
+    "explanation": "er zieht ab, zog ab, hat abgezogen",
+    "image_local_path": "/images/abziehen.jpg"
+  },
+  {
+    "id": "ch10-101",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Arbeitsamt",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "job center",
+    "explanation": "",
+    "image_local_path": "/images/arbeitsamt.jpg"
+  },
+  {
+    "id": "ch10-102",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Architekturbüro",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "architecture firm",
+    "explanation": "",
+    "image_local_path": "/images/architekturbuero.jpg"
+  },
+  {
+    "id": "ch10-103",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Brezel",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "pretzel",
+    "explanation": "",
+    "image_local_path": "/images/brezel.jpg"
+  },
+  {
+    "id": "ch10-104",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Bürgerversammlung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "town meeting",
+    "explanation": "",
+    "image_local_path": "/images/buergerversammlung.jpg"
+  },
+  {
+    "id": "ch10-105",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "durchführen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to conduct",
+    "explanation": "",
+    "image_local_path": "/images/durchfuehren.jpg"
+  },
+  {
+    "id": "ch10-106",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "einnehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take in",
+    "explanation": "er nimmt ein, nahm ein, hat eingenommen (Geld einnehmen)",
+    "image_local_path": "/images/einnehmen.jpg"
+  },
+  {
+    "id": "ch10-107",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Elterncafé",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "parent coffee shop",
+    "explanation": "",
+    "image_local_path": "/images/elterncafe.jpg"
+  },
+  {
+    "id": "ch10-108",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "elternfrei",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "parent-free",
+    "explanation": "",
+    "image_local_path": "/images/elternfrei.jpg"
+  },
+  {
+    "id": "ch10-109",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "entsorgen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to dispose of",
+    "explanation": "",
+    "image_local_path": "/images/entsorgen.jpg"
+  },
+  {
+    "id": "ch10-110",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "erscheinen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be released",
+    "explanation": "er erscheint, erschien, ist erschienen (Die Zeitschrift erscheint einmal im Monat.)",
+    "image_local_path": "/images/erscheinen.jpg"
+  },
+  {
+    "id": "ch10-111",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "finanzieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to finance",
+    "explanation": "",
+    "image_local_path": "/images/finanzieren.jpg"
+  },
+  {
+    "id": "ch10-112",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "herausfinden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to find out",
+    "explanation": "er findet heraus, fand heraus, hat herausgefunden",
+    "image_local_path": "/images/herausfinden.jpg"
+  },
+  {
+    "id": "ch10-113",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Online-Redaktion",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "online editors",
+    "explanation": "",
+    "image_local_path": "/images/online_redaktion.jpg"
+  },
+  {
+    "id": "ch10-114",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Semmel",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "bread roll (South German)",
+    "explanation": "",
+    "image_local_path": "/images/semmel.jpg"
+  },
+  {
+    "id": "ch10-115",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Sitz",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "seat",
+    "explanation": "Die politische Vertretung hat ihren Sitz im Rathaus.",
+    "image_local_path": "/images/sitz.jpg"
+  },
+  {
+    "id": "ch10-116",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Sommerprojekt",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "summer project",
+    "explanation": "",
+    "image_local_path": "/images/sommerprojekt.jpg"
+  },
+  {
+    "id": "ch10-117",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Spielstadt",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "play city",
+    "explanation": "",
+    "image_local_path": "/images/spielstadt.jpg"
+  },
+  {
+    "id": "ch10-118",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vertretung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "delegation",
+    "explanation": "",
+    "image_local_path": "/images/vertretung.jpg"
+  },
+  {
+    "id": "ch10-119",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vorhaben",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "scheme",
+    "explanation": "",
+    "image_local_path": "/images/vorhaben.jpg"
+  },
+  {
+    "id": "ch10-120",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Weblog",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "web blog",
+    "explanation": "",
+    "image_local_path": "/images/weblog.jpg"
+  },
+  {
+    "id": "ch10-121",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Zone",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "zone",
+    "explanation": "",
+    "image_local_path": "/images/zone.jpg"
+  },
+  {
+    "id": "ch10-122",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "zulassen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be admitted",
+    "explanation": "er lässt zu, ließ zu, hat zugelassen",
+    "image_local_path": "/images/zulassen.jpg"
+  },
+  {
+    "id": "ch10-123",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Zusammenleben",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "communal life",
+    "explanation": "",
+    "image_local_path": "/images/zusammenleben.jpg"
+  },
+  {
+    "id": "ch10-124",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "zuverlässig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "reliable",
+    "explanation": "",
+    "image_local_path": "/images/zuverlaessig.jpg"
+  },
+  {
+    "id": "ch10-125",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "mitorganisieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to help organise",
+    "explanation": "",
+    "image_local_path": "/images/mitorganisieren.jpg"
+  },
+  {
+    "id": "ch10-126",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Organisator",
+    "article": "der",
+    "plural_indicator": "Organisatoren",
+    "english_translation": "organiser",
+    "explanation": "",
+    "image_local_path": "/images/organisator.jpg"
+  },
+  {
+    "id": "ch10-127",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Organisatorin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "organiser (f)",
+    "explanation": "",
+    "image_local_path": "/images/organisatorin.jpg"
+  },
+  {
+    "id": "ch10-128",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "gell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "",
+    "explanation": "",
+    "image_local_path": "/images/gell.jpg"
+  },
+  {
+    "id": "ch10-129",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "hingehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to go",
+    "explanation": "er geht hin, ging hin, ist hingegangen",
+    "image_local_path": "/images/hingehen.jpg"
+  },
+  {
+    "id": "ch10-130",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Partikel",
+    "article": "die",
+    "plural_indicator": "-",
+    "english_translation": "particle",
+    "explanation": "",
+    "image_local_path": "/images/partikel.jpg"
+  },
+  {
+    "id": "ch10-131",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Anspruch",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "entitlement",
+    "explanation": "Die Angestellten haben Anspruch auf 30 Tage Urlaub. / The employees are entitled to 30 holidays.",
+    "image_local_path": "/images/anspruch.jpg"
+  },
+  {
+    "id": "ch10-132",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "abräumen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to clear",
+    "explanation": "",
+    "image_local_path": "/images/abraeumen.jpg"
+  },
+  {
+    "id": "ch10-133",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Lieferung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "shipment",
+    "explanation": "",
+    "image_local_path": "/images/lieferung.jpg"
+  },
+  {
+    "id": "ch10-134",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Straßenlampe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "street lamp",
+    "explanation": "",
+    "image_local_path": "/images/strassenlampe.jpg"
+  },
+  {
+    "id": "ch10-135",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Kontrastakzent",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "contrast emphasis",
+    "explanation": "",
+    "image_local_path": "/images/kontrastakzent.jpg"
+  },
+  {
+    "id": "ch10-136",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Kontrastwort",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "contrast word",
+    "explanation": "",
+    "image_local_path": "/images/kontrastwort.jpg"
+  },
+  {
+    "id": "ch10-137",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "EU",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "EU",
+    "explanation": "",
+    "image_local_path": "/images/eu.jpg"
+  },
+  {
+    "id": "ch10-138",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Union",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "union",
+    "explanation": "die Europäische Union",
+    "image_local_path": "/images/union.jpg"
+  },
+  {
+    "id": "ch10-139",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ausstieg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "exit",
+    "explanation": "",
+    "image_local_path": "/images/ausstieg.jpg"
+  },
+  {
+    "id": "ch10-140",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "befürchten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fear",
+    "explanation": "",
+    "image_local_path": "/images/befuerchten.jpg"
+  },
+  {
+    "id": "ch10-141",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "beitreten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to join",
+    "explanation": "er tritt bei, trat bei, ist beigetreten",
+    "image_local_path": "/images/beitreten.jpg"
+  },
+  {
+    "id": "ch10-142",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Besonderheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "feature",
+    "explanation": "",
+    "image_local_path": "/images/besonderheit.jpg"
+  },
+  {
+    "id": "ch10-143",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Dienstleistung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "service",
+    "explanation": "",
+    "image_local_path": "/images/dienstleistung.jpg"
+  },
+  {
+    "id": "ch10-144",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "eine Entscheidung treffen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to make a decision",
+    "explanation": "",
+    "image_local_path": "/images/entscheidung_treffen.jpg"
+  },
+  {
+    "id": "ch10-145",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "endgültig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "final",
+    "explanation": "",
+    "image_local_path": "/images/endgueltig.jpg"
+  },
+  {
+    "id": "ch10-146",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Europäische Union",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "European Union",
+    "explanation": "(= EU)",
+    "image_local_path": "/images/europaeische_union.jpg"
+  },
+  {
+    "id": "ch10-147",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "führen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to wage",
+    "explanation": "Krieg führen / to wage war",
+    "image_local_path": "/images/fuehren.jpg"
+  },
+  {
+    "id": "ch10-148",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Gemeinschaft",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "community",
+    "explanation": "die Europäische Gemeinschaft",
+    "image_local_path": "/images/gemeinschaft.jpg"
+  },
+  {
+    "id": "ch10-149",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Grenzkontrolle",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "border control",
+    "explanation": "",
+    "image_local_path": "/images/grenzkontrolle.jpg"
+  },
+  {
+    "id": "ch10-150",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Großbritannien",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Great Britain",
+    "explanation": "",
+    "image_local_path": "/images/grossbritannien.jpg"
+  },
+  {
+    "id": "ch10-151",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "im Lauf",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "over the course",
+    "explanation": "(+ G.) Im Lauf der Zeit hat sich viel geändert. / Over the course of time a lot has changed.",
+    "image_local_path": "/images/im_lauf.jpg"
+  },
+  {
+    "id": "ch10-152",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Krieg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "war",
+    "explanation": "Krieg führen / to wage war",
+    "image_local_path": "/images/krieg.jpg"
+  },
+  {
+    "id": "ch10-153",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "national",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "national",
+    "explanation": "",
+    "image_local_path": "/images/national.jpg"
+  },
+  {
+    "id": "ch10-154",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Normalfall",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "rule",
+    "explanation": "",
+    "image_local_path": "/images/normalfall.jpg"
+  },
+  {
+    "id": "ch10-155",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Skeptiker",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "sceptic (m)",
+    "explanation": "",
+    "image_local_path": "/images/skeptiker.jpg"
+  },
+  {
+    "id": "ch10-156",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Skeptikerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "sceptic (f)",
+    "explanation": "",
+    "image_local_path": "/images/skeptikerin.jpg"
+  },
+  {
+    "id": "ch10-157",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vorschrift",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "regulation",
+    "explanation": "",
+    "image_local_path": "/images/vorschrift.jpg"
+  },
+  {
+    "id": "ch10-158",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Weltkrieg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "world war",
+    "explanation": "",
+    "image_local_path": "/images/weltkrieg.jpg"
+  },
+  {
+    "id": "ch10-159",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "wirtschaftlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "economic",
+    "explanation": "",
+    "image_local_path": "/images/wirtschaftlich.jpg"
+  },
+  {
+    "id": "ch10-160",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "zunächst",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "initially",
+    "explanation": "",
+    "image_local_path": "/images/zunaechst.jpg"
+  },
+  {
+    "id": "ch10-161",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Atomkraft",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "atomic power",
+    "explanation": "",
+    "image_local_path": "/images/atomkraft.jpg"
+  },
+  {
+    "id": "ch10-162",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Belgien",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Belgium",
+    "explanation": "",
+    "image_local_path": "/images/belgien.jpg"
+  },
+  {
+    "id": "ch10-163",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Kriegswaffe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "weapon of war",
+    "explanation": "",
+    "image_local_path": "/images/kriegswaffe.jpg"
+  },
+  {
+    "id": "ch10-164",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Luxemburg",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Luxembourg",
+    "explanation": "",
+    "image_local_path": "/images/luxemburg.jpg"
+  },
+  {
+    "id": "ch10-165",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Mitgliedsstaat",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "member state",
+    "explanation": "",
+    "image_local_path": "/images/mitgliedsstaat.jpg"
+  },
+  {
+    "id": "ch10-166",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Niederlande",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "Netherlands",
+    "explanation": "",
+    "image_local_path": "/images/niederlande.jpg"
+  },
+  {
+    "id": "ch10-167",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "regeln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to regulate",
+    "explanation": "",
+    "image_local_path": "/images/regeln.jpg"
+  },
+  {
+    "id": "ch10-168",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "schließen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to conclude",
+    "explanation": "einen Vertrag schließen / to conclude a contract",
+    "image_local_path": "/images/schliessen.jpg"
+  },
+  {
+    "id": "ch10-169",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Solidarität",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "solidarity",
+    "explanation": "",
+    "image_local_path": "/images/solidaritaet.jpg"
+  },
+  {
+    "id": "ch10-170",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Toleranz",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "tolerance",
+    "explanation": "",
+    "image_local_path": "/images/toleranz.jpg"
+  },
+  {
+    "id": "ch10-171",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Umgang",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "dealing",
+    "explanation": "",
+    "image_local_path": "/images/umgang.jpg"
+  },
+  {
+    "id": "ch10-172",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "unterzeichnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sign",
+    "explanation": "",
+    "image_local_path": "/images/unterzeichnen.jpg"
+  },
+  {
+    "id": "ch10-173",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Wirtschaftsbeziehung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "economic relationship",
+    "explanation": "",
+    "image_local_path": "/images/wirtschaftsbeziehung.jpg"
+  },
+  {
+    "id": "ch10-174",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Würde",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "dignity",
+    "explanation": "",
+    "image_local_path": "/images/wuerde.jpg"
+  },
+  {
+    "id": "ch10-175",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Faden",
+    "article": "der",
+    "plural_indicator": "\"-",
+    "english_translation": "in etwa: the train",
+    "explanation": "den Faden verlieren / to lose one's train of thought",
+    "image_local_path": "/images/faden.jpg"
+  },
+  {
+    "id": "ch10-176",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Humor",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "humour",
+    "explanation": "Nimm die Situation mit Humor und mach einfach weiter. / Laugh away the situation and continue",
+    "image_local_path": "/images/humor.jpg"
+  },
+  {
+    "id": "ch10-177",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "ins Stocken kommen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to falter",
+    "explanation": "",
+    "image_local_path": "/images/ins_stocken_kommen.jpg"
+  },
+  {
+    "id": "ch10-178",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Vortrag",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "lecture",
+    "explanation": "",
+    "image_local_path": "/images/vortrag.jpg"
+  },
+  {
+    "id": "ch10-179",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "abschließend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "in conclusion",
+    "explanation": "",
+    "image_local_path": "/images/abschliessend.jpg"
+  }
+]

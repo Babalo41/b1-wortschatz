@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ch1-001",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Himmel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "sky",
+    "explanation": "",
+    "image_local_path": "/images/himmel.jpg"
+  },
+  {
+    "id": "ch1-002",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Insekt",
+    "article": "das",
+    "plural_indicator": "-en",
+    "english_translation": "insect",
+    "explanation": "",
+    "image_local_path": "/images/insekt.jpg"
+  },
+  {
+    "id": "ch1-003",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Pilz",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "mushroom",
+    "explanation": "",
+    "image_local_path": "/images/pilz.jpg"
+  },
+  {
+    "id": "ch1-004",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Netz",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "net",
+    "explanation": "Er hat nachts ein Netz vor dem Zelt. / He has a net in front of his tent at night.",
+    "image_local_path": "/images/netz.jpg"
+  },
+  {
+    "id": "ch1-005",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Aussicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "view",
+    "explanation": "",
+    "image_local_path": "/images/aussicht.jpg"
+  },
+  {
+    "id": "ch1-006",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Küste",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "coast",
+    "explanation": "",
+    "image_local_path": "/images/kueste.jpg"
+  },
+  {
+    "id": "ch1-007",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Sand",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "sand",
+    "explanation": "",
+    "image_local_path": "/images/sand.jpg"
+  },
+  {
+    "id": "ch1-008",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Traube",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "grape",
+    "explanation": "",
+    "image_local_path": "/images/traube.jpg"
+  },
+  {
+    "id": "ch1-009",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Ferienhaus",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "holiday home",
+    "explanation": "",
+    "image_local_path": "/images/ferienhaus.jpg"
+  },
+  {
+    "id": "ch1-010",
+    "chapter": "Kapitel 1: Gute Reise!",
+    "german_word": "Erlebnis",
+    "article": "das",
+    "plural_indicator": "-se",
+    "english_translation": "experience",
+    "explanation": "",
+    "image_local_path": "/images/erlebnis.jpg"
+  }
+]

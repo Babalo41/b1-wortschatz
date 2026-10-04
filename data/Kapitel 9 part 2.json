@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "ch9-051",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Reinigungspersonal",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "cleaning staff",
+    "explanation": "",
+    "image_local_path": "/images/reinigungspersonal.jpg"
+  },
+  {
+    "id": "ch9-052",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "scheinbar",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "apparent",
+    "explanation": "",
+    "image_local_path": "/images/scheinbar.jpg"
+  },
+  {
+    "id": "ch9-053",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Verkaufsraum",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "showroom",
+    "explanation": "",
+    "image_local_path": "/images/verkaufsraum.jpg"
+  },
+  {
+    "id": "ch9-054",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Zoodirektor",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "zoo director (m)",
+    "explanation": "",
+    "image_local_path": "/images/zoodirektor.jpg"
+  },
+  {
+    "id": "ch9-055",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Zoodirektorin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "zoo director (f)",
+    "explanation": "",
+    "image_local_path": "/images/zoodirektorin.jpg"
+  },
+  {
+    "id": "ch9-056",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Präpositionglergänzung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "prepositional appendix",
+    "explanation": "",
+    "image_local_path": "/images/praepositionglergaenzung.jpg"
+  },
+  {
+    "id": "ch9-057",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Satzverneinung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "sentence negation",
+    "explanation": "",
+    "image_local_path": "/images/satzverneinung.jpg"
+  },
+  {
+    "id": "ch9-058",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Stellung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "position",
+    "explanation": "",
+    "image_local_path": "/images/stellung.jpg"
+  },
+  {
+    "id": "ch9-059",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Verbteil",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "part of the verb",
+    "explanation": "",
+    "image_local_path": "/images/verbteil.jpg"
+  },
+  {
+    "id": "ch9-060",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "verneinen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to negate",
+    "explanation": "",
+    "image_local_path": "/images/verneinen.jpg"
+  },
+  {
+    "id": "ch9-061",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Putzfirma",
+    "article": "die",
+    "plural_indicator": "-firmen",
+    "english_translation": "cleaning company",
+    "explanation": "",
+    "image_local_path": "/images/putzfirma.jpg"
+  },
+  {
+    "id": "ch9-062",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "durcheinander",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "disorganized",
+    "explanation": "",
+    "image_local_path": "/images/durcheinander.jpg"
+  },
+  {
+    "id": "ch9-063",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "anwenden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to use",
+    "explanation": "",
+    "image_local_path": "/images/anwenden.jpg"
+  },
+  {
+    "id": "ch9-064",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "aufführen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to perform",
+    "explanation": "",
+    "image_local_path": "/images/auffuehren.jpg"
+  },
+  {
+    "id": "ch9-065",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "auftreten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to perform",
+    "explanation": "er tritt auf, trat auf, ist aufgetreten",
+    "image_local_path": "/images/auftreten.jpg"
+  },
+  {
+    "id": "ch9-066",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "behandeln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to treat",
+    "explanation": "",
+    "image_local_path": "/images/behandeln.jpg"
+  },
+  {
+    "id": "ch9-067",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "besprechen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to discuss",
+    "explanation": "er bespricht, besprach, hat besprochen",
+    "image_local_path": "/images/besprechen.jpg"
+  },
+  {
+    "id": "ch9-068",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Broschüre",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "brochure",
+    "explanation": "",
+    "image_local_path": "/images/broschuere.jpg"
+  },
+  {
+    "id": "ch9-069",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Büfett",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "buffet",
+    "explanation": "",
+    "image_local_path": "/images/buefett.jpg"
+  },
+  {
+    "id": "ch9-070",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Darstellung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "depiction",
+    "explanation": "",
+    "image_local_path": "/images/darstellung.jpg"
+  },
+  {
+    "id": "ch9-071",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Eröffnung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "opening",
+    "explanation": "",
+    "image_local_path": "/images/eroeffnung.jpg"
+  },
+  {
+    "id": "ch9-072",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Frieden",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "peace",
+    "explanation": "",
+    "image_local_path": "/images/frieden.jpg"
+  },
+  {
+    "id": "ch9-073",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Geschmack",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "flavour",
+    "explanation": "",
+    "image_local_path": "/images/geschmack.jpg"
+  },
+  {
+    "id": "ch9-074",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "herumspringen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to jump around",
+    "explanation": "er springt herum, sprang herum, ist herumgesprungen",
+    "image_local_path": "/images/herumspringen.jpg"
+  },
+  {
+    "id": "ch9-075",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kostüm",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "costume",
+    "explanation": "",
+    "image_local_path": "/images/kostuem.jpg"
+  },
+  {
+    "id": "ch9-076",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kursabschluss",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "course completion",
+    "explanation": "",
+    "image_local_path": "/images/kursabschluss.jpg"
+  },
+  {
+    "id": "ch9-077",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Qualifikation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "qualification",
+    "explanation": "",
+    "image_local_path": "/images/qualifikation.jpg"
+  },
+  {
+    "id": "ch9-078",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "rennen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to run",
+    "explanation": "er rennt, rannte, ist gerannt",
+    "image_local_path": "/images/rennen.jpg"
+  },
+  {
+    "id": "ch9-079",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "schminken (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to put make up on",
+    "explanation": "",
+    "image_local_path": "/images/schminken.jpg"
+  },
+  {
+    "id": "ch9-080",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "schreien",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to scream",
+    "explanation": "er schreit, schrie, hat geschrien",
+    "image_local_path": "/images/schreien.jpg"
+  },
+  {
+    "id": "ch9-081",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Snack",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "snack",
+    "explanation": "",
+    "image_local_path": "/images/snack.jpg"
+  },
+  {
+    "id": "ch9-082",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Theaterabenteuer",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "theatre adventure",
+    "explanation": "",
+    "image_local_path": "/images/theaterabenteuer.jpg"
+  },
+  {
+    "id": "ch9-083",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Uniform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "uniform",
+    "explanation": "",
+    "image_local_path": "/images/uniform.jpg"
+  },
+  {
+    "id": "ch9-084",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Aquarell",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "watercolour",
+    "explanation": "",
+    "image_local_path": "/images/aquarell.jpg"
+  },
+  {
+    "id": "ch9-085",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "bestehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to consist",
+    "explanation": "(aus + D.) er besteht, bestand, hat bestanden",
+    "image_local_path": "/images/bestehen.jpg"
+  },
+  {
+    "id": "ch9-086",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "bewegen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to move",
+    "explanation": "Die Musik bewegt mich, sie macht mich traurig. / The music moves me, it makes me sad.",
+    "image_local_path": "/images/bewegen.jpg"
+  },
+  {
+    "id": "ch9-087",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "brasilianisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Brasilian",
+    "explanation": "",
+    "image_local_path": "/images/brasilianisch.jpg"
+  },
+  {
+    "id": "ch9-088",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "erarbeiten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to develop",
+    "explanation": "",
+    "image_local_path": "/images/erarbeiten.jpg"
+  },
+  {
+    "id": "ch9-089",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "künstlerisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "artistic",
+    "explanation": "",
+    "image_local_path": "/images/kuenstlerisch.jpg"
+  },
+  {
+    "id": "ch9-090",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Ölfarbe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "oil colour",
+    "explanation": "",
+    "image_local_path": "/images/oelfarbe.jpg"
+  },
+  {
+    "id": "ch9-091",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Palette",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "palette",
+    "explanation": "",
+    "image_local_path": "/images/palette.jpg"
+  },
+  {
+    "id": "ch9-092",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Schwerpunkt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "focus",
+    "explanation": "",
+    "image_local_path": "/images/schwerpunkt.jpg"
+  },
+  {
+    "id": "ch9-093",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Theatermacher",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "theatre maker (m)",
+    "explanation": "",
+    "image_local_path": "/images/theatermacher.jpg"
+  },
+  {
+    "id": "ch9-094",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Theatermacherin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "theatre maker (f)",
+    "explanation": "",
+    "image_local_path": "/images/theatermacherin.jpg"
+  },
+  {
+    "id": "ch9-095",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "umsetzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to realize",
+    "explanation": "",
+    "image_local_path": "/images/umsetzen.jpg"
+  },
+  {
+    "id": "ch9-096",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Upcycling",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "upcycling",
+    "explanation": "",
+    "image_local_path": "/images/upcycling.jpg"
+  },
+  {
+    "id": "ch9-097",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Vase",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "vase",
+    "explanation": "",
+    "image_local_path": "/images/vase.jpg"
+  },
+  {
+    "id": "ch9-098",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Adjektivendung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "end of an adjective",
+    "explanation": "",
+    "image_local_path": "/images/adjektivendung.jpg"
+  },
+  {
+    "id": "ch9-099",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Eigenschaft",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "characteristic",
+    "explanation": "",
+    "image_local_path": "/images/eigenschaft.jpg"
+  },
+  {
+    "id": "ch9-100",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Lernplakat",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "revision poster",
+    "explanation": "",
+    "image_local_path": "/images/lernplakat.jpg"
+  },
+  {
+    "id": "ch9-101",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "nominal",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "nominal",
+    "explanation": "",
+    "image_local_path": "/images/nominal.jpg"
+  },
+  {
+    "id": "ch9-102",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Teilnehmende",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "participant",
+    "explanation": "",
+    "image_local_path": "/images/teilnehmende.jpg"
+  },
+  {
+    "id": "ch9-103",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "dankbar",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "thankful",
+    "explanation": "",
+    "image_local_path": "/images/dankbar.jpg"
+  },
+  {
+    "id": "ch9-104",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Farbstift",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "crayon",
+    "explanation": "",
+    "image_local_path": "/images/farbstift.jpg"
+  },
+  {
+    "id": "ch9-105",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Frisur",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "hair style",
+    "explanation": "",
+    "image_local_path": "/images/frisur.jpg"
+  },
+  {
+    "id": "ch9-106",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kuli",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "pen",
+    "explanation": "",
+    "image_local_path": "/images/kuli.jpg"
+  },
+  {
+    "id": "ch9-107",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "rumliegen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lie around",
+    "explanation": "er liegt rum, lag rum, hat/ist rumgelegen",
+    "image_local_path": "/images/rumliegen.jpg"
+  },
+  {
+    "id": "ch9-108",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "chaotisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "chaotic",
+    "explanation": "",
+    "image_local_path": "/images/chaotisch.jpg"
+  },
+  {
+    "id": "ch9-109",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Theaterstück",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "theatre play",
+    "explanation": "",
+    "image_local_path": "/images/theaterstueck.jpg"
+  },
+  {
+    "id": "ch9-110",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "erfinden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to invent",
+    "explanation": "er erfindet, erfand, hat erfunden",
+    "image_local_path": "/images/erfinden.jpg"
+  },
+  {
+    "id": "ch9-111",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Motto-Party",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "theme party",
+    "explanation": "",
+    "image_local_path": "/images/motto_party.jpg"
+  },
+  {
+    "id": "ch9-112",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Sportteam",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "sports team",
+    "explanation": "",
+    "image_local_path": "/images/sportteam.jpg"
+  },
+  {
+    "id": "ch9-113",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "veranstalten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to organize",
+    "explanation": "",
+    "image_local_path": "/images/veranstalten.jpg"
+  },
+  {
+    "id": "ch9-114",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "ersetzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to replace",
+    "explanation": "",
+    "image_local_path": "/images/ersetzen.jpg"
+  },
+  {
+    "id": "ch9-115",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "improvisieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to improvise",
+    "explanation": "",
+    "image_local_path": "/images/improvisieren.jpg"
+  },
+  {
+    "id": "ch9-116",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Referat",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "presentation",
+    "explanation": "",
+    "image_local_path": "/images/referat.jpg"
+  },
+  {
+    "id": "ch9-117",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Gründer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "founder (m)",
+    "explanation": "",
+    "image_local_path": "/images/gruender.jpg"
+  },
+  {
+    "id": "ch9-118",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Gründerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "founder (f)",
+    "explanation": "",
+    "image_local_path": "/images/gruenderin.jpg"
+  },
+  {
+    "id": "ch9-119",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Impro-Theater",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "improv theatre",
+    "explanation": "",
+    "image_local_path": "/images/impro_theater.jpg"
+  },
+  {
+    "id": "ch9-120",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Biene",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "bee",
+    "explanation": "",
+    "image_local_path": "/images/biene.jpg"
+  },
+  {
+    "id": "ch9-121",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Briefmarke",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "postage stamp",
+    "explanation": "",
+    "image_local_path": "/images/briefmarke.jpg"
+  },
+  {
+    "id": "ch9-122",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Couch",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "couch",
+    "explanation": "",
+    "image_local_path": "/images/couch.jpg"
+  },
+  {
+    "id": "ch9-123",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Detektiv",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "detective (m)",
+    "explanation": "",
+    "image_local_path": "/images/detektiv.jpg"
+  },
+  {
+    "id": "ch9-124",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Detektivin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "detective (f)",
+    "explanation": "",
+    "image_local_path": "/images/detektivin.jpg"
+  },
+  {
+    "id": "ch9-125",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Dieb",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "thief",
+    "explanation": "",
+    "image_local_path": "/images/dieb.jpg"
+  },
+  {
+    "id": "ch9-126",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Rose",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "rose",
+    "explanation": "",
+    "image_local_path": "/images/rose.jpg"
+  },
+  {
+    "id": "ch9-127",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Spiegel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "mirror",
+    "explanation": "",
+    "image_local_path": "/images/spiegel.jpg"
+  },
+  {
+    "id": "ch9-128",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Stufe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "step",
+    "explanation": "",
+    "image_local_path": "/images/stufe.jpg"
+  },
+  {
+    "id": "ch9-129",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Topf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "pot",
+    "explanation": "",
+    "image_local_path": "/images/topf.jpg"
+  },
+  {
+    "id": "ch9-130",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Treppenhaus",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "stairwell",
+    "explanation": "",
+    "image_local_path": "/images/treppenhaus.jpg"
+  },
+  {
+    "id": "ch9-131",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Umleitung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "diversion",
+    "explanation": "",
+    "image_local_path": "/images/umleitung.jpg"
+  },
+  {
+    "id": "ch9-132",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Vorstellung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "performance",
+    "explanation": "Das Theater gibt nächste Woche drei Vorstellungen. / The theatre has three performances next week.",
+    "image_local_path": "/images/vorstellung_perf.jpg"
+  },
+  {
+    "id": "ch9-133",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Autoverkauf",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "car sale",
+    "explanation": "",
+    "image_local_path": "/images/autoverkauf.jpg"
+  },
+  {
+    "id": "ch9-134",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Backofen",
+    "article": "der",
+    "plural_indicator": "\"-",
+    "english_translation": "oven",
+    "explanation": "",
+    "image_local_path": "/images/backofen.jpg"
+  },
+  {
+    "id": "ch9-135",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kunstsammler",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "art collector (m)",
+    "explanation": "",
+    "image_local_path": "/images/kunstsammler.jpg"
+  },
+  {
+    "id": "ch9-136",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kunstsammlerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "art collector (f)",
+    "explanation": "",
+    "image_local_path": "/images/kunstsammlerin.jpg"
+  },
+  {
+    "id": "ch9-137",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Missverständnis",
+    "article": "das",
+    "plural_indicator": "-se",
+    "english_translation": "misunderstanding",
+    "explanation": "",
+    "image_local_path": "/images/missverstandnis.jpg"
+  },
+  {
+    "id": "ch9-138",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "einzig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "only",
+    "explanation": "",
+    "image_local_path": "/images/einzig.jpg"
+  },
+  {
+    "id": "ch9-139",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "heimlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "secret",
+    "explanation": "",
+    "image_local_path": "/images/heimlich.jpg"
+  },
+  {
+    "id": "ch9-140",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "her sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be long ago",
+    "explanation": "Es ist lange her, dass ich im Chor gesungen habe. / It is long ago that I sung in the choir.",
+    "image_local_path": "/images/her_sein.jpg"
+  },
+  {
+    "id": "ch9-141",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Meister",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "master (m)",
+    "explanation": "",
+    "image_local_path": "/images/meister.jpg"
+  },
+  {
+    "id": "ch9-142",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Meisterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "master (f)",
+    "explanation": "",
+    "image_local_path": "/images/meisterin.jpg"
+  },
+  {
+    "id": "ch9-143",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Mode",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "fashion",
+    "explanation": "aus der Mode kommen / to be out of fashion",
+    "image_local_path": "/images/mode.jpg"
+  },
+  {
+    "id": "ch9-144",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "musizieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to make music",
+    "explanation": "",
+    "image_local_path": "/images/musizieren.jpg"
+  },
+  {
+    "id": "ch9-145",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Nachbarschaft",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "neighbourhood",
+    "explanation": "",
+    "image_local_path": "/images/nachbarschaft.jpg"
+  },
+  {
+    "id": "ch9-146",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Neffe",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "nephew",
+    "explanation": "",
+    "image_local_path": "/images/neffe.jpg"
+  },
+  {
+    "id": "ch9-147",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "schließen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to make",
+    "explanation": "er schließt, schloss, hat geschlossen (Freundschaft schließen)",
+    "image_local_path": "/images/schliessen.jpg"
+  },
+  {
+    "id": "ch9-148",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Schulchor",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "school choir",
+    "explanation": "",
+    "image_local_path": "/images/schulchor.jpg"
+  },
+  {
+    "id": "ch9-149",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "talentiert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "talented",
+    "explanation": "",
+    "image_local_path": "/images/talentiert.jpg"
+  },
+  {
+    "id": "ch9-150",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Tradition",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "tradition",
+    "explanation": "",
+    "image_local_path": "/images/tradition.jpg"
+  },
+  {
+    "id": "ch9-151",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "traditionell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "traditional",
+    "explanation": "",
+    "image_local_path": "/images/traditionell.jpg"
+  },
+  {
+    "id": "ch9-152",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Treffen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "meeting",
+    "explanation": "",
+    "image_local_path": "/images/treffen.jpg"
+  },
+  {
+    "id": "ch9-153",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "uncool",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "uncool",
+    "explanation": "",
+    "image_local_path": "/images/uncool.jpg"
+  },
+  {
+    "id": "ch9-154",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Virus",
+    "article": "das",
+    "plural_indicator": "Viren",
+    "english_translation": "virus",
+    "explanation": "",
+    "image_local_path": "/images/virus.jpg"
+  },
+  {
+    "id": "ch9-155",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Volkslied",
+    "article": "das",
+    "plural_indicator": "-er",
+    "english_translation": "folk song",
+    "explanation": "",
+    "image_local_path": "/images/volkslied.jpg"
+  },
+  {
+    "id": "ch9-156",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "zeitlos",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "timeless",
+    "explanation": "",
+    "image_local_path": "/images/zeitlos.jpg"
+  },
+  {
+    "id": "ch9-157",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "zusehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to watch",
+    "explanation": "er sieht zu, sah zu, hat zugesehen",
+    "image_local_path": "/images/zusehen.jpg"
+  },
+  {
+    "id": "ch9-158",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "einsperren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lock sb in",
+    "explanation": "",
+    "image_local_path": "/images/einsperren.jpg"
+  },
+  {
+    "id": "ch9-159",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "entzwei",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "in two",
+    "explanation": "",
+    "image_local_path": "/images/entzwei.jpg"
+  },
+  {
+    "id": "ch9-160",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "erschießen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to shoot",
+    "explanation": "er erschießt, erschoss, hat erschossen",
+    "image_local_path": "/images/erschiessen.jpg"
+  },
+  {
+    "id": "ch9-161",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "finster",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "gloomy",
+    "explanation": "",
+    "image_local_path": "/images/finster.jpg"
+  },
+  {
+    "id": "ch9-162",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Gedanke",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "thought",
+    "explanation": "Mach dir mal keine Gedanken. / Don't think about it.",
+    "image_local_path": "/images/gedanke.jpg"
+  },
+  {
+    "id": "ch9-163",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Jäger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "hunter (m)",
+    "explanation": "",
+    "image_local_path": "/images/jaeger.jpg"
+  },
+  {
+    "id": "ch9-164",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Jägerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "hunter (f)",
+    "explanation": "",
+    "image_local_path": "/images/jaegerin.jpg"
+  },
+  {
+    "id": "ch9-165",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Kerker",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "dungeon",
+    "explanation": "",
+    "image_local_path": "/images/kerker.jpg"
+  },
+  {
+    "id": "ch9-166",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Mauer",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "wall",
+    "explanation": "",
+    "image_local_path": "/images/mauer.jpg"
+  },
+  {
+    "id": "ch9-167",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "nächtlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "nightly",
+    "explanation": "",
+    "image_local_path": "/images/naechtlich.jpg"
+  },
+  {
+    "id": "ch9-168",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "Schranke",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "barrier",
+    "explanation": "",
+    "image_local_path": "/images/schranke.jpg"
+  },
+  {
+    "id": "ch9-169",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "vergeblich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "forgivable",
+    "explanation": "",
+    "image_local_path": "/images/vergeblich.jpg"
+  },
+  {
+    "id": "ch9-170",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "vorbeifliegen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fly past",
+    "explanation": "er fliegt vorbei, flog vorbei, ist vorbeigeflogen",
+    "image_local_path": "/images/vorbeifliegen.jpg"
+  },
+  {
+    "id": "ch9-171",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "zerreißen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to tear apart",
+    "explanation": "er zerreißt, zerriss, hat zerrissen",
+    "image_local_path": "/images/zerreissen.jpg"
+  },
+  {
+    "id": "ch9-172",
+    "chapter": "Kapitel 9: Kunststücke",
+    "german_word": "relativieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to relativise",
+    "explanation": "",
+    "image_local_path": "/images/relativieren.jpg"
+  }
+]

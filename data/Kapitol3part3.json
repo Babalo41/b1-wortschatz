@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "ch3-101",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Selbstständigkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "independence",
+    "explanation": "",
+    "image_local_path": "/images/selbststandigkeit.jpg"
+  },
+  {
+    "id": "ch3-102",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Stadtrat",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "city council",
+    "explanation": "Sie ist Mitglied im Stadtrat. / She's a member of the city council.",
+    "image_local_path": "/images/stadtrat.jpg"
+  },
+  {
+    "id": "ch3-103",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "stürzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fall",
+    "explanation": "",
+    "image_local_path": "/images/sturzen.jpg"
+  },
+  {
+    "id": "ch3-104",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "tätig sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take an active part",
+    "explanation": "",
+    "image_local_path": "/images/tatig_sein.jpg"
+  },
+  {
+    "id": "ch3-105",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "unverändert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "unchanged",
+    "explanation": "",
+    "image_local_path": "/images/unverandert.jpg"
+  },
+  {
+    "id": "ch3-106",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "von ... auf",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "from one to the next",
+    "explanation": "Von einem Tag auf den anderen veränderte sich ihr Leben radikal. / From one day to the next her life changed radically.",
+    "image_local_path": "/images/von_auf.jpg"
+  },
+  {
+    "id": "ch3-107",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wahl",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "election",
+    "explanation": "Sie gewann eine lokale Wahl und ist nun im Stadtrat aktiv. / She won a local election and is now active in the city council.",
+    "image_local_path": "/images/wahl.jpg"
+  },
+  {
+    "id": "ch3-108",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Weltmeister",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "world champion (m)",
+    "explanation": "",
+    "image_local_path": "/images/weltmeister.jpg"
+  },
+  {
+    "id": "ch3-109",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Weltmeisterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "world champion (f)",
+    "explanation": "",
+    "image_local_path": "/images/weltmeisterin.jpg"
+  },
+  {
+    "id": "ch3-110",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wirbelsäule",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "spine",
+    "explanation": "",
+    "image_local_path": "/images/wirbelsaule.jpg"
+  },
+  {
+    "id": "ch3-111",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "literarisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "literary",
+    "explanation": "",
+    "image_local_path": "/images/literarisch.jpg"
+  },
+  {
+    "id": "ch3-112",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Vergangene",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "past",
+    "explanation": "",
+    "image_local_path": "/images/vergangene.jpg"
+  },
+  {
+    "id": "ch3-113",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Vergangenheitsform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "past tense",
+    "explanation": "",
+    "image_local_path": "/images/vergangenheitsform.jpg"
+  },
+  {
+    "id": "ch3-114",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Zeitungsartikel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "newspaper article",
+    "explanation": "",
+    "image_local_path": "/images/zeitungsartikel.jpg"
+  },
+  {
+    "id": "ch3-115",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "begeistern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to delight, to inspire",
+    "explanation": "",
+    "image_local_path": "/images/begeistern.jpg"
+  },
+  {
+    "id": "ch3-116",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "historisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "historical",
+    "explanation": "",
+    "image_local_path": "/images/historisch.jpg"
+  },
+  {
+    "id": "ch3-117",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Stadtfest",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "city festival",
+    "explanation": "",
+    "image_local_path": "/images/stadtfest.jpg"
+  },
+  {
+    "id": "ch3-118",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "erstellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to create",
+    "explanation": "",
+    "image_local_path": "/images/erstellen.jpg"
+  },
+  {
+    "id": "ch3-119",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Alte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "hier: oneself",
+    "explanation": "wieder der/die Alte sein / to be oneself again",
+    "image_local_path": "/images/alte.jpg"
+  },
+  {
+    "id": "ch3-120",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "aufwachen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to wake up",
+    "explanation": "",
+    "image_local_path": "/images/aufwachen.jpg"
+  },
+  {
+    "id": "ch3-121",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "außerhalb",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "outside",
+    "explanation": "",
+    "image_local_path": "/images/ausserhalb.jpg"
+  },
+  {
+    "id": "ch3-122",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "frisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: new",
+    "explanation": "Ich bin frisch verliebt. / I'm newly in love.",
+    "image_local_path": "/images/frisch.jpg"
+  },
+  {
+    "id": "ch3-123",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "gemacht sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be made for",
+    "explanation": "Ich freue mich, wenn ich Klamotten finde, die wie für mich gemacht sind. / I'm happy when I find clothes that seem to be made for me.",
+    "image_local_path": "/images/gemacht_sein.jpg"
+  },
+  {
+    "id": "ch3-124",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "innerhalb",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "within",
+    "explanation": "",
+    "image_local_path": "/images/innerhalb.jpg"
+  },
+  {
+    "id": "ch3-125",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "liebevoll",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "loving",
+    "explanation": "",
+    "image_local_path": "/images/liebevoll.jpg"
+  },
+  {
+    "id": "ch3-126",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Nachtisch",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "dessert",
+    "explanation": "",
+    "image_local_path": "/images/nachtisch.jpg"
+  },
+  {
+    "id": "ch3-127",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "schwach",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "weak",
+    "explanation": "",
+    "image_local_path": "/images/schwach.jpg"
+  },
+  {
+    "id": "ch3-128",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Schwiegereltern",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "parents-in-law",
+    "explanation": "",
+    "image_local_path": "/images/schwiegereltern.jpg"
+  },
+  {
+    "id": "ch3-129",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Sonnabend",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "Saturday",
+    "explanation": "",
+    "image_local_path": "/images/sonnabend.jpg"
+  },
+  {
+    "id": "ch3-130",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "verlieben (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fall in love",
+    "explanation": "",
+    "image_local_path": "/images/verlieben.jpg"
+  },
+  {
+    "id": "ch3-131",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "verschwinden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to disappear",
+    "explanation": "",
+    "image_local_path": "/images/verschwinden.jpg"
+  },
+  {
+    "id": "ch3-132",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "während",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "during",
+    "explanation": "Während der Arbeit lachen mein Team und ich oft. / My team and I often laugh during work.",
+    "image_local_path": "/images/wahrend.jpg"
+  },
+  {
+    "id": "ch3-133",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Regentag",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "rainy day",
+    "explanation": "",
+    "image_local_path": "/images/regentag.jpg"
+  },
+  {
+    "id": "ch3-134",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "jetzig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "current",
+    "explanation": "",
+    "image_local_path": "/images/jetzig.jpg"
+  },
+  {
+    "id": "ch3-135",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Klinikum",
+    "article": "das",
+    "plural_indicator": "Kliniken",
+    "english_translation": "clinic, hospital",
+    "explanation": "",
+    "image_local_path": "/images/klinikum.jpg"
+  },
+  {
+    "id": "ch3-136",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Krise",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "crisis (situation)",
+    "explanation": "",
+    "image_local_path": "/images/krise.jpg"
+  },
+  {
+    "id": "ch3-137",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "lieb haben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to love",
+    "explanation": "",
+    "image_local_path": "/images/lieb_haben.jpg"
+  },
+  {
+    "id": "ch3-138",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Verhältnis",
+    "article": "das",
+    "plural_indicator": "-se",
+    "english_translation": "relationship",
+    "explanation": "",
+    "image_local_path": "/images/verhaltnis.jpg"
+  },
+  {
+    "id": "ch3-139",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Zuneigung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "affection",
+    "explanation": "",
+    "image_local_path": "/images/zuneigung.jpg"
+  },
+  {
+    "id": "ch3-140",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Botschaft",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "embassy",
+    "explanation": "",
+    "image_local_path": "/images/botschaft.jpg"
+  },
+  {
+    "id": "ch3-141",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Konsulat",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "consulate",
+    "explanation": "",
+    "image_local_path": "/images/konsulat.jpg"
+  },
+  {
+    "id": "ch3-142",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Reisepass",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "passport",
+    "explanation": "",
+    "image_local_path": "/images/reisepass.jpg"
+  },
+  {
+    "id": "ch3-143",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "überqueren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to cross",
+    "explanation": "",
+    "image_local_path": "/images/uberqueren.jpg"
+  },
+  {
+    "id": "ch3-144",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Zoll",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "customs",
+    "explanation": "",
+    "image_local_path": "/images/zoll.jpg"
+  },
+  {
+    "id": "ch3-145",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "aufgeben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to forsake",
+    "explanation": "",
+    "image_local_path": "/images/aufgeben.jpg"
+  },
+  {
+    "id": "ch3-146",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Liebesgeschichte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "love story",
+    "explanation": "",
+    "image_local_path": "/images/liebesgeschichte.jpg"
+  },
+  {
+    "id": "ch3-147",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "niemals",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "never",
+    "explanation": "",
+    "image_local_path": "/images/niemals.jpg"
+  },
+  {
+    "id": "ch3-148",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "wegziehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to move away",
+    "explanation": "",
+    "image_local_path": "/images/wegziehen.jpg"
+  },
+  {
+    "id": "ch3-149",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Büroangestellte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "office worker",
+    "explanation": "",
+    "image_local_path": "/images/buroangestellte.jpg"
+  },
+  {
+    "id": "ch3-150",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Camping",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "camping",
+    "explanation": "",
+    "image_local_path": "/images/camping.jpg"
+  },
+  {
+    "id": "ch3-151",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Espresso-Kanne",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "Italian coffee pot",
+    "explanation": "",
+    "image_local_path": "/images/espresso_kanne.jpg"
+  },
+  {
+    "id": "ch3-152",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Aspekt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "aspect",
+    "explanation": "",
+    "image_local_path": "/images/aspekt.jpg"
+  },
+  {
+    "id": "ch3-153",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Blogeintrag",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "blog post",
+    "explanation": "",
+    "image_local_path": "/images/blogeintrag.jpg"
+  },
+  {
+    "id": "ch3-154",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Fach",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "compartment",
+    "explanation": "Meine Tasche hat viele kleine Fächer. / My bag has many small compartments.",
+    "image_local_path": "/images/fach.jpg"
+  },
+  {
+    "id": "ch3-155",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "gucken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to look",
+    "explanation": "",
+    "image_local_path": "/images/gucken.jpg"
+  },
+  {
+    "id": "ch3-156",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "jahrelang",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "for years",
+    "explanation": "",
+    "image_local_path": "/images/jahrelang.jpg"
+  },
+  {
+    "id": "ch3-157",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Lehrling",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "apprentice",
+    "explanation": "",
+    "image_local_path": "/images/lehrling.jpg"
+  },
+  {
+    "id": "ch3-158",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Mark",
+    "article": "die",
+    "plural_indicator": "-",
+    "english_translation": "German Mark",
+    "explanation": "Vor dem Euro war die Währung in Deutschland Mark. / Before the euro the currency in Germany was German Mark.",
+    "image_local_path": "/images/mark.jpg"
+  },
+  {
+    "id": "ch3-159",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Pfennig",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "penny",
+    "explanation": "Vor dem Cent hieß die Währung in Deutschland Pfennig. / Before the cent existed, the currency in Germany was pennies.",
+    "image_local_path": "/images/pfennig.jpg"
+  },
+  {
+    "id": "ch3-160",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "relativ",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "relative",
+    "explanation": "",
+    "image_local_path": "/images/relativ.jpg"
+  },
+  {
+    "id": "ch3-161",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "veröffentlichen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to release, to publish",
+    "explanation": "",
+    "image_local_path": "/images/veroffentlichen.jpg"
+  },
+  {
+    "id": "ch3-162",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Baustein",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "building block",
+    "explanation": "",
+    "image_local_path": "/images/baustein.jpg"
+  },
+  {
+    "id": "ch3-163",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Muster",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "pattern",
+    "explanation": "",
+    "image_local_path": "/images/muster.jpg"
+  },
+  {
+    "id": "ch3-164",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Struktur",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "structure",
+    "explanation": "",
+    "image_local_path": "/images/struktur.jpg"
+  },
+  {
+    "id": "ch3-165",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Tempusform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "tense (form)",
+    "explanation": "",
+    "image_local_path": "/images/tempusform.jpg"
+  },
+  {
+    "id": "ch3-166",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "aussuchen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to choose",
+    "explanation": "",
+    "image_local_path": "/images/aussuchen.jpg"
+  },
+  {
+    "id": "ch3-167",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "nachher",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "afterwards",
+    "explanation": "",
+    "image_local_path": "/images/nachher.jpg"
+  },
+  {
+    "id": "ch3-168",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "begrüßen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to greet",
+    "explanation": "",
+    "image_local_path": "/images/begrussen.jpg"
+  },
+  {
+    "id": "ch3-169",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Benehmen",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "behaviour",
+    "explanation": "",
+    "image_local_path": "/images/benehmen.jpg"
+  },
+  {
+    "id": "ch3-170",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "anwesend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "present",
+    "explanation": "",
+    "image_local_path": "/images/anwesend.jpg"
+  },
+  {
+    "id": "ch3-171",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "aufhalten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hold open",
+    "explanation": "Es ist höflich, anderen Menschen die Tür aufzuhalten. / It's polite to hold the door open for other people.",
+    "image_local_path": "/images/aufhalten.jpg"
+  },
+  {
+    "id": "ch3-172",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Begrüßung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "greeting",
+    "explanation": "",
+    "image_local_path": "/images/begrussung.jpg"
+  },
+  {
+    "id": "ch3-173",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Benimmbuch",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "book of etiquette",
+    "explanation": "",
+    "image_local_path": "/images/benimmbuch.jpg"
+  },
+  {
+    "id": "ch3-174",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Beziehung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "relationship",
+    "explanation": "",
+    "image_local_path": "/images/beziehung.jpg"
+  },
+  {
+    "id": "ch3-175",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "beziehungsweise (bzw.)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "or (rather)",
+    "explanation": "",
+    "image_local_path": "/images/beziehungsweise.jpg"
+  },
+  {
+    "id": "ch3-176",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "duzen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to use the informal greeting",
+    "explanation": "",
+    "image_local_path": "/images/duzen.jpg"
+  },
+  {
+    "id": "ch3-177",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Gastgeber",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "host (m)",
+    "explanation": "",
+    "image_local_path": "/images/gastgeber.jpg"
+  },
+  {
+    "id": "ch3-178",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Gastgeberin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "host (f)",
+    "explanation": "",
+    "image_local_path": "/images/gastgeberin.jpg"
+  },
+  {
+    "id": "ch3-179",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Geschäftsfrau",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "business woman",
+    "explanation": "",
+    "image_local_path": "/images/geschaftsfrau.jpg"
+  },
+  {
+    "id": "ch3-180",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Geschäftsmann",
+    "article": "der",
+    "plural_indicator": "\"-er",
+    "english_translation": "business man",
+    "explanation": "",
+    "image_local_path": "/images/geschaftsmann.jpg"
+  },
+  {
+    "id": "ch3-181",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Gewohnheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "habit",
+    "explanation": "",
+    "image_local_path": "/images/gewohnheit.jpg"
+  },
+  {
+    "id": "ch3-182",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "hierarchisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hierarchical",
+    "explanation": "",
+    "image_local_path": "/images/hierarchisch.jpg"
+  },
+  {
+    "id": "ch3-183",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "ignorieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to ignore",
+    "explanation": "",
+    "image_local_path": "/images/ignorieren.jpg"
+  },
+  {
+    "id": "ch3-184",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "klagen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lament",
+    "explanation": "",
+    "image_local_path": "/images/klagen.jpg"
+  },
+  {
+    "id": "ch3-185",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Kuss",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "kiss",
+    "explanation": "",
+    "image_local_path": "/images/kuss.jpg"
+  },
+  {
+    "id": "ch3-186",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Lift",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "elevator",
+    "explanation": "",
+    "image_local_path": "/images/lift.jpg"
+  },
+  {
+    "id": "ch3-187",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "niesen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sneeze",
+    "explanation": "",
+    "image_local_path": "/images/niesen.jpg"
+  },
+  {
+    "id": "ch3-188",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Personal",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "staff",
+    "explanation": "",
+    "image_local_path": "/images/personal.jpg"
+  },
+  {
+    "id": "ch3-189",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Reihe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "hier: turn",
+    "explanation": "der Reihe nach / in turn",
+    "image_local_path": "/images/reihe.jpg"
+  },
+  {
+    "id": "ch3-190",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "siezen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to use the formal greeting",
+    "explanation": "",
+    "image_local_path": "/images/siezen.jpg"
+  },
+  {
+    "id": "ch3-191",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "theoretisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "theoretical",
+    "explanation": "",
+    "image_local_path": "/images/theoretisch.jpg"
+  },
+  {
+    "id": "ch3-192",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "üblich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "usual",
+    "explanation": "",
+    "image_local_path": "/images/ublich.jpg"
+  },
+  {
+    "id": "ch3-193",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "umarmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hug",
+    "explanation": "",
+    "image_local_path": "/images/umarmen.jpg"
+  },
+  {
+    "id": "ch3-194",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "umgekehrt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "the other way around",
+    "explanation": "",
+    "image_local_path": "/images/umgekehrt.jpg"
+  },
+  {
+    "id": "ch3-195",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "unsicher",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "insecure",
+    "explanation": "",
+    "image_local_path": "/images/unsicher.jpg"
+  },
+  {
+    "id": "ch3-196",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "unter",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "among",
+    "explanation": "Unter Studierenden gibt es eigentlich kein Siezen mehr. / Among students one doesn't really use the formal greeting anymore.",
+    "image_local_path": "/images/unter.jpg"
+  },
+  {
+    "id": "ch3-197",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "verhalten (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to behave",
+    "explanation": "",
+    "image_local_path": "/images/verhalten.jpg"
+  },
+  {
+    "id": "ch3-198",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "verkehrt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: wrong",
+    "explanation": "",
+    "image_local_path": "/images/verkehrt.jpg"
+  },
+  {
+    "id": "ch3-199",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "vertraut",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "familiar",
+    "explanation": "",
+    "image_local_path": "/images/vertraut.jpg"
+  },
+  {
+    "id": "ch3-200",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Vorgesetzte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "superiors",
+    "explanation": "",
+    "image_local_path": "/images/vorgesetzte.jpg"
+  },
+  {
+    "id": "ch3-201",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wange",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "cheek",
+    "explanation": "",
+    "image_local_path": "/images/wange.jpg"
+  },
+  {
+    "id": "ch3-202",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Vokaländerung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "vowel change",
+    "explanation": "",
+    "image_local_path": "/images/vokalanderung.jpg"
+  }
+]

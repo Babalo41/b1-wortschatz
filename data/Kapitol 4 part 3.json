@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ch4-107",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Profi",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "professional",
+    "explanation": "",
+    "image_local_path": "/images/profi.jpg"
+  },
+  {
+    "id": "ch4-108",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Ratgeber",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "advisor",
+    "explanation": "",
+    "image_local_path": "/images/ratgeber.jpg"
+  },
+  {
+    "id": "ch4-109",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "relevant",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "relevant",
+    "explanation": "",
+    "image_local_path": "/images/relevant.jpg"
+  },
+  {
+    "id": "ch4-110",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "sämtlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "all",
+    "explanation": "",
+    "image_local_path": "/images/samtlich.jpg"
+  },
+  {
+    "id": "ch4-111",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "selbstverständlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "of course",
+    "explanation": "",
+    "image_local_path": "/images/selbstverstandlich.jpg"
+  },
+  {
+    "id": "ch4-112",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "seriös",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "respectable",
+    "explanation": "",
+    "image_local_path": "/images/serios.jpg"
+  },
+  {
+    "id": "ch4-113",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Stand",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "status",
+    "explanation": "Der Chef fragt mich oft nach dem Stand der Dinge in meinem Projekt. / My boss often inquires after the status of my projects.",
+    "image_local_path": "/images/stand.jpg"
+  },
+  {
+    "id": "ch4-114",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Voraussetzung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "prerequisite, condition",
+    "explanation": "",
+    "image_local_path": "/images/voraussetzung.jpg"
+  },
+  {
+    "id": "ch4-115",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Vorlage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "guideline",
+    "explanation": "",
+    "image_local_path": "/images/vorlage.jpg"
+  },
+  {
+    "id": "ch4-116",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zukünftig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "future",
+    "explanation": "",
+    "image_local_path": "/images/zukunftig.jpg"
+  },
+  {
+    "id": "ch4-117",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Zweck",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "purpose",
+    "explanation": "",
+    "image_local_path": "/images/zweck.jpg"
+  },
+  {
+    "id": "ch4-118",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "darüber",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "about that",
+    "explanation": "",
+    "image_local_path": "/images/daruber.jpg"
+  },
+  {
+    "id": "ch4-119",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Pronomingladverb",
+    "article": "das",
+    "plural_indicator": "-ien",
+    "english_translation": "pronominal adverb",
+    "explanation": "",
+    "image_local_path": "/images/pronomingladverb.jpg"
+  },
+  {
+    "id": "ch4-120",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "befriedigend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "satisfying",
+    "explanation": "",
+    "image_local_path": "/images/befriedigend.jpg"
+  },
+  {
+    "id": "ch4-121",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "beziehen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to refer to",
+    "explanation": "",
+    "image_local_path": "/images/beziehen.jpg"
+  },
+  {
+    "id": "ch4-122",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "danach",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "after that",
+    "explanation": "Die freie Stelle? Ja, Frau Markovic hat sich danach erkundigt. / The vacant position? Yes, Ms. Markovic inquired after that.",
+    "image_local_path": "/images/danach.jpg"
+  },
+  {
+    "id": "ch4-123",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Arbeitnehmer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "worker (m)",
+    "explanation": "",
+    "image_local_path": "/images/arbeitnehmer.jpg"
+  },
+  {
+    "id": "ch4-124",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Arbeitnehmerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "worker (f)",
+    "explanation": "",
+    "image_local_path": "/images/arbeitnehmerin.jpg"
+  },
+  {
+    "id": "ch4-125",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Eindruck",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "impression",
+    "explanation": "Mach einen guten Eindruck auf den Arbeitgeber. / Make a good impression on the superiors.",
+    "image_local_path": "/images/eindruck.jpg"
+  },
+  {
+    "id": "ch4-126",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "klein machen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to belittle oneself",
+    "explanation": "",
+    "image_local_path": "/images/klein_machen.jpg"
+  },
+  {
+    "id": "ch4-127",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "überzeugen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to convince",
+    "explanation": "",
+    "image_local_path": "/images/uberzeugen.jpg"
+  },
+  {
+    "id": "ch4-128",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "qualifiziert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "qualified",
+    "explanation": "",
+    "image_local_path": "/images/qualifiziert.jpg"
+  },
+  {
+    "id": "ch4-129",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Absprache",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "agreement",
+    "explanation": "",
+    "image_local_path": "/images/absprache.jpg"
+  },
+  {
+    "id": "ch4-130",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "gesucht",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "wanted",
+    "explanation": "",
+    "image_local_path": "/images/gesucht.jpg"
+  },
+  {
+    "id": "ch4-131",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Inserat",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "advertisement, insert",
+    "explanation": "",
+    "image_local_path": "/images/inserat.jpg"
+  },
+  {
+    "id": "ch4-132",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "kommunikativ",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "communicative",
+    "explanation": "",
+    "image_local_path": "/images/kommunikativ.jpg"
+  },
+  {
+    "id": "ch4-133",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Nachtportier",
+    "article": "der",
+    "plural_indicator": "-s/-e",
+    "english_translation": "night porter (m)",
+    "explanation": "",
+    "image_local_path": "/images/nachtportier.jpg"
+  },
+  {
+    "id": "ch4-134",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Stundenlohn",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "hourly wage",
+    "explanation": "",
+    "image_local_path": "/images/stundenlohn.jpg"
+  },
+  {
+    "id": "ch4-135",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Teilzeitjob",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "part-time job",
+    "explanation": "",
+    "image_local_path": "/images/teilzeitjob.jpg"
+  },
+  {
+    "id": "ch4-136",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Vergnügen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "enjoyment, delight",
+    "explanation": "",
+    "image_local_path": "/images/vergnugen.jpg"
+  },
+  {
+    "id": "ch4-137",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Zeiteinteilung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "time management",
+    "explanation": "",
+    "image_local_path": "/images/zeiteinteilung.jpg"
+  },
+  {
+    "id": "ch4-138",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bereich",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "area",
+    "explanation": "",
+    "image_local_path": "/images/bereich.jpg"
+  },
+  {
+    "id": "ch4-139",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerbungsunterlagen",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "application",
+    "explanation": "",
+    "image_local_path": "/images/bewerbungsunterlagen.jpg"
+  },
+  {
+    "id": "ch4-140",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Interessent",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "interested party (m)",
+    "explanation": "",
+    "image_local_path": "/images/interessent.jpg"
+  },
+  {
+    "id": "ch4-141",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Interessentin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "interested party (f)",
+    "explanation": "",
+    "image_local_path": "/images/interessentin.jpg"
+  },
+  {
+    "id": "ch4-142",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "vorbeikommen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to come over in person",
+    "explanation": "",
+    "image_local_path": "/images/vorbeikommen.jpg"
+  },
+  {
+    "id": "ch4-143",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "absolut",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "absolutely",
+    "explanation": "",
+    "image_local_path": "/images/absolut.jpg"
+  },
+  {
+    "id": "ch4-144",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "aggressiv",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "aggressive",
+    "explanation": "",
+    "image_local_path": "/images/aggressiv.jpg"
+  },
+  {
+    "id": "ch4-145",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Anfahrt",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "journey",
+    "explanation": "",
+    "image_local_path": "/images/anfahrt.jpg"
+  },
+  {
+    "id": "ch4-146",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Aufmerksamkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "attention",
+    "explanation": "",
+    "image_local_path": "/images/aufmerksamkeit.jpg"
+  },
+  {
+    "id": "ch4-147",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Aufregung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "excitement",
+    "explanation": "",
+    "image_local_path": "/images/aufregung.jpg"
+  },
+  {
+    "id": "ch4-148",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Auftritt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "appearance",
+    "explanation": "",
+    "image_local_path": "/images/auftritt.jpg"
+  },
+  {
+    "id": "ch4-149",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Beurteilung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "assessment",
+    "explanation": "",
+    "image_local_path": "/images/beurteilung.jpg"
+  },
+  {
+    "id": "ch4-150",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerber",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "applicant (m)",
+    "explanation": "",
+    "image_local_path": "/images/bewerber.jpg"
+  },
+  {
+    "id": "ch4-151",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Bewerberin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "applicant (f)",
+    "explanation": "",
+    "image_local_path": "/images/bewerberin.jpg"
+  },
+  {
+    "id": "ch4-152",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Branche",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "field of business",
+    "explanation": "",
+    "image_local_path": "/images/branche.jpg"
+  },
+  {
+    "id": "ch4-153",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Einstellung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "approach, attitude",
+    "explanation": "",
+    "image_local_path": "/images/einstellung.jpg"
+  },
+  {
+    "id": "ch4-154",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "entspannt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "relaxed",
+    "explanation": "",
+    "image_local_path": "/images/entspannt.jpg"
+  },
+  {
+    "id": "ch4-155",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Fähigkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "ability",
+    "explanation": "",
+    "image_local_path": "/images/fahigkeit.jpg"
+  },
+  {
+    "id": "ch4-156",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Faktor",
+    "article": "der",
+    "plural_indicator": "Faktoren",
+    "english_translation": "factor",
+    "explanation": "",
+    "image_local_path": "/images/faktor.jpg"
+  },
+  {
+    "id": "ch4-157",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "gesamt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "whole",
+    "explanation": "",
+    "image_local_path": "/images/gesamt.jpg"
+  },
+  {
+    "id": "ch4-158",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "heraus-suchen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to look up",
+    "explanation": "",
+    "image_local_path": "/images/heraus_suchen.jpg"
+  },
+  {
+    "id": "ch4-159",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "konservativ",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "conservative",
+    "explanation": "",
+    "image_local_path": "/images/konservativ.jpg"
+  },
+  {
+    "id": "ch4-160",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Körperhaltung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "posture",
+    "explanation": "",
+    "image_local_path": "/images/korperhaltung.jpg"
+  },
+  {
+    "id": "ch4-161",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Körpersprache",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "body language",
+    "explanation": "",
+    "image_local_path": "/images/korpersprache.jpg"
+  },
+  {
+    "id": "ch4-162",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "lauter",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: all",
+    "explanation": "Vor lauter Aufregung habe ich die Frage der Prüferin nicht verstanden. / I didn't understand the question of the eximaner because of all the excitement.",
+    "image_local_path": "/images/lauter.jpg"
+  },
+  {
+    "id": "ch4-163",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "locker",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "casual",
+    "explanation": "",
+    "image_local_path": "/images/locker.jpg"
+  },
+  {
+    "id": "ch4-164",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "menschlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "human",
+    "explanation": "",
+    "image_local_path": "/images/menschlich.jpg"
+  },
+  {
+    "id": "ch4-165",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "möglichst",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "possible",
+    "explanation": "",
+    "image_local_path": "/images/moglichst.jpg"
+  },
+  {
+    "id": "ch4-166",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "offen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "open",
+    "explanation": "Jeder Arbeitgeber freut sich über offene und engagierte Mitarbeiter. / Every employer is happy to have open and involved employees.",
+    "image_local_path": "/images/offen.jpg"
+  },
+  {
+    "id": "ch4-167",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "optimistisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "optimistic",
+    "explanation": "",
+    "image_local_path": "/images/optimistisch.jpg"
+  },
+  {
+    "id": "ch4-168",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Outfit",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "outfit",
+    "explanation": "",
+    "image_local_path": "/images/outfit.jpg"
+  },
+  {
+    "id": "ch4-169",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Persönlichkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "personality",
+    "explanation": "",
+    "image_local_path": "/images/personlichkeit.jpg"
+  },
+  {
+    "id": "ch4-170",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Planung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "plan",
+    "explanation": "",
+    "image_local_path": "/images/planung.jpg"
+  },
+  {
+    "id": "ch4-171",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "ruhig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "calm",
+    "explanation": "Sagen Sie ruhig, wenn Sie etwas nicht verstanden haben. / Ask calmly when you didn't understand something.",
+    "image_local_path": "/images/ruhig.jpg"
+  },
+  {
+    "id": "ch4-172",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "signalisieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to signal",
+    "explanation": "",
+    "image_local_path": "/images/signalisieren.jpg"
+  },
+  {
+    "id": "ch4-173",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "steif",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "stiff",
+    "explanation": "",
+    "image_local_path": "/images/steif.jpg"
+  },
+  {
+    "id": "ch4-174",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "stellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to set",
+    "explanation": "den Wecker stellen / to set the alarm clock",
+    "image_local_path": "/images/stellen.jpg"
+  },
+  {
+    "id": "ch4-175",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Unternehmer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "business man",
+    "explanation": "",
+    "image_local_path": "/images/unternehmer.jpg"
+  },
+  {
+    "id": "ch4-176",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Unternehmerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "business woman",
+    "explanation": "",
+    "image_local_path": "/images/unternehmerin.jpg"
+  },
+  {
+    "id": "ch4-177",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Verbindung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "connection",
+    "explanation": "",
+    "image_local_path": "/images/verbindung.jpg"
+  },
+  {
+    "id": "ch4-178",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "vorziehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to prefer",
+    "explanation": "",
+    "image_local_path": "/images/vorziehen.jpg"
+  },
+  {
+    "id": "ch4-179",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Wecker",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "alarm",
+    "explanation": "den Wecker stellen / to set the alarm clock",
+    "image_local_path": "/images/wecker.jpg"
+  },
+  {
+    "id": "ch4-180",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zählen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to count",
+    "explanation": "Pünktlichkeit zählt zu den wichtigsten Eigenschaften eines Bewerbers. / Punctuality counts as one of the most important characteristics of an applicant.",
+    "image_local_path": "/images/zahlen.jpg"
+  },
+  {
+    "id": "ch4-181",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zahlreich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "numerous",
+    "explanation": "",
+    "image_local_path": "/images/zahlreich.jpg"
+  },
+  {
+    "id": "ch4-182",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zornig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "furious",
+    "explanation": "",
+    "image_local_path": "/images/zornig.jpg"
+  },
+  {
+    "id": "ch4-183",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zusammenstellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to collect",
+    "explanation": "",
+    "image_local_path": "/images/zusammenstellen.jpg"
+  },
+  {
+    "id": "ch4-184",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Zweifel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "doubt",
+    "explanation": "",
+    "image_local_path": "/images/zweifel.jpg"
+  },
+  {
+    "id": "ch4-185",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "inhaltlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "ungefähr: relevant",
+    "explanation": "",
+    "image_local_path": "/images/inhaltlich.jpg"
+  },
+  {
+    "id": "ch4-186",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "speziell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: specifically",
+    "explanation": "",
+    "image_local_path": "/images/speziell.jpg"
+  }
+]

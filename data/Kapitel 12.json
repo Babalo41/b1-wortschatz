@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ch12-001",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "regieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to rule",
+    "explanation": "",
+    "image_local_path": "/images/regieren.jpg"
+  },
+  {
+    "id": "ch12-002",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Bankgeschäft",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "banking",
+    "explanation": "",
+    "image_local_path": "/images/bankgeschaeft.jpg"
+  },
+  {
+    "id": "ch12-003",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Beleg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "receipt",
+    "explanation": "",
+    "image_local_path": "/images/beleg.jpg"
+  },
+  {
+    "id": "ch12-004",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "einzahlen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to deposit",
+    "explanation": "",
+    "image_local_path": "/images/einzahlen.jpg"
+  },
+  {
+    "id": "ch12-005",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Rate",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "rate",
+    "explanation": "",
+    "image_local_path": "/images/rate.jpg"
+  },
+  {
+    "id": "ch12-006",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kontoauszug",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "bank statement",
+    "explanation": "",
+    "image_local_path": "/images/kontoauszug.jpg"
+  },
+  {
+    "id": "ch12-007",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "überziehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to overdraw",
+    "explanation": "Ich hoffe, ich muss mein Konto nie überziehen. / I hope I don't have to overdraw my account.",
+    "image_local_path": "/images/ueberziehen.jpg"
+  },
+  {
+    "id": "ch12-008",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Zins",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "interest",
+    "explanation": "",
+    "image_local_path": "/images/zins.jpg"
+  },
+  {
+    "id": "ch12-009",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "angeben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to state",
+    "explanation": "Bitte geben Sie Ihren Namen an. / Please state your name.",
+    "image_local_path": "/images/angeben.jpg"
+  },
+  {
+    "id": "ch12-010",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Ausgabe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "expense",
+    "explanation": "Ich habe jeden Monat viele Ausgaben und am Ende fast kein Geld mehr. / I have a lot of expenses every month and hardly any money at the end of it.",
+    "image_local_path": "/images/ausgabe.jpg"
+  },
+  {
+    "id": "ch12-011",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "BIC",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "SWIFT-BIC",
+    "explanation": "",
+    "image_local_path": "/images/bic.jpg"
+  },
+  {
+    "id": "ch12-012",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Einnahme",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "revenue",
+    "explanation": "",
+    "image_local_path": "/images/einnahme.jpg"
+  },
+  {
+    "id": "ch12-013",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "fällig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "due",
+    "explanation": "",
+    "image_local_path": "/images/faellig.jpg"
+  },
+  {
+    "id": "ch12-014",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "fristgerecht",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "on time",
+    "explanation": "",
+    "image_local_path": "/images/fristgerecht.jpg"
+  },
+  {
+    "id": "ch12-015",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "IBAN",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "IBAN",
+    "explanation": "",
+    "image_local_path": "/images/iban.jpg"
+  },
+  {
+    "id": "ch12-016",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "monatlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "monthly",
+    "explanation": "",
+    "image_local_path": "/images/monatlich.jpg"
+  },
+  {
+    "id": "ch12-017",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Münze",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "coin",
+    "explanation": "",
+    "image_local_path": "/images/muenze.jpg"
+  },
+  {
+    "id": "ch12-018",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Schein",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "bill",
+    "explanation": "",
+    "image_local_path": "/images/schein.jpg"
+  },
+  {
+    "id": "ch12-019",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Schulden",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "debt",
+    "explanation": "Er hat hohe Schulden bei der Bank. / He has a lot of debt at the bank.",
+    "image_local_path": "/images/schulden.jpg"
+  },
+  {
+    "id": "ch12-020",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "versäumen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to miss",
+    "explanation": "",
+    "image_local_path": "/images/versaeumen.jpg"
+  },
+  {
+    "id": "ch12-021",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Zahlung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "payment",
+    "explanation": "",
+    "image_local_path": "/images/zahlung.jpg"
+  },
+  {
+    "id": "ch12-022",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "abhängig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "dependent",
+    "explanation": "",
+    "image_local_path": "/images/abhaengig.jpg"
+  },
+  {
+    "id": "ch12-023",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "je..., desto ...",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "the ..., the",
+    "explanation": "",
+    "image_local_path": "/images/je_desto.jpg"
+  },
+  {
+    "id": "ch12-024",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "je ..., umso ...",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "the..., the",
+    "explanation": "",
+    "image_local_path": "/images/je_umso.jpg"
+  },
+  {
+    "id": "ch12-025",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kontoführungsgebühr",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "account maintenance charge",
+    "explanation": "",
+    "image_local_path": "/images/kontofuehrungsgebuehr.jpg"
+  },
+  {
+    "id": "ch12-026",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Grundform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "basic form",
+    "explanation": "",
+    "image_local_path": "/images/grundform.jpg"
+  },
+  {
+    "id": "ch12-027",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Online-Banking",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "online banking",
+    "explanation": "",
+    "image_local_path": "/images/online_banking.jpg"
+  },
+  {
+    "id": "ch12-028",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Bankangestellte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "bank teller",
+    "explanation": "",
+    "image_local_path": "/images/bankangestellte.jpg"
+  },
+  {
+    "id": "ch12-029",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Bargeld",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "cash",
+    "explanation": "",
+    "image_local_path": "/images/bargeld.jpg"
+  },
+  {
+    "id": "ch12-030",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "gering",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "small",
+    "explanation": "",
+    "image_local_path": "/images/gering.jpg"
+  },
+  {
+    "id": "ch12-031",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "aufnehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take out",
+    "explanation": "Ich möchte gern einen Kredit aufnehmen. / I would like to take out a loan",
+    "image_local_path": "/images/aufnehmen.jpg"
+  },
+  {
+    "id": "ch12-032",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kleiderschrank",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "wardrobe",
+    "explanation": "",
+    "image_local_path": "/images/kleiderschrank.jpg"
+  },
+  {
+    "id": "ch12-033",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "anfallen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to arise",
+    "explanation": "er fällt an, fiel an, ist angefallen",
+    "image_local_path": "/images/anfallen.jpg"
+  },
+  {
+    "id": "ch12-034",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Ansicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "prospect",
+    "explanation": "Die Ansicht können Sie auf der Webseite ändern. / You can change the prospect on the website.",
+    "image_local_path": "/images/ansicht.jpg"
+  },
+  {
+    "id": "ch12-035",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Benutzername",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "user name",
+    "explanation": "",
+    "image_local_path": "/images/benutzername.jpg"
+  },
+  {
+    "id": "ch12-036",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Dauerauftrag",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "recurring payment, standing order",
+    "explanation": "",
+    "image_local_path": "/images/dauerauftrag.jpg"
+  },
+  {
+    "id": "ch12-037",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "einloggen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to log in",
+    "explanation": "",
+    "image_local_path": "/images/einloggen.jpg"
+  },
+  {
+    "id": "ch12-038",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "eintragen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to register",
+    "explanation": "er trägt ein, trug ein, hat eingetragen",
+    "image_local_path": "/images/eintragen.jpg"
+  },
+  {
+    "id": "ch12-039",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Fotoüberweisung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "picture transfer",
+    "explanation": "",
+    "image_local_path": "/images/fotoueberweisung.jpg"
+  },
+  {
+    "id": "ch12-040",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kontodaten",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "account information",
+    "explanation": "",
+    "image_local_path": "/images/kontodaten.jpg"
+  },
+  {
+    "id": "ch12-041",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kontoübersicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "account overview",
+    "explanation": "",
+    "image_local_path": "/images/kontouebersicht.jpg"
+  },
+  {
+    "id": "ch12-042",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Log-in",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "log-in",
+    "explanation": "",
+    "image_local_path": "/images/log_in.jpg"
+  },
+  {
+    "id": "ch12-043",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Menü",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "menu",
+    "explanation": "Klicken Sie im Menü \"Start\" an. / Click \"Start\" in the menu",
+    "image_local_path": "/images/menue.jpg"
+  },
+  {
+    "id": "ch12-044",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Standardübersicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "standard overview",
+    "explanation": "",
+    "image_local_path": "/images/standarduebersicht.jpg"
+  },
+  {
+    "id": "ch12-045",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "gutschreiben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to credit",
+    "explanation": "einen Betrag auf dem Konto gutschreiben / to credit an amount on the account",
+    "image_local_path": "/images/gutschreiben.jpg"
+  },
+  {
+    "id": "ch12-046",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kontoeröffnung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "account opening",
+    "explanation": "",
+    "image_local_path": "/images/kontoeroeffnung.jpg"
+  },
+  {
+    "id": "ch12-047",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Kopie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "copy",
+    "explanation": "",
+    "image_local_path": "/images/kopie.jpg"
+  },
+  {
+    "id": "ch12-048",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "umgehend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "immediate",
+    "explanation": "",
+    "image_local_path": "/images/umgehend.jpg"
+  },
+  {
+    "id": "ch12-049",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "Verlust",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "loss",
+    "explanation": "",
+    "image_local_path": "/images/verlust.jpg"
+  },
+  {
+    "id": "ch12-050",
+    "chapter": "Kapitel 12: Geld regiert die Welt?",
+    "german_word": "zudem",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "in addition",
+    "explanation": "",
+    "image_local_path": "/images/zudem.jpg"
+  }
+]

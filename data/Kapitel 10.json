@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ch10-001",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Demokratie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "democracy",
+    "explanation": "",
+    "image_local_path": "/images/demokratie.jpg"
+  },
+  {
+    "id": "ch10-002",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ehrlichkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "honesty",
+    "explanation": "",
+    "image_local_path": "/images/ehrlichkeit.jpg"
+  },
+  {
+    "id": "ch10-003",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Erziehung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "upbringing",
+    "explanation": "",
+    "image_local_path": "/images/erziehung.jpg"
+  },
+  {
+    "id": "ch10-004",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Fairness",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "fairness",
+    "explanation": "",
+    "image_local_path": "/images/fairness.jpg"
+  },
+  {
+    "id": "ch10-005",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Gerechtigkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "justice",
+    "explanation": "",
+    "image_local_path": "/images/gerechtigkeit.jpg"
+  },
+  {
+    "id": "ch10-006",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Gleichberechtigung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "equality",
+    "explanation": "",
+    "image_local_path": "/images/gleichberechtigung.jpg"
+  },
+  {
+    "id": "ch10-007",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Hilfsbereitschaft",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "helpfulness",
+    "explanation": "",
+    "image_local_path": "/images/hilfsbereitschaft.jpg"
+  },
+  {
+    "id": "ch10-008",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Respekt",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "respect",
+    "explanation": "",
+    "image_local_path": "/images/respekt.jpg"
+  },
+  {
+    "id": "ch10-009",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Wert",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "value",
+    "explanation": "Welche Werte sind in einer Gesellschaft wichtig?",
+    "image_local_path": "/images/wert.jpg"
+  },
+  {
+    "id": "ch10-010",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Zivilcourage",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "moral courage",
+    "explanation": "",
+    "image_local_path": "/images/zivilcourage.jpg"
+  },
+  {
+    "id": "ch10-011",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Abgeordnete",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "MP, congress(wo)man",
+    "explanation": "",
+    "image_local_path": "/images/abgeordnete.jpg"
+  },
+  {
+    "id": "ch10-012",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Amt",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "office",
+    "explanation": "Sie übernimmt das Amt einer Abgeordneten.",
+    "image_local_path": "/images/amt.jpg"
+  },
+  {
+    "id": "ch10-013",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Arbeitsstelle",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "job",
+    "explanation": "",
+    "image_local_path": "/images/arbeitsstelle.jpg"
+  },
+  {
+    "id": "ch10-014",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Aufnahme",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "inclusion",
+    "explanation": "die Aufnahme in ein Team",
+    "image_local_path": "/images/aufnahme.jpg"
+  },
+  {
+    "id": "ch10-015",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Bedürfnis",
+    "article": "das",
+    "plural_indicator": "-se",
+    "english_translation": "need",
+    "explanation": "",
+    "image_local_path": "/images/beduerfnis.jpg"
+  },
+  {
+    "id": "ch10-016",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Blinde",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "blind person",
+    "explanation": "",
+    "image_local_path": "/images/blinde.jpg"
+  },
+  {
+    "id": "ch10-017",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Bundeskanzler",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "chancellor (m)",
+    "explanation": "",
+    "image_local_path": "/images/bundeskanzler.jpg"
+  },
+  {
+    "id": "ch10-018",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Bundeskanzlerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "chancellor (f)",
+    "explanation": "",
+    "image_local_path": "/images/bundeskanzlerin.jpg"
+  },
+  {
+    "id": "ch10-019",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Bundestag",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "Bundestag",
+    "explanation": "",
+    "image_local_path": "/images/bundestag.jpg"
+  },
+  {
+    "id": "ch10-020",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Flucht",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "escape",
+    "explanation": "",
+    "image_local_path": "/images/flucht.jpg"
+  },
+  {
+    "id": "ch10-021",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "humorvoll",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "funny",
+    "explanation": "",
+    "image_local_path": "/images/humorvoll.jpg"
+  },
+  {
+    "id": "ch10-022",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Integration",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "integration",
+    "explanation": "",
+    "image_local_path": "/images/integration.jpg"
+  },
+  {
+    "id": "ch10-023",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Kandidat",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "candidate (m)",
+    "explanation": "",
+    "image_local_path": "/images/kandidat.jpg"
+  },
+  {
+    "id": "ch10-024",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Kandidatin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "candidate (f)",
+    "explanation": "",
+    "image_local_path": "/images/kandidatin.jpg"
+  },
+  {
+    "id": "ch10-025",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "körperlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "physical",
+    "explanation": "",
+    "image_local_path": "/images/koerperlich.jpg"
+  },
+  {
+    "id": "ch10-026",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Migrant",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "migrant (m)",
+    "explanation": "",
+    "image_local_path": "/images/migrant.jpg"
+  },
+  {
+    "id": "ch10-027",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Migrantin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "migrant (f)",
+    "explanation": "",
+    "image_local_path": "/images/migrantin.jpg"
+  },
+  {
+    "id": "ch10-028",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Minderheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "minority",
+    "explanation": "",
+    "image_local_path": "/images/minderheit.jpg"
+  },
+  {
+    "id": "ch10-029",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Minister",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "minister (m)",
+    "explanation": "",
+    "image_local_path": "/images/minister.jpg"
+  },
+  {
+    "id": "ch10-030",
+    "chapter": "Kapitel 10: Miteinander",
+    "german_word": "Ministerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "minister (f)",
+    "explanation": "",
+    "image_local_path": "/images/ministerin.jpg"
+  }
+]

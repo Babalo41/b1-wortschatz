@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ch4-001",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Analyse",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "analysis",
+    "explanation": "",
+    "image_local_path": "/images/analyse.jpg"
+  },
+  {
+    "id": "ch4-002",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "austragen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to deliver",
+    "explanation": "Post austragen / to deliver post",
+    "image_local_path": "/images/austragen.jpg"
+  },
+  {
+    "id": "ch4-003",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Briefträger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "postal carrier (m)",
+    "explanation": "",
+    "image_local_path": "/images/brieftrager.jpg"
+  },
+  {
+    "id": "ch4-004",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Briefträgerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "postal carrier (f)",
+    "explanation": "",
+    "image_local_path": "/images/brieftragerin.jpg"
+  },
+  {
+    "id": "ch4-005",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Chemiker",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "chemist (m)",
+    "explanation": "",
+    "image_local_path": "/images/chemiker.jpg"
+  },
+  {
+    "id": "ch4-006",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Chemikerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "chemist (f)",
+    "explanation": "",
+    "image_local_path": "/images/chemikerin.jpg"
+  },
+  {
+    "id": "ch4-007",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Elektronik",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "electronics",
+    "explanation": "",
+    "image_local_path": "/images/elektronik.jpg"
+  },
+  {
+    "id": "ch4-008",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "exakt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "exact",
+    "explanation": "",
+    "image_local_path": "/images/exakt.jpg"
+  },
+  {
+    "id": "ch4-009",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "geregelt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: fixed",
+    "explanation": "",
+    "image_local_path": "/images/geregelt.jpg"
+  },
+  {
+    "id": "ch4-010",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Mechatroniker",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "mechanical electronics engineer (m)",
+    "explanation": "",
+    "image_local_path": "/images/mechatroniker.jpg"
+  },
+  {
+    "id": "ch4-011",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Mechatronikerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "mechanical electronics engineer (f)",
+    "explanation": "",
+    "image_local_path": "/images/mechatronikerin.jpg"
+  },
+  {
+    "id": "ch4-012",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Metall",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "metal",
+    "explanation": "",
+    "image_local_path": "/images/metall.jpg"
+  },
+  {
+    "id": "ch4-013",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "zustellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to deliver",
+    "explanation": "",
+    "image_local_path": "/images/zustellen.jpg"
+  },
+  {
+    "id": "ch4-014",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Akte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "file",
+    "explanation": "",
+    "image_local_path": "/images/akte.jpg"
+  },
+  {
+    "id": "ch4-015",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "anbauen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to cultivate, to attach",
+    "explanation": "",
+    "image_local_path": "/images/anbauen.jpg"
+  },
+  {
+    "id": "ch4-016",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Angeklagte",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "defendant",
+    "explanation": "",
+    "image_local_path": "/images/angeklagte.jpg"
+  },
+  {
+    "id": "ch4-017",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Anlage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "attachment, facility, exhibit",
+    "explanation": "",
+    "image_local_path": "/images/anlage.jpg"
+  },
+  {
+    "id": "ch4-018",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "beschäftigen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to occupy oneself with",
+    "explanation": "",
+    "image_local_path": "/images/beschaftigen.jpg"
+  },
+  {
+    "id": "ch4-019",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Einkommen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "income",
+    "explanation": "",
+    "image_local_path": "/images/einkommen.jpg"
+  },
+  {
+    "id": "ch4-020",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Elektroingenieur",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "electrical engineer (m)",
+    "explanation": "",
+    "image_local_path": "/images/elektroingenieur.jpg"
+  },
+  {
+    "id": "ch4-021",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Elektroingenieurin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "electrical engineer (f)",
+    "explanation": "",
+    "image_local_path": "/images/elektroingenieurin.jpg"
+  },
+  {
+    "id": "ch4-022",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "ursprünglich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "originally",
+    "explanation": "",
+    "image_local_path": "/images/ursprunglich.jpg"
+  },
+  {
+    "id": "ch4-023",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "fair",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "fair",
+    "explanation": "",
+    "image_local_path": "/images/fair.jpg"
+  },
+  {
+    "id": "ch4-024",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Fernsehsender",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "TV channel",
+    "explanation": "",
+    "image_local_path": "/images/fernsehsender.jpg"
+  },
+  {
+    "id": "ch4-025",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "gerecht",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "fair",
+    "explanation": "",
+    "image_local_path": "/images/gerecht.jpg"
+  },
+  {
+    "id": "ch4-026",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Gericht",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "court (of law)",
+    "explanation": "Ich bin Anwältin und oft am Gericht. / I'm a lawyer and I'm often in court.",
+    "image_local_path": "/images/gericht.jpg"
+  },
+  {
+    "id": "ch4-027",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Gerichtsverhandlung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "trial",
+    "explanation": "",
+    "image_local_path": "/images/gerichtsverhandlung.jpg"
+  },
+  {
+    "id": "ch4-028",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "herstellen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to create",
+    "explanation": "",
+    "image_local_path": "/images/herstellen.jpg"
+  },
+  {
+    "id": "ch4-029",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Industrie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "industry",
+    "explanation": "",
+    "image_local_path": "/images/industrie.jpg"
+  },
+  {
+    "id": "ch4-030",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Landwirtschaft",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "agriculture",
+    "explanation": "",
+    "image_local_path": "/images/landwirtschaft.jpg"
+  },
+  {
+    "id": "ch4-031",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Menschenkenntnis",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "people skills, knowledge of people",
+    "explanation": "",
+    "image_local_path": "/images/menschenkenntnis.jpg"
+  },
+  {
+    "id": "ch4-032",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Öffentlichkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "public",
+    "explanation": "",
+    "image_local_path": "/images/offentlichkeit.jpg"
+  },
+  {
+    "id": "ch4-033",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Partei",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "political party",
+    "explanation": "",
+    "image_local_path": "/images/partei.jpg"
+  },
+  {
+    "id": "ch4-034",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Rechtsanwalt",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "lawyer (m)",
+    "explanation": "",
+    "image_local_path": "/images/rechtsanwalt.jpg"
+  },
+  {
+    "id": "ch4-035",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Rechtsanwältin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "lawyer (f)",
+    "explanation": "",
+    "image_local_path": "/images/rechtsanwaltin.jpg"
+  },
+  {
+    "id": "ch4-036",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Reportage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "report",
+    "explanation": "",
+    "image_local_path": "/images/reportage.jpg"
+  },
+  {
+    "id": "ch4-037",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Reporter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "reporter (m)",
+    "explanation": "",
+    "image_local_path": "/images/reporter.jpg"
+  },
+  {
+    "id": "ch4-038",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Reporterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "reporter (f)",
+    "explanation": "",
+    "image_local_path": "/images/reporterin.jpg"
+  },
+  {
+    "id": "ch4-039",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Richter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "judge (m)",
+    "explanation": "",
+    "image_local_path": "/images/richter.jpg"
+  },
+  {
+    "id": "ch4-040",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Richterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "judge (f)",
+    "explanation": "",
+    "image_local_path": "/images/richterin.jpg"
+  },
+  {
+    "id": "ch4-041",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Schreiner",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "carpenter (m)",
+    "explanation": "",
+    "image_local_path": "/images/schreiner.jpg"
+  },
+  {
+    "id": "ch4-042",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Schreinerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "carpenter (f)",
+    "explanation": "",
+    "image_local_path": "/images/schreinerin.jpg"
+  },
+  {
+    "id": "ch4-043",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Spezialist",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "specialist (m)",
+    "explanation": "",
+    "image_local_path": "/images/spezialist.jpg"
+  },
+  {
+    "id": "ch4-044",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Spezialistin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "specialist (f)",
+    "explanation": "",
+    "image_local_path": "/images/spezialistin.jpg"
+  },
+  {
+    "id": "ch4-045",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Urteil",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "verdict",
+    "explanation": "",
+    "image_local_path": "/images/urteil.jpg"
+  },
+  {
+    "id": "ch4-046",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Verbrechen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "crime",
+    "explanation": "",
+    "image_local_path": "/images/verbrechen.jpg"
+  },
+  {
+    "id": "ch4-047",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Augenblick",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "moment",
+    "explanation": "",
+    "image_local_path": "/images/augenblick.jpg"
+  },
+  {
+    "id": "ch4-048",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "daran",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "about that",
+    "explanation": "",
+    "image_local_path": "/images/daran.jpg"
+  },
+  {
+    "id": "ch4-049",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "Entwicklung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "development",
+    "explanation": "",
+    "image_local_path": "/images/entwicklung.jpg"
+  },
+  {
+    "id": "ch4-050",
+    "chapter": "Kapitel 4: Arbeitswelt",
+    "german_word": "ernst nehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take sth seriously",
+    "explanation": "",
+    "image_local_path": "/images/ernst_nehmen.jpg"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "ch6-001",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bildunterschrift",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "picture subtitle",
+    "explanation": "",
+    "image_local_path": "/images/bildunterschrift.jpg"
+  },
+  {
+    "id": "ch6-002",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Chip",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "chip",
+    "explanation": "",
+    "image_local_path": "/images/chip.jpg"
+  },
+  {
+    "id": "ch6-003",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Daten-Chip",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "data chip",
+    "explanation": "",
+    "image_local_path": "/images/daten_chip.jpg"
+  },
+  {
+    "id": "ch6-004",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Drohne",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "drone",
+    "explanation": "",
+    "image_local_path": "/images/drohne.jpg"
+  },
+  {
+    "id": "ch6-005",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Haut",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "skin",
+    "explanation": "",
+    "image_local_path": "/images/haut.jpg"
+  },
+  {
+    "id": "ch6-006",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "irgendwann",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "sometime",
+    "explanation": "",
+    "image_local_path": "/images/irgendwann.jpg"
+  },
+  {
+    "id": "ch6-007",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Mars",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "Mars",
+    "explanation": "",
+    "image_local_path": "/images/mars.jpg"
+  },
+  {
+    "id": "ch6-008",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Mobilität",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "mobility",
+    "explanation": "",
+    "image_local_path": "/images/mobilitat.jpg"
+  },
+  {
+    "id": "ch6-009",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Passagier",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "passenger (m)",
+    "explanation": "",
+    "image_local_path": "/images/passagier.jpg"
+  },
+  {
+    "id": "ch6-010",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Passagierin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "passenger (f)",
+    "explanation": "",
+    "image_local_path": "/images/passagierin.jpg"
+  },
+  {
+    "id": "ch6-011",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Planet",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "planet",
+    "explanation": "",
+    "image_local_path": "/images/planet.jpg"
+  },
+  {
+    "id": "ch6-012",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "staubsaugen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to vacuum (clean)",
+    "explanation": "",
+    "image_local_path": "/images/staubsaugen.jpg"
+  },
+  {
+    "id": "ch6-013",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "übernehmen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to take on",
+    "explanation": "er übernimmt, übernahm, hat übernommen",
+    "image_local_path": "/images/ubernehmen.jpg"
+  },
+  {
+    "id": "ch6-014",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Wohnanlage",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "residential complex",
+    "explanation": "",
+    "image_local_path": "/images/wohnanlage.jpg"
+  },
+  {
+    "id": "ch6-015",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Prognose",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "prognosis",
+    "explanation": "",
+    "image_local_path": "/images/prognose.jpg"
+  },
+  {
+    "id": "ch6-016",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "von ... aus",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "from",
+    "explanation": "Ich arbeite viel von zu Hause aus. / I work a lot from home.",
+    "image_local_path": "/images/von_aus.jpg"
+  },
+  {
+    "id": "ch6-017",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Anlass",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "reason",
+    "explanation": "",
+    "image_local_path": "/images/anlass.jpg"
+  },
+  {
+    "id": "ch6-018",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Silvester",
+    "article": null,
+    "plural_indicator": "- (ohne Artikel)",
+    "english_translation": "new year",
+    "explanation": "",
+    "image_local_path": "/images/silvester.jpg"
+  },
+  {
+    "id": "ch6-019",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "vornehmen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to plan to do sth",
+    "explanation": "er nimmt vor, nahm vor, hat vorgenommen",
+    "image_local_path": "/images/vornehmen.jpg"
+  },
+  {
+    "id": "ch6-020",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Ausrede",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "excuse",
+    "explanation": "",
+    "image_local_path": "/images/ausrede.jpg"
+  },
+  {
+    "id": "ch6-021",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "befragen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to question",
+    "explanation": "",
+    "image_local_path": "/images/befragen.jpg"
+  },
+  {
+    "id": "ch6-022",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "dauernd",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "constant",
+    "explanation": "",
+    "image_local_path": "/images/dauernd.jpg"
+  },
+  {
+    "id": "ch6-023",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "einfach so",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "just like that",
+    "explanation": "",
+    "image_local_path": "/images/einfach_so.jpg"
+  },
+  {
+    "id": "ch6-024",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "fassen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to make",
+    "explanation": "einen Vorsatz fassen / to make a resolution",
+    "image_local_path": "/images/fassen.jpg"
+  },
+  {
+    "id": "ch6-025",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "frisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "fresh",
+    "explanation": "Ich genieße die Ruhe und die frische Luft. / I enjoy the peace and the fresh air.",
+    "image_local_path": "/images/frisch.jpg"
+  },
+  {
+    "id": "ch6-026",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Leser",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "reader (m)",
+    "explanation": "",
+    "image_local_path": "/images/leser.jpg"
+  },
+  {
+    "id": "ch6-027",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Leserin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "reader (f)",
+    "explanation": "",
+    "image_local_path": "/images/leserin.jpg"
+  },
+  {
+    "id": "ch6-028",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Süßes",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "sweet",
+    "explanation": "Papa, bringst du uns was Süßes aus dem Supermarkt mit? / Daddy, will you bring us something sweet from the supermarket?",
+    "image_local_path": "/images/susses.jpg"
+  },
+  {
+    "id": "ch6-029",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Vorsatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "resolution",
+    "explanation": "einen Vorsatz fassen / to make a resolution",
+    "image_local_path": "/images/vorsatz.jpg"
+  },
+  {
+    "id": "ch6-030",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "werden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "will",
+    "explanation": "Was wird sich in der Zukunft ändern? / What will change in the future?",
+    "image_local_path": "/images/werden.jpg"
+  },
+  {
+    "id": "ch6-031",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Futur",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "future (tense)",
+    "explanation": "",
+    "image_local_path": "/images/futur.jpg"
+  },
+  {
+    "id": "ch6-032",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Wahrheit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "truth",
+    "explanation": "",
+    "image_local_path": "/images/wahrheit.jpg"
+  },
+  {
+    "id": "ch6-033",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "gelingen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to succeed",
+    "explanation": "es gelingt, gelang, ist gelungen",
+    "image_local_path": "/images/gelingen.jpg"
+  },
+  {
+    "id": "ch6-034",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "realisieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to realize",
+    "explanation": "",
+    "image_local_path": "/images/realisieren.jpg"
+  },
+  {
+    "id": "ch6-035",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hauptproblem",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "problem",
+    "explanation": "",
+    "image_local_path": "/images/hauptproblem.jpg"
+  },
+  {
+    "id": "ch6-036",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "konkret",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "concrete",
+    "explanation": "",
+    "image_local_path": "/images/konkret.jpg"
+  },
+  {
+    "id": "ch6-037",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "eventuell",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "",
+    "explanation": "",
+    "image_local_path": "/images/eventuell.jpg"
+  },
+  {
+    "id": "ch6-038",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "n-Deklination",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "n-declination",
+    "explanation": "",
+    "image_local_path": "/images/n_deklination.jpg"
+  },
+  {
+    "id": "ch6-039",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Praktikant",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "intern (m)",
+    "explanation": "",
+    "image_local_path": "/images/praktikant.jpg"
+  },
+  {
+    "id": "ch6-040",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Praktikantin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "intern (f)",
+    "explanation": "",
+    "image_local_path": "/images/praktikantin.jpg"
+  },
+  {
+    "id": "ch6-041",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Zitat",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "quote",
+    "explanation": "",
+    "image_local_path": "/images/zitat.jpg"
+  },
+  {
+    "id": "ch6-042",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Affe",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "monkey",
+    "explanation": "",
+    "image_local_path": "/images/affe.jpg"
+  },
+  {
+    "id": "ch6-043",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Elefant",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "elephant",
+    "explanation": "",
+    "image_local_path": "/images/elefant.jpg"
+  },
+  {
+    "id": "ch6-044",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Löwe",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "lion",
+    "explanation": "",
+    "image_local_path": "/images/lowe.jpg"
+  },
+  {
+    "id": "ch6-045",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Pädagoge",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "educator (m)",
+    "explanation": "",
+    "image_local_path": "/images/padagoge.jpg"
+  },
+  {
+    "id": "ch6-046",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Pädagogin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "educator (f)",
+    "explanation": "",
+    "image_local_path": "/images/padagogin.jpg"
+  },
+  {
+    "id": "ch6-047",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Vokallänge",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "vowel length",
+    "explanation": "",
+    "image_local_path": "/images/vokallange.jpg"
+  },
+  {
+    "id": "ch6-048",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "anonym",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "anonymous",
+    "explanation": "",
+    "image_local_path": "/images/anonym.jpg"
+  },
+  {
+    "id": "ch6-049",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Arbeitsort",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "place of work, workplace",
+    "explanation": "",
+    "image_local_path": "/images/arbeitsort.jpg"
+  },
+  {
+    "id": "ch6-050",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "aufhalten (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to be",
+    "explanation": "er hält auf, hielt auf, hat aufgehalten. Sie hält sich viel in der Küche der WG auf. / She's often in the kitchen of the flat share.",
+    "image_local_path": "/images/aufhalten.jpg"
+  },
+  {
+    "id": "ch6-051",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "ausgehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to assume",
+    "explanation": "(von+D) er geht aus, ging aus, ist ausgegangen. Experten gehen davon aus, dass... / Experts assume, that...",
+    "image_local_path": "/images/ausgehen.jpg"
+  },
+  {
+    "id": "ch6-052",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "autonom",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "autonomous",
+    "explanation": "",
+    "image_local_path": "/images/autonom.jpg"
+  },
+  {
+    "id": "ch6-053",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "befinden (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be located",
+    "explanation": "er befindet, befand, hat befunden",
+    "image_local_path": "/images/befinden.jpg"
+  },
+  {
+    "id": "ch6-054",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "begegnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to see",
+    "explanation": "",
+    "image_local_path": "/images/begegnen.jpg"
+  },
+  {
+    "id": "ch6-055",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Dienstleistungsbereich",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "service industry",
+    "explanation": "",
+    "image_local_path": "/images/dienstleistungsbereich.jpg"
+  },
+  {
+    "id": "ch6-056",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Erholungsmöglichkeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "recreational opportunities",
+    "explanation": "",
+    "image_local_path": "/images/erholungsmoglichkeit.jpg"
+  },
+  {
+    "id": "ch6-057",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Fünftel",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "fifth",
+    "explanation": "",
+    "image_local_path": "/images/funftel.jpg"
+  },
+  {
+    "id": "ch6-058",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Fußweg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "foot path",
+    "explanation": "",
+    "image_local_path": "/images/fussweg.jpg"
+  },
+  {
+    "id": "ch6-059",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Grünfläche",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "green space",
+    "explanation": "",
+    "image_local_path": "/images/grunflache.jpg"
+  },
+  {
+    "id": "ch6-060",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hausbewohner",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "inhabitant (m)",
+    "explanation": "",
+    "image_local_path": "/images/hausbewohner.jpg"
+  },
+  {
+    "id": "ch6-061",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hausbewohnerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "inhabitant (f)",
+    "explanation": "",
+    "image_local_path": "/images/hausbewohnerin.jpg"
+  },
+  {
+    "id": "ch6-062",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hausfassade",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "house front",
+    "explanation": "",
+    "image_local_path": "/images/hausfassade.jpg"
+  },
+  {
+    "id": "ch6-063",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "heutig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "present day",
+    "explanation": "Heutige Fahrzeuge können noch nicht fliegen. / Present day cars can't fly yet.",
+    "image_local_path": "/images/heutig.jpg"
+  },
+  {
+    "id": "ch6-064",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Homeoffice",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "home office",
+    "explanation": "",
+    "image_local_path": "/images/homeoffice.jpg"
+  },
+  {
+    "id": "ch6-065",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "längst",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "for a long time",
+    "explanation": "",
+    "image_local_path": "/images/langst.jpg"
+  }
+]

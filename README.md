@@ -161,3 +161,26 @@ a different origin as far as the browser's storage is concerned.
   principal parts come straight from the PDF; `german.js` only derives the
   regular, rule-governed forms (the other conjugated persons, declined
   noun cases) from those seed facts.
+
+## Kapitel-Wörter (second profile)
+
+On first launch the app asks who is learning: **B1 Goethe-Liste** (everything
+above) or **Kapitel-Wörter** (chapter-wise words). The ⇄ button in the header
+switches. Each profile keeps its own progress (`b1-wortschatz` vs.
+`kapitel-woerter` IndexedDB databases).
+
+- Data: every `data/Kapit*.json` file is bundled (parts like
+  `Kapitel3part2.json` are merged by their `chapter` field). Entry format:
+  `{id, chapter, german_word, article, plural, english_translation, explanation, image_local_path, image_override_url}`.
+- Learn and multiple-choice quiz per chapter, DE→EN or EN→DE (EN→DE nouns
+  also ask der/die/das). Card colours: der blue, die pink, das orange.
+- Progress bar: a word counts as learned when the latest answer was right in
+  both directions. A perfect quiz shows a panda celebration (never the same
+  scene as the last 3).
+- Pictures: `python scripts/crawler.py` downloads one image per word from
+  Wikimedia Commons into `public/images/` (credits in
+  `public/images/credits.json`). Words it can't find are listed in
+  `data/images_missing.txt`; set `image_override_url` for them and re-run.
+- Generating the JSON from the Netzwerk neu glossary PDF (OCR + Wiktionary
+  checks) is done with the `glossary` tool in `D:\AITools\LocalOCR`
+  (`glossary.bat extract|validate|clean|compare`).

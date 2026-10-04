@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ch11-001",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Bürogebäude",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "office building",
+    "explanation": "",
+    "image_local_path": "/images/buerogebaeude.jpg"
+  },
+  {
+    "id": "ch11-002",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Dreck",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "dirt",
+    "explanation": "",
+    "image_local_path": "/images/dreck.jpg"
+  },
+  {
+    "id": "ch11-003",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Fußgänger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "pedestrian (m)",
+    "explanation": "",
+    "image_local_path": "/images/fussgaenger.jpg"
+  },
+  {
+    "id": "ch11-004",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Fußgängerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "pedestrian (f)",
+    "explanation": "",
+    "image_local_path": "/images/fussgaengerin.jpg"
+  },
+  {
+    "id": "ch11-005",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Schaufenster",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "shop window",
+    "explanation": "",
+    "image_local_path": "/images/schaufenster.jpg"
+  },
+  {
+    "id": "ch11-006",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Schmutz",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "dirt",
+    "explanation": "",
+    "image_local_path": "/images/schmutz.jpg"
+  },
+  {
+    "id": "ch11-007",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Tempo",
+    "article": "das",
+    "plural_indicator": "Tempi",
+    "english_translation": "speed",
+    "explanation": "",
+    "image_local_path": "/images/tempo.jpg"
+  },
+  {
+    "id": "ch11-008",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Freizeitangebot",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "recreational activity, leisure activity",
+    "explanation": "",
+    "image_local_path": "/images/freizeitangebot.jpg"
+  },
+  {
+    "id": "ch11-009",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Stadtmensch",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "townie",
+    "explanation": "",
+    "image_local_path": "/images/stadtmensch.jpg"
+  },
+  {
+    "id": "ch11-010",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "angehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to concern",
+    "explanation": "er geht an, ging an, ist angegangen (Was ich mache, das geht keinen was an.)",
+    "image_local_path": "/images/angehen.jpg"
+  },
+  {
+    "id": "ch11-011",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "anscheinend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "apparent",
+    "explanation": "",
+    "image_local_path": "/images/anscheinend.jpg"
+  },
+  {
+    "id": "ch11-012",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Dialekt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "dialect",
+    "explanation": "",
+    "image_local_path": "/images/dialekt.jpg"
+  },
+  {
+    "id": "ch11-013",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "eindeutig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "clear",
+    "explanation": "",
+    "image_local_path": "/images/eindeutig.jpg"
+  },
+  {
+    "id": "ch11-014",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Forumsname",
+    "article": "der",
+    "plural_indicator": "-n",
+    "english_translation": "forum name",
+    "explanation": "",
+    "image_local_path": "/images/forumsname.jpg"
+  },
+  {
+    "id": "ch11-015",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "irgendein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "some",
+    "explanation": "irgendeine, irgendwelche",
+    "image_local_path": "/images/irgendein.jpg"
+  },
+  {
+    "id": "ch11-016",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Kulturfest",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "cultural festival",
+    "explanation": "",
+    "image_local_path": "/images/kulturfest.jpg"
+  },
+  {
+    "id": "ch11-017",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Landmensch",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "country person",
+    "explanation": "",
+    "image_local_path": "/images/landmensch.jpg"
+  },
+  {
+    "id": "ch11-018",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "entsprechend",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "equivalent",
+    "explanation": "",
+    "image_local_path": "/images/entsprechend.jpg"
+  },
+  {
+    "id": "ch11-019",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Sportsachen",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "sport gear",
+    "explanation": "",
+    "image_local_path": "/images/sportsachen.jpg"
+  },
+  {
+    "id": "ch11-020",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "irgendeins",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "some",
+    "explanation": "",
+    "image_local_path": "/images/irgendeins.jpg"
+  },
+  {
+    "id": "ch11-021",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Singularform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "singular form",
+    "explanation": "",
+    "image_local_path": "/images/singularform.jpg"
+  },
+  {
+    "id": "ch11-022",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "erwachen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to awaken",
+    "explanation": "",
+    "image_local_path": "/images/erwachen.jpg"
+  },
+  {
+    "id": "ch11-023",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Backstube",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "bakery",
+    "explanation": "",
+    "image_local_path": "/images/backstube.jpg"
+  },
+  {
+    "id": "ch11-024",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Bauhof",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "construction yard",
+    "explanation": "",
+    "image_local_path": "/images/bauhof.jpg"
+  },
+  {
+    "id": "ch11-025",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Dienst",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "duty",
+    "explanation": "",
+    "image_local_path": "/images/dienst.jpg"
+  },
+  {
+    "id": "ch11-026",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "einliefern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "admitted",
+    "explanation": "",
+    "image_local_path": "/images/einliefern.jpg"
+  },
+  {
+    "id": "ch11-027",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Frühschicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "morning shift",
+    "explanation": "",
+    "image_local_path": "/images/fruehschicht.jpg"
+  },
+  {
+    "id": "ch11-028",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Garagentor",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "garage door",
+    "explanation": "",
+    "image_local_path": "/images/garagentor.jpg"
+  },
+  {
+    "id": "ch11-029",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "herunterfahren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to shut (down)",
+    "explanation": "er fährt herunter, fuhr herunter, ist heruntergefahren",
+    "image_local_path": "/images/herunterfahren.jpg"
+  },
+  {
+    "id": "ch11-030",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "hindern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to hinder",
+    "explanation": "(an + D.)",
+    "image_local_path": "/images/hindern.jpg"
+  },
+  {
+    "id": "ch11-031",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "hineingehen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to enter",
+    "explanation": "er geht hinein, ging hinein, ist hineingegangen",
+    "image_local_path": "/images/hineingehen.jpg"
+  },
+  {
+    "id": "ch11-032",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "konzentriert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "concentrated",
+    "explanation": "",
+    "image_local_path": "/images/konzentriert.jpg"
+  },
+  {
+    "id": "ch11-033",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Korb",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "basket",
+    "explanation": "",
+    "image_local_path": "/images/korb.jpg"
+  },
+  {
+    "id": "ch11-034",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "laden",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to load",
+    "explanation": "er lädt, lud, hat geladen (Die Bäckerin lädt Körbe mit Brot ins Auto.)",
+    "image_local_path": "/images/laden.jpg"
+  },
+  {
+    "id": "ch11-035",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Magazinbericht",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "magazine report",
+    "explanation": "",
+    "image_local_path": "/images/magazinbericht.jpg"
+  },
+  {
+    "id": "ch11-036",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Obdachlose",
+    "article": "der/die",
+    "plural_indicator": "-n",
+    "english_translation": "homeless person",
+    "explanation": "",
+    "image_local_path": "/images/obdachlose.jpg"
+  },
+  {
+    "id": "ch11-037",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Reinigungsfahrzeug",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "street cleaning vehicle",
+    "explanation": "",
+    "image_local_path": "/images/reinigungsfahrzeug.jpg"
+  },
+  {
+    "id": "ch11-038",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Schicht",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "shift",
+    "explanation": "",
+    "image_local_path": "/images/schicht.jpg"
+  },
+  {
+    "id": "ch11-039",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "schwer",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "severe",
+    "explanation": "Auf der Autobahn gab es einen schweren Unfall. / There was a severe accident on motorway.",
+    "image_local_path": "/images/schwer.jpg"
+  },
+  {
+    "id": "ch11-040",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "städtisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "urban",
+    "explanation": "",
+    "image_local_path": "/images/staedtisch.jpg"
+  },
+  {
+    "id": "ch11-041",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Übergabe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "handover",
+    "explanation": "",
+    "image_local_path": "/images/uebergabe.jpg"
+  },
+  {
+    "id": "ch11-042",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "unruhig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "restless, turbulent",
+    "explanation": "",
+    "image_local_path": "/images/unruhig.jpg"
+  },
+  {
+    "id": "ch11-043",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Weg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "way",
+    "explanation": "Es ist schon spät. Wir sollten uns auf den Weg machen.",
+    "image_local_path": "/images/weg.jpg"
+  },
+  {
+    "id": "ch11-044",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Nachtdienst",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "night shift",
+    "explanation": "",
+    "image_local_path": "/images/nachtdienst.jpg"
+  },
+  {
+    "id": "ch11-045",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Sozialarbeiter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "social worker (m)",
+    "explanation": "",
+    "image_local_path": "/images/sozialarbeiter.jpg"
+  },
+  {
+    "id": "ch11-046",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Sozialarbeiterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "social worker (f)",
+    "explanation": "",
+    "image_local_path": "/images/sozialarbeiterin.jpg"
+  },
+  {
+    "id": "ch11-047",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "um herum",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "around",
+    "explanation": "(+ A.)",
+    "image_local_path": "/images/um_herum.jpg"
+  },
+  {
+    "id": "ch11-048",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "abhängen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be dependent on",
+    "explanation": "(von + D.) er hängt ab, hing ab, hat abgehangen",
+    "image_local_path": "/images/abhaengen.jpg"
+  },
+  {
+    "id": "ch11-049",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "Arbeitslosigkeit",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "unemployment",
+    "explanation": "",
+    "image_local_path": "/images/arbeitslosigkeit.jpg"
+  },
+  {
+    "id": "ch11-050",
+    "chapter": "Kapitel 11: Stadt, Land, Fluss",
+    "german_word": "berücksichtigen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to consider",
+    "explanation": "",
+    "image_local_path": "/images/beruecksichtigen.jpg"
+  }
+]

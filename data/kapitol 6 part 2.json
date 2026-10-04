@@ -1,0 +1,762 @@
+[
+  {
+    "id": "ch6-066",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "lauten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to be",
+    "explanation": "",
+    "image_local_path": "/images/lauten.jpg"
+  },
+  {
+    "id": "ch6-067",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Lebensqualität",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "quality of life",
+    "explanation": "",
+    "image_local_path": "/images/lebensqualitat.jpg"
+  },
+  {
+    "id": "ch6-068",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "lebenswert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be worth living in",
+    "explanation": "",
+    "image_local_path": "/images/lebenswert.jpg"
+  },
+  {
+    "id": "ch6-069",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Mikro-Wohnen",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "mikro living",
+    "explanation": "",
+    "image_local_path": "/images/mikro_wohnen.jpg"
+  },
+  {
+    "id": "ch6-070",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "miteinander",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "togetherness",
+    "explanation": "",
+    "image_local_path": "/images/miteinander.jpg"
+  },
+  {
+    "id": "ch6-071",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Prinzip",
+    "article": "das",
+    "plural_indicator": "-ien",
+    "english_translation": "principle",
+    "explanation": "",
+    "image_local_path": "/images/prinzip.jpg"
+  },
+  {
+    "id": "ch6-072",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Privatauto",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "private car",
+    "explanation": "",
+    "image_local_path": "/images/privatauto.jpg"
+  },
+  {
+    "id": "ch6-073",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Rolle",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "role",
+    "explanation": "Geld spielt für viele eine wichtige Rolle im Leben. / Money plays a big role in life for many people.",
+    "image_local_path": "/images/rolle.jpg"
+  },
+  {
+    "id": "ch6-074",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Solarzelle",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "solar cell",
+    "explanation": "",
+    "image_local_path": "/images/solarzelle.jpg"
+  },
+  {
+    "id": "ch6-075",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "spielen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to play",
+    "explanation": "Geld spielt für viele eine wichtige Rolle im Leben. / Money plays a big role in life for many people.",
+    "image_local_path": "/images/spielen.jpg"
+  },
+  {
+    "id": "ch6-076",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Stadtviertel",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "area",
+    "explanation": "",
+    "image_local_path": "/images/stadtviertel.jpg"
+  },
+  {
+    "id": "ch6-077",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "vergrößern",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to enlarge",
+    "explanation": "",
+    "image_local_path": "/images/vergrossern.jpg"
+  },
+  {
+    "id": "ch6-078",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "voraussichtlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be expected",
+    "explanation": "",
+    "image_local_path": "/images/voraussichtlich.jpg"
+  },
+  {
+    "id": "ch6-079",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "wachsen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to grow",
+    "explanation": "er wächst, wuchs, ist gewachsen",
+    "image_local_path": "/images/wachsen.jpg"
+  },
+  {
+    "id": "ch6-080",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Windturbine",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "wind turbine",
+    "explanation": "",
+    "image_local_path": "/images/windturbine.jpg"
+  },
+  {
+    "id": "ch6-081",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Akademie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "academy",
+    "explanation": "",
+    "image_local_path": "/images/akademie.jpg"
+  },
+  {
+    "id": "ch6-082",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Altenheim",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "care home/ care facility",
+    "explanation": "",
+    "image_local_path": "/images/altenheim.jpg"
+  },
+  {
+    "id": "ch6-083",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Fundbüro",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "lost and found office",
+    "explanation": "",
+    "image_local_path": "/images/fundburo.jpg"
+  },
+  {
+    "id": "ch6-084",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Fußgängerzone",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "pedestrian zone",
+    "explanation": "",
+    "image_local_path": "/images/fussgangerzone.jpg"
+  },
+  {
+    "id": "ch6-085",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hallenbad",
+    "article": "das",
+    "plural_indicator": "\"-er",
+    "english_translation": "indoor swimming pool",
+    "explanation": "",
+    "image_local_path": "/images/hallenbad.jpg"
+  },
+  {
+    "id": "ch6-086",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Kindertagesstätte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "kindergarten",
+    "explanation": "",
+    "image_local_path": "/images/kindertagesstatte.jpg"
+  },
+  {
+    "id": "ch6-087",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Kiosk",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "kiosk",
+    "explanation": "",
+    "image_local_path": "/images/kiosk.jpg"
+  },
+  {
+    "id": "ch6-088",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Klinik",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "hospital",
+    "explanation": "",
+    "image_local_path": "/images/klinik.jpg"
+  },
+  {
+    "id": "ch6-089",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Tierpark",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "zoo",
+    "explanation": "",
+    "image_local_path": "/images/tierpark.jpg"
+  },
+  {
+    "id": "ch6-090",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Volkshochschule",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "community college",
+    "explanation": "",
+    "image_local_path": "/images/volkshochschule.jpg"
+  },
+  {
+    "id": "ch6-091",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Zirkus",
+    "article": "der",
+    "plural_indicator": "-se",
+    "english_translation": "circus",
+    "explanation": "",
+    "image_local_path": "/images/zirkus.jpg"
+  },
+  {
+    "id": "ch6-092",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Anteil",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "percentage",
+    "explanation": "",
+    "image_local_path": "/images/anteil.jpg"
+  },
+  {
+    "id": "ch6-093",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "umformulieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to rephrase",
+    "explanation": "",
+    "image_local_path": "/images/umformulieren.jpg"
+  },
+  {
+    "id": "ch6-094",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Kasus",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "case",
+    "explanation": "",
+    "image_local_path": "/images/kasus.jpg"
+  },
+  {
+    "id": "ch6-095",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bürgermeister",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "mayor (m)",
+    "explanation": "",
+    "image_local_path": "/images/burgermeister.jpg"
+  },
+  {
+    "id": "ch6-096",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bürgermeisterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "mayor (f)",
+    "explanation": "",
+    "image_local_path": "/images/burgermeisterin.jpg"
+  },
+  {
+    "id": "ch6-097",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bildung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "education",
+    "explanation": "Eine gute Bildung hilft für das ganze Leben. / A good education helps you your whole life long.",
+    "image_local_path": "/images/bildung.jpg"
+  },
+  {
+    "id": "ch6-098",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "möglicherweise",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "possibly",
+    "explanation": "",
+    "image_local_path": "/images/mogglicherweise.jpg"
+  },
+  {
+    "id": "ch6-099",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Verkehrssituation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "traffic situation",
+    "explanation": "",
+    "image_local_path": "/images/verkehrssituation.jpg"
+  },
+  {
+    "id": "ch6-100",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Wohnraum",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "living space",
+    "explanation": "",
+    "image_local_path": "/images/wohnraum.jpg"
+  },
+  {
+    "id": "ch6-101",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Vorfreude",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "anticipation",
+    "explanation": "",
+    "image_local_path": "/images/vorfreude.jpg"
+  },
+  {
+    "id": "ch6-102",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Melodie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "melody",
+    "explanation": "",
+    "image_local_path": "/images/melodie.jpg"
+  },
+  {
+    "id": "ch6-103",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Rhythmus",
+    "article": "der",
+    "plural_indicator": "Rhythmen",
+    "english_translation": "rhythm",
+    "explanation": "",
+    "image_local_path": "/images/rhythmus.jpg"
+  },
+  {
+    "id": "ch6-104",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Stern",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "star",
+    "explanation": "",
+    "image_local_path": "/images/stern.jpg"
+  },
+  {
+    "id": "ch6-105",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "dahin",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "there",
+    "explanation": "",
+    "image_local_path": "/images/dahin.jpg"
+  },
+  {
+    "id": "ch6-106",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "grad",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "at the moment",
+    "explanation": "",
+    "image_local_path": "/images/grad.jpg"
+  },
+  {
+    "id": "ch6-107",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Hürde",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "hurdle",
+    "explanation": "",
+    "image_local_path": "/images/hurde.jpg"
+  },
+  {
+    "id": "ch6-108",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "in der Lage sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be able to",
+    "explanation": "Ich bin grade nicht in der Lage, mich zu bewegen. / I'm not able to move at the moment.",
+    "image_local_path": "/images/in_der_lage_sein.jpg"
+  },
+  {
+    "id": "ch6-109",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Liedzeile",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "lyric",
+    "explanation": "",
+    "image_local_path": "/images/liedzeile.jpg"
+  },
+  {
+    "id": "ch6-110",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "nachdenken",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to think (about)",
+    "explanation": "er denkt nach, dachte nach, hat nachgedacht",
+    "image_local_path": "/images/nachdenken.jpg"
+  },
+  {
+    "id": "ch6-111",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "schweben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to float",
+    "explanation": "",
+    "image_local_path": "/images/schweben.jpg"
+  },
+  {
+    "id": "ch6-112",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "selber",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "self",
+    "explanation": "(ugs. für selbst)",
+    "image_local_path": "/images/selber.jpg"
+  },
+  {
+    "id": "ch6-113",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "stapeln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to stack",
+    "explanation": "",
+    "image_local_path": "/images/stapeln.jpg"
+  },
+  {
+    "id": "ch6-114",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Tiefe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "depth",
+    "explanation": "",
+    "image_local_path": "/images/tiefe.jpg"
+  },
+  {
+    "id": "ch6-115",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Umschreibung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "paraphrase",
+    "explanation": "",
+    "image_local_path": "/images/umschreibung.jpg"
+  },
+  {
+    "id": "ch6-116",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "bewerten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to evaluate",
+    "explanation": "",
+    "image_local_path": "/images/bewerten.jpg"
+  },
+  {
+    "id": "ch6-117",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "kitschig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "cheesy",
+    "explanation": "",
+    "image_local_path": "/images/kitschig.jpg"
+  },
+  {
+    "id": "ch6-118",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "verständlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "understandable",
+    "explanation": "",
+    "image_local_path": "/images/verstandlich.jpg"
+  },
+  {
+    "id": "ch6-119",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bass",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "bass",
+    "explanation": "",
+    "image_local_path": "/images/bass.jpg"
+  },
+  {
+    "id": "ch6-120",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Flöte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "flute",
+    "explanation": "",
+    "image_local_path": "/images/flote.jpg"
+  },
+  {
+    "id": "ch6-121",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Musikinstrument",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "musical instrument",
+    "explanation": "",
+    "image_local_path": "/images/musikinstrument.jpg"
+  },
+  {
+    "id": "ch6-122",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Piano",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "piano",
+    "explanation": "",
+    "image_local_path": "/images/piano.jpg"
+  },
+  {
+    "id": "ch6-123",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Schlagzeug",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "drums",
+    "explanation": "",
+    "image_local_path": "/images/schlagzeug.jpg"
+  },
+  {
+    "id": "ch6-124",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Violine",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "violin",
+    "explanation": "",
+    "image_local_path": "/images/violine.jpg"
+  },
+  {
+    "id": "ch6-125",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Auszeichnung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "award",
+    "explanation": "",
+    "image_local_path": "/images/auszeichnung.jpg"
+  },
+  {
+    "id": "ch6-126",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Biografie",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "biography",
+    "explanation": "",
+    "image_local_path": "/images/biografie.jpg"
+  },
+  {
+    "id": "ch6-127",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Casting-Show",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "casting show",
+    "explanation": "",
+    "image_local_path": "/images/casting_show.jpg"
+  },
+  {
+    "id": "ch6-128",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Charts",
+    "article": "die",
+    "plural_indicator": "(Pl.)",
+    "english_translation": "charts",
+    "explanation": "",
+    "image_local_path": "/images/charts.jpg"
+  },
+  {
+    "id": "ch6-129",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Coversong",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "cover song",
+    "explanation": "",
+    "image_local_path": "/images/coversong.jpg"
+  },
+  {
+    "id": "ch6-130",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Jury",
+    "article": "die",
+    "plural_indicator": "-s",
+    "english_translation": "jury",
+    "explanation": "",
+    "image_local_path": "/images/jury.jpg"
+  },
+  {
+    "id": "ch6-131",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Preis",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "prize",
+    "explanation": "",
+    "image_local_path": "/images/preis.jpg"
+  },
+  {
+    "id": "ch6-132",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Songwriter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "songwriter (m)",
+    "explanation": "",
+    "image_local_path": "/images/songwriter.jpg"
+  },
+  {
+    "id": "ch6-133",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Songwriterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "songwriter (f)",
+    "explanation": "",
+    "image_local_path": "/images/songwriterin.jpg"
+  },
+  {
+    "id": "ch6-134",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "mitsingen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to sing along",
+    "explanation": "er singt mit, sang mit, hat mitgesungen",
+    "image_local_path": "/images/mitsingen.jpg"
+  },
+  {
+    "id": "ch6-135",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Song",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "song",
+    "explanation": "",
+    "image_local_path": "/images/song.jpg"
+  },
+  {
+    "id": "ch6-136",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Songtitel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "song title",
+    "explanation": "",
+    "image_local_path": "/images/songtitel.jpg"
+  },
+  {
+    "id": "ch6-137",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "bezeichnen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to mean",
+    "explanation": "",
+    "image_local_path": "/images/bezeichnen.jpg"
+  },
+  {
+    "id": "ch6-138",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Bezeichnung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "term",
+    "explanation": "",
+    "image_local_path": "/images/bezeichnung.jpg"
+  },
+  {
+    "id": "ch6-139",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Doktorand",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "PhD student (m)",
+    "explanation": "",
+    "image_local_path": "/images/doktorand.jpg"
+  },
+  {
+    "id": "ch6-140",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Doktorandin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "PhD student (f)",
+    "explanation": "",
+    "image_local_path": "/images/doktorandin.jpg"
+  },
+  {
+    "id": "ch6-141",
+    "chapter": "Kapitel 6: Blick nach vorn",
+    "german_word": "Internationalismus",
+    "article": "der",
+    "plural_indicator": "Internationalismen",
+    "english_translation": "internationalism",
+    "explanation": "",
+    "image_local_path": "/images/internationalismus.jpg"
+  }
+]

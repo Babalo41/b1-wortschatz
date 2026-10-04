@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ch3-001",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Arbeiter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "worker (m)",
+    "explanation": "",
+    "image_local_path": "/images/arbeiter.jpg"
+  },
+  {
+    "id": "ch3-002",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Arbeiterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "worker (f)",
+    "explanation": "",
+    "image_local_path": "/images/arbeiterin.jpg"
+  },
+  {
+    "id": "ch3-003",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "automatisiert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "automated",
+    "explanation": "",
+    "image_local_path": "/images/automatisiert.jpg"
+  },
+  {
+    "id": "ch3-004",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Bedingung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "condition",
+    "explanation": "",
+    "image_local_path": "/images/bedingung.jpg"
+  },
+  {
+    "id": "ch3-005",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Behandlung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "treatment",
+    "explanation": "",
+    "image_local_path": "/images/behandlung.jpg"
+  },
+  {
+    "id": "ch3-006",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Diagnose",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "diagnosis",
+    "explanation": "",
+    "image_local_path": "/images/diagnose.jpg"
+  },
+  {
+    "id": "ch3-007",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Gruppenarbeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "group work",
+    "explanation": "",
+    "image_local_path": "/images/gruppenarbeit.jpg"
+  },
+  {
+    "id": "ch3-008",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Handarbeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "handiwork",
+    "explanation": "",
+    "image_local_path": "/images/handarbeit.jpg"
+  },
+  {
+    "id": "ch3-009",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Hygiene",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "hygene",
+    "explanation": "",
+    "image_local_path": "/images/hygiene.jpg"
+  },
+  {
+    "id": "ch3-010",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Konkurrenz",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "competition",
+    "explanation": "",
+    "image_local_path": "/images/konkurrenz.jpg"
+  },
+  {
+    "id": "ch3-011",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "medizinisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "medical",
+    "explanation": "",
+    "image_local_path": "/images/medizinisch.jpg"
+  },
+  {
+    "id": "ch3-012",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "monoton",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "monotonous",
+    "explanation": "",
+    "image_local_path": "/images/monoton.jpg"
+  },
+  {
+    "id": "ch3-013",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "operieren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to operate",
+    "explanation": "",
+    "image_local_path": "/images/operieren.jpg"
+  },
+  {
+    "id": "ch3-014",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Pflegekraft",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "caregiver",
+    "explanation": "",
+    "image_local_path": "/images/pflegekraft.jpg"
+  },
+  {
+    "id": "ch3-015",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Schulbildung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "education",
+    "explanation": "",
+    "image_local_path": "/images/schulbildung.jpg"
+  },
+  {
+    "id": "ch3-016",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Strafe",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "punishment, penalty",
+    "explanation": "",
+    "image_local_path": "/images/strafe.jpg"
+  },
+  {
+    "id": "ch3-017",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "tolerant",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "tolerant",
+    "explanation": "",
+    "image_local_path": "/images/tolerant.jpg"
+  },
+  {
+    "id": "ch3-018",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Unterrichtsform",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "form of instruction",
+    "explanation": "",
+    "image_local_path": "/images/unterrichtsform.jpg"
+  },
+  {
+    "id": "ch3-019",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Gegensatz",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "opposite",
+    "explanation": "",
+    "image_local_path": "/images/gegensatz.jpg"
+  },
+  {
+    "id": "ch3-020",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "minimal",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "minimal",
+    "explanation": "",
+    "image_local_path": "/images/minimal.jpg"
+  },
+  {
+    "id": "ch3-021",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "ausschließlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "exclusive",
+    "explanation": "",
+    "image_local_path": "/images/ausschliesslich.jpg"
+  },
+  {
+    "id": "ch3-022",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "bewusst",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "conscious",
+    "explanation": "",
+    "image_local_path": "/images/bewusst.jpg"
+  },
+  {
+    "id": "ch3-023",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "biologisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "biological",
+    "explanation": "",
+    "image_local_path": "/images/biologisch.jpg"
+  },
+  {
+    "id": "ch3-024",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Diät",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "diet",
+    "explanation": "",
+    "image_local_path": "/images/diat.jpg"
+  },
+  {
+    "id": "ch3-025",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "ernähren (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to eat, to nourish",
+    "explanation": "",
+    "image_local_path": "/images/ernahren.jpg"
+  },
+  {
+    "id": "ch3-026",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Ernährung",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "nutrition",
+    "explanation": "",
+    "image_local_path": "/images/ernahrung.jpg"
+  },
+  {
+    "id": "ch3-027",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Fitness",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "fitness",
+    "explanation": "",
+    "image_local_path": "/images/fitness.jpg"
+  },
+  {
+    "id": "ch3-028",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Form",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "form",
+    "explanation": "",
+    "image_local_path": "/images/form.jpg"
+  },
+  {
+    "id": "ch3-029",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Frucht",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "fruit",
+    "explanation": "",
+    "image_local_path": "/images/frucht.jpg"
+  },
+  {
+    "id": "ch3-030",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "halten",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to be on",
+    "explanation": "Diät halten / to be on a diet",
+    "image_local_path": "/images/halten.jpg"
+  },
+  {
+    "id": "ch3-031",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Karotte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "carrot",
+    "explanation": "",
+    "image_local_path": "/images/karotte.jpg"
+  },
+  {
+    "id": "ch3-032",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Nahrungsmittel",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "food",
+    "explanation": "",
+    "image_local_path": "/images/nahrungsmittel.jpg"
+  },
+  {
+    "id": "ch3-033",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "produziert",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "produced",
+    "explanation": "ökologisch produzierte Ware / ecologically produced products",
+    "image_local_path": "/images/produziert.jpg"
+  },
+  {
+    "id": "ch3-034",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Speise",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "food",
+    "explanation": "",
+    "image_local_path": "/images/speise.jpg"
+  },
+  {
+    "id": "ch3-035",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Trend",
+    "article": "der",
+    "plural_indicator": "-s",
+    "english_translation": "trend",
+    "explanation": "",
+    "image_local_path": "/images/trend.jpg"
+  },
+  {
+    "id": "ch3-036",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "vegan",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "vegan",
+    "explanation": "",
+    "image_local_path": "/images/vegan.jpg"
+  },
+  {
+    "id": "ch3-037",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "vegetarisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "vegetarian",
+    "explanation": "",
+    "image_local_path": "/images/vegetarisch.jpg"
+  },
+  {
+    "id": "ch3-038",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Vitamin",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "vitamin",
+    "explanation": "",
+    "image_local_path": "/images/vitamin.jpg"
+  },
+  {
+    "id": "ch3-039",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Workout",
+    "article": "das",
+    "plural_indicator": "-s",
+    "english_translation": "workout",
+    "explanation": "",
+    "image_local_path": "/images/workout.jpg"
+  },
+  {
+    "id": "ch3-040",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "erben",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to inherit",
+    "explanation": "",
+    "image_local_path": "/images/erben.jpg"
+  },
+  {
+    "id": "ch3-041",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "weshalb",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "why",
+    "explanation": "",
+    "image_local_path": "/images/weshalb.jpg"
+  },
+  {
+    "id": "ch3-042",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "führen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to lead (to)",
+    "explanation": "Welche Ereignisse können zu Veränderungen führen? / Which occurrences can lead to changes?",
+    "image_local_path": "/images/fuhren.jpg"
+  },
+  {
+    "id": "ch3-043",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "gewohnt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "usual",
+    "explanation": "",
+    "image_local_path": "/images/gewohnt.jpg"
+  },
+  {
+    "id": "ch3-044",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Krisensituation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "crisis (situation)",
+    "explanation": "",
+    "image_local_path": "/images/krisensituation.jpg"
+  },
+  {
+    "id": "ch3-045",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Lebensgeschichte",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "life story",
+    "explanation": "",
+    "image_local_path": "/images/lebensgeschichte.jpg"
+  },
+  {
+    "id": "ch3-046",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Lebensweg",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "path in life",
+    "explanation": "",
+    "image_local_path": "/images/lebensweg.jpg"
+  },
+  {
+    "id": "ch3-047",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Prozess",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "process",
+    "explanation": "",
+    "image_local_path": "/images/prozess.jpg"
+  },
+  {
+    "id": "ch3-048",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "raus",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "out",
+    "explanation": "",
+    "image_local_path": "/images/raus.jpg"
+  },
+  {
+    "id": "ch3-049",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Todesfall",
+    "article": "der",
+    "plural_indicator": "\"-e",
+    "english_translation": "death",
+    "explanation": "",
+    "image_local_path": "/images/todesfall.jpg"
+  },
+  {
+    "id": "ch3-050",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Trennung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "separation",
+    "explanation": "",
+    "image_local_path": "/images/trennung.jpg"
+  }
+]

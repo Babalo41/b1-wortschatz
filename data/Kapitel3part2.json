@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ch3-051",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wendepunkt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "turning point",
+    "explanation": "",
+    "image_local_path": "/images/wendepunkt.jpg"
+  },
+  {
+    "id": "ch3-052",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Zeitschriftenartikel",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "newspaper article",
+    "explanation": "",
+    "image_local_path": "/images/zeitschriftenartikel.jpg"
+  },
+  {
+    "id": "ch3-053",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Afrika",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Africa",
+    "explanation": "",
+    "image_local_path": "/images/afrika.jpg"
+  },
+  {
+    "id": "ch3-054",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Anliegen",
+    "article": "das",
+    "plural_indicator": "-",
+    "english_translation": "issue",
+    "explanation": "",
+    "image_local_path": "/images/anliegen.jpg"
+  },
+  {
+    "id": "ch3-055",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Berufssoldat",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "professional soldier (m)",
+    "explanation": "",
+    "image_local_path": "/images/berufssoldat.jpg"
+  },
+  {
+    "id": "ch3-056",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Berufssoldatin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "professional soldier (f)",
+    "explanation": "",
+    "image_local_path": "/images/berufssoldatin.jpg"
+  },
+  {
+    "id": "ch3-057",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Buchautor",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "author (m)",
+    "explanation": "",
+    "image_local_path": "/images/buchautor.jpg"
+  },
+  {
+    "id": "ch3-058",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Buchautorin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "author (f)",
+    "explanation": "",
+    "image_local_path": "/images/buchautorin.jpg"
+  },
+  {
+    "id": "ch3-059",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Bundeswehrzeit",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "time in the armed forces",
+    "explanation": "",
+    "image_local_path": "/images/bundeswehrzeit.jpg"
+  },
+  {
+    "id": "ch3-060",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "einsetzen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to support",
+    "explanation": "sich für den Schutz der Wildtiere einsetzen / to support the protection of wild animals.",
+    "image_local_path": "/images/einsetzen.jpg"
+  },
+  {
+    "id": "ch3-061",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Herausforderung",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "challenge",
+    "explanation": "",
+    "image_local_path": "/images/herausforderung.jpg"
+  },
+  {
+    "id": "ch3-062",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Lebenswende",
+    "article": "die",
+    "plural_indicator": "-n",
+    "english_translation": "turning point (in life)",
+    "explanation": "",
+    "image_local_path": "/images/lebenswende.jpg"
+  },
+  {
+    "id": "ch3-063",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Mut",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "courage",
+    "explanation": "Mark möchte anderen Mut machen, für ihre Ziele zu kämpfen. / Mark wants to encourage others to fight for their goals.",
+    "image_local_path": "/images/mut.jpg"
+  },
+  {
+    "id": "ch3-064",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Namibia",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "Namibia",
+    "explanation": "",
+    "image_local_path": "/images/namibia.jpg"
+  },
+  {
+    "id": "ch3-065",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Rückkehr",
+    "article": "die",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "return",
+    "explanation": "",
+    "image_local_path": "/images/ruckkehr.jpg"
+  },
+  {
+    "id": "ch3-066",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "sammeln",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "hier: to gain",
+    "explanation": "Als Fotograf hat er schon viel Erfahrung gesammelt. / He's already gained a lot of experience as a photographer.",
+    "image_local_path": "/images/sammeln.jpg"
+  },
+  {
+    "id": "ch3-067",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "schließlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "finally, eventually",
+    "explanation": "",
+    "image_local_path": "/images/schliesslich.jpg"
+  },
+  {
+    "id": "ch3-068",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Schutzprojekt",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "protection project",
+    "explanation": "",
+    "image_local_path": "/images/schutzprojekt.jpg"
+  },
+  {
+    "id": "ch3-069",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Sehnsucht",
+    "article": "die",
+    "plural_indicator": "\"-e",
+    "english_translation": "longing, desire",
+    "explanation": "",
+    "image_local_path": "/images/sehnsucht.jpg"
+  },
+  {
+    "id": "ch3-070",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "verursachen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to cause",
+    "explanation": "",
+    "image_local_path": "/images/verursachen.jpg"
+  },
+  {
+    "id": "ch3-071",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "wesentlich",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "considerable",
+    "explanation": "",
+    "image_local_path": "/images/wesentlich.jpg"
+  },
+  {
+    "id": "ch3-072",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wildhüter",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "gamekeeper (m)",
+    "explanation": "",
+    "image_local_path": "/images/wildhuter.jpg"
+  },
+  {
+    "id": "ch3-073",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wildhüterin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "gamekeeper (f)",
+    "explanation": "",
+    "image_local_path": "/images/wildhuterin.jpg"
+  },
+  {
+    "id": "ch3-074",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wildtier",
+    "article": "das",
+    "plural_indicator": "-e",
+    "english_translation": "wild animal",
+    "explanation": "",
+    "image_local_path": "/images/wildtier.jpg"
+  },
+  {
+    "id": "ch3-075",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Wildtierstation",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "wild animal care facility",
+    "explanation": "",
+    "image_local_path": "/images/wildtierstation.jpg"
+  },
+  {
+    "id": "ch3-076",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "zufällig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "coincidentally",
+    "explanation": "",
+    "image_local_path": "/images/zufallig.jpg"
+  },
+  {
+    "id": "ch3-077",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "zweimonatig",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "two month(ly)",
+    "explanation": "",
+    "image_local_path": "/images/zweimonatig.jpg"
+  },
+  {
+    "id": "ch3-078",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "abwärts",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "downwards",
+    "explanation": "",
+    "image_local_path": "/images/abwarts.jpg"
+  },
+  {
+    "id": "ch3-079",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Bahnradfahrer",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "track bicycle driver (m)",
+    "explanation": "",
+    "image_local_path": "/images/bahnradfahrer.jpg"
+  },
+  {
+    "id": "ch3-080",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Bahnradfahrerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "track bicycle driver (f)",
+    "explanation": "",
+    "image_local_path": "/images/bahnradfahrerin.jpg"
+  },
+  {
+    "id": "ch3-081",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "ehren",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to honour",
+    "explanation": "",
+    "image_local_path": "/images/ehren.jpg"
+  },
+  {
+    "id": "ch3-082",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "engagiert sein",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to be involved in",
+    "explanation": "",
+    "image_local_path": "/images/engagiert_sein.jpg"
+  },
+  {
+    "id": "ch3-083",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "ereignen (sich)",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to happen",
+    "explanation": "",
+    "image_local_path": "/images/ereignen.jpg"
+  },
+  {
+    "id": "ch3-084",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "-fach",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "\"-fold\" (tenfold)",
+    "explanation": "(zehnfach)",
+    "image_local_path": "/images/fach.jpg"
+  },
+  {
+    "id": "ch3-085",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "gelähmt",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "paralyzed",
+    "explanation": "",
+    "image_local_path": "/images/gelahmt.jpg"
+  },
+  {
+    "id": "ch3-086",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Held",
+    "article": "der",
+    "plural_indicator": "-en",
+    "english_translation": "hero (m)",
+    "explanation": "",
+    "image_local_path": "/images/held.jpg"
+  },
+  {
+    "id": "ch3-087",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Heldin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "hero (f)",
+    "explanation": "",
+    "image_local_path": "/images/heldin.jpg"
+  },
+  {
+    "id": "ch3-088",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Höhepunkt",
+    "article": "der",
+    "plural_indicator": "-e",
+    "english_translation": "peak",
+    "explanation": "",
+    "image_local_path": "/images/hohepunkt.jpg"
+  },
+  {
+    "id": "ch3-089",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "kämpfen",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "to fight",
+    "explanation": "(für/gegen + A.)",
+    "image_local_path": "/images/kampfen.jpg"
+  },
+  {
+    "id": "ch3-090",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "lokal",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "local",
+    "explanation": "",
+    "image_local_path": "/images/lokal.jpg"
+  },
+  {
+    "id": "ch3-091",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "mittlerweile",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "meanwhile",
+    "explanation": "",
+    "image_local_path": "/images/mittlerweile.jpg"
+  },
+  {
+    "id": "ch3-092",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Oberkörper",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "upper body",
+    "explanation": "",
+    "image_local_path": "/images/oberkorper.jpg"
+  },
+  {
+    "id": "ch3-093",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Olympiasieger",
+    "article": "der",
+    "plural_indicator": "-",
+    "english_translation": "Olympic champion (m)",
+    "explanation": "",
+    "image_local_path": "/images/olympiasieger.jpg"
+  },
+  {
+    "id": "ch3-094",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Olympiasiegerin",
+    "article": "die",
+    "plural_indicator": "-nen",
+    "english_translation": "Olympic champion (f)",
+    "explanation": "",
+    "image_local_path": "/images/olympiasiegerin.jpg"
+  },
+  {
+    "id": "ch3-095",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Optimismus",
+    "article": "der",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "optimism",
+    "explanation": "",
+    "image_local_path": "/images/optimismus.jpg"
+  },
+  {
+    "id": "ch3-096",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "politisch",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "political",
+    "explanation": "",
+    "image_local_path": "/images/politisch.jpg"
+  },
+  {
+    "id": "ch3-097",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Powerfrau",
+    "article": "die",
+    "plural_indicator": "-en",
+    "english_translation": "power woman",
+    "explanation": "",
+    "image_local_path": "/images/powerfrau.jpg"
+  },
+  {
+    "id": "ch3-098",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "Privatleben",
+    "article": "das",
+    "plural_indicator": "(Sg.)",
+    "english_translation": "private life",
+    "explanation": "",
+    "image_local_path": "/images/privatleben.jpg"
+  },
+  {
+    "id": "ch3-099",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "radikal",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "radical",
+    "explanation": "",
+    "image_local_path": "/images/radikal.jpg"
+  },
+  {
+    "id": "ch3-100",
+    "chapter": "Kapitel 3: Veränderungen",
+    "german_word": "seitdem",
+    "article": null,
+    "plural_indicator": null,
+    "english_translation": "since then",
+    "explanation": "Sie hatte einen Unfall. Seitdem ist sie gelähmt. / She had an accident. She's been paralyzed since then.",
+    "image_local_path": "/images/seitdem.jpg"
+  }
+]
