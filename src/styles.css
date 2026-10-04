@@ -1059,76 +1059,87 @@ h2, h3 {
 
 /* ---------------- Word animation (chapter cards) ---------------- */
 
+/* Layout only; the run itself is Web Animations keyframes (src/lib/wordEmoji.js).
+   Never sets the card's colour: the flap copies it at run time. */
 .word-anim {
   position: absolute;
   inset: 0;
-  overflow: hidden;
-  border-radius: inherit;
   pointer-events: none;
   z-index: 2;
 }
 
 .word-anim-actor {
   position: absolute;
-  width: 72px;
-  height: 72px;
+  left: 0;
+  top: 0;
+  width: 64px;
+  height: 64px;
   opacity: 0;
 }
 
 .word-anim-figure {
+  position: relative;
   width: 100%;
   height: 100%;
-  font-size: 56px;
-  line-height: 72px;
+  font-size: 50px;
+  line-height: 64px;
   text-align: center;
   filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.3));
 }
 
-/* drop: hangs from a rope, waves, gets pulled back up */
-.word-anim-drop .word-anim-actor { top: 0; left: 22px; }
-.word-anim-drop .word-anim-actor.run { animation: anim-drop 3.6s ease-in-out forwards; }
-.word-anim-drop .word-anim-actor.run .word-anim-figure { transform-origin: 50% 0; animation: anim-wave 0.5s ease-in-out 0.9s 4 alternate; }
-.word-anim-rope {
+.word-anim-trail {
   position: absolute;
-  bottom: 100%;
-  left: calc(50% - 1px);
-  width: 2px;
-  height: 260px;
-  background: currentColor;
-  opacity: 0.6;
+  right: 80%;
+  top: 22%;
+  width: 64px;
+  height: 56%;
+  opacity: 0;
+  background: repeating-linear-gradient(to bottom, transparent 0 6px, currentColor 6px 8px);
+  -webkit-mask-image: linear-gradient(to left, #000, transparent);
+  mask-image: linear-gradient(to left, #000, transparent);
 }
 
-/* float: drifts across the top with a little bob */
-.word-anim-float .word-anim-actor { top: 10px; left: 0; }
-.word-anim-float .word-anim-actor.run { animation: anim-float 3.4s linear forwards; }
-.word-anim-float .word-anim-actor.run .word-anim-figure { animation: anim-bob 0.85s ease-in-out 4 alternate; }
-
-/* pop: pops in at the corner, bounces, shrinks away */
-.word-anim-pop .word-anim-actor { top: 12px; left: 12px; }
-.word-anim-pop .word-anim-actor.run { animation: anim-pop 2.8s ease-out forwards; }
-
-@keyframes anim-drop {
-  0% { opacity: 1; transform: translateY(-100%); }
-  22% { transform: translateY(48px); }
-  28% { transform: translateY(36px); }
-  34%, 72% { opacity: 1; transform: translateY(42px); }
-  100% { opacity: 1; transform: translateY(-120%); }
+.word-anim-puff {
+  position: absolute;
+  width: 60px;
+  height: 40px;
+  opacity: 0;
 }
-@keyframes anim-wave { from { transform: rotate(-12deg); } to { transform: rotate(12deg); } }
-@keyframes anim-float {
-  0% { opacity: 0; left: -72px; }
-  10%, 85% { opacity: 1; }
-  100% { opacity: 0; left: 100%; }
+.word-anim-puff span {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(148, 163, 184, 0.85), rgba(100, 116, 139, 0.35) 70%, transparent);
 }
-@keyframes anim-bob { from { transform: translateY(-6px); } to { transform: translateY(6px); } }
-@keyframes anim-pop {
-  0% { opacity: 0; transform: scale(0); }
-  15% { opacity: 1; transform: scale(1.25); }
-  25% { transform: scale(0.9); }
-  33%, 75% { opacity: 1; transform: scale(1); }
-  45% { transform: translateY(-10px); }
-  55% { transform: translateY(0); }
-  100% { opacity: 0; transform: scale(0); }
+.word-anim-puff span:nth-child(1) { left: 0; top: 10px; }
+.word-anim-puff span:nth-child(2) { left: 17px; top: 0; width: 30px; height: 30px; }
+.word-anim-puff span:nth-child(3) { left: 34px; top: 12px; }
+
+/* Exit door in the card's right edge: the flap lifts like a carpet corner. */
+.word-anim-door {
+  position: absolute;
+  right: 0;
+  width: 34px;
+  height: 60px;
+  perspective: 300px;
+  opacity: 0;
+}
+.word-anim-hole {
+  position: absolute;
+  inset: 4px 0 4px 6px;
+  border-radius: 12px 0 0 12px;
+  background: radial-gradient(ellipse at 80% 50%, #000 0 45%, #334155 100%);
+  box-shadow: inset 4px 0 8px rgba(0, 0, 0, 0.6);
+}
+.word-anim-flap {
+  position: absolute;
+  inset: 0;
+  border-radius: 10px 0 0 10px;
+  transform-origin: left center;
+  /* card colour is set inline (copied); this only shades its underside */
+  background-image: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.18));
+  box-shadow: -3px 4px 10px rgba(0, 0, 0, 0.35);
 }
 
 .chapter-img-credit {
