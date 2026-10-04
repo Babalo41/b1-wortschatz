@@ -51,6 +51,10 @@ function B1App({ onSwitchProfile }) {
     filters.letters.length + filters.posList.length + filters.boxes.length +
     (filters.onlyWrong ? 1 : 0) + (filters.pageMin != null ? 1 : 0) + (filters.pageMax != null ? 1 : 0);
 
+  let learned = 0;
+  for (const p of progressByCard.values()) if (p.box >= 5) learned++;
+  const learnedPct = WORDS.length ? Math.round((learned / WORDS.length) * 100) : 0;
+
   return (
     <div className="app-shell">
       <header className="app-header">
@@ -66,6 +70,18 @@ function B1App({ onSwitchProfile }) {
       </header>
 
       <FilterPanel filters={filters} setFilters={setFilters} open={filtersOpen} onClose={() => setFiltersOpen(false)} />
+
+      <div className="kap-top">
+        <div className="kap-overall">
+          <span>
+            {learned} / {WORDS.length} Wörter gelernt
+          </span>
+          <span>{learnedPct}%</span>
+        </div>
+        <div className="kap-bar">
+          <div className="kap-bar-fill" style={{ width: `${learnedPct}%` }} />
+        </div>
+      </div>
 
       <main className="app-main">
         {!progressLoaded ? (
@@ -121,11 +137,11 @@ function ProfilePicker({ onPick }) {
       <div className="app-title">Wer lernt heute?</div>
       <button className="profile-btn" onClick={() => onPick("b1")}>
         <span className="profile-icon">🍒</span>
-        B1 Goethe-Liste
+        વાલા
       </button>
       <button className="profile-btn" onClick={() => onPick("chapters")}>
         <span className="profile-icon">🐼</span>
-        Kapitel-Wörter
+        વાલી
       </button>
     </div>
   );
