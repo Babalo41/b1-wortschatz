@@ -1220,8 +1220,8 @@ h2, h3 {
 
 .hard-btn {
   position: absolute;
-  top: 12px;
-  left: 12px;
+  top: 16px;
+  right: 68px; /* left corner is where the word emoji appears */
   z-index: 3;
   padding: 6px 10px;
   border-radius: 999px;
