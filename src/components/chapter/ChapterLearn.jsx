@@ -105,8 +105,8 @@ function SwipeHint({ onDone }) {
   return (
     <div className="swipe-hint" aria-hidden="true" onAnimationEnd={(e) => e.target === e.currentTarget && onDone()}>
       <span className="swipe-hint-hand">👆</span>
-      <span className="swipe-hint-label l">← Weiter</span>
-      <span className="swipe-hint-label r">Zurück →</span>
+      <span className="swipe-hint-label l">← Zurück</span>
+      <span className="swipe-hint-label r">Weiter →</span>
       <span className="swipe-hint-label u">↑ ★ Schwer</span>
     </div>
   );
@@ -114,7 +114,7 @@ function SwipeHint({ onDone }) {
 
 const COMMIT = 90; // px
 
-// Drag the card: left = Weiter, right = Zurück, up = ★ schwer. Like
+// Drag the card: right = Weiter, left = Zurück, up = ★ schwer. Like
 // SwipeCard, the drag moves the DOM through refs (no state per move) and uses
 // non-passive touch listeners so iOS doesn't scroll instead. Only the card
 // moves; its colours are never tinted.
@@ -191,10 +191,10 @@ function Swipeable({ can, onSwipe, children }) {
   return (
     <div className="swipe-stage">
       <div ref={labels.left} className="learn-swipe-label left" style={{ opacity: 0 }}>
-        Weiter
+        Zurück
       </div>
       <div ref={labels.right} className="learn-swipe-label right" style={{ opacity: 0 }}>
-        Zurück
+        Weiter
       </div>
       <div ref={labels.up} className="learn-swipe-label up" style={{ opacity: 0 }}>
         ★ Schwer
@@ -256,14 +256,14 @@ export default function ChapterLearn({ chapter, words, progress, onProgressChang
     onProgressChanged?.();
   }
 
-  const canSwipe = (dir) => (dir === "right" ? i > 0 : dir === "left" ? i < list.length - 1 : true);
+  const canSwipe = (dir) => (dir === "left" ? i > 0 : dir === "right" ? i < list.length - 1 : true);
 
   async function swiped(dir) {
     if (showHint) {
       setShowHint(false);
       markHintSeen();
     }
-    if (dir === "right") return setIndex(i - 1);
+    if (dir === "left") return setIndex(i - 1);
     if (dir === "up" && !hard) {
       await setHard(word.key, true);
       onProgressChanged?.();
@@ -297,7 +297,7 @@ export default function ChapterLearn({ chapter, words, progress, onProgressChang
         </div>
         {showHint && <SwipeHint onDone={() => setShowHint(false)} />}
       </Swipeable>
-      <div className="swipe-legend">← Weiter · Zurück → · ↑ ★ schwer</div>
+      <div className="swipe-legend">← Zurück · Weiter → · ↑ ★ schwer</div>
       <div className="learn-controls">
         <button onClick={() => setIndex(i - 1)} disabled={i === 0}>
           ← Zurück
