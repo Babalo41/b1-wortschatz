@@ -16,7 +16,8 @@
   --ink: #0a0a0a;
   --paper: #fafafa;
   --white: #ffffff;
-  --yellow: #ffd600;
+  --purple: #7c4dff;
+  --purple-light: #d1c4ff;
   --orange: #ff6b00;
   --pink: #ff4081;
   --green: #00c853;
@@ -33,7 +34,7 @@
   --text: var(--ink);
   --muted: #555555;
   --accent: var(--orange);
-  --accent-2: var(--yellow);
+  --accent-2: var(--purple);
   --good-1: var(--green);
   --good-2: var(--green);
   --bad-1: var(--pink);
@@ -79,8 +80,8 @@ body {
 }
 
 .tab.active {
-  background: var(--yellow);
-  color: var(--ink);
+  background: var(--purple);
+  color: var(--white);
   border: var(--line);
   box-shadow: var(--shadow-sm);
 }
@@ -146,8 +147,8 @@ button:disabled {
 
 .chip.active,
 .close-filters {
-  background: var(--yellow);
-  color: var(--ink);
+  background: var(--purple);
+  color: var(--white);
   box-shadow: var(--shadow-sm);
 }
 
@@ -260,7 +261,7 @@ table td {
 
 .kap-bar-fill.practised {
   opacity: 1;
-  background: var(--yellow);
+  background: var(--purple-light);
 }
 
 .kap-chip .kap-best {
@@ -281,11 +282,6 @@ table td {
   border: var(--line);
   border-radius: 0;
   box-shadow: 6px 6px 0 var(--ink);
-}
-
-.chapter-img {
-  border: 2px solid var(--ink);
-  border-radius: 0;
 }
 
 .chapter-card-main {
@@ -324,7 +320,8 @@ table td {
 }
 
 .hard-btn.on {
-  background: var(--yellow);
+  background: var(--purple);
+  color: var(--white);
 }
 
 .panda-overlay {
@@ -333,4 +330,26 @@ table td {
 
 .profile-btn {
   box-shadow: 6px 6px 0 var(--ink);
+}
+
+.learn-swipe-label,
+.swipe-hint-label {
+  border: var(--line);
+  border-radius: 0;
+  box-shadow: var(--shadow-sm);
+  background: var(--white);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+}
+
+.learn-swipe-label.up {
+  background: var(--purple);
+  color: var(--white);
+}
+
+.swipe-legend {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  color: var(--ink);
 }
