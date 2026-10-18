@@ -1,91 +1,336 @@
 /* ============================================================
-   PALETTE CONFIG -- edit these 4 colors, everything else follows.
+   NEO-BRUTALIST THEME (after loot-drop.io): off-white page,
+   3px black borders, hard offset shadows, square corners,
+   Space Grotesk / Space Mono, flat bright accents.
    To revert to the original dark theme, delete the palette.css
-   import in main.jsx.
+   import in main.jsx. (Previous trial palette, sage green:
+   bg #d1edd3 · main #5c7057 · soft #acc5a6 · pop #89a482.)
+
+   Word-card gender/POS colours (lib/words.js, lib/chapterWords.js,
+   .article-btn.article-*) are never set or tinted here -- the
+   der/die/das colours are a fixed memory aid. Cards only get the
+   black border and shadow.
    ============================================================ */
 :root {
-  --c-bg:    #d1edd3;  /* page background (light) */
-  --c-main:  #5c7057;  /* primary: active tabs/chips/buttons, text tint */
-  --c-soft:  #acc5a6;  /* secondary: glows, bar tracks, borders */
-  --c-pop:   #89a482;  /* highlight: title, stats, progress bars */
-  /* previous trial: bg #fff0c5 · main #359fa0 · soft #8ad6d1 · pop #ff8c52 */
-}
-
-/* ---- Derived values (no need to touch below) ---------------
-   Word-card gender/POS colors (lib/words.js) are intentionally
-   untouched -- der/die/das colors aid memorization. */
-:root {
   color-scheme: light;
-  --bg: var(--c-bg);
-  --bg-2: color-mix(in srgb, var(--c-bg) 85%, var(--c-pop));
-  --panel: rgb(255 255 255 / 0.6);
-  --panel-border: color-mix(in srgb, var(--c-main) 35%, transparent);
-  --text: color-mix(in srgb, var(--c-main) 50%, #000);
-  --muted: color-mix(in srgb, var(--c-main) 70%, #000);
-  --accent: var(--c-main);
-  --accent-2: var(--c-pop);
+  --ink: #0a0a0a;
+  --paper: #fafafa;
+  --white: #ffffff;
+  --yellow: #ffd600;
+  --orange: #ff6b00;
+  --pink: #ff4081;
+  --green: #00c853;
+  --line: 3px solid var(--ink);
+  --shadow: 4px 4px 0 var(--ink);
+  --shadow-sm: 2px 2px 0 var(--ink);
+  --font-main: "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "Space Mono", ui-monospace, monospace;
+
+  --bg: var(--paper);
+  --bg-2: var(--paper);
+  --panel: var(--white);
+  --panel-border: var(--ink);
+  --text: var(--ink);
+  --muted: #555555;
+  --accent: var(--orange);
+  --accent-2: var(--yellow);
+  --good-1: var(--green);
+  --good-2: var(--green);
+  --bad-1: var(--pink);
+  --bad-2: var(--pink);
 }
 
 body {
-  background:
-    radial-gradient(circle at 15% 0%, color-mix(in srgb, var(--c-soft) 55%, transparent), transparent 45%),
-    radial-gradient(circle at 100% 25%, color-mix(in srgb, var(--c-pop) 22%, transparent), transparent 40%),
-    linear-gradient(180deg, var(--bg) 0%, var(--bg-2) 100%);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-main);
 }
 
-.app-title,
-.stat-value {
-  background: linear-gradient(90deg, var(--c-main), var(--c-pop));
-  -webkit-background-clip: text;
-  background-clip: text;
+/* ---- header / tabs ---- */
+
+.app-header {
+  border-bottom: var(--line);
+  background: var(--white);
+  margin-bottom: 10px;
+}
+
+.app-title {
+  background: none;
+  color: var(--ink);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
 }
 
 .app-tabs {
-  background: color-mix(in srgb, var(--c-bg) 85%, transparent);
+  background: var(--white);
+  backdrop-filter: none;
+  border-top: var(--line);
 }
 
-.tab.active,
-.chip.active,
+.tab {
+  border-radius: 0;
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+}
+
+.tab.active {
+  background: var(--yellow);
+  color: var(--ink);
+  border: var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ---- shared button look: white box, black border, hard shadow, press-in ---- */
+
+.filter-toggle,
+.chip,
+.setup-buttons button,
+.learn-controls button,
+.session-summary > button,
+.quiz-option,
+.article-btn,
+.quiz-feedback button,
 .close-filters,
-.quiz-feedback button {
-  background: var(--c-main);
-  color: #fff;
-  box-shadow: 0 4px 14px color-mix(in srgb, var(--c-main) 40%, transparent);
+.profile-btn,
+.danger-btn,
+.confirm-row button,
+.typed-answer button,
+.hard-btn,
+.speak-btn {
+  border: var(--line);
+  border-radius: 0;
+  box-shadow: var(--shadow);
+  background: var(--white);
+  color: var(--ink);
+  font-family: var(--font-main);
+  font-weight: 700;
+  backdrop-filter: none;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.filter-toggle:active:not(:disabled),
+.chip:active:not(:disabled),
+.setup-buttons button:active:not(:disabled),
+.learn-controls button:active:not(:disabled),
+.session-summary > button:active,
+.quiz-option:active:not(:disabled),
+.article-btn:active:not(:disabled),
+.quiz-feedback button:active,
+.close-filters:active,
+.profile-btn:active,
+.danger-btn:active,
+.confirm-row button:active,
+.typed-answer button:active:not(:disabled),
+.hard-btn:active,
+.speak-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: var(--shadow-sm);
+}
+
+button:disabled {
+  opacity: 0.35;
+  box-shadow: none;
+}
+
+.chip {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  box-shadow: var(--shadow-sm);
+}
+
+.chip.active,
+.close-filters {
+  background: var(--yellow);
+  color: var(--ink);
+  box-shadow: var(--shadow-sm);
 }
 
 .setup-buttons button,
-.chip {
-  background: rgb(255 255 255 / 0.6);
+.session-summary > button {
+  background: var(--orange);
+  color: var(--ink);
+  text-transform: uppercase;
+}
+
+.session-summary > button {
+  padding: 14px 24px;
+  margin-top: 8px;
+}
+
+.quiz-feedback button {
+  background: var(--ink);
+  color: var(--white);
+}
+
+.danger-btn {
+  background: var(--pink);
+  color: var(--ink);
+}
+
+.speak-btn {
+  width: 46px;
+  height: 46px;
+  font-size: 1.3rem;
+}
+
+/* ---- panels ---- */
+
+.setup-group,
+.stat-tile,
+.kap-dash-chapter,
+.filter-panel {
+  background: var(--white);
+  border: var(--line);
+  border-radius: 0;
+  box-shadow: var(--shadow);
+  backdrop-filter: none;
 }
 
 .filter-panel {
-  background: rgb(255 255 255 / 0.4);
+  box-shadow: none;
+  border-width: 0 0 3px;
+}
+
+.stat-value {
+  background: none;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.stat-label,
+.setup-label,
+.progress-line,
+.kap-overall,
+.kap-dash-scores,
+.filter-label,
+.estimate-note {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+}
+
+.stat-label,
+.setup-label,
+.progress-line,
+.kap-dash-scores {
+  font-size: 0.72rem;
+}
+
+h2,
+h3 {
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
 }
 
 .page-range input,
-.pace-row input {
-  background: #fff;
+.pace-row input,
+.typed-answer input {
+  background: var(--white);
+  border: var(--line);
+  border-radius: 0;
+  color: var(--ink);
 }
 
 table td {
-  border-bottom-color: color-mix(in srgb, var(--c-main) 20%, transparent);
+  border-bottom: 2px solid var(--ink);
 }
+
+/* ---- progress bars ---- */
 
 .box-bar-track,
 .kap-bar {
-  background: color-mix(in srgb, var(--c-soft) 35%, transparent);
+  background: var(--white);
+  border: 2px solid var(--ink);
+  border-radius: 0;
 }
 
 .box-bar-fill,
 .kap-bar-fill {
-  background: linear-gradient(90deg, var(--c-main), var(--c-pop));
+  background: var(--orange);
+  border-radius: 0;
   box-shadow: none;
 }
 
-.chapter-card {
-  box-shadow: 0 14px 30px -16px color-mix(in srgb, var(--text) 35%, transparent);
+.kap-bar-fill.practised {
+  opacity: 1;
+  background: var(--yellow);
+}
+
+.kap-chip .kap-best {
+  display: inline-block;
+  align-self: center;
+  margin: 2px 0;
+  padding: 0 4px;
+  background: var(--ink);
+  color: var(--white);
+  transform: rotate(-3deg);
+  opacity: 1;
+}
+
+/* ---- cards: border + shadow only, backgrounds untouched ---- */
+
+.chapter-card,
+.word-card {
+  border: var(--line);
+  border-radius: 0;
+  box-shadow: 6px 6px 0 var(--ink);
+}
+
+.chapter-img {
+  border: 2px solid var(--ink);
+  border-radius: 0;
+}
+
+.chapter-card-main {
+  font-weight: 700;
+}
+
+.quiz-option.right,
+.article-btn.right {
+  background: var(--green);
+  color: var(--ink);
+}
+
+.quiz-option.wrong,
+.article-btn.wrong {
+  background: var(--pink);
+  color: var(--ink);
+}
+
+.quiz-feedback {
+  border: var(--line);
+  border-radius: 0;
+  box-shadow: var(--shadow);
+}
+
+.quiz-feedback.right {
+  background: #e5fff0;
+}
+
+.quiz-feedback.wrong {
+  background: #ffe5ef;
+}
+
+.kap-dash-weak-word {
+  border: 2px solid var(--ink);
+  border-radius: 0;
+}
+
+.hard-btn.on {
+  background: var(--yellow);
 }
 
 .panda-overlay {
-  background: color-mix(in srgb, var(--c-bg) 92%, transparent);
+  background: rgb(250 250 250 / 0.94);
+}
+
+.profile-btn {
+  box-shadow: 6px 6px 0 var(--ink);
 }

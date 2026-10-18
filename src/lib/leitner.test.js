@@ -2,6 +2,12 @@ import { describe, it, expect } from "vitest";
 import { freshProgress, addDays, nextProgress, isDue } from "./leitner.js";
 
 describe("leitner scheduling (pure logic, no storage)", () => {
+  it("addDays counts calendar days regardless of the machine's time zone", () => {
+    expect(addDays("2026-01-01", 1)).toBe("2026-01-02");
+    expect(addDays("2026-10-24", 2)).toBe("2026-10-26"); // across the DST switch
+    expect(addDays("2026-01-01", -1)).toBe("2025-12-31");
+  });
+
   it("a fresh card starts in box 1, due today, not flagged", () => {
     const p = freshProgress("card-1", "2026-01-01");
     expect(p.box).toBe(1);

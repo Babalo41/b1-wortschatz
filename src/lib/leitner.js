@@ -20,9 +20,11 @@ export function freshProgress(cardId, today) {
   };
 }
 
+// All in UTC: parsing local midnight and printing via toISOString (UTC)
+// lost a day east of Greenwich, so box 1 came due again the same day.
 export function addDays(dateStr, days) {
-  const d = new Date(dateStr + "T00:00:00");
-  d.setDate(d.getDate() + days);
+  const d = new Date(dateStr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + days);
   return d.toISOString().slice(0, 10);
 }
 

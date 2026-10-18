@@ -1,26 +1,18 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { CHAPTERS, CHAPTER_WORDS, wordsOfChapter } from "../../lib/chapterWords.js";
 import { getAllScores, getAllWordProgress, scoreKey } from "../../lib/chapterDb.js";
-import { isLearned } from "../../lib/quiz.js";
+import { progressCounts } from "../../lib/chapterReview.js";
 import ChapterLearn from "./ChapterLearn.jsx";
 import ChapterQuiz from "./ChapterQuiz.jsx";
-import ChapterDashboard from "./ChapterDashboard.jsx";
+import ChapterDashboard, { ProgressBar } from "./ChapterDashboard.jsx";
 import ImageCredits from "./ImageCredits.jsx";
+import RefreshButton from "../RefreshButton.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
-  { key: "quiz", label: "Quiz", icon: "❓" },
+  { key: "quiz", label: "Test", icon: "❓" },
   { key: "dashboard", label: "Fortschritt", icon: "📊" },
 ];
-
-function ProgressBar({ done, total, thin = false }) {
-  const pct = total ? Math.round((done / total) * 100) : 0;
-  return (
-    <div className={thin ? "kap-bar thin" : "kap-bar"}>
-      <div className="kap-bar-fill" style={{ width: `${pct}%` }} />
-    </div>
-  );
-}
 
 export default function ChapterApp({ onSwitchProfile }) {
   const [tab, setTab] = useState("learn");
@@ -40,26 +32,28 @@ export default function ChapterApp({ onSwitchProfile }) {
   }, []);
 
   const words = useMemo(() => (chapter == null ? [] : wordsOfChapter(chapter)), [chapter]);
-  const learnedIn = (list) => list.filter((w) => isLearned(progress.get(w.key))).length;
-  const totalLearned = learnedIn(CHAPTER_WORDS);
+  const total = progressCounts(CHAPTER_WORDS, progress);
 
   return (
     <div className="app-shell">
       <header className="app-header">
         <div className="app-title">Kapitel-Wörter 🐼</div>
-        <button className="filter-toggle" onClick={onSwitchProfile} aria-label="Profil wechseln">
-          ⇄
-        </button>
+        <div className="header-actions">
+          <RefreshButton />
+          <button className="filter-toggle" onClick={onSwitchProfile} aria-label="Profil wechseln">
+            ⇄
+          </button>
+        </div>
       </header>
 
       <div className="kap-top" style={{ display: tab === "dashboard" ? "none" : undefined }}>
         <div className="kap-overall">
           <span>
-            {totalLearned} / {CHAPTER_WORDS.length} Wörter gelernt
+            {total.practised} geübt · {total.secure} sicher / {CHAPTER_WORDS.length}
           </span>
-          <span>{CHAPTER_WORDS.length ? Math.round((totalLearned / CHAPTER_WORDS.length) * 100) : 0}%</span>
+          <span>{CHAPTER_WORDS.length ? Math.round((total.practised / CHAPTER_WORDS.length) * 100) : 0}%</span>
         </div>
-        <ProgressBar done={totalLearned} total={CHAPTER_WORDS.length} />
+        <ProgressBar {...total} total={CHAPTER_WORDS.length} />
 
         <div className="kap-chapters">
           {CHAPTERS.map((c) => {
@@ -73,20 +67,22 @@ export default function ChapterApp({ onSwitchProfile }) {
                     {best.best}/{best.total}
                   </span>
                 )}
-                <ProgressBar done={learnedIn(list)} total={list.length} thin />
+                <ProgressBar {...progressCounts(list, progress)} total={list.length} thin />
               </button>
             );
           })}
         </div>
 
-        <div className="kap-direction">
-          <button className={direction === "de-en" ? "chip active" : "chip"} onClick={() => setDirection("de-en")}>
-            DE → EN
-          </button>
-          <button className={direction === "en-de" ? "chip active" : "chip"} onClick={() => setDirection("en-de")}>
-            EN → DE
-          </button>
-        </div>
+        {tab === "quiz" && (
+          <div className="kap-direction">
+            <button className={direction === "de-en" ? "chip active" : "chip"} onClick={() => setDirection("de-en")}>
+              DE → EN
+            </button>
+            <button className={direction === "en-de" ? "chip active" : "chip"} onClick={() => setDirection("en-de")}>
+              EN → DE
+            </button>
+          </div>
+        )}
       </div>
 
       <main className="app-main">
@@ -94,14 +90,14 @@ export default function ChapterApp({ onSwitchProfile }) {
           <div className="empty-state">Noch keine Wörter – lege data/Kapitel1.json usw. an.</div>
         ) : (
           <>
-            {/* All tabs stay mounted (hidden via CSS) so a running quiz survives a
+            {/* All tabs stay mounted (hidden via CSS) so a running test survives a
                 glance at the Lernen tab, same as the B1 profile does. Keyed
-                on chapter+direction so switching either starts fresh. */}
+                on chapter (+direction for the test) so switching starts fresh. */}
             <div style={{ display: tab === "learn" ? "block" : "none" }}>
-              <ChapterLearn key={`${chapter}|${direction}`} words={words} direction={direction} />
+              <ChapterLearn key={chapter} chapter={chapter} words={words} progress={progress} onProgressChanged={reload} />
             </div>
             <div style={{ display: tab === "quiz" ? "block" : "none" }}>
-              <ChapterQuiz key={`${chapter}|${direction}`} chapter={chapter} words={words} direction={direction} onProgressChanged={reload} />
+              <ChapterQuiz key={`${chapter}|${direction}`} chapter={chapter} words={words} direction={direction} progress={progress} onProgressChanged={reload} />
             </div>
             <div style={{ display: tab === "dashboard" ? "block" : "none" }}>
               <ChapterDashboard scores={scores} progress={progress} onReset={reload} />

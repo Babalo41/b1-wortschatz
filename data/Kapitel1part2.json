@@ -907,7 +907,7 @@
     "german_word": "Tiergarten",
     "article": "der",
     "plural": "die Tiergärten",
-    "english_translation": "z00",
+    "english_translation": "zoo",
     "explanation": null,
     "image_local_path": "/images/tiergarten.jpg",
     "image_override_url": null
@@ -1069,12 +1069,23 @@
   {
     "id": "ch1-108",
     "chapter": 1,
-    "german_word": "gegen heimlfahren",
+    "german_word": "gegen",
     "article": null,
     "plural": null,
-    "english_translation": "around",
+    "english_translation": "around (e.g. gegen 8 Uhr)",
     "explanation": "er fährt heim, fuhr heim, istto go home heimgefahren | Wir treffen uns gegen 8 Uhr, okay? — We'll meet at around 8 o'clock, okay?",
-    "image_local_path": "/images/gegen_heimlfahren.jpg",
+    "image_local_path": null,
+    "image_override_url": null
+  },
+  {
+    "id": "ch1-129",
+    "chapter": 1,
+    "german_word": "heimfahren",
+    "article": null,
+    "plural": null,
+    "english_translation": "to go home",
+    "explanation": "er fährt heim, fuhr heim, istto go home heimgefahren | Wir treffen uns gegen 8 Uhr, okay? — We'll meet at around 8 o'clock, okay?",
+    "image_local_path": null,
     "image_override_url": null
   },
   {
@@ -1267,12 +1278,12 @@
   {
     "id": "ch1-126",
     "chapter": 1,
-    "german_word": "k&k die Abneigung, -en",
-    "article": null,
-    "plural": null,
+    "german_word": "Abneigung",
+    "article": "die",
+    "plural": "die Abneigungen",
     "english_translation": "dislike",
     "explanation": null,
-    "image_local_path": "/images/k_k_die_abneigung_en.jpg",
+    "image_local_path": null,
     "image_override_url": null
   },
   {

@@ -11,17 +11,6 @@
     "image_override_url": null
   },
   {
-    "id": "ch12-052",
-    "chapter": 12,
-    "german_word": "Qnline-Banking",
-    "article": "das",
-    "plural": null,
-    "english_translation": "online banking",
-    "explanation": null,
-    "image_local_path": "/images/qnline_banking.jpg",
-    "image_override_url": null
-  },
-  {
     "id": "ch12-053",
     "chapter": 12,
     "german_word": "global",
@@ -508,12 +497,23 @@
   {
     "id": "ch12-097",
     "chapter": 12,
-    "german_word": "Staub der Vorwurf",
+    "german_word": "Staub",
     "article": "der",
-    "plural": "die Staub der Vorwürfe",
-    "english_translation": "1snp",
+    "plural": null,
+    "english_translation": "dust",
     "explanation": "Niemand kann mir einen accusation (Nobody can accuse me, right?) Vorwurf machen, oder?",
-    "image_local_path": "/images/staub_der_vorwurf.jpg",
+    "image_local_path": null,
+    "image_override_url": null
+  },
+  {
+    "id": "ch12-136",
+    "chapter": 12,
+    "german_word": "Vorwurf",
+    "article": "der",
+    "plural": "die Vorwürfe",
+    "english_translation": "accusation",
+    "explanation": "Niemand kann mir einen accusation (Nobody can accuse me, right?) Vorwurf machen, oder?",
+    "image_local_path": null,
     "image_override_url": null
   },
   {
@@ -750,9 +750,9 @@
   {
     "id": "ch12-119",
     "chapter": 12,
-    "german_word": "Nachtwáchter",
+    "german_word": "Nachtwächter",
     "article": "der",
-    "plural": "die Nachtwáchter",
+    "plural": "die Nachtwächter",
     "english_translation": "night watchman",
     "explanation": null,
     "image_local_path": "/images/nachtwachter.jpg",
@@ -926,12 +926,12 @@
   {
     "id": "ch12-135",
     "chapter": 12,
-    "german_word": "k&k einlleiten",
+    "german_word": "einleiten",
     "article": null,
     "plural": null,
     "english_translation": "to introduce, to initiate",
     "explanation": null,
-    "image_local_path": "/images/k_k_einlleiten.jpg",
+    "image_local_path": null,
     "image_override_url": null
   }
 ]

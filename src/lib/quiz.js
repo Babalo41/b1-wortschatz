@@ -50,17 +50,3 @@ export function buildQuestion(word, pool, direction, fallback = [], rng = Math.r
     askArticle: direction === "en-de" && ARTICLES.includes(article),
   };
 }
-
-export function buildQuiz(words, direction, fallback = [], rng = Math.random) {
-  return shuffle(words, rng).map((w) => buildQuestion(w, words, direction, fallback, rng));
-}
-
-// Per-word progress: a word is "learned" when her latest answer was right in
-// both directions. A later wrong answer in either direction un-learns it.
-export function nextWordProgress(prev, direction, correct) {
-  return { ...(prev || {}), [direction]: !!correct };
-}
-
-export function isLearned(progress) {
-  return !!progress && progress["de-en"] === true && progress["en-de"] === true;
-}

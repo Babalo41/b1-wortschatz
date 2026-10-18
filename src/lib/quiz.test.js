@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { buildQuestion, buildQuiz, isLearned, nextWordProgress } from "./quiz.js";
+import { buildQuestion } from "./quiz.js";
 
 const w = (german_word, english_translation, article = null) => ({ german_word, english_translation, article });
 const chapter = [
@@ -39,23 +39,5 @@ describe("buildQuestion", () => {
     const dupes = [w("Bank", "bank", "die"), w("Bank", "bank", "die"), ...chapter];
     const q = buildQuestion(dupes[0], dupes, "en-de");
     expect(q.options.filter((o) => o === "Bank")).toHaveLength(1);
-  });
-});
-
-describe("buildQuiz", () => {
-  it("asks every word exactly once", () => {
-    const quiz = buildQuiz(chapter, "de-en");
-    expect(quiz.map((q) => q.word.german_word).sort()).toEqual(chapter.map((c) => c.german_word).sort());
-  });
-});
-
-describe("word progress", () => {
-  it("is learned only when both directions are right, and a miss un-learns it", () => {
-    let p = nextWordProgress(null, "de-en", true);
-    expect(isLearned(p)).toBe(false);
-    p = nextWordProgress(p, "en-de", true);
-    expect(isLearned(p)).toBe(true);
-    p = nextWordProgress(p, "de-en", false);
-    expect(isLearned(p)).toBe(false);
   });
 });

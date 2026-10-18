@@ -189,23 +189,23 @@
   {
     "id": "ch2-058",
     "chapter": 2,
-    "german_word": "zurúcklgehen",
+    "german_word": "zurückgehen",
     "article": null,
     "plural": null,
     "english_translation": "to go back",
     "explanation": "er geht zurück, ging zurück, ist zurückgegangen",
-    "image_local_path": "/images/zurucklgehen.jpg",
+    "image_local_path": null,
     "image_override_url": null
   },
   {
     "id": "ch2-059",
     "chapter": 2,
-    "german_word": "zurúckzahlen",
+    "german_word": "zurückzahlen",
     "article": null,
     "plural": null,
     "english_translation": "to pay back",
     "explanation": null,
-    "image_local_path": "/images/zuruckzahlen.jpg",
+    "image_local_path": null,
     "image_override_url": null
   },
   {
@@ -761,12 +761,12 @@
   {
     "id": "ch2-110",
     "chapter": 2,
-    "german_word": "P6 ausgezeichnet",
+    "german_word": "ausgezeichnet",
     "article": null,
     "plural": null,
     "english_translation": "excellent",
     "explanation": null,
-    "image_local_path": "/images/p6_ausgezeichnet.jpg",
+    "image_local_path": null,
     "image_override_url": null
   },
   {
@@ -1157,12 +1157,12 @@
   {
     "id": "ch2-146",
     "chapter": 2,
-    "german_word": "k&k das Adverb, -ien",
-    "article": null,
-    "plural": null,
+    "german_word": "Adverb",
+    "article": "das",
+    "plural": "die Adverbien",
     "english_translation": "adverb",
     "explanation": null,
-    "image_local_path": "/images/k_k_das_adverb_ien.jpg",
+    "image_local_path": null,
     "image_override_url": null
   },
   {

@@ -7,6 +7,7 @@ import TestMode from "./components/TestMode.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import FilterPanel from "./components/FilterPanel.jsx";
 import ChapterApp from "./components/chapter/ChapterApp.jsx";
+import RefreshButton from "./components/RefreshButton.jsx";
 
 const TABS = [
   { key: "learn", label: "Lernen", icon: "📖" },
@@ -60,6 +61,7 @@ function B1App({ onSwitchProfile }) {
       <header className="app-header">
         <div className="app-title">B1 Wortschatz 🍒</div>
         <div className="header-actions">
+          <RefreshButton />
           <button className="filter-toggle" onClick={() => setFiltersOpen((o) => !o)}>
             Filter{activeFilterCount ? ` (${activeFilterCount})` : ""}
           </button>

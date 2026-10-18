@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { articleColor, germanLabel, imageSrc } from "../../lib/chapterWords.js";
+import { setHard } from "../../lib/chapterDb.js";
 import { speak, stopSpeaking } from "../../lib/tts.js";
 import { notoUrl, wordEmoji } from "../../lib/wordEmoji.js";
 
@@ -60,59 +61,103 @@ export function WordImage({ word }) {
   return <img className="chapter-img" src={src} alt="" loading="lazy" onError={() => setFailed(true)} />;
 }
 
-export default function ChapterLearn({ words, direction }) {
-  const [index, setIndex] = useState(0);
-  const [flipped, setFlipped] = useState(false);
+// Last card per chapter, so Lernen reopens where she stopped.
+const POS_KEY = "kapitel-learn-pos";
 
-  useEffect(() => () => stopSpeaking(), [index]);
+function loadPos(chapter) {
+  try {
+    return JSON.parse(localStorage.getItem(POS_KEY))?.[chapter] ?? 0;
+  } catch {
+    return 0;
+  }
+}
+
+function savePos(chapter, index) {
+  try {
+    const all = JSON.parse(localStorage.getItem(POS_KEY)) || {};
+    all[chapter] = index;
+    localStorage.setItem(POS_KEY, JSON.stringify(all));
+  } catch {
+    // storage unavailable: the position just isn't remembered
+  }
+}
+
+// Study mode: everything is visible at once (German, picture, English,
+// plural, explanation). Testing happens in the Quiz tab; here she only marks
+// words ★ hard, which puts them into the next test.
+export default function ChapterLearn({ chapter, words, progress, onProgressChanged }) {
+  const [onlyHard, setOnlyHard] = useState(false);
+  const [index, setIndex] = useState(() => loadPos(chapter));
+
+  const hardWords = words.filter((w) => progress.get(w.key)?.hard);
+  const list = onlyHard ? hardWords : words;
+  const i = Math.max(0, Math.min(index, list.length - 1));
+
+  useEffect(() => () => stopSpeaking(), [i]);
+  useEffect(() => {
+    if (!onlyHard) savePos(chapter, i);
+  }, [chapter, i, onlyHard]);
 
   if (words.length === 0) return <div className="empty-state">Keine Wörter in diesem Kapitel.</div>;
 
-  const word = words[Math.min(index, words.length - 1)];
-  const color = articleColor(word);
-  const german = germanLabel(word);
-  const front = direction === "de-en" ? german : word.english_translation;
-  const back = direction === "de-en" ? word.english_translation : german;
+  function toggleOnlyHard() {
+    setIndex(onlyHard ? loadPos(chapter) : 0);
+    setOnlyHard(!onlyHard);
+  }
 
-  function go(delta) {
-    setFlipped(false);
-    setIndex((i) => Math.max(0, Math.min(words.length - 1, i + delta)));
+  const filter = (
+    <div className="learn-filter">
+      <button className={onlyHard ? "chip active" : "chip"} onClick={toggleOnlyHard} disabled={!onlyHard && hardWords.length === 0}>
+        ★ nur schwere ({hardWords.length})
+      </button>
+    </div>
+  );
+
+  if (list.length === 0) {
+    return (
+      <div className="learn-mode">
+        {filter}
+        <div className="empty-state">Keine schweren Wörter mehr in diesem Kapitel 🎉</div>
+      </div>
+    );
+  }
+
+  const word = list[i];
+  const color = articleColor(word);
+  const hard = !!progress.get(word.key)?.hard;
+
+  async function toggleWordHard() {
+    await setHard(word.key, !hard);
+    onProgressChanged?.();
   }
 
   return (
     <div className="learn-mode">
+      {filter}
       <div className="progress-line">
-        {index + 1} / {words.length}
+        {i + 1} / {list.length}
       </div>
-      <div className="chapter-card" style={{ background: color.bg, color: color.fg }} onClick={() => setFlipped((f) => !f)}>
+      <div className="chapter-card" style={{ background: color.bg, color: color.fg }}>
         <WordImage word={word} />
         <WordAnimation key={word.key} word={word} />
-        <div className="chapter-card-main">{front}</div>
-        <button
-          className="speak-btn chapter-speak"
-          onClick={(e) => {
-            e.stopPropagation();
-            speak(word.german_word);
-          }}
-          aria-label="Aussprache anhören"
-        >
+        <div className="chapter-card-main">{germanLabel(word)}</div>
+        <button className="speak-btn chapter-speak" onClick={() => speak(word.german_word)} aria-label="Aussprache anhören">
           🔊
         </button>
-        {flipped ? (
-          <div className="chapter-card-back">
-            <div className="chapter-card-answer">{back}</div>
-            {word.plural && <div className="chapter-card-sub">Plural: {word.plural}</div>}
-            {word.explanation && <div className="chapter-card-expl">{word.explanation}</div>}
-          </div>
-        ) : (
-          <div className="tap-hint">Tippen zum Umdrehen</div>
-        )}
+        <button className={hard ? "hard-btn on" : "hard-btn"} onClick={toggleWordHard} aria-pressed={hard}>
+          {hard ? "★ Schwer" : "☆ Schwer?"}
+        </button>
+        <div className="chapter-card-back">
+          <div className="chapter-card-answer">{word.english_translation}</div>
+          {word.plural && <div className="chapter-card-sub">Plural: {word.plural}</div>}
+          {word.explanation && <div className="chapter-card-expl">{word.explanation}</div>}
+        </div>
       </div>
       <div className="learn-controls">
-        <button onClick={() => go(-1)} disabled={index === 0}>
+        <button onClick={() => setIndex(i - 1)} disabled={i === 0}>
           ← Zurück
         </button>
-        <button onClick={() => go(1)} disabled={index === words.length - 1}>
+        <button onClick={() => setIndex(i + 1)} disabled={i === list.length - 1}>
           Weiter →
         </button>
       </div>

@@ -1,12 +1,14 @@
 // Chapter-wise word list ("Kapitel-Wörter" profile). Every data/Kapit*.json
 // file is bundled at build time (Kapitel3.json + Kapitel3part2.json etc. are
 // merged by their `chapter` field). Missing files are fine: the glob is just
-// empty, so the build never breaks before the data exists.
+// empty, so the build never breaks before the data exists. The glob takes
+// either case because "kapitol 6 part 2.json" is lowercase and was silently
+// skipped by the case-sensitive match.
 //
 // Entry shape: { id, chapter, german_word, article, plural,
 //   english_translation, explanation, image_local_path, image_override_url }
 
-const modules = import.meta.glob("../../data/Kapit*.json", { eager: true, import: "default" });
+const modules = import.meta.glob("../../data/[Kk]apit*.json", { eager: true, import: "default" });
 
 function chapterFromName(path) {
   const m = path.match(/(\d+)/);

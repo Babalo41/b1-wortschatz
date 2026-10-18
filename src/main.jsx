@@ -1,12 +1,20 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
+import "@fontsource/space-grotesk/500.css";
+import "@fontsource/space-grotesk/700.css";
+import "@fontsource/space-mono/400.css";
+import "@fontsource/space-mono/700.css";
 import "./styles.css";
-import "./palette.css"; // trial palette -- delete this line to revert
+import "./palette.css"; // neo-brutalist theme -- delete this line to revert to the dark original
 import { initTTS } from "./lib/tts.js";
 import { registerSW } from "virtual:pwa-register";
 
 initTTS();
+
+// Ask the browser not to evict IndexedDB (learning progress) under storage
+// pressure. Silently ignored where unsupported or refused.
+navigator.storage?.persist?.().catch(() => {});
 
 // registerType:"autoUpdate" activates a new service worker as soon as one
 // is found, but it still only *looks* for one on registration and on

@@ -11,6 +11,8 @@
     "extract": "python scripts/extract.py && node -e \"require('fs').copyFileSync('data/words.json','src/data/words.json')\""
   },
   "dependencies": {
+    "@fontsource/space-grotesk": "^5.3.0",
+    "@fontsource/space-mono": "^5.3.0",
     "idb": "^8.0.0",
     "lottie-web": "^5.13.0",
     "react": "^18.3.1",
